@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "rawantv://schemas/league.json",
+  "title": "League",
+  "type": "object",
+  "required": ["id", "name", "country"],
+  "properties": {
+    "id":      { "type": "string", "pattern": "^(league|competition)_[a-z0-9_]+$" },
+    "name":    { "type": "string" },
+    "country": { "type": "string" },
+    "tier":    { "type": ["integer", "null"], "minimum": 1 },
+    "logo":    { "type": ["string", "null"], "format": "uri" },
+    "current_season": { "type": ["string", "null"] },
+    "sources": {
+      "type": "object",
+      "additionalProperties": { "type": "string" }
+    }
+  },
+  "additionalProperties": false
+}

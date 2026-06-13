@@ -1,0 +1,11 @@
+[
+  {
+    "id": "league_english_premier_league",
+    "name": "English Premier League",
+    "country": "England",
+    "tier": 1,
+    "logo": "https://crests.football-data.org/PL.png",
+    "current_season": "2025",
+    "sources": { "thesportsdb": "4328", "football_data": "2021" }
+  }
+]

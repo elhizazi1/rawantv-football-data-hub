@@ -1,0 +1,22 @@
+[
+  {
+    "id": "team_real_madrid",
+    "name": "Real Madrid",
+    "short_name": "RMA",
+    "country": "Spain",
+    "founded": 1902,
+    "stadium_id": "stadium_santiago_bernabeu",
+    "logo": "https://crests.football-data.org/86.png",
+    "sources": { "thesportsdb": "133739", "football_data": "86", "statsbomb": "220" }
+  },
+  {
+    "id": "team_paris_saint_germain",
+    "name": "Paris Saint-Germain",
+    "short_name": "PSG",
+    "country": "France",
+    "founded": 1970,
+    "stadium_id": "stadium_parc_des_princes",
+    "logo": "https://crests.football-data.org/524.png",
+    "sources": { "thesportsdb": "134301", "football_data": "524" }
+  }
+]

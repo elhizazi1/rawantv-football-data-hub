@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "rawantv://schemas/team.json",
+  "title": "Team",
+  "type": "object",
+  "required": ["id", "name", "country"],
+  "properties": {
+    "id":         { "type": "string", "pattern": "^team_[a-z0-9_]+$" },
+    "name":       { "type": "string" },
+    "short_name": { "type": "string", "maxLength": 8 },
+    "country":    { "type": "string" },
+    "founded":    { "type": "integer", "minimum": 1800, "maximum": 2100 },
+    "stadium_id": { "type": ["string", "null"] },
+    "logo":       { "type": ["string", "null"], "format": "uri" },
+    "colors":     { "type": "array", "items": { "type": "string" } },
+    "sources": {
+      "type": "object",
+      "additionalProperties": { "type": "string" }
+    }
+  },
+  "additionalProperties": false
+}

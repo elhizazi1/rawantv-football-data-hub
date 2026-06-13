@@ -1,0 +1,13 @@
+{
+  "id": "player_kylian_mbappe",
+  "name": "Kylian Mbappé",
+  "position": "Forward",
+  "nationality": "France",
+  "birth_date": "1998-12-20",
+  "height": 178,
+  "weight": 73,
+  "club_id": "team_real_madrid",
+  "photo": "https://www.thesportsdb.com/images/media/player/thumb/mbappe.jpg",
+  "statistics": { "goals": 0, "assists": 0, "matches": 0 },
+  "sources": { "thesportsdb": "34161096", "wikidata": "Q19405039" }
+}

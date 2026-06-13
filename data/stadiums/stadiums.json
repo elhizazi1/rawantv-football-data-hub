@@ -1,0 +1,12 @@
+[
+  {
+    "id": "stadium_santiago_bernabeu",
+    "name": "Santiago Bernabéu",
+    "city": "Madrid",
+    "country": "Spain",
+    "capacity": 81044,
+    "location": { "lat": 40.4530, "lon": -3.6883 },
+    "image": null,
+    "sources": { "wikidata": "Q11328", "openstreetmap": "way/24023288" }
+  }
+]

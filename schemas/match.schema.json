@@ -1,0 +1,43 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "rawantv://schemas/match.json",
+  "title": "Match",
+  "type": "object",
+  "required": ["id", "competition_id", "home_team", "away_team", "date", "status"],
+  "properties": {
+    "id":             { "type": "string", "pattern": "^match_[a-z0-9_]+$" },
+    "competition_id": { "type": "string" },
+    "home_team":      { "type": "string" },
+    "away_team":      { "type": "string" },
+    "stadium_id":     { "type": ["string", "null"] },
+    "date":           { "type": "string", "format": "date-time" },
+    "status":         { "type": "string", "enum": ["scheduled", "live", "finished", "postponed", "cancelled"] },
+    "score": {
+      "type": "object",
+      "properties": {
+        "home": { "type": "integer", "minimum": 0 },
+        "away": { "type": "integer", "minimum": 0 }
+      }
+    },
+    "events": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["minute", "type"],
+        "properties": {
+          "minute":    { "type": "integer", "minimum": 0, "maximum": 130 },
+          "type":      { "type": "string", "enum": ["goal", "own_goal", "penalty", "yellow_card", "red_card", "substitution", "var"] },
+          "player_id": { "type": ["string", "null"] },
+          "team_id":   { "type": ["string", "null"] },
+          "detail":    { "type": ["string", "null"] }
+        }
+      }
+    },
+    "referee_id": { "type": ["string", "null"] },
+    "sources": {
+      "type": "object",
+      "additionalProperties": { "type": "string" }
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "match_2026_0001",
+    "competition_id": "competition_world_cup_2026",
+    "home_team": "team_france",
+    "away_team": "team_brazil",
+    "stadium_id": "stadium_maracana",
+    "date": "2026-06-20T18:00:00Z",
+    "status": "scheduled",
+    "score": { "home": 0, "away": 0 },
+    "events": [
+      { "minute": 55, "type": "goal", "player_id": "player_kylian_mbappe", "team_id": "team_france" }
+    ],
+    "referee_id": "ref_szymon_marciniak",
+    "sources": { "football_data": "999001" }
+  }
+]
