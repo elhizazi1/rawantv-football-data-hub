@@ -1,0 +1,19 @@
+{
+  "id": "player_daniele_sommariva",
+  "name": "Daniele Sommariva",
+  "position": "Goalkeeper",
+  "nationality": "Italy",
+  "birth_date": "1997-07-18",
+  "height": 6,
+  "weight": 168,
+  "club_id": "team_genoa",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/890kuz1697978528.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34220155"
+  }
+}

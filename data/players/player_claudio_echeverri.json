@@ -1,0 +1,19 @@
+{
+  "id": "player_claudio_echeverri",
+  "name": "Claudio Echeverri",
+  "position": "Attacking Midfield",
+  "nationality": "Argentina",
+  "birth_date": "2006-01-02",
+  "height": 1,
+  "weight": 65,
+  "club_id": "team_bayer_leverkusen",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kefizm1716543240.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34236908"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_antonio_blanco",
+  "name": "Antonio Blanco",
+  "position": "Defensive Midfield",
+  "nationality": "Spain",
+  "birth_date": "2000-07-23",
+  "height": 1,
+  "weight": 152,
+  "club_id": "team_alaves",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/me7xhi1619945141.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34179449"
+  }
+}

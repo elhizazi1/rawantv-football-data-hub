@@ -1,0 +1,19 @@
+{
+  "id": "player_eddy_kouadio",
+  "name": "Eddy Kouadio",
+  "position": "Defender",
+  "nationality": "Italy",
+  "birth_date": "2006-05-07",
+  "height": 1,
+  "weight": 161,
+  "club_id": "team_fiorentina",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/oqsnnc1758892363.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34301989"
+  }
+}

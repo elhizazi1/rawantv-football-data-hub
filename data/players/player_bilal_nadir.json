@@ -1,0 +1,19 @@
+{
+  "id": "player_bilal_nadir",
+  "name": "Bilal Nadir",
+  "position": "Midfielder",
+  "nationality": "France",
+  "birth_date": "2003-11-28",
+  "height": 172,
+  "weight": 141,
+  "club_id": "team_marseille",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/hpiod71705664531.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34222026"
+  }
+}

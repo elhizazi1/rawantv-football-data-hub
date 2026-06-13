@@ -1,0 +1,19 @@
+{
+  "id": "player_iker_losada",
+  "name": "Iker Losada",
+  "position": "Second Striker",
+  "nationality": "Spain",
+  "birth_date": "2001-08-01",
+  "height": 1,
+  "weight": 152,
+  "club_id": "team_levante",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/6bq6uq1723744790.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34244842"
+  }
+}

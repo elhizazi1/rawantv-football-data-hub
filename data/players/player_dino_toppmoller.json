@@ -1,0 +1,19 @@
+{
+  "id": "player_dino_toppmoller",
+  "name": "Dino Toppmöller",
+  "position": "Manager",
+  "nationality": "Germany",
+  "birth_date": "1980-11-23",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_eintracht_frankfurt",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5qxyv11708520183.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34229074"
+  }
+}

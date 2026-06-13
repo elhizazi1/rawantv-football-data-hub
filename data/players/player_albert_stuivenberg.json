@@ -1,0 +1,19 @@
+{
+  "id": "player_albert_stuivenberg",
+  "name": "Albert Stuivenberg",
+  "position": "Assistant Coach",
+  "nationality": "The Netherlands",
+  "birth_date": "1970-08-05",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_arsenal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ifh45x1767708245.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34433685"
+  }
+}

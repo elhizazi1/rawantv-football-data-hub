@@ -1,0 +1,19 @@
+{
+  "id": "player_gennaro_borrelli",
+  "name": "Gennaro Borrelli",
+  "position": "Forward",
+  "nationality": "Italy",
+  "birth_date": "2000-03-10",
+  "height": 6,
+  "weight": null,
+  "club_id": "team_cagliari",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/01u0kf1715846791.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34174314"
+  }
+}

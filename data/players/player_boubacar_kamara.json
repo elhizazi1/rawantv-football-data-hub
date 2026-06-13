@@ -1,0 +1,19 @@
+{
+  "id": "player_boubacar_kamara",
+  "name": "Boubacar Kamara",
+  "position": "Defensive Midfield",
+  "nationality": "France",
+  "birth_date": "1999-11-23",
+  "height": 1,
+  "weight": 150,
+  "club_id": "team_aston_villa",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dbact81710323756.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34173164"
+  }
+}

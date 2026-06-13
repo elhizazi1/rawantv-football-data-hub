@@ -1,0 +1,19 @@
+{
+  "id": "player_antoni_milambo",
+  "name": "Antoni Milambo",
+  "position": "Midfielder",
+  "nationality": "The Netherlands",
+  "birth_date": "2005-04-03",
+  "height": 179,
+  "weight": 150,
+  "club_id": "team_brentford",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/omxef01700835001.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34225262"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_cyriaque_irie",
+  "name": "Cyriaque Irié",
+  "position": "Attacker",
+  "nationality": "Burkina Faso",
+  "birth_date": "2005-06-20",
+  "height": 184,
+  "weight": null,
+  "club_id": "team_freiburg",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/72lfjc1763231096.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34259129"
+  }
+}

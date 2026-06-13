@@ -1,0 +1,19 @@
+{
+  "id": "player_issa_diop",
+  "name": "Issa Diop",
+  "position": "Centre-Back",
+  "nationality": "Morocco",
+  "birth_date": "1997-01-09",
+  "height": 194,
+  "weight": 203,
+  "club_id": "team_fulham",
+  "photo": "https://www.thesportsdb.com/images/media/player/thumb/z1xits1779839831.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34167055"
+  }
+}

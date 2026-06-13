@@ -1,0 +1,19 @@
+{
+  "id": "player_alexander_meyer",
+  "name": "Alexander Meyer",
+  "position": "Goalkeeper",
+  "nationality": "Germany",
+  "birth_date": "1991-04-13",
+  "height": 1,
+  "weight": 196,
+  "club_id": "team_borussia_dortmund",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/k4c5581659534926.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34174593"
+  }
+}

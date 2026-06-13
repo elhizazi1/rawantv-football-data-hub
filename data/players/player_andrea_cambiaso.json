@@ -1,0 +1,19 @@
+{
+  "id": "player_andrea_cambiaso",
+  "name": "Andrea Cambiaso",
+  "position": "Defender",
+  "nationality": "Italy",
+  "birth_date": "2000-02-20",
+  "height": 1,
+  "weight": 170,
+  "club_id": "team_juventus",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/seted61630826525.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34174382"
+  }
+}

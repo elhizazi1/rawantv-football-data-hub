@@ -1,0 +1,19 @@
+{
+  "id": "player_daniele_rugani",
+  "name": "Daniele Rugani",
+  "position": "Defender",
+  "nationality": "Italy",
+  "birth_date": "1994-07-29",
+  "height": 1,
+  "weight": 183,
+  "club_id": "team_fiorentina",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/rzh0541533468253.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34148059"
+  }
+}

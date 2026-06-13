@@ -1,0 +1,19 @@
+{
+  "id": "player_kamaldeen_sulemana",
+  "name": "Kamaldeen Sulemana",
+  "position": "Left Wing",
+  "nationality": "Ghana",
+  "birth_date": "2002-02-15",
+  "height": 175,
+  "weight": 152,
+  "club_id": "team_atalanta",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/w9stoi1630490492.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34192115"
+  }
+}

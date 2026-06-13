@@ -1,0 +1,19 @@
+{
+  "id": "player_christian_ilzer",
+  "name": "Christian Ilzer",
+  "position": "Manager",
+  "nationality": "Austria",
+  "birth_date": "1977-10-21",
+  "height": null,
+  "weight": null,
+  "club_id": "team_hoffenheim",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/slu82h1741452763.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34317331"
+  }
+}

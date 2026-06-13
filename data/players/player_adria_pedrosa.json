@@ -1,0 +1,19 @@
+{
+  "id": "player_adria_pedrosa",
+  "name": "Adrià Pedrosa",
+  "position": "Left-Back",
+  "nationality": "Spain",
+  "birth_date": "1998-05-13",
+  "height": 1,
+  "weight": 150,
+  "club_id": "team_elche",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0z4udd1724791357.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34170209"
+  }
+}

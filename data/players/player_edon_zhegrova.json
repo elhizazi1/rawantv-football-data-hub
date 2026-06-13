@@ -1,0 +1,19 @@
+{
+  "id": "player_edon_zhegrova",
+  "name": "Edon Zhegrova",
+  "position": "Midfielder",
+  "nationality": "Germany",
+  "birth_date": "1999-03-31",
+  "height": 1,
+  "weight": 146,
+  "club_id": "team_juventus",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/g1klsb1653486280.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34196464"
+  }
+}

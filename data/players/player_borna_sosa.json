@@ -1,0 +1,19 @@
+{
+  "id": "player_borna_sosa",
+  "name": "Borna Sosa",
+  "position": "Left-Back",
+  "nationality": "Croatia",
+  "birth_date": "1998-01-21",
+  "height": 187,
+  "weight": 172,
+  "club_id": "team_crystal_palace",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/amcg101605734191.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34173113"
+  }
+}

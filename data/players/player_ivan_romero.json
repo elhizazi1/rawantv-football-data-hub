@@ -1,0 +1,19 @@
+{
+  "id": "player_ivan_romero",
+  "name": "Iván Romero",
+  "position": "Centre-Forward",
+  "nationality": "Spain",
+  "birth_date": "2001-04-10",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_levante",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vmzhn71701169634.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34195771"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_dani_olmo",
+  "name": "Dani Olmo",
+  "position": "Attacking Midfield",
+  "nationality": "Spain",
+  "birth_date": "1998-05-07",
+  "height": 1,
+  "weight": 159,
+  "club_id": "team_barcelona",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/lo29ok1771254713.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34168363"
+  }
+}

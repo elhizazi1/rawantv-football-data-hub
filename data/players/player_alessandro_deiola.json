@@ -1,0 +1,19 @@
+{
+  "id": "player_alessandro_deiola",
+  "name": "Alessandro Deiola",
+  "position": "Midfielder",
+  "nationality": "Italy",
+  "birth_date": "1995-08-01",
+  "height": 1,
+  "weight": 185,
+  "club_id": "team_cagliari",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/iywfj81600891861.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34169422"
+  }
+}

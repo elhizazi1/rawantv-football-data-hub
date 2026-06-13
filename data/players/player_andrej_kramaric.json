@@ -1,0 +1,19 @@
+{
+  "id": "player_andrej_kramaric",
+  "name": "Andrej Kramarić",
+  "position": "Centre-Forward",
+  "nationality": "Croatia",
+  "birth_date": "1991-06-19",
+  "height": 1,
+  "weight": 161,
+  "club_id": "team_hoffenheim",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bdonoc1718995936.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34167060"
+  }
+}

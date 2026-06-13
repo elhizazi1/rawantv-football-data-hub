@@ -1,0 +1,19 @@
+{
+  "id": "player_anthony_bermont",
+  "name": "Anthony Bermont",
+  "position": "Left Wing",
+  "nationality": "France",
+  "birth_date": "2005-02-10",
+  "height": 187,
+  "weight": 117,
+  "club_id": "team_lens",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/my609p1766003892.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34298152"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_ben_wilson",
+  "name": "Ben Wilson",
+  "position": "Goalkeeper",
+  "nationality": "England",
+  "birth_date": "1992-08-09",
+  "height": 186,
+  "weight": 152,
+  "club_id": "team_coventry_city",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ztceir1511792102.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34145379"
+  }
+}

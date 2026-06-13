@@ -1,0 +1,19 @@
+{
+  "id": "player_conrad_egan_riley",
+  "name": "Conrad Egan-Riley",
+  "position": "Right-Back",
+  "nationality": "England",
+  "birth_date": "2003-01-02",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_marseille",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/axdi7g1658260779.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34196747"
+  }
+}

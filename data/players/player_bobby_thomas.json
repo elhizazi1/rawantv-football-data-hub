@@ -1,0 +1,19 @@
+{
+  "id": "player_bobby_thomas",
+  "name": "Bobby Thomas",
+  "position": "Centre-Back",
+  "nationality": "England",
+  "birth_date": "2001-01-30",
+  "height": 186,
+  "weight": 170,
+  "club_id": "team_coventry_city",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/r823ft1689869289.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34217618"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_jens_odgaard",
+  "name": "Jens Odgaard",
+  "position": "Right Winger",
+  "nationality": "Denmark",
+  "birth_date": "1999-03-31",
+  "height": 188,
+  "weight": 183,
+  "club_id": "team_bologna",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bkznay1679158087.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34216573"
+  }
+}

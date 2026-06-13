@@ -1,0 +1,19 @@
+{
+  "id": "player_alan_matturro",
+  "name": "Alan Matturro",
+  "position": "Defender",
+  "nationality": "Uruguay",
+  "birth_date": "2004-10-11",
+  "height": 189,
+  "weight": 74,
+  "club_id": "team_levante",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/uag5wv1697978049.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34221685"
+  }
+}

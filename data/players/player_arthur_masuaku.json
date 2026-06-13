@@ -1,0 +1,19 @@
+{
+  "id": "player_arthur_masuaku",
+  "name": "Arthur Masuaku",
+  "position": "Left-Back",
+  "nationality": "DR Congo",
+  "birth_date": "1993-11-07",
+  "height": 179,
+  "weight": 174,
+  "club_id": "team_lens",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0csnzf1509107029.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34156289"
+  }
+}

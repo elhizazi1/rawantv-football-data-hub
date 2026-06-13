@@ -1,0 +1,19 @@
+{
+  "id": "player_harrison_armstrong",
+  "name": "Harrison Armstrong",
+  "position": "Midfielder",
+  "nationality": "England",
+  "birth_date": "2007-01-19",
+  "height": 1,
+  "weight": 152,
+  "club_id": "team_everton",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/31pakx1756816044.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34247302"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_charalambos_kostoulas",
+  "name": "Charalambos Kostoulas",
+  "position": "Attacker",
+  "nationality": "Greece",
+  "birth_date": "2007-05-30",
+  "height": 6,
+  "weight": null,
+  "club_id": "team_brighton_and_hove_albion",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ijmzce1772017046.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34246717"
+  }
+}

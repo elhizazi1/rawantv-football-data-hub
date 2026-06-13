@@ -1,3 +1,2592 @@
 [
-  { "id": "player_kylian_mbappe", "name": "Kylian Mbappé", "club_id": "team_real_madrid", "photo": null, "position": "Forward" }
+  {
+    "id": "player_albert_stuivenberg",
+    "name": "Albert Stuivenberg",
+    "club_id": "team_arsenal",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ifh45x1767708245.jpg",
+    "position": "Assistant Coach"
+  },
+  {
+    "id": "player_ben_white",
+    "name": "Ben White",
+    "club_id": "team_arsenal",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5mnqcl1628887228.jpg",
+    "position": "Right-Back"
+  },
+  {
+    "id": "player_bukayo_saka",
+    "name": "Bukayo Saka",
+    "club_id": "team_arsenal",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/axl31b1769332282.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_christian_norgaard",
+    "name": "Christian Nørgaard",
+    "club_id": "team_arsenal",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kgz9ij1622034947.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_cristhian_mosquera",
+    "name": "Cristhian Mosquera",
+    "club_id": "team_arsenal",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/w05lj81723370674.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_david_raya",
+    "name": "David Raya",
+    "club_id": "team_arsenal",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/877ews1779732793.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_declan_rice",
+    "name": "Declan Rice",
+    "club_id": "team_arsenal",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ty3z7g1705918131.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_eberechi_eze",
+    "name": "Eberechi Eze",
+    "club_id": "team_arsenal",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/sekoz91781208194.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_gabriel_heinze",
+    "name": "Gabriel Heinze",
+    "club_id": "team_arsenal",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/g1201n1767708489.jpg",
+    "position": "Assistant Coach"
+  },
+  {
+    "id": "player_gabriel_jesus",
+    "name": "Gabriel Jesus",
+    "club_id": "team_arsenal",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/iwt0021678196502.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_alysson",
+    "name": "Alysson",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zq96l91767541942.jpg",
+    "position": "Attacker"
+  },
+  {
+    "id": "player_amadou_onana",
+    "name": "Amadou Onana",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bijuo91634817657.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_andres_garcia",
+    "name": "Andrés García",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xbvuoa1743871372.jpg",
+    "position": "Right-Back"
+  },
+  {
+    "id": "player_boubacar_kamara",
+    "name": "Boubacar Kamara",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dbact81710323756.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_bradley_paul_burrowes",
+    "name": "Bradley-Paul Burrowes",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/uxp2yx1770199284.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_douglas_luiz",
+    "name": "Douglas Luiz",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/wwihws1628614265.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_emiliano_buendia",
+    "name": "Emiliano Buendia",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/r5mto41710319614.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_emiliano_martinez",
+    "name": "Emiliano Martinez",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/7drp311770201331.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_ezri_konsa",
+    "name": "Ezri Konsa",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/uc1jmw1770201046.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_harvey_elliott",
+    "name": "Harvey Elliott",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/leaxd51770200679.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_adam_smith",
+    "name": "Adam Smith",
+    "club_id": "team_bournemouth",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bmpxfz1771751990.jpg",
+    "position": "Right-Back"
+  },
+  {
+    "id": "player_adrien_truffert",
+    "name": "Adrien Truffert",
+    "club_id": "team_bournemouth",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ihcsn51771752205.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_alex_jimenez",
+    "name": "Álex Jiménez",
+    "club_id": "team_bournemouth",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/begenu1705228539.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_alex_scott",
+    "name": "Alex Scott",
+    "club_id": "team_bournemouth",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/m748kr1771751800.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_amine_adli",
+    "name": "Amine Adli",
+    "club_id": "team_bournemouth",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/cutxxz1771752339.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_bafode_diakite",
+    "name": "Bafodé Diakité",
+    "club_id": "team_bournemouth",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/14tgw71771751183.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_ben_gannon_doak",
+    "name": "Ben Gannon-Doak",
+    "club_id": "team_bournemouth",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5vkrus1771751268.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_david_brooks",
+    "name": "David Brooks",
+    "club_id": "team_bournemouth",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tehtnz1771750805.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_djordje_petrovic",
+    "name": "Đorđe Petrović",
+    "club_id": "team_bournemouth",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/rz7f471771751668.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_eli_junior_kroupi",
+    "name": "Eli Junior Kroupi",
+    "club_id": "team_bournemouth",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/js4g5i1771751533.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_aaron_hickey",
+    "name": "Aaron Hickey",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vwmcre1601070032.jpg",
+    "position": "Right-Back"
+  },
+  {
+    "id": "player_antoni_milambo",
+    "name": "Antoni Milambo",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/omxef01700835001.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_caoimhin_kelleher",
+    "name": "Caoimhín Kelleher",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jwy8ud1771939335.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_dango_ouattara",
+    "name": "Dango Ouattara",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0irbqm1771939488.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_edmond_paris_maghoma",
+    "name": "Edmond-Paris Maghoma",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jzjqxl1690900932.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_ellery_balcombe",
+    "name": "Ellery Balcombe",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1z89nu1631715668.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_ethan_pinnock",
+    "name": "Ethan Pinnock",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1w7wyo1771939649.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_fabio_carvalho",
+    "name": "Fabio Carvalho",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/on3v191771938801.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_gustavo_nunes",
+    "name": "Gustavo Nunes",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/810hbv1724961800.jpg",
+    "position": "Attacker"
+  },
+  {
+    "id": "player_hakon_rafn_valdimarsson",
+    "name": "Hákon Rafn Valdimarsson",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/lgxldx1708098593.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_adam_webster",
+    "name": "Adam Webster",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vbhgi21772017548.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_bart_verbruggen",
+    "name": "Bart Verbruggen",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2ldxic1772017667.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_brajan_gruda",
+    "name": "Brajan Gruda",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/de7me51680006501.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_carlos_baleba",
+    "name": "Carlos Baleba",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ey398d1772016488.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_charalambos_kostoulas",
+    "name": "Charalambos Kostoulas",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ijmzce1772017046.jpg",
+    "position": "Attacker"
+  },
+  {
+    "id": "player_danny_welbeck",
+    "name": "Danny Welbeck",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/f5sgpu1772017716.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_diego_coppola",
+    "name": "Diego Coppola",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ptm9451772016730.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_diego_gomez",
+    "name": "Diego Gómez",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mpmz961772016796.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_fabian_hurzeler",
+    "name": "Fabian Hürzeler",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ptaqn51725367293.jpg",
+    "position": "Manager"
+  },
+  {
+    "id": "player_ferdi_kadioglu",
+    "name": "Ferdi Kadıoğlu",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/qn0nr21772017123.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_alejandro_garnacho",
+    "name": "Alejandro Garnacho",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/pi2i4q1771427479.jpg",
+    "position": "Left Wing"
+  },
+  {
+    "id": "player_andrey_santos",
+    "name": "Andrey Santos",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kdun6w1771428273.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_benoit_badiashile",
+    "name": "Benoit Badiashile",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ayb34a1570044499.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_cole_palmer",
+    "name": "Cole Palmer",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/r7yrsa1770541322.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_dario_essugo",
+    "name": "Dário Essugo",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/usgaou1771427059.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_enzo_fernandez",
+    "name": "Enzo Fernández",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/59cm7k1771427301.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_estevao",
+    "name": "Estêvão",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0wmmen1771427233.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_filip_jorgensen",
+    "name": "Filip Jörgensen",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1jn0bn1771427812.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_gabriel_slonina",
+    "name": "Gabriel Slonina",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ipb9mg1641469245.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_genesis_antwi",
+    "name": "Genesis Antwi",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dbyzxw1766827918.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_ben_wilson",
+    "name": "Ben Wilson",
+    "club_id": "team_coventry_city",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ztceir1511792102.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_bobby_thomas",
+    "name": "Bobby Thomas",
+    "club_id": "team_coventry_city",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/r823ft1689869289.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_brandon_thomas_asante",
+    "name": "Brandon Thomas-Asante",
+    "club_id": "team_coventry_city",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2l2iae1677849806.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_carl_rushworth",
+    "name": "Carl Rushworth",
+    "club_id": "team_coventry_city",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9jypl41690900547.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_ellis_simms",
+    "name": "Ellis Simms",
+    "club_id": "team_coventry_city",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/lyxt0g1630676926.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_ephron_mason_clark",
+    "name": "Ephron Mason-Clark",
+    "club_id": "team_coventry_city",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tk4woj1684486148.jpg",
+    "position": "Winger"
+  },
+  {
+    "id": "player_frank_lampard",
+    "name": "Frank Lampard",
+    "club_id": "team_coventry",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/qu60cy1718870905.jpg",
+    "position": "Manager"
+  },
+  {
+    "id": "player_frank_onyeka",
+    "name": "Frank Onyeka",
+    "club_id": "team_coventry_city",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/cc9nyv1771939555.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_haji_wright",
+    "name": "Haji Wright",
+    "club_id": "team_coventry_city",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/embitf1668434881.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_jack_rudoni",
+    "name": "Jack Rudoni",
+    "club_id": "team_coventry_city",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mjlxqz1632337567.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_adam_wharton",
+    "name": "Adam Wharton",
+    "club_id": "team_crystal_palace",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/z2cksj1724687465.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_borna_sosa",
+    "name": "Borna Sosa",
+    "club_id": "team_crystal_palace",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/amcg101605734191.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_brennan_johnson",
+    "name": "Brennan Johnson",
+    "club_id": "team_crystal_palace",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ai0p7z1772140777.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_caleb_kporha",
+    "name": "Caleb Kporha",
+    "club_id": "team_crystal_palace",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/t1sgyq1752343356.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_chadi_riad",
+    "name": "Chadi Riad",
+    "club_id": "team_crystal_palace",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/r0xljm1779840041.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_cheick_doucoure",
+    "name": "Cheick Doucouré",
+    "club_id": "team_crystal_palace",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mz52rm1657737163.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_chris_richards",
+    "name": "Chris Richards",
+    "club_id": "team_crystal_palace",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/b5mhg01772141314.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_christantus_uche",
+    "name": "Christantus Uche",
+    "club_id": "team_crystal_palace",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/hh2y2g1757011058.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_daichi_kamada",
+    "name": "Daichi Kamada",
+    "club_id": "team_crystal_palace",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ol23bf1772140877.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_daniel_munoz",
+    "name": "Daniel Muñoz",
+    "club_id": "team_crystal_palace",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/bb6uua1779766697.jpg",
+    "position": "Right-Back"
+  },
+  {
+    "id": "player_adam_aznou",
+    "name": "Adam Aznou",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ri34fc1756976649.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_beto",
+    "name": "Beto",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/gwwydk1632855624.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_carlos_alcaraz",
+    "name": "Carlos Alcaraz",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/3hdsje1674645223.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_charlie_adam",
+    "name": "Charlie Adam",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/pusgia1733056379.jpg",
+    "position": "Coach"
+  },
+  {
+    "id": "player_david_moyes",
+    "name": "David Moyes",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/6cpkqp1577807176.jpg",
+    "position": "Manager"
+  },
+  {
+    "id": "player_dwight_mcneil",
+    "name": "Dwight McNeil",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0iadzp1771945200.jpg",
+    "position": "Left Wing"
+  },
+  {
+    "id": "player_harrison_armstrong",
+    "name": "Harrison Armstrong",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/31pakx1756816044.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_idrissa_gueye",
+    "name": "Idrissa Gueye",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/707lot1771944827.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_iliman_ndiaye",
+    "name": "Iliman Ndiaye",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mewy8h1628334209.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_jack_grealish",
+    "name": "Jack Grealish",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ah2exe1771944888.jpg",
+    "position": "Left Wing"
+  },
+  {
+    "id": "player_alex_iwobi",
+    "name": "Alex Iwobi",
+    "club_id": "team_fulham",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/7yicrv1746263357.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_antonee_robinson",
+    "name": "Antonee Robinson",
+    "club_id": "team_fulham",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/310oc61772026492.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_benjamin_lecomte",
+    "name": "Benjamin Lecomte",
+    "club_id": "team_fulham",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/sun2ma1772026097.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_bernd_leno",
+    "name": "Bernd Leno",
+    "club_id": "team_fulham",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dkrqvd1772026031.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_calvin_bassey",
+    "name": "Calvin Bassey",
+    "club_id": "team_fulham",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/56cshb1772024766.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_emil_smith_rowe",
+    "name": "Emil Smith Rowe",
+    "club_id": "team_fulham",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kjimti1772026445.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_harrison_reed",
+    "name": "Harrison Reed",
+    "club_id": "team_fulham",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/iyk4af1772026336.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_harry_wilson",
+    "name": "Harry Wilson",
+    "club_id": "team_fulham",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ionbzl1772024456.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_issa_diop",
+    "name": "Issa Diop",
+    "club_id": "team_fulham",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/z1xits1779839831.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_joachim_andersen",
+    "name": "Joachim Andersen",
+    "club_id": "team_fulham",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/emjhls1772024689.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_adama_boiro",
+    "name": "Adama Boiro",
+    "club_id": "team_athletic_bilbao",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/nbpav51725011321.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_aitor_paredes",
+    "name": "Aitor Paredes",
+    "club_id": "team_athletic_bilbao",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/3y5ei71678568879.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_alejandro_rego",
+    "name": "Alejandro Rego",
+    "club_id": "team_athletic_bilbao",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tu97lp1762357022.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_alex_berenguer",
+    "name": "Álex Berenguer",
+    "club_id": "team_athletic_bilbao",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ranylg1723532557.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_alex_padilla",
+    "name": "Álex Padilla",
+    "club_id": "team_athletic_bilbao",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ile2vi1723646890.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_andoni_gorosabel",
+    "name": "Andoni Gorosabel",
+    "club_id": "team_athletic_bilbao",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/qq38oh1600722094.jpg",
+    "position": "Right-Back"
+  },
+  {
+    "id": "player_aymeric_laporte",
+    "name": "Aymeric Laporte",
+    "club_id": "team_athletic_bilbao",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/zldp8b1779732163.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_benat_prados",
+    "name": "Beñat Prados",
+    "club_id": "team_athletic_bilbao",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/b1g67e1712481701.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_dani_vivian",
+    "name": "Dani Vivian",
+    "club_id": "team_athletic_bilbao",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/w9v8xx1629191642.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_ernesto_valverde",
+    "name": "Ernesto Valverde",
+    "club_id": "team_ath_bilbao",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/t7ozai1541330237.jpg",
+    "position": "Manager"
+  },
+  {
+    "id": "player_ademola_lookman",
+    "name": "Ademola Lookman",
+    "club_id": "team_atletico_madrid",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/y5wkl71740779922.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_alex_baena",
+    "name": "Álex Baena",
+    "club_id": "team_atletico_madrid",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/op2ghc1779729448.jpg",
+    "position": "Left Midfield"
+  },
+  {
+    "id": "player_alexander_sorloth",
+    "name": "Alexander Sørloth",
+    "club_id": "team_atletico_madrid",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/slx8ts1724311500.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_antoine_griezmann",
+    "name": "Antoine Griezmann",
+    "club_id": "team_atletico_madrid",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xpmyw01702565423.jpg",
+    "position": "Second Striker"
+  },
+  {
+    "id": "player_carlos_martin",
+    "name": "Carlos Martín",
+    "club_id": "team_atletico_madrid",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8wstdz1706958512.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_clement_lenglet",
+    "name": "Clément Lenglet",
+    "club_id": "team_atletico_madrid",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9itrje1545422965.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_david_hancko",
+    "name": "Dávid Hancko",
+    "club_id": "team_atletico_madrid",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/u9nsy61546426677.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_diego_simeone",
+    "name": "Diego Simeone",
+    "club_id": "team_ath_madrid",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2f8abw1534444128.jpg",
+    "position": "Manager"
+  },
+  {
+    "id": "player_giacomo_raspadori",
+    "name": "Giacomo Raspadori",
+    "club_id": "team_atletico_madrid",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ba218n1610884021.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_giuliano_simeone",
+    "name": "Giuliano Simeone",
+    "club_id": "team_atletico_madrid",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/c24ms91780010953.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_alejandro_balde",
+    "name": "Alejandro Balde",
+    "club_id": "team_barcelona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tg8vxg1771260762.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_andreas_christensen",
+    "name": "Andreas Christensen",
+    "club_id": "team_barcelona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/lg5vvk1771261092.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_dani_olmo",
+    "name": "Dani Olmo",
+    "club_id": "team_barcelona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/lo29ok1771254713.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_eric_garcia",
+    "name": "Eric García",
+    "club_id": "team_barcelona",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/mc6fd21779730502.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_fermin_lopez",
+    "name": "Fermín López",
+    "club_id": "team_barcelona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5z9d271771253844.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_ferran_torres",
+    "name": "Ferran Torres",
+    "club_id": "team_barcelona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/wuh4nr1771253715.jpg",
+    "position": "Left Wing"
+  },
+  {
+    "id": "player_frenkie_de_jong",
+    "name": "Frenkie de Jong",
+    "club_id": "team_barcelona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/fgse2c1771254363.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_gavi",
+    "name": "Gavi",
+    "club_id": "team_barcelona",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/go8kev1779731021.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_gerard_martin",
+    "name": "Gerard Martín",
+    "club_id": "team_barcelona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ox2f581741723597.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_hansi_flick",
+    "name": "Hansi Flick",
+    "club_id": "team_barcelona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/59yosg1771261273.jpg",
+    "position": "Manager"
+  },
+  {
+    "id": "player_borja_iglesias",
+    "name": "Borja Iglesias",
+    "club_id": "team_celta_vigo",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/urztkj1779731559.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_carl_starfelt",
+    "name": "Carl Starfelt",
+    "club_id": "team_celta_vigo",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zb4ki31723545733.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_carlos_dominguez",
+    "name": "Carlos Domínguez",
+    "club_id": "team_celta_vigo",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/sgkllv1630066591.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_claudio_giraldez",
+    "name": "Claudio Giráldez",
+    "club_id": "team_celta_vigo",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/4vdb3s1723549271.jpg",
+    "position": "Manager"
+  },
+  {
+    "id": "player_fer_lopez",
+    "name": "Fer López",
+    "club_id": "team_celta_vigo",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/hb1gdo1755772436.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_ferran_jutgla",
+    "name": "Ferran Jutglà",
+    "club_id": "team_celta_vigo",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/k19j3q1642291032.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_franco_cervi",
+    "name": "Franco Cervi",
+    "club_id": "team_celta_vigo",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/4b9wji1723546868.jpg",
+    "position": "Left Wing"
+  },
+  {
+    "id": "player_hugo_alvarez",
+    "name": "Hugo Álvarez",
+    "club_id": "team_celta_vigo",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/6fz2p11723537408.jpg",
+    "position": "Left Wing"
+  },
+  {
+    "id": "player_hugo_sotelo",
+    "name": "Hugo Sotelo",
+    "club_id": "team_celta_vigo",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0zo3x41692551176.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_iago_aspas",
+    "name": "Iago Aspas",
+    "club_id": "team_celta_vigo",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/up7vdx1514379285.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_abde_rebbach",
+    "name": "Abde Rebbach",
+    "club_id": "team_deportivo_alaves",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/d1ovcg1762350986.jpg",
+    "position": "Left Wing"
+  },
+  {
+    "id": "player_ander_guevara",
+    "name": "Ander Guevara",
+    "club_id": "team_alaves",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jte3pr1604835680.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_antonio_blanco",
+    "name": "Antonio Blanco",
+    "club_id": "team_alaves",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/me7xhi1619945141.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_antonio_sivera",
+    "name": "Antonio Sivera",
+    "club_id": "team_alaves",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/u778qe1561997888.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_calebe",
+    "name": "Calebe",
+    "club_id": "team_deportivo_alaves",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bptg241762350818.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_carles_alena",
+    "name": "Carles Aleñá",
+    "club_id": "team_deportivo_alaves",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/eg9sxa1723634478.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_carlos_benavidez",
+    "name": "Carlos Benavídez",
+    "club_id": "team_alaves",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8f66to1706335728.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_denis_suarez",
+    "name": "Denis Suárez",
+    "club_id": "team_deportivo_alaves",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zm75ak1562345370.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_eduardo_coudet",
+    "name": "Eduardo Coudet",
+    "club_id": "team_alaves",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/e0snjl1658621849.jpg",
+    "position": "Manager"
+  },
+  {
+    "id": "player_facundo_garces",
+    "name": "Facundo Garcés",
+    "club_id": "team_deportivo_alaves",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/hhn5oh1741377068.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_adam_boayar",
+    "name": "Adam Boayar",
+    "club_id": "team_elche",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/l1yw7w1762360721.jpg",
+    "position": "Second Striker"
+  },
+  {
+    "id": "player_adria_pedrosa",
+    "name": "Adrià Pedrosa",
+    "club_id": "team_elche",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0z4udd1724791357.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_aleix_febas",
+    "name": "Aleix Febas",
+    "club_id": "team_elche",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zijxf61632345601.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_alejandro_iturbe",
+    "name": "Alejandro Iturbe",
+    "club_id": "team_elche",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ewipo31723371084.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_alvaro_nunez",
+    "name": "Álvaro Núñez",
+    "club_id": "team_elche",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vqay9o1762359237.jpg",
+    "position": "Right-Back"
+  },
+  {
+    "id": "player_alvaro_rodriguez",
+    "name": "Álvaro Rodríguez",
+    "club_id": "team_elche",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9e9pcr1677352696.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_andre_silva",
+    "name": "André Silva",
+    "club_id": "team_elche",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/peir9b1578087237.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_bambo_diaby",
+    "name": "Bambo Diaby",
+    "club_id": "team_elche",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/30rid71677761090.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_bema_sina",
+    "name": "Bema Sina",
+    "club_id": "team_elche",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8csc6j1775220954.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_buba_sangare",
+    "name": "Buba Sangaré",
+    "club_id": "team_elche",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zjm2nh1758815829.jpg",
+    "position": "Right-Back"
+  },
+  {
+    "id": "player_angel_fortuno",
+    "name": "Ángel Fortuño",
+    "club_id": "team_espanyol",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/974nrg1762373753.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_antoniu_roca",
+    "name": "Antoniu Roca",
+    "club_id": "team_espanyol",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/f10p2q1723649118.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_carlos_romero",
+    "name": "Carlos Romero",
+    "club_id": "team_espanyol",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8blz0b1701165576.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_charles_pickel",
+    "name": "Charles Pickel",
+    "club_id": "team_espanyol",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9b57361678887178.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_clemens_riedel",
+    "name": "Clemens Riedel",
+    "club_id": "team_espanyol",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/iecshk1762377272.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_edu_exposito",
+    "name": "Edu Expósito",
+    "club_id": "team_espanyol",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jrp3ti1723549714.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_fernando_calero",
+    "name": "Fernando Calero",
+    "club_id": "team_espanyol",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/a3b9aj1626379584.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_javi_puado",
+    "name": "Javi Puado",
+    "club_id": "team_espanyol",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jutlif1678736965.jpg",
+    "position": "Left Wing"
+  },
+  {
+    "id": "player_jofre_carreras",
+    "name": "Jofre Carreras",
+    "club_id": "team_espanyol",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/swgaqf1723568735.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_jose_salinas",
+    "name": "José Salinas",
+    "club_id": "team_espanyol",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5mdir21762374458.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_abdel_abqar",
+    "name": "Abdel Abqar",
+    "club_id": "team_getafe",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xgpz171701097458.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_abu_kamara",
+    "name": "Abu Kamara",
+    "club_id": "team_getafe",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/7co8kk1697711564.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_adrian_liso",
+    "name": "Adrian Liso",
+    "club_id": "team_getafe",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/gomlkc1762091455.jpg",
+    "position": "Left Midfield"
+  },
+  {
+    "id": "player_alex_sancris",
+    "name": "Álex Sancris",
+    "club_id": "team_getafe",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/w0q4rn1762429433.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_allan_romeo_nyom",
+    "name": "Allan-Romeo Nyom",
+    "club_id": "team_getafe",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/18s8sc1509041814.jpg",
+    "position": "Right-Back"
+  },
+  {
+    "id": "player_borja_mayoral",
+    "name": "Borja Mayoral",
+    "club_id": "team_getafe",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0m5dz61723634287.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_coba_da_costa",
+    "name": "Coba da Costa",
+    "club_id": "team_getafe",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vgdaof1762429928.jpg",
+    "position": "Attacker"
+  },
+  {
+    "id": "player_david_soria",
+    "name": "David Soria",
+    "club_id": "team_getafe",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ixne191546358501.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_davinchi",
+    "name": "Davinchi",
+    "club_id": "team_getafe",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/gyhoh21775286164.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_diego_rico",
+    "name": "Diego Rico",
+    "club_id": "team_getafe",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jiu42a1723635791.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_abel_ruiz",
+    "name": "Abel Ruiz",
+    "club_id": "team_girona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jc8mn91707036380.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_alejandro_frances",
+    "name": "Alejandro Francés",
+    "club_id": "team_girona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/7qcdkp1723656918.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_aleksandar_metodiev_andreev",
+    "name": "Aleksandar Metodiev Andreev",
+    "club_id": "team_girona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2cfi981775286802.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_alex_moreno",
+    "name": "Álex Moreno",
+    "club_id": "team_girona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/b4fnmy1603709473.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_arnau_martinez",
+    "name": "Arnau Martínez",
+    "club_id": "team_girona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/4inlxy1659964630.jpg",
+    "position": "Right-Back"
+  },
+  {
+    "id": "player_axel_witsel",
+    "name": "Axel Witsel",
+    "club_id": "team_girona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/gex6yt1706956962.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_azzedine_ounahi",
+    "name": "Azzedine Ounahi",
+    "club_id": "team_girona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/sbzf7x1668956130.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_bryan_gil",
+    "name": "Bryan Gil",
+    "club_id": "team_girona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/g1g25o1628627252.jpg",
+    "position": "Left Wing"
+  },
+  {
+    "id": "player_christian_stuani",
+    "name": "Christian Stuani",
+    "club_id": "team_girona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/m51g111557725046.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_daley_blind",
+    "name": "Daley Blind",
+    "club_id": "team_girona",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/buxsim1709982440.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_adrian_de_la_fuente",
+    "name": "Adrián de la Fuente",
+    "club_id": "team_levante",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/khysbm1762460296.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_alan_matturro",
+    "name": "Alan Matturro",
+    "club_id": "team_levante",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/uag5wv1697978049.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_carlos_alvarez",
+    "name": "Carlos Álvarez",
+    "club_id": "team_levante",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/pya6yl1735419068.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_carlos_espi",
+    "name": "Carlos Espí",
+    "club_id": "team_levante",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ybol5c1762460133.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_diego_pampin",
+    "name": "Diego Pampín",
+    "club_id": "team_levante",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/i0qcda1659965320.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_etta_eyong",
+    "name": "Etta Eyong",
+    "club_id": "team_levante",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mht6lv1762462602.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_goduine_koyalipou",
+    "name": "Goduine Koyalipou",
+    "club_id": "team_levante",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tsi1hn1762462097.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_iker_losada",
+    "name": "Iker Losada",
+    "club_id": "team_levante",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/6bq6uq1723744790.jpg",
+    "position": "Second Striker"
+  },
+  {
+    "id": "player_ivan_romero",
+    "name": "Iván Romero",
+    "club_id": "team_levante",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vmzhn71701169634.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_jeremy_toljan",
+    "name": "Jeremy Toljan",
+    "club_id": "team_levante",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/oo5cvk1532275169.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_adrien_rabiot",
+    "name": "Adrien Rabiot",
+    "club_id": "team_ac_milan",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/dqh5pj1778817478.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_alexis_saelemaekers",
+    "name": "Alexis Saelemaekers",
+    "club_id": "team_ac_milan",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zvqwjg1598645973.jpg",
+    "position": "Left Midfield"
+  },
+  {
+    "id": "player_ardon_jashari",
+    "name": "Ardon Jashari",
+    "club_id": "team_ac_milan",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/hj7nqf1668522659.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_christian_pulisic",
+    "name": "Christian Pulisic",
+    "club_id": "team_ac_milan",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/40pxda1669799830.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_christopher_nkunku",
+    "name": "Christopher Nkunku",
+    "club_id": "team_ac_milan",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ytq6zu1687263442.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_david_odogu",
+    "name": "David Odogu",
+    "club_id": "team_ac_milan",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zpkihq1758893747.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_davide_bartesaghi",
+    "name": "Davide Bartesaghi",
+    "club_id": "team_ac_milan",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5q6kwc1758893338.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_fikayo_tomori",
+    "name": "Fikayo Tomori",
+    "club_id": "team_ac_milan",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/yxwruu1469436878.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_koni_de_winter",
+    "name": "Koni De Winter",
+    "club_id": "team_ac_milan",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5h062e1667323389.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_lorenzo_torriani",
+    "name": "Lorenzo Torriani",
+    "club_id": "team_ac_milan",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ofl21q1758893989.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_berat_djimsiti",
+    "name": "Berat Djimsiti",
+    "club_id": "team_atalanta",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/trtspe1700755463.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_charles_de_ketelaere",
+    "name": "Charles De Ketelaere",
+    "club_id": "team_atalanta",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/q597y21779039802.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_davide_zappacosta",
+    "name": "Davide Zappacosta",
+    "club_id": "team_atalanta",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2zclsw1510591427.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_ederson",
+    "name": "Éderson",
+    "club_id": "team_atalanta",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/gjz66y1716707588.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_francesco_rossi",
+    "name": "Francesco Rossi",
+    "club_id": "team_atalanta",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/giojp41546032458.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_gianluca_scamacca",
+    "name": "Gianluca Scamacca",
+    "club_id": "team_atalanta",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/hg6sbl1761950864.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_giorgio_scalvini",
+    "name": "Giorgio Scalvini",
+    "club_id": "team_atalanta",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/hasaks1642935118.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_honest_ahanor",
+    "name": "Honest Ahanor",
+    "club_id": "team_atalanta",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/6n04ae1758794278.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_isak_hien",
+    "name": "Isak Hien",
+    "club_id": "team_atalanta",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/cet0p11778627200.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_kamaldeen_sulemana",
+    "name": "Kamaldeen Sulemana",
+    "club_id": "team_atalanta",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/w9stoi1630490492.jpg",
+    "position": "Left Wing"
+  },
+  {
+    "id": "player_benjamin_dominguez",
+    "name": "Benjamín Domínguez",
+    "club_id": "team_bologna",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0y4mck1717182396.jpg",
+    "position": "Attacker"
+  },
+  {
+    "id": "player_charalambos_lykogiannis",
+    "name": "Charalambos Lykogiannis",
+    "club_id": "team_bologna",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zcv2yt1607079118.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_eivind_helland",
+    "name": "Eivind Helland",
+    "club_id": "team_bologna",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/9c8xes1776674785.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_federico_bernardeschi",
+    "name": "Federico Bernardeschi",
+    "club_id": "team_bologna",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ptaxx21515958866.jpg",
+    "position": "Winger"
+  },
+  {
+    "id": "player_federico_ravaglia",
+    "name": "Federico Ravaglia",
+    "club_id": "team_bologna",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/pz9bku1605088709.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_ibrahim_sulemana",
+    "name": "Ibrahim Sulemana",
+    "club_id": "team_bologna",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dralsv1679667689.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_jens_odgaard",
+    "name": "Jens Odgaard",
+    "club_id": "team_bologna",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bkznay1679158087.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_jhon_lucumi",
+    "name": "Jhon Lucumí",
+    "club_id": "team_bologna",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/r7hnhc1723963266.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_joao_mario",
+    "name": "João Mário",
+    "club_id": "team_bologna",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ymxk9s1702565552.jpg",
+    "position": "Right-Back"
+  },
+  {
+    "id": "player_jonathan_rowe",
+    "name": "Jonathan Rowe",
+    "club_id": "team_bologna",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/frgnzp1695293335.jpg",
+    "position": "Left Wing"
+  },
+  {
+    "id": "player_adam_obert",
+    "name": "Adam Obert",
+    "club_id": "team_cagliari",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/6h4u6s1632343808.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_alessandro_deiola",
+    "name": "Alessandro Deiola",
+    "club_id": "team_cagliari",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/iywfj81600891861.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_andra_cogoni",
+    "name": "Andra Cogoni",
+    "club_id": "team_cagliari",
+    "photo": null,
+    "position": "Defender"
+  },
+  {
+    "id": "player_andrea_belotti",
+    "name": "Andrea Belotti",
+    "club_id": "team_cagliari",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/leh49n1546358292.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_antoni_franke",
+    "name": "Antoni Franke",
+    "club_id": "team_cagliari",
+    "photo": null,
+    "position": "Defender"
+  },
+  {
+    "id": "player_boris_radunovic",
+    "name": "Boris Radunović",
+    "club_id": "team_cagliari",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bam0bf1599569349.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_elia_caprile",
+    "name": "Elia Caprile",
+    "club_id": "team_cagliari",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/swckgh1692480239.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_fabio_pisacane",
+    "name": "Fabio Pisacane",
+    "club_id": "team_cagliari",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/b7u1qq1546612652.jpg",
+    "position": "Manager"
+  },
+  {
+    "id": "player_gabriele_zappa",
+    "name": "Gabriele Zappa",
+    "club_id": "team_cagliari",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/qwuyby1607352571.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_gennaro_borrelli",
+    "name": "Gennaro Borrelli",
+    "club_id": "team_cagliari",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/01u0kf1715846791.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_abdelhamid_sabiri",
+    "name": "Abdelhamid Sabiri",
+    "club_id": "team_fiorentina",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8wtqq51578228938.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_albert_gudmundsson",
+    "name": "Albert Guðmundsson",
+    "club_id": "team_fiorentina",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/njw0ii1700049359.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_amir_richardson",
+    "name": "Amir Richardson",
+    "club_id": "team_fiorentina",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/u8wh0j1758892310.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_cher_ndour",
+    "name": "Cher Ndour",
+    "club_id": "team_fiorentina",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/n8sg8x1700509659.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_christian_kouame",
+    "name": "Christian Kouamé",
+    "club_id": "team_fiorentina",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1in9q11546112789.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_daniele_rugani",
+    "name": "Daniele Rugani",
+    "club_id": "team_fiorentina",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/rzh0541533468253.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_david_de_gea",
+    "name": "David de Gea",
+    "club_id": "team_fiorentina",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xt634x1510319724.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_dodo",
+    "name": "Dodô",
+    "club_id": "team_fiorentina",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/6fipf71634721095.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_eddy_kouadio",
+    "name": "Eddy Kouadio",
+    "club_id": "team_fiorentina",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/oqsnnc1758892363.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_eman_kospo",
+    "name": "Eman Kospo",
+    "club_id": "team_fiorentina",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xijtxn1758892351.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_aaron_martin",
+    "name": "Aarón Martín",
+    "club_id": "team_genoa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/fmhwhd1610100182.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_alessandro_marcandalli",
+    "name": "Alessandro Marcandalli",
+    "club_id": "team_genoa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ygl7p31741950296.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_benjamin_siegrist",
+    "name": "Benjamin Siegrist",
+    "club_id": "team_genoa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/rqc77q1608386078.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_brooke_norton_cuffy",
+    "name": "Brooke Norton-Cuffy",
+    "club_id": "team_genoa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zwihng1674658072.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_caleb_ekuban",
+    "name": "Caleb Ekuban",
+    "club_id": "team_genoa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/4yt7821507559278.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_daniele_de_rossi",
+    "name": "Daniele De Rossi",
+    "club_id": "team_genoa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dv7m4e1721804669.jpg",
+    "position": "Manager"
+  },
+  {
+    "id": "player_daniele_sommariva",
+    "name": "Daniele Sommariva",
+    "club_id": "team_genoa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/890kuz1697978528.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_jeff_ekhator",
+    "name": "Jeff Ekhator",
+    "club_id": "team_genoa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zbgikd1731101120.jpg",
+    "position": "Attacker"
+  },
+  {
+    "id": "player_johan_vasquez",
+    "name": "Johan Vásquez",
+    "club_id": "team_genoa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/a4jnkm1718257169.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_junior_messias",
+    "name": "Junior Messias",
+    "club_id": "team_genoa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/awp7091608193597.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_andrea_cambiaso",
+    "name": "Andrea Cambiaso",
+    "club_id": "team_juventus",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/seted61630826525.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_arkadiusz_milik",
+    "name": "Arkadiusz Milik",
+    "club_id": "team_juventus",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dg5t011533750617.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_bremer",
+    "name": "Bremer",
+    "club_id": "team_juventus",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/icn9je1716707438.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_carlo_pinsoglio",
+    "name": "Carlo Pinsoglio",
+    "club_id": "team_juventus",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/4ppm5e1515954865.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_dusan_vlahovic",
+    "name": "Dušan Vlahović",
+    "club_id": "team_juventus",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/m568x71546427386.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_edon_zhegrova",
+    "name": "Edon Zhegrova",
+    "club_id": "team_juventus",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/g1klsb1653486280.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_emil_holm",
+    "name": "Emil Holm",
+    "club_id": "team_juventus",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/67xww31778608543.jpg",
+    "position": "Right-Back"
+  },
+  {
+    "id": "player_fabio_miretti",
+    "name": "Fabio Miretti",
+    "club_id": "team_juventus",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8mdf8y1679483557.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_federico_gatti",
+    "name": "Federico Gatti",
+    "club_id": "team_juventus",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/pa1cka1637629150.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_filip_kostic",
+    "name": "Filip Kostic",
+    "club_id": "team_juventus",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zgsfpn1578087120.jpg",
+    "position": "Left Midfield"
+  },
+  {
+    "id": "player_aleix_garcia",
+    "name": "Aleix García",
+    "club_id": "team_bayer_leverkusen",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zby8om1718359317.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_alejo_sarco",
+    "name": "Alejo Sarco",
+    "club_id": "team_bayer_leverkusen",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/cgthz71741448863.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_alex_grimaldo",
+    "name": "Álex Grimaldo",
+    "club_id": "team_bayer_leverkusen",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/5wd4cv1779731139.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_arthur",
+    "name": "Arthur",
+    "club_id": "team_bayer_leverkusen",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/u4zhyl1741447963.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_axel_tape",
+    "name": "Axel Tape",
+    "club_id": "team_bayer_leverkusen",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xwrzja1748682372.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_christian_kofane",
+    "name": "Christian Kofane",
+    "club_id": "team_bayer_leverkusen",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ewzkio1756316136.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_claudio_echeverri",
+    "name": "Claudio Echeverri",
+    "club_id": "team_bayer_leverkusen",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kefizm1716543240.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_edmond_tapsoba",
+    "name": "Edmond Tapsoba",
+    "club_id": "team_bayer_leverkusen",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/wrgvu81585495401.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_eliesse_ben_seghir",
+    "name": "Eliesse Ben Seghir",
+    "club_id": "team_bayer_leverkusen",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/3kmz7l1674744972.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_ernest_poku",
+    "name": "Ernest Poku",
+    "club_id": "team_bayer_leverkusen",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0ds84a1697461725.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_alexander_meyer",
+    "name": "Alexander Meyer",
+    "club_id": "team_borussia_dortmund",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/k4c5581659534926.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_carney_chukwuemeka",
+    "name": "Carney Chukwuemeka",
+    "club_id": "team_borussia_dortmund",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/6ymbm51636630303.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_cole_campbell",
+    "name": "Cole Campbell",
+    "club_id": "team_borussia_dortmund",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5p3mug1741868893.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_daniel_svensson",
+    "name": "Daniel Svensson",
+    "club_id": "team_borussia_dortmund",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/py7rgz1778625777.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_emre_can",
+    "name": "Emre Can",
+    "club_id": "team_borussia_dortmund",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/3rca6t1705094377.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_fabio_silva",
+    "name": "Fábio Silva",
+    "club_id": "team_borussia_dortmund",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/6gnom11604139473.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_felix_nmecha",
+    "name": "Felix Nmecha",
+    "club_id": "team_borussia_dortmund",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/i6l5rw1779384367.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_filippo_mane",
+    "name": "Filippo Mané",
+    "club_id": "team_borussia_dortmund",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jks3nh1756311519.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_gregor_kobel",
+    "name": "Gregor Kobel",
+    "club_id": "team_borussia_dortmund",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dl2yx01605709279.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_jobe_bellingham",
+    "name": "Jobe Bellingham",
+    "club_id": "team_borussia_dortmund",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/c2g1ly1713358383.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_ansgar_knauff",
+    "name": "Ansgar Knauff",
+    "club_id": "team_eintracht_frankfurt",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ilgntp1650005550.jpg",
+    "position": "Left Wing"
+  },
+  {
+    "id": "player_arnaud_kalimuendo",
+    "name": "Arnaud Kalimuendo",
+    "club_id": "team_eintracht_frankfurt",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vj751c1608592101.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_arthur_theate",
+    "name": "Arthur Theate",
+    "club_id": "team_eintracht_frankfurt",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/i3ftd91630160061.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_aurele_amenda",
+    "name": "Aurèle Amenda",
+    "club_id": "team_eintracht_frankfurt",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/oi0evs1700325218.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_aurelio_buta",
+    "name": "Aurélio Buta",
+    "club_id": "team_eintracht_frankfurt",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/udn54l1678368114.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_ayoube_amaimouni",
+    "name": "Ayoube Amaimouni",
+    "club_id": "team_eintracht_frankfurt",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/k1zhdn1779838936.jpg",
+    "position": "Right Winger"
+  },
+  {
+    "id": "player_can_uzun",
+    "name": "Can Uzun",
+    "club_id": "team_eintracht_frankfurt",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2wmlq91741808436.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_dino_toppmoller",
+    "name": "Dino Toppmöller",
+    "club_id": "team_eintracht_frankfurt",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5qxyv11708520183.jpg",
+    "position": "Manager"
+  },
+  {
+    "id": "player_elias_baum",
+    "name": "Elias Baum",
+    "club_id": "team_eintracht_frankfurt",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/lqaahh1762967628.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_ellyes_skhiri",
+    "name": "Ellyes Skhiri",
+    "club_id": "team_eintracht_frankfurt",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/h4gvqo1779036403.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_anthony_jung",
+    "name": "Anthony Jung",
+    "club_id": "team_freiburg",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ftlv6g1610626182.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_bruno_ogbus",
+    "name": "Bruno Ogbus",
+    "club_id": "team_freiburg",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9gz3xn1741723148.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_christian_gunter",
+    "name": "Christian Gunter",
+    "club_id": "team_freiburg",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/a4eyti1578087810.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_cyriaque_irie",
+    "name": "Cyriaque Irié",
+    "club_id": "team_freiburg",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/72lfjc1763231096.jpg",
+    "position": "Attacker"
+  },
+  {
+    "id": "player_daniel_kofi_kyereh",
+    "name": "Daniel-Kofi Kyereh",
+    "club_id": "team_freiburg",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ek0av91658934836.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_derry_scherhant",
+    "name": "Derry Scherhant",
+    "club_id": "team_freiburg",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ckwafa1674562385.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_florian_muller",
+    "name": "Florian Müller",
+    "club_id": "team_freiburg",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/otgs7s1578227329.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_igor_matanovic",
+    "name": "Igor Matanović",
+    "club_id": "team_freiburg",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/t5lmgj1741808280.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_jan_niklas_beste",
+    "name": "Jan-Niklas Beste",
+    "club_id": "team_freiburg",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/eec5cu1705317458.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_jannik_huth",
+    "name": "Jannik Huth",
+    "club_id": "team_freiburg",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/leclb81578228799.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_adam_hlozek",
+    "name": "Adam Hložek",
+    "club_id": "team_hoffenheim",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/yon6ma1724536840.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_albian_hajdari",
+    "name": "Albian Hajdari",
+    "club_id": "team_hoffenheim",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/b9c9i71763495486.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_alexander_prass",
+    "name": "Alexander Prass",
+    "club_id": "team_hoffenheim",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9tz1gi1653940225.jpg",
+    "position": "Left Midfield"
+  },
+  {
+    "id": "player_andrej_kramaric",
+    "name": "Andrej Kramarić",
+    "club_id": "team_hoffenheim",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bdonoc1718995936.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_bazoumana_toure",
+    "name": "Bazoumana Touré",
+    "club_id": "team_hoffenheim",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/a97azq1718138928.jpg",
+    "position": "Left Wing"
+  },
+  {
+    "id": "player_bernardo",
+    "name": "Bernardo",
+    "club_id": "team_hoffenheim",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/wf26gk1585754415.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_christian_ilzer",
+    "name": "Christian Ilzer",
+    "club_id": "team_hoffenheim",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/slu82h1741452763.jpg",
+    "position": "Manager"
+  },
+  {
+    "id": "player_deniz_zeitler",
+    "name": "Deniz Zeitler",
+    "club_id": "team_hoffenheim",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/blck791763496615.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_dennis_geiger",
+    "name": "Dennis Geiger",
+    "club_id": "team_hoffenheim",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mw3fn61578089019.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_fisnik_asllani",
+    "name": "Fisnik Asllani",
+    "club_id": "team_hoffenheim",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/6atubr1680031910.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_assane_diousse",
+    "name": "Assane Diousse",
+    "club_id": "team_auxerre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/i6rfej1551630836.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_christophe_pelissier",
+    "name": "Christophe Pélissier",
+    "club_id": "team_auxerre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/c64nts1549714324.jpg",
+    "position": "Manager"
+  },
+  {
+    "id": "player_clement_akpa",
+    "name": "Clément Akpa",
+    "club_id": "team_auxerre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/riq9bk1765918127.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_danny_namaso",
+    "name": "Danny Namaso",
+    "club_id": "team_auxerre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8qsn6g1679050694.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_donovan_leon",
+    "name": "Donovan Léon",
+    "club_id": "team_auxerre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bo9zev1680956801.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_elisha_owusu",
+    "name": "Elisha Owusu",
+    "club_id": "team_auxerre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/j7heas1668455801.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_francisco_sierralta",
+    "name": "Francisco Sierralta",
+    "club_id": "team_auxerre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/sjvkl31715649312.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_fredrik_oppegard",
+    "name": "Fredrik Oppegård",
+    "club_id": "team_auxerre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/o0jwoz1679497248.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_gideon_mensah",
+    "name": "Gideon Mensah",
+    "club_id": "team_auxerre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bglc5l1668454974.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_josue_casimir",
+    "name": "Josué Casimir",
+    "club_id": "team_auxerre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/49klkm1702292605.jpg",
+    "position": "Right-Back"
+  },
+  {
+    "id": "player_abdoulaye_toure",
+    "name": "Abdoulaye Toure",
+    "club_id": "team_le_havre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/glx5vo1551626267.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_adams_diabate",
+    "name": "Adams Diabaté",
+    "club_id": "team_le_havre",
+    "photo": null,
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_aliou_thiare",
+    "name": "Aliou Thiare",
+    "club_id": "team_le_havre",
+    "photo": null,
+    "position": "Defender"
+  },
+  {
+    "id": "player_andy_logbo",
+    "name": "Andy Logbo",
+    "club_id": "team_le_havre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/6bo6pm1702298401.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_arouna_sangante",
+    "name": "Arouna Sangante",
+    "club_id": "team_le_havre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/amu2v01702293177.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_ayumu_seko",
+    "name": "Ayumu Seko",
+    "club_id": "team_le_havre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1k8ce51747686025.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_daren_mosengo",
+    "name": "Daren Mosengo",
+    "club_id": "team_le_havre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/n893251765988061.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_didier_digard",
+    "name": "Didier Digard",
+    "club_id": "team_le_havre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8rmwpq1681391214.jpg",
+    "position": "Manager"
+  },
+  {
+    "id": "player_enzo_koffi_vinette",
+    "name": "Enzo Koffi Vinette",
+    "club_id": "team_le_havre",
+    "photo": null,
+    "position": "Attacker"
+  },
+  {
+    "id": "player_etienne_youte_kinkoue",
+    "name": "Étienne Youté Kinkoué",
+    "club_id": "team_le_havre",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/57y1yh1702293323.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_abdallah_sima",
+    "name": "Abdallah Sima",
+    "club_id": "team_lens",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/yurb9q1630438603.jpg",
+    "position": "Forward"
+  },
+  {
+    "id": "player_adrien_thomasson",
+    "name": "Adrien Thomasson",
+    "club_id": "team_lens",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/hedfe41607872006.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_andrija_bulatovic",
+    "name": "Andrija Bulatović",
+    "club_id": "team_lens",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/90nau51766004014.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_anthony_bermont",
+    "name": "Anthony Bermont",
+    "club_id": "team_lens",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/my609p1766003892.jpg",
+    "position": "Left Wing"
+  },
+  {
+    "id": "player_arthur_masuaku",
+    "name": "Arthur Masuaku",
+    "club_id": "team_lens",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0csnzf1509107029.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_florian_sotoca",
+    "name": "Florian Sotoca",
+    "club_id": "team_lens",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/nlmi3y1608497614.jpg",
+    "position": "Striker"
+  },
+  {
+    "id": "player_florian_thauvin",
+    "name": "Florian Thauvin",
+    "club_id": "team_lens",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/okvymp1625573781.jpg",
+    "position": "Winger"
+  },
+  {
+    "id": "player_fode_sylla",
+    "name": "Fodé Sylla",
+    "club_id": "team_lens",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/iucoc01766004566.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_jhoanner_chavez",
+    "name": "Jhoanner Chávez",
+    "club_id": "team_lens",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/t4sx741766004083.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_jonathan_gradit",
+    "name": "Jonathan Gradit",
+    "club_id": "team_lens",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/7hbth91608329213.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_abdoulaye_faye",
+    "name": "Abdoulaye Faye",
+    "club_id": "team_lorient",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1nqjvb1708945668.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_aiyegun_tosin",
+    "name": "Aiyegun Tosin",
+    "club_id": "team_lorient",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vftdkl1702898686.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_arsene_kouassi",
+    "name": "Arsène Kouassi",
+    "club_id": "team_lorient",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/f9ncad1748156623.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_arthur_avom",
+    "name": "Arthur Avom",
+    "club_id": "team_lorient",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/nzf26z1727955338.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_bamba_dieng",
+    "name": "Bamba Dieng",
+    "club_id": "team_lorient",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/01uwh61631624839.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_bamo_meite",
+    "name": "Bamo Meïté",
+    "club_id": "team_lorient",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vdyzs91678359222.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_bandiougou_fadiga",
+    "name": "Bandiougou Fadiga",
+    "club_id": "team_lorient",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/87xghr1609938604.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_benjamin_leroy",
+    "name": "Benjamin Leroy",
+    "club_id": "team_lorient",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/k8cg4v1616150821.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_bingourou_kamara",
+    "name": "Bingourou Kamara",
+    "club_id": "team_lorient",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0zsg471610099835.jpg",
+    "position": "Goalkeeper"
+  },
+  {
+    "id": "player_darlin_yongwa",
+    "name": "Darlin Yongwa",
+    "club_id": "team_lorient",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/et3otb1681124794.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_alexandre_salvat",
+    "name": "Alexandre Salvat",
+    "club_id": "team_marseille",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jktct81760944605.jpg",
+    "position": "Goalkeeping Coach"
+  },
+  {
+    "id": "player_amine_gouiri",
+    "name": "Amine Gouiri",
+    "club_id": "team_marseille",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xl6as41534013643.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_andrea_maldera",
+    "name": "Andrea Maldera",
+    "club_id": "team_marseille",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/q7vg6p1760944447.jpg",
+    "position": "Assistant Coach"
+  },
+  {
+    "id": "player_arthur_vermeeren",
+    "name": "Arthur Vermeeren",
+    "club_id": "team_marseille",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/q3qdf91702561367.jpg",
+    "position": "Central Midfield"
+  },
+  {
+    "id": "player_benjamin_pavard",
+    "name": "Benjamin Pavard",
+    "club_id": "team_marseille",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/36hwgb1660764260.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_bilal_nadir",
+    "name": "Bilal Nadir",
+    "club_id": "team_marseille",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/hpiod71705664531.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_conrad_egan_riley",
+    "name": "Conrad Egan-Riley",
+    "club_id": "team_marseille",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/axdi7g1658260779.jpg",
+    "position": "Right-Back"
+  },
+  {
+    "id": "player_derek_cornelius",
+    "name": "Derek Cornelius",
+    "club_id": "team_marseille",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ixglfi1668714509.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_emerson_palmieri",
+    "name": "Emerson Palmieri",
+    "club_id": "team_marseille",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dr16tt1716902766.jpg",
+    "position": "Left-Back"
+  },
+  {
+    "id": "player_ethan_nwaneri",
+    "name": "Ethan Nwaneri",
+    "club_id": "team_marseille",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/cbmpwr1769331233.jpg",
+    "position": "Attacking Midfield"
+  }
 ]

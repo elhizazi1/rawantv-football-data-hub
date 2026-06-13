@@ -1,0 +1,19 @@
+{
+  "id": "player_giuliano_simeone",
+  "name": "Giuliano Simeone",
+  "position": "Centre-Forward",
+  "nationality": "Argentina",
+  "birth_date": "2002-12-18",
+  "height": 173,
+  "weight": 163,
+  "club_id": "team_atletico_madrid",
+  "photo": "https://www.thesportsdb.com/images/media/player/thumb/c24ms91780010953.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34228685"
+  }
+}

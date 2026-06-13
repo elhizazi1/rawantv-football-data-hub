@@ -1,0 +1,19 @@
+{
+  "id": "player_adrien_truffert",
+  "name": "Adrien Truffert",
+  "position": "Left-Back",
+  "nationality": "France",
+  "birth_date": "2001-11-20",
+  "height": 1,
+  "weight": 159,
+  "club_id": "team_bournemouth",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ihcsn51771752205.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34173134"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_federico_ravaglia",
+  "name": "Federico Ravaglia",
+  "position": "Goalkeeper",
+  "nationality": "Italy",
+  "birth_date": "1999-11-11",
+  "height": 1,
+  "weight": 192,
+  "club_id": "team_bologna",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/pz9bku1605088709.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34173020"
+  }
+}

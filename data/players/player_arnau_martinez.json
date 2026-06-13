@@ -1,0 +1,19 @@
+{
+  "id": "player_arnau_martinez",
+  "name": "Arnau Martínez",
+  "position": "Right-Back",
+  "nationality": "Spain",
+  "birth_date": "2003-04-25",
+  "height": 1,
+  "weight": 159,
+  "club_id": "team_girona",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/4inlxy1659964630.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34199704"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_andrea_belotti",
+  "name": "Andrea Belotti",
+  "position": "Forward",
+  "nationality": "Italy",
+  "birth_date": "1993-12-20",
+  "height": 1,
+  "weight": 159,
+  "club_id": "team_cagliari",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/leh49n1546358292.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34148219"
+  }
+}

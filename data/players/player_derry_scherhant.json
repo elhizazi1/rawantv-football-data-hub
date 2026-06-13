@@ -1,0 +1,19 @@
+{
+  "id": "player_derry_scherhant",
+  "name": "Derry Scherhant",
+  "position": "Centre-Forward",
+  "nationality": "Germany",
+  "birth_date": "2002-11-10",
+  "height": 1,
+  "weight": 172,
+  "club_id": "team_freiburg",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ckwafa1674562385.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34202017"
+  }
+}

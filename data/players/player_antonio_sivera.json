@@ -1,0 +1,19 @@
+{
+  "id": "player_antonio_sivera",
+  "name": "Antonio Sivera",
+  "position": "Goalkeeper",
+  "nationality": "Spain",
+  "birth_date": "1996-08-11",
+  "height": 1,
+  "weight": 163,
+  "club_id": "team_alaves",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/u778qe1561997888.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34167601"
+  }
+}

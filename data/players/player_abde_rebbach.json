@@ -1,0 +1,19 @@
+{
+  "id": "player_abde_rebbach",
+  "name": "Abde Rebbach",
+  "position": "Left Wing",
+  "nationality": "Algeria",
+  "birth_date": "1998-08-11",
+  "height": 176,
+  "weight": 150,
+  "club_id": "team_deportivo_alaves",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/d1ovcg1762350986.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34278522"
+  }
+}

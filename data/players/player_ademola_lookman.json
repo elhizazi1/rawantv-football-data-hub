@@ -1,0 +1,19 @@
+{
+  "id": "player_ademola_lookman",
+  "name": "Ademola Lookman",
+  "position": "Centre-Forward",
+  "nationality": "Nigeria",
+  "birth_date": "1997-10-20",
+  "height": 174,
+  "weight": 157,
+  "club_id": "team_atletico_madrid",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/y5wkl71740779922.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34161149"
+  }
+}

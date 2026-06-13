@@ -1,0 +1,19 @@
+{
+  "id": "player_alex_moreno",
+  "name": "Álex Moreno",
+  "position": "Left-Back",
+  "nationality": "Spain",
+  "birth_date": "1993-06-08",
+  "height": 1,
+  "weight": 150,
+  "club_id": "team_girona",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/b4fnmy1603709473.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34170177"
+  }
+}

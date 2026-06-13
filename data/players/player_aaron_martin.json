@@ -1,0 +1,19 @@
+{
+  "id": "player_aaron_martin",
+  "name": "Aarón Martín",
+  "position": "Defender",
+  "nationality": "Spain",
+  "birth_date": "1987-04-22",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_genoa",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/fmhwhd1610100182.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34163452"
+  }
+}

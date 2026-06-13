@@ -1,0 +1,19 @@
+{
+  "id": "player_bruno_ogbus",
+  "name": "Bruno Ogbus",
+  "position": "Defender",
+  "nationality": "Switzerland",
+  "birth_date": "2005-12-17",
+  "height": 185,
+  "weight": 84,
+  "club_id": "team_freiburg",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9gz3xn1741723148.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34247311"
+  }
+}

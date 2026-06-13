@@ -1,0 +1,19 @@
+{
+  "id": "player_diego_rico",
+  "name": "Diego Rico",
+  "position": "Left-Back",
+  "nationality": "Spain",
+  "birth_date": "1993-02-23",
+  "height": 1,
+  "weight": 168,
+  "club_id": "team_getafe",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jiu42a1723635791.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34168109"
+  }
+}

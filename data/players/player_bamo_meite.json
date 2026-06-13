@@ -1,0 +1,19 @@
+{
+  "id": "player_bamo_meite",
+  "name": "Bamo Meïté",
+  "position": "Defensive Midfield",
+  "nationality": "Ivory Coast",
+  "birth_date": "2001-06-20",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_lorient",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vdyzs91678359222.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34203287"
+  }
+}

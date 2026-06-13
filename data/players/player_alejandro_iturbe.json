@@ -1,0 +1,19 @@
+{
+  "id": "player_alejandro_iturbe",
+  "name": "Alejandro Iturbe",
+  "position": "Goalkeeper",
+  "nationality": "Spain",
+  "birth_date": "2003-09-02",
+  "height": 1,
+  "weight": 161,
+  "club_id": "team_elche",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ewipo31723371084.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34246326"
+  }
+}

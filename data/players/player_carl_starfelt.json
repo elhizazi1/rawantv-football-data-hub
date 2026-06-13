@@ -1,0 +1,19 @@
+{
+  "id": "player_carl_starfelt",
+  "name": "Carl Starfelt",
+  "position": "Centre-Back",
+  "nationality": "Sweden",
+  "birth_date": "1995-06-01",
+  "height": 187,
+  "weight": 183,
+  "club_id": "team_celta_vigo",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zb4ki31723545733.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34178200"
+  }
+}

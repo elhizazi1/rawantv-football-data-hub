@@ -1,0 +1,19 @@
+{
+  "id": "player_abdel_abqar",
+  "name": "Abdel Abqar",
+  "position": "Centre-Back",
+  "nationality": "Morocco",
+  "birth_date": "1999-03-10",
+  "height": 1,
+  "weight": 174,
+  "club_id": "team_getafe",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xgpz171701097458.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34192684"
+  }
+}

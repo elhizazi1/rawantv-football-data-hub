@@ -1,0 +1,19 @@
+{
+  "id": "player_hakon_rafn_valdimarsson",
+  "name": "Hákon Rafn Valdimarsson",
+  "position": "Goalkeeper",
+  "nationality": "Iceland",
+  "birth_date": "2001-10-13",
+  "height": 6,
+  "weight": 194,
+  "club_id": "team_brentford",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/lgxldx1708098593.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34226770"
+  }
+}

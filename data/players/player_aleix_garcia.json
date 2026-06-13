@@ -1,0 +1,19 @@
+{
+  "id": "player_aleix_garcia",
+  "name": "Aleix García",
+  "position": "Central Midfield",
+  "nationality": "Spain",
+  "birth_date": "1997-06-28",
+  "height": 1,
+  "weight": 150,
+  "club_id": "team_bayer_leverkusen",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zby8om1718359317.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34176867"
+  }
+}

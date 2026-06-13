@@ -1,0 +1,19 @@
+{
+  "id": "player_boris_radunovic",
+  "name": "Boris Radunović",
+  "position": "Goalkeeper",
+  "nationality": "Serbia",
+  "birth_date": "1996-05-26",
+  "height": 1,
+  "weight": 183,
+  "club_id": "team_cagliari",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bam0bf1599569349.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34169571"
+  }
+}

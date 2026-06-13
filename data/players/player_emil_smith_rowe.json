@@ -1,0 +1,19 @@
+{
+  "id": "player_emil_smith_rowe",
+  "name": "Emil Smith Rowe",
+  "position": "Attacking Midfield",
+  "nationality": "England",
+  "birth_date": "2000-07-28",
+  "height": 6,
+  "weight": null,
+  "club_id": "team_fulham",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kjimti1772026445.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34173038"
+  }
+}

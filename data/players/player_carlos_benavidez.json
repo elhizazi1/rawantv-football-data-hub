@@ -1,0 +1,19 @@
+{
+  "id": "player_carlos_benavidez",
+  "name": "Carlos Benavídez",
+  "position": "Defensive Midfield",
+  "nationality": "Uruguay",
+  "birth_date": "1998-03-30",
+  "height": 1,
+  "weight": 168,
+  "club_id": "team_alaves",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8f66to1706335728.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34216917"
+  }
+}

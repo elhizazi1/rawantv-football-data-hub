@@ -1,0 +1,19 @@
+{
+  "id": "player_bart_verbruggen",
+  "name": "Bart Verbruggen",
+  "position": "Goalkeeper",
+  "nationality": "The Netherlands",
+  "birth_date": "2002-08-18",
+  "height": 194,
+  "weight": 146,
+  "club_id": "team_brighton_and_hove_albion",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2ldxic1772017667.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34179954"
+  }
+}

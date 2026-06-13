@@ -1,0 +1,19 @@
+{
+  "id": "player_charles_de_ketelaere",
+  "name": "Charles De Ketelaere",
+  "position": "Attacking Midfield",
+  "nationality": "Belgium",
+  "birth_date": "2001-03-10",
+  "height": 192,
+  "weight": 161,
+  "club_id": "team_atalanta",
+  "photo": "https://www.thesportsdb.com/images/media/player/thumb/q597y21779039802.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34171323"
+  }
+}

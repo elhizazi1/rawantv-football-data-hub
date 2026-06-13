@@ -1,0 +1,19 @@
+{
+  "id": "player_alysson",
+  "name": "Alysson",
+  "position": "Attacker",
+  "nationality": "Brazil",
+  "birth_date": "2006-05-05",
+  "height": 1,
+  "weight": 77,
+  "club_id": "team_aston_villa",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zq96l91767541942.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34346311"
+  }
+}

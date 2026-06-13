@@ -1,0 +1,19 @@
+{
+  "id": "player_dango_ouattara",
+  "name": "Dango Ouattara",
+  "position": "Right Winger",
+  "nationality": "Burkina Faso",
+  "birth_date": "2002-02-11",
+  "height": 1,
+  "weight": 157,
+  "club_id": "team_brentford",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0irbqm1771939488.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34196432"
+  }
+}

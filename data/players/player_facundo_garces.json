@@ -1,0 +1,19 @@
+{
+  "id": "player_facundo_garces",
+  "name": "Facundo Garcés",
+  "position": "Centre-Back",
+  "nationality": "Malaysia",
+  "birth_date": "1999-09-05",
+  "height": 188,
+  "weight": 181,
+  "club_id": "team_deportivo_alaves",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/hhn5oh1741377068.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34218711"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_antonee_robinson",
+  "name": "Antonee Robinson",
+  "position": "Left-Back",
+  "nationality": "United States",
+  "birth_date": "1997-08-08",
+  "height": 1,
+  "weight": 152,
+  "club_id": "team_fulham",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/310oc61772026492.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34161482"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_bema_sina",
+  "name": "Bema Sina",
+  "position": "Defender",
+  "nationality": "Ghana",
+  "birth_date": "2003-04-07",
+  "height": null,
+  "weight": null,
+  "club_id": "team_elche",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8csc6j1775220954.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34434401"
+  }
+}

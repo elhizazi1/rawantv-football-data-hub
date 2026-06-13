@@ -1,0 +1,19 @@
+{
+  "id": "player_adam_smith",
+  "name": "Adam Smith",
+  "position": "Right-Back",
+  "nationality": "England",
+  "birth_date": "1991-04-29",
+  "height": 1,
+  "weight": 172,
+  "club_id": "team_bournemouth",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bmpxfz1771751990.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34160896"
+  }
+}

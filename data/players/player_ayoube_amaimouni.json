@@ -1,0 +1,19 @@
+{
+  "id": "player_ayoube_amaimouni",
+  "name": "Ayoube Amaimouni",
+  "position": "Right Winger",
+  "nationality": "Morocco",
+  "birth_date": "2004-11-30",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_eintracht_frankfurt",
+  "photo": "https://www.thesportsdb.com/images/media/player/thumb/k1zhdn1779838936.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34434417"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_abu_kamara",
+  "name": "Abu Kamara",
+  "position": "Forward",
+  "nationality": "England",
+  "birth_date": "2003-07-21",
+  "height": 6,
+  "weight": 179,
+  "club_id": "team_getafe",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/7co8kk1697711564.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34222119"
+  }
+}

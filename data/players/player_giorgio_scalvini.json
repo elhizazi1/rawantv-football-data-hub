@@ -1,0 +1,19 @@
+{
+  "id": "player_giorgio_scalvini",
+  "name": "Giorgio Scalvini",
+  "position": "Centre-Back",
+  "nationality": "Italy",
+  "birth_date": "2003-12-11",
+  "height": 194,
+  "weight": 168,
+  "club_id": "team_atalanta",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/hasaks1642935118.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34196044"
+  }
+}

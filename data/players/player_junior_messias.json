@@ -1,0 +1,19 @@
+{
+  "id": "player_junior_messias",
+  "name": "Junior Messias",
+  "position": "Forward",
+  "nationality": "Brazil",
+  "birth_date": "1991-05-13",
+  "height": 1,
+  "weight": 152,
+  "club_id": "team_genoa",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/awp7091608193597.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34172575"
+  }
+}

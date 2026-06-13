@@ -1,0 +1,19 @@
+{
+  "id": "player_angel_fortuno",
+  "name": "Ángel Fortuño",
+  "position": "Goalkeeper",
+  "nationality": "Spain",
+  "birth_date": "2001-10-05",
+  "height": 183,
+  "weight": 170,
+  "club_id": "team_espanyol",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/974nrg1762373753.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34277788"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_berat_djimsiti",
+  "name": "Berat Djimsiti",
+  "position": "Centre-Back",
+  "nationality": "Albania",
+  "birth_date": "1993-02-19",
+  "height": 1,
+  "weight": 183,
+  "club_id": "team_atalanta",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/trtspe1700755463.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34164230"
+  }
+}

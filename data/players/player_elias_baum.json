@@ -1,0 +1,19 @@
+{
+  "id": "player_elias_baum",
+  "name": "Elias Baum",
+  "position": "Defender",
+  "nationality": "Germany",
+  "birth_date": "2005-10-26",
+  "height": 180,
+  "weight": 170,
+  "club_id": "team_eintracht_frankfurt",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/lqaahh1762967628.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34226264"
+  }
+}

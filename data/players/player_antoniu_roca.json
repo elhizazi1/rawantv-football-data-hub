@@ -1,0 +1,19 @@
+{
+  "id": "player_antoniu_roca",
+  "name": "Antoniu Roca",
+  "position": "Right Winger",
+  "nationality": "Spain",
+  "birth_date": "2002-09-05",
+  "height": 5,
+  "weight": 141,
+  "club_id": "team_espanyol",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/f10p2q1723649118.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34246500"
+  }
+}

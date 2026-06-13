@@ -1,0 +1,19 @@
+{
+  "id": "player_fermin_lopez",
+  "name": "Fermín López",
+  "position": "Central Midfield",
+  "nationality": "Spain",
+  "birth_date": "2003-05-11",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_barcelona",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5z9d271771253844.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34219811"
+  }
+}

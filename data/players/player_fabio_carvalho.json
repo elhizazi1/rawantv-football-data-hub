@@ -1,0 +1,19 @@
+{
+  "id": "player_fabio_carvalho",
+  "name": "Fabio Carvalho",
+  "position": "Attacking Midfield",
+  "nationality": "Portugal",
+  "birth_date": "2002-08-30",
+  "height": 1,
+  "weight": 137,
+  "club_id": "team_brentford",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/on3v191771938801.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34179828"
+  }
+}

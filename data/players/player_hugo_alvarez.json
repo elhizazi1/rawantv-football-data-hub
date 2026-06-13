@@ -1,0 +1,19 @@
+{
+  "id": "player_hugo_alvarez",
+  "name": "Hugo Álvarez",
+  "position": "Left Wing",
+  "nationality": "Spain",
+  "birth_date": "2003-07-02",
+  "height": 1,
+  "weight": 159,
+  "club_id": "team_celta_vigo",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/6fz2p11723537408.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34227049"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_brennan_johnson",
+  "name": "Brennan Johnson",
+  "position": "Right Winger",
+  "nationality": "Wales",
+  "birth_date": "2001-05-23",
+  "height": 1,
+  "weight": 161,
+  "club_id": "team_crystal_palace",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ai0p7z1772140777.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34177246"
+  }
+}

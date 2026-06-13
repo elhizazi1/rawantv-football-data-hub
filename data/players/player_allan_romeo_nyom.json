@@ -1,0 +1,19 @@
+{
+  "id": "player_allan_romeo_nyom",
+  "name": "Allan-Romeo Nyom",
+  "position": "Right-Back",
+  "nationality": "Cameroon",
+  "birth_date": "1988-05-10",
+  "height": 1,
+  "weight": 78,
+  "club_id": "team_getafe",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/18s8sc1509041814.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34149485"
+  }
+}

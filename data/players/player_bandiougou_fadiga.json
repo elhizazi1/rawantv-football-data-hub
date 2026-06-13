@@ -1,0 +1,19 @@
+{
+  "id": "player_bandiougou_fadiga",
+  "name": "Bandiougou Fadiga",
+  "position": "Attacking Midfield",
+  "nationality": "France",
+  "birth_date": "2001-01-15",
+  "height": 178,
+  "weight": 163,
+  "club_id": "team_lorient",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/87xghr1609938604.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34174047"
+  }
+}

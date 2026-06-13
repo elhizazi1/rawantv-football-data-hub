@@ -1,0 +1,19 @@
+{
+  "id": "player_eliesse_ben_seghir",
+  "name": "Eliesse Ben Seghir",
+  "position": "Attacking Midfield",
+  "nationality": "France",
+  "birth_date": "2005-02-16",
+  "height": 5,
+  "weight": 159,
+  "club_id": "team_bayer_leverkusen",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/3kmz7l1674744972.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34203098"
+  }
+}

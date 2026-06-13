@@ -1,0 +1,19 @@
+{
+  "id": "player_assane_diousse",
+  "name": "Assane Diousse",
+  "position": "Midfielder",
+  "nationality": "Senegal",
+  "birth_date": "1997-09-20",
+  "height": 1,
+  "weight": 150,
+  "club_id": "team_auxerre",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/i6rfej1551630836.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34148084"
+  }
+}

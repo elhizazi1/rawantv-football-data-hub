@@ -1,0 +1,19 @@
+{
+  "id": "player_adam_boayar",
+  "name": "Adam Boayar",
+  "position": "Second Striker",
+  "nationality": "Morocco",
+  "birth_date": "2005-10-13",
+  "height": 180,
+  "weight": null,
+  "club_id": "team_elche",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/l1yw7w1762360721.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34258255"
+  }
+}

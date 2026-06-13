@@ -1,0 +1,19 @@
+{
+  "id": "player_edmond_paris_maghoma",
+  "name": "Edmond-Paris Maghoma",
+  "position": "Midfielder",
+  "nationality": "England",
+  "birth_date": "2001-05-08",
+  "height": null,
+  "weight": null,
+  "club_id": "team_brentford",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jzjqxl1690900932.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34218292"
+  }
+}

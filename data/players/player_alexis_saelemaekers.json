@@ -1,0 +1,19 @@
+{
+  "id": "player_alexis_saelemaekers",
+  "name": "Alexis Saelemaekers",
+  "position": "Left Midfield",
+  "nationality": "Belgium",
+  "birth_date": "1999-06-27",
+  "height": 1,
+  "weight": 159,
+  "club_id": "team_ac_milan",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zvqwjg1598645973.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34169691"
+  }
+}

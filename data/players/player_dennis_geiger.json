@@ -1,0 +1,19 @@
+{
+  "id": "player_dennis_geiger",
+  "name": "Dennis Geiger",
+  "position": "Midfielder",
+  "nationality": "Germany",
+  "birth_date": "1998-06-10",
+  "height": 1,
+  "weight": 148,
+  "club_id": "team_hoffenheim",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mw3fn61578089019.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34169205"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_adrien_thomasson",
+  "name": "Adrien Thomasson",
+  "position": "Midfielder",
+  "nationality": "France",
+  "birth_date": "1993-12-10",
+  "height": 1,
+  "weight": 159,
+  "club_id": "team_lens",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/hedfe41607872006.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34173374"
+  }
+}

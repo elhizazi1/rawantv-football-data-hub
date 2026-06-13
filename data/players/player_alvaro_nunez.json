@@ -1,0 +1,19 @@
+{
+  "id": "player_alvaro_nunez",
+  "name": "Álvaro Núñez",
+  "position": "Right-Back",
+  "nationality": "Spain",
+  "birth_date": "2000-07-07",
+  "height": 174,
+  "weight": 130,
+  "club_id": "team_elche",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vqay9o1762359237.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34258251"
+  }
+}

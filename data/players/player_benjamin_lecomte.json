@@ -1,0 +1,19 @@
+{
+  "id": "player_benjamin_lecomte",
+  "name": "Benjamin Lecomte",
+  "position": "Goalkeeper",
+  "nationality": "France",
+  "birth_date": "1991-04-26",
+  "height": 1,
+  "weight": 172,
+  "club_id": "team_fulham",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/sun2ma1772026097.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34152864"
+  }
+}

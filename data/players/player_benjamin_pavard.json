@@ -1,0 +1,19 @@
+{
+  "id": "player_benjamin_pavard",
+  "name": "Benjamin Pavard",
+  "position": "Centre-Back",
+  "nationality": "France",
+  "birth_date": "1996-03-28",
+  "height": 1,
+  "weight": 81,
+  "club_id": "team_marseille",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/36hwgb1660764260.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34163434"
+  }
+}

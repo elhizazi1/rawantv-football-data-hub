@@ -1,0 +1,19 @@
+{
+  "id": "player_francesco_rossi",
+  "name": "Francesco Rossi",
+  "position": "Goalkeeper",
+  "nationality": "Italy",
+  "birth_date": "1991-04-27",
+  "height": 1,
+  "weight": 183,
+  "club_id": "team_atalanta",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/giojp41546032458.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34148385"
+  }
+}

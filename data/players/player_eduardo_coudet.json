@@ -1,0 +1,19 @@
+{
+  "id": "player_eduardo_coudet",
+  "name": "Eduardo Coudet",
+  "position": "Manager",
+  "nationality": "Argentina",
+  "birth_date": "1974-09-19",
+  "height": null,
+  "weight": null,
+  "club_id": "team_alaves",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/e0snjl1658621849.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34199962"
+  }
+}

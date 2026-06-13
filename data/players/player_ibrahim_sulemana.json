@@ -1,0 +1,19 @@
+{
+  "id": "player_ibrahim_sulemana",
+  "name": "Ibrahim Sulemana",
+  "position": "Defensive Midfield",
+  "nationality": "Ghana",
+  "birth_date": "2003-05-22",
+  "height": null,
+  "weight": 78,
+  "club_id": "team_bologna",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dralsv1679667689.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34202082"
+  }
+}

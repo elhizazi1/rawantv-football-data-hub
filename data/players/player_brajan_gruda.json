@@ -1,0 +1,19 @@
+{
+  "id": "player_brajan_gruda",
+  "name": "Brajan Gruda",
+  "position": "Midfielder",
+  "nationality": "Germany",
+  "birth_date": "2004-05-31",
+  "height": 5,
+  "weight": 152,
+  "club_id": "team_brighton_and_hove_albion",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/de7me51680006501.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34215644"
+  }
+}

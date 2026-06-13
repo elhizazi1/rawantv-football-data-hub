@@ -1,0 +1,19 @@
+{
+  "id": "player_filippo_mane",
+  "name": "Filippo Mané",
+  "position": "Centre-Back",
+  "nationality": "Italy",
+  "birth_date": "2005-03-08",
+  "height": 188,
+  "weight": 78,
+  "club_id": "team_borussia_dortmund",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jks3nh1756311519.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34253732"
+  }
+}

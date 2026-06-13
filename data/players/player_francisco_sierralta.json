@@ -1,0 +1,19 @@
+{
+  "id": "player_francisco_sierralta",
+  "name": "Francisco Sierralta",
+  "position": "Centre-Back",
+  "nationality": "Chile",
+  "birth_date": "1997-05-06",
+  "height": 192,
+  "weight": 183,
+  "club_id": "team_auxerre",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/sjvkl31715649312.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34174036"
+  }
+}

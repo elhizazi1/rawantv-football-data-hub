@@ -1,0 +1,19 @@
+{
+  "id": "player_david_brooks",
+  "name": "David Brooks",
+  "position": "Right Winger",
+  "nationality": "Wales",
+  "birth_date": "1997-07-08",
+  "height": 5,
+  "weight": 137,
+  "club_id": "team_bournemouth",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tehtnz1771750805.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34161564"
+  }
+}

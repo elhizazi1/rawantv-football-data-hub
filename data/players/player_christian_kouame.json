@@ -1,0 +1,19 @@
+{
+  "id": "player_christian_kouame",
+  "name": "Christian Kouamé",
+  "position": "Forward",
+  "nationality": "Ivory Coast",
+  "birth_date": "1997-12-06",
+  "height": 1,
+  "weight": 152,
+  "club_id": "team_fiorentina",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1in9q11546112789.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34164241"
+  }
+}

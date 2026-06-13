@@ -1,0 +1,19 @@
+{
+  "id": "player_alejandro_rego",
+  "name": "Alejandro Rego",
+  "position": "Central Midfield",
+  "nationality": "Spain",
+  "birth_date": "2003-06-11",
+  "height": 192,
+  "weight": null,
+  "club_id": "team_athletic_bilbao",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tu97lp1762357022.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34251164"
+  }
+}

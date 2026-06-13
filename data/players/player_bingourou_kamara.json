@@ -1,0 +1,19 @@
+{
+  "id": "player_bingourou_kamara",
+  "name": "Bingourou Kamara",
+  "position": "Goalkeeper",
+  "nationality": "France",
+  "birth_date": "1996-10-21",
+  "height": 1,
+  "weight": 203,
+  "club_id": "team_lorient",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0zsg471610099835.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34174044"
+  }
+}

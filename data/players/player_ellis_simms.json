@@ -1,0 +1,19 @@
+{
+  "id": "player_ellis_simms",
+  "name": "Ellis Simms",
+  "position": "Centre-Forward",
+  "nationality": "England",
+  "birth_date": "2001-01-05",
+  "height": 191,
+  "weight": 161,
+  "club_id": "team_coventry_city",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/lyxt0g1630676926.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34178276"
+  }
+}

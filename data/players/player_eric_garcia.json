@@ -1,0 +1,19 @@
+{
+  "id": "player_eric_garcia",
+  "name": "Eric García",
+  "position": "Centre-Back",
+  "nationality": "Spain",
+  "birth_date": "2001-01-09",
+  "height": 1,
+  "weight": 168,
+  "club_id": "team_barcelona",
+  "photo": "https://www.thesportsdb.com/images/media/player/thumb/mc6fd21779730502.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34172241"
+  }
+}

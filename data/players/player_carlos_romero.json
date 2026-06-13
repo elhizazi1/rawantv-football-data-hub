@@ -1,0 +1,19 @@
+{
+  "id": "player_carlos_romero",
+  "name": "Carlos Romero",
+  "position": "Left-Back",
+  "nationality": "Spain",
+  "birth_date": "2001-10-29",
+  "height": 5,
+  "weight": 161,
+  "club_id": "team_espanyol",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8blz0b1701165576.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34221674"
+  }
+}

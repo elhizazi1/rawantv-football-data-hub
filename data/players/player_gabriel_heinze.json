@@ -1,0 +1,19 @@
+{
+  "id": "player_gabriel_heinze",
+  "name": "Gabriel Heinze",
+  "position": "Assistant Coach",
+  "nationality": "Argentina",
+  "birth_date": "1978-04-19",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_arsenal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/g1201n1767708489.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34195530"
+  }
+}

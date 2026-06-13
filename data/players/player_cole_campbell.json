@@ -1,0 +1,19 @@
+{
+  "id": "player_cole_campbell",
+  "name": "Cole Campbell",
+  "position": "Right Winger",
+  "nationality": "United States",
+  "birth_date": "2006-02-20",
+  "height": 170,
+  "weight": 150,
+  "club_id": "team_borussia_dortmund",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5p3mug1741868893.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34252757"
+  }
+}

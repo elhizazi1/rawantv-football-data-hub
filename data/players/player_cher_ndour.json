@@ -1,0 +1,19 @@
+{
+  "id": "player_cher_ndour",
+  "name": "Cher Ndour",
+  "position": "Central Midfield",
+  "nationality": "Italy",
+  "birth_date": "2004-07-27",
+  "height": 1,
+  "weight": 181,
+  "club_id": "team_fiorentina",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/n8sg8x1700509659.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34222391"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_gabriel_slonina",
+  "name": "Gabriel Slonina",
+  "position": "Goalkeeper",
+  "nationality": "United States",
+  "birth_date": "2004-05-15",
+  "height": 193,
+  "weight": 195,
+  "club_id": "team_chelsea",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ipb9mg1641469245.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34184096"
+  }
+}

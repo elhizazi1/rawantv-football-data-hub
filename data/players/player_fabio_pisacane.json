@@ -1,0 +1,19 @@
+{
+  "id": "player_fabio_pisacane",
+  "name": "Fabio Pisacane",
+  "position": "Manager",
+  "nationality": "Italy",
+  "birth_date": "1986-01-28",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_cagliari",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/b7u1qq1546612652.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34164531"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_edu_exposito",
+  "name": "Edu Expósito",
+  "position": "Central Midfield",
+  "nationality": "Spain",
+  "birth_date": "1996-08-01",
+  "height": 1,
+  "weight": 150,
+  "club_id": "team_espanyol",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jrp3ti1723549714.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34170199"
+  }
+}

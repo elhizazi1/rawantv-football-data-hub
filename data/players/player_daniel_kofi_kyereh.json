@@ -1,0 +1,19 @@
+{
+  "id": "player_daniel_kofi_kyereh",
+  "name": "Daniel-Kofi Kyereh",
+  "position": "Central Midfield",
+  "nationality": "Ghana",
+  "birth_date": "1996-03-08",
+  "height": 1,
+  "weight": 73,
+  "club_id": "team_freiburg",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ek0av91658934836.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34174722"
+  }
+}

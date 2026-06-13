@@ -1,0 +1,19 @@
+{
+  "id": "player_goduine_koyalipou",
+  "name": "Goduine Koyalipou",
+  "position": "Centre-Forward",
+  "nationality": "Central African Republic",
+  "birth_date": "2000-02-15",
+  "height": 1,
+  "weight": 181,
+  "club_id": "team_levante",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tsi1hn1762462097.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34174901"
+  }
+}

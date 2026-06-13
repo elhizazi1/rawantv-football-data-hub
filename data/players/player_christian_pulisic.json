@@ -1,0 +1,19 @@
+{
+  "id": "player_christian_pulisic",
+  "name": "Christian Pulisic",
+  "position": "Right Winger",
+  "nationality": "United States",
+  "birth_date": "1998-09-18",
+  "height": 178,
+  "weight": 161,
+  "club_id": "team_ac_milan",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/40pxda1669799830.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34163470"
+  }
+}

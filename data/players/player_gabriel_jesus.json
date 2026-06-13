@@ -1,0 +1,19 @@
+{
+  "id": "player_gabriel_jesus",
+  "name": "Gabriel Jesus",
+  "position": "Centre-Forward",
+  "nationality": "Brazil",
+  "birth_date": "1997-04-03",
+  "height": 1,
+  "weight": 161,
+  "club_id": "team_arsenal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/iwt0021678196502.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34160962"
+  }
+}

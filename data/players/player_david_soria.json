@@ -1,0 +1,19 @@
+{
+  "id": "player_david_soria",
+  "name": "David Soria",
+  "position": "Goalkeeper",
+  "nationality": "Spain",
+  "birth_date": "1993-04-04",
+  "height": 192,
+  "weight": 183,
+  "club_id": "team_getafe",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ixne191546358501.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34149663"
+  }
+}

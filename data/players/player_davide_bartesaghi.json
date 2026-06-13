@@ -1,0 +1,19 @@
+{
+  "id": "player_davide_bartesaghi",
+  "name": "Davide Bartesaghi",
+  "position": "Left-Back",
+  "nationality": "Italy",
+  "birth_date": "2005-12-29",
+  "height": 193,
+  "weight": 190,
+  "club_id": "team_ac_milan",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5q6kwc1758893338.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34226257"
+  }
+}

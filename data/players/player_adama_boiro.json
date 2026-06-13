@@ -1,0 +1,19 @@
+{
+  "id": "player_adama_boiro",
+  "name": "Adama Boiro",
+  "position": "Left-Back",
+  "nationality": "Spain",
+  "birth_date": "2002-06-22",
+  "height": 1,
+  "weight": 163,
+  "club_id": "team_athletic_bilbao",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/nbpav51725011321.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34248035"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_albert_gudmundsson",
+  "name": "Albert Guðmundsson",
+  "position": "Forward",
+  "nationality": "Iceland",
+  "birth_date": "1997-06-15",
+  "height": 1,
+  "weight": 174,
+  "club_id": "team_fiorentina",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/njw0ii1700049359.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34170382"
+  }
+}

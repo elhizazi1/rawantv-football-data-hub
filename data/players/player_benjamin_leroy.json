@@ -1,0 +1,19 @@
+{
+  "id": "player_benjamin_leroy",
+  "name": "Benjamin Leroy",
+  "position": "Goalkeeper",
+  "nationality": "France",
+  "birth_date": "1989-04-07",
+  "height": 184,
+  "weight": 163,
+  "club_id": "team_lorient",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/k8cg4v1616150821.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34174848"
+  }
+}

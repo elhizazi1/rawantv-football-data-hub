@@ -1,0 +1,19 @@
+{
+  "id": "player_fode_sylla",
+  "name": "Fodé Sylla",
+  "position": "Defensive Midfield",
+  "nationality": "France",
+  "birth_date": "2006-04-16",
+  "height": 182,
+  "weight": 70,
+  "club_id": "team_lens",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/iucoc01766004566.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34349117"
+  }
+}

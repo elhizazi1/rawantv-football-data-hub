@@ -1,0 +1,19 @@
+{
+  "id": "player_arthur",
+  "name": "Arthur",
+  "position": "Defender",
+  "nationality": "Brazil",
+  "birth_date": "2003-03-17",
+  "height": 173,
+  "weight": 70,
+  "club_id": "team_bayer_leverkusen",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/u4zhyl1741447963.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34225990"
+  }
+}

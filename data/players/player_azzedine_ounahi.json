@@ -1,0 +1,19 @@
+{
+  "id": "player_azzedine_ounahi",
+  "name": "Azzedine Ounahi",
+  "position": "Central Midfield",
+  "nationality": "Morocco",
+  "birth_date": "2000-04-19",
+  "height": 182,
+  "weight": 137,
+  "club_id": "team_girona",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/sbzf7x1668956130.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34192542"
+  }
+}

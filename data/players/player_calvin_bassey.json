@@ -1,0 +1,19 @@
+{
+  "id": "player_calvin_bassey",
+  "name": "Calvin Bassey",
+  "position": "Centre-Back",
+  "nationality": "Nigeria",
+  "birth_date": "1999-12-31",
+  "height": 1,
+  "weight": 168,
+  "club_id": "team_fulham",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/56cshb1772024766.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34199896"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_christantus_uche",
+  "name": "Christantus Uche",
+  "position": "Attacking Midfield",
+  "nationality": "Nigeria",
+  "birth_date": "2003-05-19",
+  "height": 190,
+  "weight": 183,
+  "club_id": "team_crystal_palace",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/hh2y2g1757011058.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34280151"
+  }
+}

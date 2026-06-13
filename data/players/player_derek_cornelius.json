@@ -1,0 +1,19 @@
+{
+  "id": "player_derek_cornelius",
+  "name": "Derek Cornelius",
+  "position": "Centre-Back",
+  "nationality": "Canada",
+  "birth_date": "1997-11-25",
+  "height": 1,
+  "weight": 190,
+  "club_id": "team_marseille",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ixglfi1668714509.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34200757"
+  }
+}

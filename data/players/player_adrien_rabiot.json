@@ -1,0 +1,19 @@
+{
+  "id": "player_adrien_rabiot",
+  "name": "Adrien Rabiot",
+  "position": "Central Midfield",
+  "nationality": "France",
+  "birth_date": "1995-04-03",
+  "height": 1,
+  "weight": 159,
+  "club_id": "team_ac_milan",
+  "photo": "https://www.thesportsdb.com/images/media/player/thumb/dqh5pj1778817478.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34152573"
+  }
+}

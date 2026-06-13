@@ -1,0 +1,19 @@
+{
+  "id": "player_fredrik_oppegard",
+  "name": "Fredrik Oppegård",
+  "position": "Left-Back",
+  "nationality": "Norway",
+  "birth_date": "2002-08-07",
+  "height": 175,
+  "weight": 148,
+  "club_id": "team_auxerre",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/o0jwoz1679497248.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34197249"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_iliman_ndiaye",
+  "name": "Iliman Ndiaye",
+  "position": "Midfielder",
+  "nationality": "Senegal",
+  "birth_date": "2000-03-06",
+  "height": 1,
+  "weight": 152,
+  "club_id": "team_everton",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mewy8h1628334209.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34178338"
+  }
+}

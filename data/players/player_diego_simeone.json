@@ -1,0 +1,19 @@
+{
+  "id": "player_diego_simeone",
+  "name": "Diego Simeone",
+  "position": "Manager",
+  "nationality": "Argentina",
+  "birth_date": "1970-04-28",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_ath_madrid",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2f8abw1534444128.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34163764"
+  }
+}

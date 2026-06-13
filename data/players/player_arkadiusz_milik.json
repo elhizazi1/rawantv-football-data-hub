@@ -1,0 +1,19 @@
+{
+  "id": "player_arkadiusz_milik",
+  "name": "Arkadiusz Milik",
+  "position": "Forward",
+  "nationality": "Poland",
+  "birth_date": "1994-02-28",
+  "height": 1,
+  "weight": 174,
+  "club_id": "team_juventus",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dg5t011533750617.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34155400"
+  }
+}

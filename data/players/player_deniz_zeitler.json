@@ -1,0 +1,19 @@
+{
+  "id": "player_deniz_zeitler",
+  "name": "Deniz Zeitler",
+  "position": "Forward",
+  "nationality": "Germany",
+  "birth_date": "2006-12-13",
+  "height": null,
+  "weight": null,
+  "club_id": "team_hoffenheim",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/blck791763496615.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34300514"
+  }
+}

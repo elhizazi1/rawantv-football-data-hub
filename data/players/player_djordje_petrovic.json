@@ -1,0 +1,19 @@
+{
+  "id": "player_djordje_petrovic",
+  "name": "Đorđe Petrović",
+  "position": "Goalkeeper",
+  "nationality": "Serbia",
+  "birth_date": "1999-10-08",
+  "height": 194,
+  "weight": 89,
+  "club_id": "team_bournemouth",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/rz7f471771751668.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34199497"
+  }
+}

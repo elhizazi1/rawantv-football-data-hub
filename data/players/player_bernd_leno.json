@@ -1,0 +1,19 @@
+{
+  "id": "player_bernd_leno",
+  "name": "Bernd Leno",
+  "position": "Goalkeeper",
+  "nationality": "Germany",
+  "birth_date": "1992-03-04",
+  "height": 1,
+  "weight": 181,
+  "club_id": "team_fulham",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dkrqvd1772026031.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34155372"
+  }
+}

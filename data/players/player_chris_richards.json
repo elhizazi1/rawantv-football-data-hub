@@ -1,0 +1,19 @@
+{
+  "id": "player_chris_richards",
+  "name": "Chris Richards",
+  "position": "Centre-Back",
+  "nationality": "United States",
+  "birth_date": "2000-03-28",
+  "height": 1,
+  "weight": 192,
+  "club_id": "team_crystal_palace",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/b5mhg01772141314.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34173162"
+  }
+}

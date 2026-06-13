@@ -1,0 +1,19 @@
+{
+  "id": "player_ben_gannon_doak",
+  "name": "Ben Gannon-Doak",
+  "position": "Right Winger",
+  "nationality": "Scotland",
+  "birth_date": "2005-11-11",
+  "height": 5,
+  "weight": 141,
+  "club_id": "team_bournemouth",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5vkrus1771751268.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34203074"
+  }
+}

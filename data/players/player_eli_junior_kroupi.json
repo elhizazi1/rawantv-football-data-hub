@@ -1,0 +1,19 @@
+{
+  "id": "player_eli_junior_kroupi",
+  "name": "Eli Junior Kroupi",
+  "position": "Centre-Forward",
+  "nationality": "France",
+  "birth_date": "2006-06-23",
+  "height": 1,
+  "weight": 152,
+  "club_id": "team_bournemouth",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/js4g5i1771751533.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34220320"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_harry_wilson",
+  "name": "Harry Wilson",
+  "position": "Right Winger",
+  "nationality": "Wales",
+  "birth_date": "1997-03-22",
+  "height": 5,
+  "weight": 139,
+  "club_id": "team_fulham",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ionbzl1772024456.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34166841"
+  }
+}

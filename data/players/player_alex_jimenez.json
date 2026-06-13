@@ -1,0 +1,19 @@
+{
+  "id": "player_alex_jimenez",
+  "name": "Álex Jiménez",
+  "position": "Left-Back",
+  "nationality": "Spain",
+  "birth_date": "2005-05-08",
+  "height": 1,
+  "weight": 161,
+  "club_id": "team_bournemouth",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/begenu1705228539.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34227000"
+  }
+}

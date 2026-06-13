@@ -1,0 +1,19 @@
+{
+  "id": "player_alex_berenguer",
+  "name": "Álex Berenguer",
+  "position": "Attacking Midfield",
+  "nationality": "Spain",
+  "birth_date": "1995-07-04",
+  "height": 1,
+  "weight": 161,
+  "club_id": "team_athletic_bilbao",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ranylg1723532557.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34164381"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_alejandro_balde",
+  "name": "Alejandro Balde",
+  "position": "Left-Back",
+  "nationality": "Spain",
+  "birth_date": "2003-03-18",
+  "height": 1,
+  "weight": 69,
+  "club_id": "team_barcelona",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tg8vxg1771260762.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34193418"
+  }
+}

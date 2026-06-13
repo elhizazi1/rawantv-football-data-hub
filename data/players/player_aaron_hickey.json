@@ -1,0 +1,19 @@
+{
+  "id": "player_aaron_hickey",
+  "name": "Aaron Hickey",
+  "position": "Right-Back",
+  "nationality": "Scotland",
+  "birth_date": "2002-06-10",
+  "height": null,
+  "weight": 72,
+  "club_id": "team_brentford",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vwmcre1601070032.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34172526"
+  }
+}

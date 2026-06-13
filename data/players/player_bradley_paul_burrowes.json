@@ -1,0 +1,19 @@
+{
+  "id": "player_bradley_paul_burrowes",
+  "name": "Bradley-Paul Burrowes",
+  "position": "Midfielder",
+  "nationality": "England",
+  "birth_date": "2008-03-04",
+  "height": null,
+  "weight": null,
+  "club_id": "team_aston_villa",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/uxp2yx1770199284.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34433975"
+  }
+}

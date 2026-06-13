@@ -1,0 +1,19 @@
+{
+  "id": "player_fabian_hurzeler",
+  "name": "Fabian Hürzeler",
+  "position": "Manager",
+  "nationality": "Germany",
+  "birth_date": "1993-02-26",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_brighton_and_hove_albion",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ptaqn51725367293.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34243398"
+  }
+}

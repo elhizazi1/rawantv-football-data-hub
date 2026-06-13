@@ -1,0 +1,19 @@
+{
+  "id": "player_jhon_lucumi",
+  "name": "Jhon Lucumí",
+  "position": "Centre-Back",
+  "nationality": "Colombia",
+  "birth_date": "1998-06-26",
+  "height": 1,
+  "weight": 183,
+  "club_id": "team_bologna",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/r7hnhc1723963266.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34175625"
+  }
+}

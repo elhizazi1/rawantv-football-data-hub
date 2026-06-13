@@ -1,0 +1,19 @@
+{
+  "id": "player_amine_adli",
+  "name": "Amine Adli",
+  "position": "Midfielder",
+  "nationality": "France",
+  "birth_date": "2000-05-10",
+  "height": 1,
+  "weight": 159,
+  "club_id": "team_bournemouth",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/cutxxz1771752339.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34174780"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_daniel_svensson",
+  "name": "Daniel Svensson",
+  "position": "Left-Back",
+  "nationality": "Sweden",
+  "birth_date": "2002-02-12",
+  "height": 1,
+  "weight": 159,
+  "club_id": "team_borussia_dortmund",
+  "photo": "https://www.thesportsdb.com/images/media/player/thumb/py7rgz1778625777.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34175869"
+  }
+}

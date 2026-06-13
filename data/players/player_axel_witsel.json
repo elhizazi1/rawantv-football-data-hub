@@ -1,0 +1,19 @@
+{
+  "id": "player_axel_witsel",
+  "name": "Axel Witsel",
+  "position": "Defensive Midfield",
+  "nationality": "Belgium",
+  "birth_date": "1989-01-12",
+  "height": 1,
+  "weight": 179,
+  "club_id": "team_girona",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/gex6yt1706956962.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34146809"
+  }
+}

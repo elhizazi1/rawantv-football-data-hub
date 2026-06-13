@@ -1,0 +1,19 @@
+{
+  "id": "player_alex_sancris",
+  "name": "Álex Sancris",
+  "position": "Right Winger",
+  "nationality": "Spain",
+  "birth_date": "1997-01-18",
+  "height": 177,
+  "weight": 159,
+  "club_id": "team_getafe",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/w0q4rn1762429433.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34257961"
+  }
+}

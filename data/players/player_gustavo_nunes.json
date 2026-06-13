@@ -1,0 +1,19 @@
+{
+  "id": "player_gustavo_nunes",
+  "name": "Gustavo Nunes",
+  "position": "Attacker",
+  "nationality": "Brazil",
+  "birth_date": "2005-11-20",
+  "height": 173,
+  "weight": 69,
+  "club_id": "team_brentford",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/810hbv1724961800.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34232927"
+  }
+}

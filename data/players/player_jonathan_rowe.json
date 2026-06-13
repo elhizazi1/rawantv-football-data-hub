@@ -1,0 +1,19 @@
+{
+  "id": "player_jonathan_rowe",
+  "name": "Jonathan Rowe",
+  "position": "Left Wing",
+  "nationality": "England",
+  "birth_date": "2003-04-30",
+  "height": 178,
+  "weight": null,
+  "club_id": "team_bologna",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/frgnzp1695293335.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34197709"
+  }
+}

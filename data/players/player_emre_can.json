@@ -1,0 +1,19 @@
+{
+  "id": "player_emre_can",
+  "name": "Emre Can",
+  "position": "Defensive Midfield",
+  "nationality": "Germany",
+  "birth_date": "1994-01-12",
+  "height": 186,
+  "weight": 190,
+  "club_id": "team_borussia_dortmund",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/3rca6t1705094377.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34145936"
+  }
+}

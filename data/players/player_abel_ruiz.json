@@ -1,0 +1,19 @@
+{
+  "id": "player_abel_ruiz",
+  "name": "Abel Ruiz",
+  "position": "Centre-Forward",
+  "nationality": "Spain",
+  "birth_date": "2000-01-28",
+  "height": 182,
+  "weight": 161,
+  "club_id": "team_girona",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jc8mn91707036380.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34177829"
+  }
+}

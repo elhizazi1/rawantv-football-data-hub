@@ -1,0 +1,19 @@
+{
+  "id": "player_andra_cogoni",
+  "name": "Andra Cogoni",
+  "position": "Defender",
+  "nationality": "Italy",
+  "birth_date": "2006-07-04",
+  "height": 188,
+  "weight": 74,
+  "club_id": "team_cagliari",
+  "photo": null,
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34435394"
+  }
+}

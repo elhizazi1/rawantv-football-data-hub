@@ -1,0 +1,19 @@
+{
+  "id": "player_denis_suarez",
+  "name": "Denis Suárez",
+  "position": "Midfielder",
+  "nationality": "Spain",
+  "birth_date": "1994-01-06",
+  "height": 1,
+  "weight": 150,
+  "club_id": "team_deportivo_alaves",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zm75ak1562345370.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34160968"
+  }
+}

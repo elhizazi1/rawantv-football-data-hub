@@ -1,0 +1,19 @@
+{
+  "id": "player_ernest_poku",
+  "name": "Ernest Poku",
+  "position": "Centre-Forward",
+  "nationality": "The Netherlands",
+  "birth_date": "2004-01-28",
+  "height": 176,
+  "weight": 139,
+  "club_id": "team_bayer_leverkusen",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0ds84a1697461725.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34220695"
+  }
+}

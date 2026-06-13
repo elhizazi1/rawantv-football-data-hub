@@ -1,0 +1,19 @@
+{
+  "id": "player_antoine_griezmann",
+  "name": "Antoine Griezmann",
+  "position": "Second Striker",
+  "nationality": "France",
+  "birth_date": "1991-03-21",
+  "height": 1,
+  "weight": 161,
+  "club_id": "team_atletico_madrid",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xpmyw01702565423.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34159231"
+  }
+}

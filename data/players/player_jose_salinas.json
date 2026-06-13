@@ -1,0 +1,19 @@
+{
+  "id": "player_jose_salinas",
+  "name": "José Salinas",
+  "position": "Left-Back",
+  "nationality": "Spain",
+  "birth_date": "2000-09-30",
+  "height": 179,
+  "weight": 150,
+  "club_id": "team_espanyol",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5mdir21762374458.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34216906"
+  }
+}

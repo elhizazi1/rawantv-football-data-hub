@@ -1,0 +1,19 @@
+{
+  "id": "player_christophe_pelissier",
+  "name": "Christophe Pélissier",
+  "position": "Manager",
+  "nationality": "France",
+  "birth_date": "1965-10-05",
+  "height": null,
+  "weight": null,
+  "club_id": "team_auxerre",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/c64nts1549714324.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34165623"
+  }
+}

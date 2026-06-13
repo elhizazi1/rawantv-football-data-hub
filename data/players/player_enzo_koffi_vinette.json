@@ -1,0 +1,19 @@
+{
+  "id": "player_enzo_koffi_vinette",
+  "name": "Enzo Koffi Vinette",
+  "position": "Attacker",
+  "nationality": "France",
+  "birth_date": "2006-03-04",
+  "height": null,
+  "weight": null,
+  "club_id": "team_le_havre",
+  "photo": null,
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34433672"
+  }
+}

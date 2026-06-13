@@ -1,0 +1,19 @@
+{
+  "id": "player_clemens_riedel",
+  "name": "Clemens Riedel",
+  "position": "Defender",
+  "nationality": "Germany",
+  "birth_date": "2003-07-19",
+  "height": 6,
+  "weight": 183,
+  "club_id": "team_espanyol",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/iecshk1762377272.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34200255"
+  }
+}

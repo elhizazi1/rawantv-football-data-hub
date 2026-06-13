@@ -1,0 +1,19 @@
+{
+  "id": "player_alexander_sorloth",
+  "name": "Alexander Sørloth",
+  "position": "Centre-Forward",
+  "nationality": "Norway",
+  "birth_date": "1995-12-05",
+  "height": 1,
+  "weight": 196,
+  "club_id": "team_atletico_madrid",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/slx8ts1724311500.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34172286"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_haji_wright",
+  "name": "Haji Wright",
+  "position": "Centre-Forward",
+  "nationality": "United States",
+  "birth_date": "1998-03-27",
+  "height": 193,
+  "weight": 174,
+  "club_id": "team_coventry_city",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/embitf1668434881.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34170612"
+  }
+}

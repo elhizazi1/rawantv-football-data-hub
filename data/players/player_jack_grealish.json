@@ -1,0 +1,19 @@
+{
+  "id": "player_jack_grealish",
+  "name": "Jack Grealish",
+  "position": "Left Wing",
+  "nationality": "England",
+  "birth_date": "1995-09-10",
+  "height": 5,
+  "weight": 170,
+  "club_id": "team_everton",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ah2exe1771944888.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34145477"
+  }
+}

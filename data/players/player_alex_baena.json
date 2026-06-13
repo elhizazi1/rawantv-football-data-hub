@@ -1,0 +1,19 @@
+{
+  "id": "player_alex_baena",
+  "name": "Álex Baena",
+  "position": "Left Midfield",
+  "nationality": "Spain",
+  "birth_date": "2001-07-20",
+  "height": 174,
+  "weight": 152,
+  "club_id": "team_atletico_madrid",
+  "photo": "https://www.thesportsdb.com/images/media/player/thumb/op2ghc1779729448.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34174104"
+  }
+}

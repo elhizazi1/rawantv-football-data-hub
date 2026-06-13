@@ -1,0 +1,19 @@
+{
+  "id": "player_christian_stuani",
+  "name": "Christian Stuani",
+  "position": "Forward",
+  "nationality": "Uruguay",
+  "birth_date": "1986-10-12",
+  "height": 1,
+  "weight": 73,
+  "club_id": "team_girona",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/m51g111557725046.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34149416"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_arthur_avom",
+  "name": "Arthur Avom",
+  "position": "Attacking Midfield",
+  "nationality": "Cameroon",
+  "birth_date": "2004-12-15",
+  "height": 185,
+  "weight": null,
+  "club_id": "team_lorient",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/nzf26z1727955338.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34250687"
+  }
+}

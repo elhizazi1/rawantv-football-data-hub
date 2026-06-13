@@ -1,0 +1,19 @@
+{
+  "id": "player_fer_lopez",
+  "name": "Fer López",
+  "position": "Attacking Midfield",
+  "nationality": "Spain",
+  "birth_date": "2004-05-24",
+  "height": 188,
+  "weight": null,
+  "club_id": "team_celta_vigo",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/hb1gdo1755772436.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34251229"
+  }
+}

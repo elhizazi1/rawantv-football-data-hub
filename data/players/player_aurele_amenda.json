@@ -1,0 +1,19 @@
+{
+  "id": "player_aurele_amenda",
+  "name": "Aurèle Amenda",
+  "position": "Centre-Back",
+  "nationality": "Switzerland",
+  "birth_date": "2003-07-31",
+  "height": 1,
+  "weight": 196,
+  "club_id": "team_eintracht_frankfurt",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/oi0evs1700325218.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34218989"
+  }
+}

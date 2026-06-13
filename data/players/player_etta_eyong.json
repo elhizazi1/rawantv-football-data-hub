@@ -1,0 +1,19 @@
+{
+  "id": "player_etta_eyong",
+  "name": "Etta Eyong",
+  "position": "Centre-Forward",
+  "nationality": "Cameroon",
+  "birth_date": "2003-10-14",
+  "height": 181,
+  "weight": 163,
+  "club_id": "team_levante",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mht6lv1762462602.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34258089"
+  }
+}

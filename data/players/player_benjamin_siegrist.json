@@ -1,0 +1,19 @@
+{
+  "id": "player_benjamin_siegrist",
+  "name": "Benjamin Siegrist",
+  "position": "Goalkeeper",
+  "nationality": "Switzerland",
+  "birth_date": "1992-01-31",
+  "height": 1,
+  "weight": 185,
+  "club_id": "team_genoa",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/rqc77q1608386078.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34145474"
+  }
+}

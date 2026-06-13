@@ -1,0 +1,19 @@
+{
+  "id": "player_jeff_ekhator",
+  "name": "Jeff Ekhator",
+  "position": "Attacker",
+  "nationality": "Italy",
+  "birth_date": "2006-11-11",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_genoa",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zbgikd1731101120.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34249727"
+  }
+}

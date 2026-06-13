@@ -1,0 +1,19 @@
+{
+  "id": "player_gabriele_zappa",
+  "name": "Gabriele Zappa",
+  "position": "Defender",
+  "nationality": "Italy",
+  "birth_date": "1999-12-22",
+  "height": 5,
+  "weight": 172,
+  "club_id": "team_cagliari",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/qwuyby1607352571.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34172556"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_frenkie_de_jong",
+  "name": "Frenkie de Jong",
+  "position": "Central Midfield",
+  "nationality": "The Netherlands",
+  "birth_date": "1997-05-12",
+  "height": 1,
+  "weight": 161,
+  "club_id": "team_barcelona",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/fgse2c1771254363.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34167123"
+  }
+}

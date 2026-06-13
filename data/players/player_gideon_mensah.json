@@ -1,0 +1,19 @@
+{
+  "id": "player_gideon_mensah",
+  "name": "Gideon Mensah",
+  "position": "Defender",
+  "nationality": "Ghana",
+  "birth_date": "1998-07-18",
+  "height": 178,
+  "weight": 152,
+  "club_id": "team_auxerre",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bglc5l1668454974.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34191744"
+  }
+}

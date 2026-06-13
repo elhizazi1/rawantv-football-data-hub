@@ -1,0 +1,19 @@
+{
+  "id": "player_ephron_mason_clark",
+  "name": "Ephron Mason-Clark",
+  "position": "Winger",
+  "nationality": "England",
+  "birth_date": "1999-08-25",
+  "height": 178,
+  "weight": 168,
+  "club_id": "team_coventry_city",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tk4woj1684486148.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34215798"
+  }
+}

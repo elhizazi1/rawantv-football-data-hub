@@ -1,0 +1,19 @@
+{
+  "id": "player_ansgar_knauff",
+  "name": "Ansgar Knauff",
+  "position": "Left Wing",
+  "nationality": "Germany",
+  "birth_date": "2002-01-10",
+  "height": 1,
+  "weight": 161,
+  "club_id": "team_eintracht_frankfurt",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ilgntp1650005550.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34178465"
+  }
+}

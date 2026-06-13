@@ -1,0 +1,19 @@
+{
+  "id": "player_alexandre_salvat",
+  "name": "Alexandre Salvat",
+  "position": "Goalkeeping Coach",
+  "nationality": "France",
+  "birth_date": "1987-03-31",
+  "height": null,
+  "weight": null,
+  "club_id": "team_marseille",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jktct81760944605.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34421322"
+  }
+}

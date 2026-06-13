@@ -1,0 +1,19 @@
+{
+  "id": "player_can_uzun",
+  "name": "Can Uzun",
+  "position": "Attacking Midfield",
+  "nationality": "Turkey",
+  "birth_date": "2005-11-11",
+  "height": 186,
+  "weight": 148,
+  "club_id": "team_eintracht_frankfurt",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2wmlq91741808436.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34244130"
+  }
+}

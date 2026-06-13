@@ -1,0 +1,19 @@
+{
+  "id": "player_andreas_christensen",
+  "name": "Andreas Christensen",
+  "position": "Centre-Back",
+  "nationality": "Denmark",
+  "birth_date": "1996-04-10",
+  "height": 1,
+  "weight": 82,
+  "club_id": "team_barcelona",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/lg5vvk1771261092.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34145493"
+  }
+}

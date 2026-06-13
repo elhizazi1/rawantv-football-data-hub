@@ -1,0 +1,19 @@
+{
+  "id": "player_bryan_gil",
+  "name": "Bryan Gil",
+  "position": "Left Wing",
+  "nationality": "Spain",
+  "birth_date": "2001-02-11",
+  "height": 1,
+  "weight": 130,
+  "club_id": "team_girona",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/g1g25o1628627252.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34170248"
+  }
+}

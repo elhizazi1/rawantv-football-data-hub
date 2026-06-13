@@ -1,0 +1,19 @@
+{
+  "id": "player_charlie_adam",
+  "name": "Charlie Adam",
+  "position": "Coach",
+  "nationality": "Scotland",
+  "birth_date": "1985-12-10",
+  "height": 1,
+  "weight": 83,
+  "club_id": "team_everton",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/pusgia1733056379.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34145962"
+  }
+}

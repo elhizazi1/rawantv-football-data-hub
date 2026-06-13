@@ -1,0 +1,19 @@
+{
+  "id": "player_charles_pickel",
+  "name": "Charles Pickel",
+  "position": "Defensive Midfield",
+  "nationality": "DR Congo",
+  "birth_date": "1997-05-15",
+  "height": 1,
+  "weight": 168,
+  "club_id": "team_espanyol",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9b57361678887178.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34174910"
+  }
+}

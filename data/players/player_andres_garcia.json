@@ -1,0 +1,19 @@
+{
+  "id": "player_andres_garcia",
+  "name": "Andrés García",
+  "position": "Right-Back",
+  "nationality": "Spain",
+  "birth_date": "2003-02-07",
+  "height": 1,
+  "weight": 170,
+  "club_id": "team_aston_villa",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xbvuoa1743871372.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34258375"
+  }
+}

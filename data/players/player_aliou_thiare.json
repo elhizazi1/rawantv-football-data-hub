@@ -1,0 +1,19 @@
+{
+  "id": "player_aliou_thiare",
+  "name": "Aliou Thiare",
+  "position": "Defender",
+  "nationality": "Senegal",
+  "birth_date": "2003-12-20",
+  "height": 197,
+  "weight": null,
+  "club_id": "team_le_havre",
+  "photo": null,
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34433675"
+  }
+}

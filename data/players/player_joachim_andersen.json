@@ -1,0 +1,19 @@
+{
+  "id": "player_joachim_andersen",
+  "name": "Joachim Andersen",
+  "position": "Centre-Back",
+  "nationality": "Denmark",
+  "birth_date": "1996-05-31",
+  "height": 1,
+  "weight": 190,
+  "club_id": "team_fulham",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/emjhls1772024689.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34155862"
+  }
+}

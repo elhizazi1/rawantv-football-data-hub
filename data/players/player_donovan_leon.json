@@ -1,0 +1,19 @@
+{
+  "id": "player_donovan_leon",
+  "name": "Donovan Léon",
+  "position": "Goalkeeper",
+  "nationality": "French Guiana",
+  "birth_date": "1992-11-03",
+  "height": 1,
+  "weight": 205,
+  "club_id": "team_auxerre",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bo9zev1680956801.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34174815"
+  }
+}

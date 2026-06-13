@@ -1,0 +1,19 @@
+{
+  "id": "player_frank_onyeka",
+  "name": "Frank Onyeka",
+  "position": "Central Midfield",
+  "nationality": "Nigeria",
+  "birth_date": "1998-01-01",
+  "height": 1,
+  "weight": 152,
+  "club_id": "team_coventry_city",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/cc9nyv1771939555.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34173764"
+  }
+}

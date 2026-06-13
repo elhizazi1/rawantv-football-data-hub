@@ -1,0 +1,19 @@
+{
+  "id": "player_david_de_gea",
+  "name": "David de Gea",
+  "position": "Goalkeeper",
+  "nationality": "Spain",
+  "birth_date": "1990-11-07",
+  "height": 1,
+  "weight": 168,
+  "club_id": "team_fiorentina",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xt634x1510319724.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34145637"
+  }
+}

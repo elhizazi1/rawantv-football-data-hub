@@ -1,0 +1,19 @@
+{
+  "id": "player_felix_nmecha",
+  "name": "Felix Nmecha",
+  "position": "Central Midfield",
+  "nationality": "Germany",
+  "birth_date": "2000-10-10",
+  "height": 190,
+  "weight": 161,
+  "club_id": "team_borussia_dortmund",
+  "photo": "https://www.thesportsdb.com/images/media/player/thumb/i6l5rw1779384367.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34175791"
+  }
+}

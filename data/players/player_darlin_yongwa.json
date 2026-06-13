@@ -1,0 +1,19 @@
+{
+  "id": "player_darlin_yongwa",
+  "name": "Darlin Yongwa",
+  "position": "Left-Back",
+  "nationality": "Cameroon",
+  "birth_date": "2000-09-21",
+  "height": 177,
+  "weight": null,
+  "club_id": "team_lorient",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/et3otb1681124794.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34174903"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_johan_vasquez",
+  "name": "Johan Vásquez",
+  "position": "Centre-Back",
+  "nationality": "Mexico",
+  "birth_date": "1998-10-22",
+  "height": 1,
+  "weight": 172,
+  "club_id": "team_genoa",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/a4jnkm1718257169.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34192698"
+  }
+}

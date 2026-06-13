@@ -1,0 +1,19 @@
+{
+  "id": "player_carlos_espi",
+  "name": "Carlos Espí",
+  "position": "Centre-Forward",
+  "nationality": "Spain",
+  "birth_date": "2005-07-24",
+  "height": 185,
+  "weight": null,
+  "club_id": "team_levante",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ybol5c1762460133.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34258379"
+  }
+}

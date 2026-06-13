@@ -1,0 +1,19 @@
+{
+  "id": "player_alejo_sarco",
+  "name": "Alejo Sarco",
+  "position": "Centre-Forward",
+  "nationality": "Argentina",
+  "birth_date": "2006-01-06",
+  "height": 179,
+  "weight": 168,
+  "club_id": "team_bayer_leverkusen",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/cgthz71741448863.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34238313"
+  }
+}

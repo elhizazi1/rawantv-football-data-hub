@@ -1,0 +1,19 @@
+{
+  "id": "player_cole_palmer",
+  "name": "Cole Palmer",
+  "position": "Attacking Midfield",
+  "nationality": "England",
+  "birth_date": "2002-05-06",
+  "height": 189,
+  "weight": 168,
+  "club_id": "team_chelsea",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/r7yrsa1770541322.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34192430"
+  }
+}

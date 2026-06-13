@@ -1,0 +1,19 @@
+{
+  "id": "player_brandon_thomas_asante",
+  "name": "Brandon Thomas-Asante",
+  "position": "Centre-Forward",
+  "nationality": "Ghana",
+  "birth_date": "1998-12-29",
+  "height": 5,
+  "weight": 183,
+  "club_id": "team_coventry_city",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2l2iae1677849806.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34216160"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_ederson",
+  "name": "Éderson",
+  "position": "Central Midfield",
+  "nationality": "Brazil",
+  "birth_date": "1999-07-07",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_atalanta",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/gjz66y1716707588.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34196095"
+  }
+}

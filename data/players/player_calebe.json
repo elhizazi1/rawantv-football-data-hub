@@ -1,0 +1,19 @@
+{
+  "id": "player_calebe",
+  "name": "Calebe",
+  "position": "Midfielder",
+  "nationality": "Brazil",
+  "birth_date": "2000-04-30",
+  "height": 5,
+  "weight": 148,
+  "club_id": "team_deportivo_alaves",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bptg241762350818.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34289196"
+  }
+}

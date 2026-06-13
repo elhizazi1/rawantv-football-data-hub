@@ -1,0 +1,19 @@
+{
+  "id": "player_amir_richardson",
+  "name": "Amir Richardson",
+  "position": "Midfielder",
+  "nationality": "Morocco",
+  "birth_date": "2002-01-24",
+  "height": 1,
+  "weight": 172,
+  "club_id": "team_fiorentina",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/u8wh0j1758892310.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34220033"
+  }
+}

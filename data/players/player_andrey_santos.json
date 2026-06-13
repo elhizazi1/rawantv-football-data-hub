@@ -1,0 +1,19 @@
+{
+  "id": "player_andrey_santos",
+  "name": "Andrey Santos",
+  "position": "Defensive Midfield",
+  "nationality": "Brazil",
+  "birth_date": "2004-05-03",
+  "height": 176,
+  "weight": 163,
+  "club_id": "team_chelsea",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kdun6w1771428273.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34193141"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_filip_kostic",
+  "name": "Filip Kostic",
+  "position": "Left Midfield",
+  "nationality": "Serbia",
+  "birth_date": "1992-11-01",
+  "height": 1,
+  "weight": 81,
+  "club_id": "team_juventus",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/zgsfpn1578087120.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34155244"
+  }
+}

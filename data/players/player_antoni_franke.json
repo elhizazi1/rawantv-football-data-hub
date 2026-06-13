@@ -1,0 +1,19 @@
+{
+  "id": "player_antoni_franke",
+  "name": "Antoni Franke",
+  "position": "Defender",
+  "nationality": "Poland",
+  "birth_date": "2006-09-30",
+  "height": null,
+  "weight": null,
+  "club_id": "team_cagliari",
+  "photo": null,
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34435391"
+  }
+}

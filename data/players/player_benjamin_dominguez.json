@@ -1,0 +1,19 @@
+{
+  "id": "player_benjamin_dominguez",
+  "name": "Benjamín Domínguez",
+  "position": "Attacker",
+  "nationality": "Argentina",
+  "birth_date": "2003-09-19",
+  "height": 1,
+  "weight": 150,
+  "club_id": "team_bologna",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0y4mck1717182396.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34218908"
+  }
+}

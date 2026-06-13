@@ -1,0 +1,19 @@
+{
+  "id": "player_adam_aznou",
+  "name": "Adam Aznou",
+  "position": "Defender",
+  "nationality": "Morocco",
+  "birth_date": "2006-06-02",
+  "height": 1,
+  "weight": 152,
+  "club_id": "team_everton",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ri34fc1756976649.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34252662"
+  }
+}

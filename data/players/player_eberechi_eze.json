@@ -1,0 +1,19 @@
+{
+  "id": "player_eberechi_eze",
+  "name": "Eberechi Eze",
+  "position": "Attacking Midfield",
+  "nationality": "England",
+  "birth_date": "1998-06-29",
+  "height": 5,
+  "weight": 161,
+  "club_id": "team_arsenal",
+  "photo": "https://www.thesportsdb.com/images/media/player/thumb/sekoz91781208194.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34172278"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_ellyes_skhiri",
+  "name": "Ellyes Skhiri",
+  "position": "Defensive Midfield",
+  "nationality": "Tunisia",
+  "birth_date": "1995-05-10",
+  "height": 1,
+  "weight": 161,
+  "club_id": "team_eintracht_frankfurt",
+  "photo": "https://www.thesportsdb.com/images/media/player/thumb/h4gvqo1779036403.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34146678"
+  }
+}

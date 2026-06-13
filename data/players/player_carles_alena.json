@@ -1,0 +1,19 @@
+{
+  "id": "player_carles_alena",
+  "name": "Carles Aleñá",
+  "position": "Central Midfield",
+  "nationality": "Spain",
+  "birth_date": "1998-01-05",
+  "height": 1,
+  "weight": 152,
+  "club_id": "team_deportivo_alaves",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/eg9sxa1723634478.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34162139"
+  }
+}

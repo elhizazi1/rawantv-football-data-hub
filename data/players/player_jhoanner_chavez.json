@@ -1,0 +1,19 @@
+{
+  "id": "player_jhoanner_chavez",
+  "name": "Jhoanner Chávez",
+  "position": "Defender",
+  "nationality": "Ecuador",
+  "birth_date": "2002-04-25",
+  "height": 182,
+  "weight": 170,
+  "club_id": "team_lens",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/t4sx741766004083.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34219649"
+  }
+}

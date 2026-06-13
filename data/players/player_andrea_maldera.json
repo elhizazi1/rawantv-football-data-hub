@@ -1,0 +1,19 @@
+{
+  "id": "player_andrea_maldera",
+  "name": "Andrea Maldera",
+  "position": "Assistant Coach",
+  "nationality": "Italy",
+  "birth_date": "1971-05-18",
+  "height": null,
+  "weight": null,
+  "club_id": "team_marseille",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/q7vg6p1760944447.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34421321"
+  }
+}

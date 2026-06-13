@@ -1,0 +1,19 @@
+{
+  "id": "player_filip_jorgensen",
+  "name": "Filip Jörgensen",
+  "position": "Goalkeeper",
+  "nationality": "Denmark",
+  "birth_date": "2002-04-16",
+  "height": 192,
+  "weight": 185,
+  "club_id": "team_chelsea",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1jn0bn1771427812.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34203667"
+  }
+}

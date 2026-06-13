@@ -1,0 +1,19 @@
+{
+  "id": "player_adrian_liso",
+  "name": "Adrian Liso",
+  "position": "Left Midfield",
+  "nationality": "Spain",
+  "birth_date": "2005-04-02",
+  "height": 1,
+  "weight": 72,
+  "club_id": "team_getafe",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/gomlkc1762091455.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34258976"
+  }
+}

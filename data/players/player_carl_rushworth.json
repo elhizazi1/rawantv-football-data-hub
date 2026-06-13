@@ -1,0 +1,19 @@
+{
+  "id": "player_carl_rushworth",
+  "name": "Carl Rushworth",
+  "position": "Goalkeeper",
+  "nationality": "England",
+  "birth_date": "2001-07-02",
+  "height": 6,
+  "weight": 190,
+  "club_id": "team_coventry_city",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9jypl41690900547.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34217615"
+  }
+}

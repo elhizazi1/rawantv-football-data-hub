@@ -1,0 +1,19 @@
+{
+  "id": "player_daley_blind",
+  "name": "Daley Blind",
+  "position": "Centre-Back",
+  "nationality": "The Netherlands",
+  "birth_date": "1990-03-09",
+  "height": 1,
+  "weight": 159,
+  "club_id": "team_girona",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/buxsim1709982440.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34145676"
+  }
+}

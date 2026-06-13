@@ -1,0 +1,19 @@
+{
+  "id": "player_andrija_bulatovic",
+  "name": "Andrija Bulatović",
+  "position": "Midfielder",
+  "nationality": "Montenegro",
+  "birth_date": "2006-12-27",
+  "height": 5,
+  "weight": null,
+  "club_id": "team_lens",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/90nau51766004014.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34349118"
+  }
+}

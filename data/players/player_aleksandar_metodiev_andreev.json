@@ -1,0 +1,19 @@
+{
+  "id": "player_aleksandar_metodiev_andreev",
+  "name": "Aleksandar Metodiev Andreev",
+  "position": "Goalkeeper",
+  "nationality": "Bulgaria",
+  "birth_date": "2006-03-25",
+  "height": 190,
+  "weight": 85,
+  "club_id": "team_girona",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2cfi981775286802.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34433001"
+  }
+}

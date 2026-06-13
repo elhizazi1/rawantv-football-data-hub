@@ -1,0 +1,19 @@
+{
+  "id": "player_frank_lampard",
+  "name": "Frank Lampard",
+  "position": "Manager",
+  "nationality": "England",
+  "birth_date": "1978-06-20",
+  "height": 184,
+  "weight": 87,
+  "club_id": "team_coventry",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/qu60cy1718870905.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34145590"
+  }
+}

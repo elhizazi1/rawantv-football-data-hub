@@ -1,0 +1,19 @@
+{
+  "id": "player_bazoumana_toure",
+  "name": "Bazoumana Touré",
+  "position": "Left Wing",
+  "nationality": "Ivory Coast",
+  "birth_date": "2006-03-02",
+  "height": 175,
+  "weight": null,
+  "club_id": "team_hoffenheim",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/a97azq1718138928.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34240022"
+  }
+}

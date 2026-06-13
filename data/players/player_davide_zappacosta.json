@@ -1,0 +1,19 @@
+{
+  "id": "player_davide_zappacosta",
+  "name": "Davide Zappacosta",
+  "position": "Defender",
+  "nationality": "Italy",
+  "birth_date": "1992-06-11",
+  "height": 1,
+  "weight": 152,
+  "club_id": "team_atalanta",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2zclsw1510591427.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34148376"
+  }
+}

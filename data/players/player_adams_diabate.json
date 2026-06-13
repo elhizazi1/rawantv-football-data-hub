@@ -1,0 +1,19 @@
+{
+  "id": "player_adams_diabate",
+  "name": "Adams Diabaté",
+  "position": "Midfielder",
+  "nationality": "France",
+  "birth_date": "2005-10-20",
+  "height": null,
+  "weight": null,
+  "club_id": "team_le_havre",
+  "photo": null,
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34433674"
+  }
+}

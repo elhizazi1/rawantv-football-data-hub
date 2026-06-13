@@ -1,0 +1,19 @@
+{
+  "id": "player_emiliano_buendia",
+  "name": "Emiliano Buendia",
+  "position": "Right Winger",
+  "nationality": "Argentina",
+  "birth_date": "1996-12-25",
+  "height": 1,
+  "weight": 159,
+  "club_id": "team_aston_villa",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/r5mto41710319614.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34149475"
+  }
+}

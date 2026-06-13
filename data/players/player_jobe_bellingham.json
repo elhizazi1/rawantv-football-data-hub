@@ -1,0 +1,19 @@
+{
+  "id": "player_jobe_bellingham",
+  "name": "Jobe Bellingham",
+  "position": "Midfielder",
+  "nationality": "England",
+  "birth_date": "2005-09-23",
+  "height": 178,
+  "weight": 161,
+  "club_id": "team_borussia_dortmund",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/c2g1ly1713358383.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34231809"
+  }
+}

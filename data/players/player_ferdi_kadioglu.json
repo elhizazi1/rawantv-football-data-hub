@@ -1,0 +1,19 @@
+{
+  "id": "player_ferdi_kadioglu",
+  "name": "Ferdi Kadıoğlu",
+  "position": "Left-Back",
+  "nationality": "Turkey",
+  "birth_date": "1999-10-07",
+  "height": 1,
+  "weight": 68,
+  "club_id": "team_brighton_and_hove_albion",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/qn0nr21772017123.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34181631"
+  }
+}

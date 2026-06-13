@@ -1,0 +1,19 @@
+{
+  "id": "player_carlos_alcaraz",
+  "name": "Carlos Alcaraz",
+  "position": "Central Midfield",
+  "nationality": "Argentina",
+  "birth_date": "2002-11-30",
+  "height": 183,
+  "weight": 150,
+  "club_id": "team_everton",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/3hdsje1674645223.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34203476"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_alejandro_garnacho",
+  "name": "Alejandro Garnacho",
+  "position": "Left Wing",
+  "nationality": "Argentina",
+  "birth_date": "2004-07-01",
+  "height": 1,
+  "weight": 161,
+  "club_id": "team_chelsea",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/pi2i4q1771427479.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34198578"
+  }
+}

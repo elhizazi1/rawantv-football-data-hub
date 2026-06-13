@@ -1,0 +1,19 @@
+{
+  "id": "player_alex_iwobi",
+  "name": "Alex Iwobi",
+  "position": "Attacking Midfield",
+  "nationality": "Nigeria",
+  "birth_date": "1996-05-03",
+  "height": 1,
+  "weight": 163,
+  "club_id": "team_fulham",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/7yicrv1746263357.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34145419"
+  }
+}

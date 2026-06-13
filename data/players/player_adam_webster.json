@@ -1,0 +1,19 @@
+{
+  "id": "player_adam_webster",
+  "name": "Adam Webster",
+  "position": "Centre-Back",
+  "nationality": "England",
+  "birth_date": "1995-01-04",
+  "height": 6,
+  "weight": 163,
+  "club_id": "team_brighton_and_hove_albion",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vbhgi21772017548.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34157644"
+  }
+}

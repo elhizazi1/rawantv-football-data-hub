@@ -1,0 +1,19 @@
+{
+  "id": "player_arouna_sangante",
+  "name": "Arouna Sangante",
+  "position": "Defender",
+  "nationality": "Senegal",
+  "birth_date": "2002-04-12",
+  "height": 189,
+  "weight": 168,
+  "club_id": "team_le_havre",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/amu2v01702293177.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34220024"
+  }
+}

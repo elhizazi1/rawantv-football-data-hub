@@ -1,0 +1,19 @@
+{
+  "id": "player_aiyegun_tosin",
+  "name": "Aiyegun Tosin",
+  "position": "Centre-Forward",
+  "nationality": "Benin",
+  "birth_date": "1998-06-28",
+  "height": 179,
+  "weight": null,
+  "club_id": "team_lorient",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vftdkl1702898686.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34197615"
+  }
+}

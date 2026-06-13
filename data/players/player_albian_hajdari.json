@@ -1,0 +1,19 @@
+{
+  "id": "player_albian_hajdari",
+  "name": "Albian Hajdari",
+  "position": "Defender",
+  "nationality": "Kosovo",
+  "birth_date": "2003-05-18",
+  "height": 189,
+  "weight": 174,
+  "club_id": "team_hoffenheim",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/b9c9i71763495486.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34224684"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_carlos_martin",
+  "name": "Carlos Martín",
+  "position": "Centre-Forward",
+  "nationality": "Spain",
+  "birth_date": "2002-04-22",
+  "height": 1,
+  "weight": 161,
+  "club_id": "team_atletico_madrid",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8wstdz1706958512.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34219103"
+  }
+}

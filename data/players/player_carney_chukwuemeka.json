@@ -1,0 +1,19 @@
+{
+  "id": "player_carney_chukwuemeka",
+  "name": "Carney Chukwuemeka",
+  "position": "Central Midfield",
+  "nationality": "Austria",
+  "birth_date": "2003-10-20",
+  "height": 6,
+  "weight": 170,
+  "club_id": "team_borussia_dortmund",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/6ymbm51636630303.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34180739"
+  }
+}

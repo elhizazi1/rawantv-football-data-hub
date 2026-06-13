@@ -1,0 +1,19 @@
+{
+  "id": "player_david_moyes",
+  "name": "David Moyes",
+  "position": "Manager",
+  "nationality": "Scotland",
+  "birth_date": "1963-04-25",
+  "height": 6,
+  "weight": null,
+  "club_id": "team_everton",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/6cpkqp1577807176.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34169127"
+  }
+}

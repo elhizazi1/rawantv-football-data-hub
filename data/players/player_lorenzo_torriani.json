@@ -1,0 +1,19 @@
+{
+  "id": "player_lorenzo_torriani",
+  "name": "Lorenzo Torriani",
+  "position": "Goalkeeper",
+  "nationality": "Italy",
+  "birth_date": "2005-01-31",
+  "height": 6,
+  "weight": 192,
+  "club_id": "team_ac_milan",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ofl21q1758893989.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34244623"
+  }
+}

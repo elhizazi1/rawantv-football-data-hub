@@ -1,0 +1,19 @@
+{
+  "id": "player_daren_mosengo",
+  "name": "Daren Mosengo",
+  "position": "Midfielder",
+  "nationality": "France",
+  "birth_date": "2006-08-11",
+  "height": 6,
+  "weight": 159,
+  "club_id": "team_le_havre",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/n893251765988061.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34301617"
+  }
+}

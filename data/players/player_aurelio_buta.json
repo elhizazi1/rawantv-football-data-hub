@@ -1,0 +1,19 @@
+{
+  "id": "player_aurelio_buta",
+  "name": "Aurélio Buta",
+  "position": "Defender",
+  "nationality": "Portugal",
+  "birth_date": "1997-02-10",
+  "height": 1,
+  "weight": 66,
+  "club_id": "team_eintracht_frankfurt",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/udn54l1678368114.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34175588"
+  }
+}

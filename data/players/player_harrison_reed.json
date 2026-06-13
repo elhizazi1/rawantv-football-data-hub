@@ -1,0 +1,19 @@
+{
+  "id": "player_harrison_reed",
+  "name": "Harrison Reed",
+  "position": "Central Midfield",
+  "nationality": "England",
+  "birth_date": "1995-01-27",
+  "height": 1,
+  "weight": 159,
+  "club_id": "team_fulham",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/iyk4af1772026336.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34145745"
+  }
+}

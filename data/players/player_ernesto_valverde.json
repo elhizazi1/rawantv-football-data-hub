@@ -1,0 +1,19 @@
+{
+  "id": "player_ernesto_valverde",
+  "name": "Ernesto Valverde",
+  "position": "Manager",
+  "nationality": "Spain",
+  "birth_date": "1964-02-09",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_ath_bilbao",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/t7ozai1541330237.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34164034"
+  }
+}

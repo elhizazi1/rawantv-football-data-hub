@@ -1,0 +1,19 @@
+{
+  "id": "player_elia_caprile",
+  "name": "Elia Caprile",
+  "position": "Goalkeeper",
+  "nationality": "Italy",
+  "birth_date": "2001-08-25",
+  "height": 191,
+  "weight": 161,
+  "club_id": "team_cagliari",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/swckgh1692480239.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34220115"
+  }
+}
