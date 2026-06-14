@@ -9,14 +9,15 @@ const OUT = path.resolve(".tmp/raw/football-data");
 
 const COMPETITIONS = ["PL", "PD", "SA", "BL1", "FL1", "CL", "WC"];
 
-// 👇 مهم: throttle بسيط
-const sleep = (ms) => new Promise(r => setTimeout(r, ms));
+// delay helper
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+// fetch wrapper
 async function get(url) {
   if (!TOKEN) throw new Error("FOOTBALL_DATA_TOKEN missing");
 
   const res = await fetch(url, {
-    headers: { "X-Auth-Token": TOKEN }
+    headers: { "X-Auth-Token": TOKEN },
   });
 
   if (!res.ok) {
@@ -29,7 +30,7 @@ async function get(url) {
 export async function fetchAll() {
   fs.mkdirSync(OUT, { recursive: true });
 
-  // competitions list
+  // competitions index
   const competitions = await get(`${BASE}/competitions`);
   fs.writeFileSync(
     path.join(OUT, "competitions.json"),
@@ -40,16 +41,19 @@ export async function fetchAll() {
     try {
       console.log(`[football-data] collecting ${code}`);
 
-      // 👇 بدل Promise.all (سبب 429)
+      // standings
       const standings = await get(`${BASE}/competitions/${code}/standings`);
-      await sleep(1200);
+      await sleep(3000);
 
+      // matches
       const matches = await get(`${BASE}/competitions/${code}/matches`);
-      await sleep(1200);
+      await sleep(3000);
 
+      // teams
       const teams = await get(`${BASE}/competitions/${code}/teams`);
-      await sleep(1200);
+      await sleep(3000);
 
+      // save
       fs.writeFileSync(
         path.join(OUT, `${code}.standings.json`),
         JSON.stringify(standings, null, 2)
@@ -65,15 +69,15 @@ export async function fetchAll() {
         JSON.stringify(teams, null, 2)
       );
 
-      // extra pause بين البطولات (مهم)
-      await sleep(5000);
-
+      // cooldown بين البطولات
+      await sleep(10000);
     } catch (e) {
       console.warn(`[football-data] ${code} failed: ${e.message}`);
     }
   }
 }
 
+// run directly
 if (import.meta.url === `file://${process.argv[1]}`) {
   fetchAll();
 }
