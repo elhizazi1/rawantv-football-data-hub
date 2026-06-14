@@ -16,6 +16,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+
     steps:
       - uses: actions/checkout@v4
 
@@ -29,17 +30,22 @@ jobs:
       - name: Run pipeline
         env:
           FOOTBALL_DATA_TOKEN: ${{ secrets.FOOTBALL_DATA_TOKEN }}
-          THESPORTSDB_KEY:     ${{ secrets.THESPORTSDB_KEY }}
+          THESPORTSDB_KEY: ${{ secrets.THESPORTSDB_KEY }}
         run: npm run build
 
       - name: Commit updated data
         run: |
-          git config user.name  "rawantv-bot"
-          git config user.email "bot@rawantv.local"
+          git config user.name "rawantv-bot"
+          git config user.email "bot@github.com"
+
           git add data/
+
           if git diff --cached --quiet; then
             echo "No changes."
-          else
-            git commit -m "chore(data): refresh $(date -u +%Y-%m-%dT%H:%MZ)"
-            git push
+            exit 0
           fi
+
+          git commit -m "chore(data): refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+
+          git pull --rebase origin main
+          git push origin main
