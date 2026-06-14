@@ -1,6 +1,5514 @@
 [
   {
     "id": "match_2025_0001",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2025-08-22T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 6,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_florian_badstubner",
+    "sources": {
+      "football_data": "540406"
+    }
+  },
+  {
+    "id": "match_2025_0002",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2025-08-23T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_harm_osmers",
+    "sources": {
+      "football_data": "540407"
+    }
+  },
+  {
+    "id": "match_2025_0003",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2025-08-23T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540408"
+    }
+  },
+  {
+    "id": "match_2025_0004",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2025-08-23T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540409"
+    }
+  },
+  {
+    "id": "match_2025_0005",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2025-08-23T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_robert_hartmann",
+    "sources": {
+      "football_data": "540412"
+    }
+  },
+  {
+    "id": "match_2025_0006",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2025-08-23T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_benjamin_brand",
+    "sources": {
+      "football_data": "540414"
+    }
+  },
+  {
+    "id": "match_2025_0007",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2025-08-23T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_matthias_jollenbeck",
+    "sources": {
+      "football_data": "540413"
+    }
+  },
+  {
+    "id": "match_2025_0008",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2025-08-24T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "540410"
+    }
+  },
+  {
+    "id": "match_2025_0009",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2025-08-24T15:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_sascha_stegemann",
+    "sources": {
+      "football_data": "540411"
+    }
+  },
+  {
+    "id": "match_2025_0010",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2025-08-29T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_christian_dingert",
+    "sources": {
+      "football_data": "540423"
+    }
+  },
+  {
+    "id": "match_2025_0011",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2025-08-30T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_frank_willenborg",
+    "sources": {
+      "football_data": "540416"
+    }
+  },
+  {
+    "id": "match_2025_0012",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2025-08-30T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_robin_braun",
+    "sources": {
+      "football_data": "540417"
+    }
+  },
+  {
+    "id": "match_2025_0013",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2025-08-30T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540418"
+    }
+  },
+  {
+    "id": "match_2025_0014",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2025-08-30T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_timo_gerach",
+    "sources": {
+      "football_data": "540421"
+    }
+  },
+  {
+    "id": "match_2025_0015",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2025-08-30T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_florian_exner",
+    "sources": {
+      "football_data": "540420"
+    }
+  },
+  {
+    "id": "match_2025_0016",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2025-08-31T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_soren_storks",
+    "sources": {
+      "football_data": "540419"
+    }
+  },
+  {
+    "id": "match_2025_0017",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2025-08-31T15:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_daniel_schlager",
+    "sources": {
+      "football_data": "540415"
+    }
+  },
+  {
+    "id": "match_2025_0018",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2025-08-31T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_reichel",
+    "sources": {
+      "football_data": "540422"
+    }
+  },
+  {
+    "id": "match_2025_0019",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2025-09-12T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_deniz_aytekin",
+    "sources": {
+      "football_data": "540425"
+    }
+  },
+  {
+    "id": "match_2025_0020",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2025-09-13T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540426"
+    }
+  },
+  {
+    "id": "match_2025_0021",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2025-09-13T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540427"
+    }
+  },
+  {
+    "id": "match_2025_0022",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2025-09-13T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_bastian_dankert",
+    "sources": {
+      "football_data": "540429"
+    }
+  },
+  {
+    "id": "match_2025_0023",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2025-09-13T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_tobias_welz",
+    "sources": {
+      "football_data": "540430"
+    }
+  },
+  {
+    "id": "match_2025_0024",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2025-09-13T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540432"
+    }
+  },
+  {
+    "id": "match_2025_0025",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2025-09-13T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "540424"
+    }
+  },
+  {
+    "id": "match_2025_0026",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2025-09-14T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_harm_osmers",
+    "sources": {
+      "football_data": "540431"
+    }
+  },
+  {
+    "id": "match_2025_0027",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2025-09-14T15:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_matthias_jollenbeck",
+    "sources": {
+      "football_data": "540428"
+    }
+  },
+  {
+    "id": "match_2025_0028",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2025-09-19T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_sascha_stegemann",
+    "sources": {
+      "football_data": "540438"
+    }
+  },
+  {
+    "id": "match_2025_0029",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2025-09-20T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_timo_gerach",
+    "sources": {
+      "football_data": "540437"
+    }
+  },
+  {
+    "id": "match_2025_0030",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2025-09-20T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_daniel_schlager",
+    "sources": {
+      "football_data": "540439"
+    }
+  },
+  {
+    "id": "match_2025_0031",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2025-09-20T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_robert_hartmann",
+    "sources": {
+      "football_data": "540440"
+    }
+  },
+  {
+    "id": "match_2025_0032",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2025-09-20T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_florian_exner",
+    "sources": {
+      "football_data": "540441"
+    }
+  },
+  {
+    "id": "match_2025_0033",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2025-09-20T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_benjamin_brand",
+    "sources": {
+      "football_data": "540436"
+    }
+  },
+  {
+    "id": "match_2025_0034",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2025-09-21T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540434"
+    }
+  },
+  {
+    "id": "match_2025_0035",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2025-09-21T15:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540433"
+    }
+  },
+  {
+    "id": "match_2025_0036",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2025-09-21T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540435"
+    }
+  },
+  {
+    "id": "match_2025_0037",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2025-09-26T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_frank_willenborg",
+    "sources": {
+      "football_data": "540442"
+    }
+  },
+  {
+    "id": "match_2025_0038",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2025-09-27T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_tobias_reichel",
+    "sources": {
+      "football_data": "540444"
+    }
+  },
+  {
+    "id": "match_2025_0039",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2025-09-27T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_robin_braun",
+    "sources": {
+      "football_data": "540446"
+    }
+  },
+  {
+    "id": "match_2025_0040",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2025-09-27T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_martin_petersen",
+    "sources": {
+      "football_data": "540448"
+    }
+  },
+  {
+    "id": "match_2025_0041",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2025-09-27T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_welz",
+    "sources": {
+      "football_data": "540449"
+    }
+  },
+  {
+    "id": "match_2025_0042",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2025-09-27T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 6
+    },
+    "events": [],
+    "referee_id": "ref_soren_storks",
+    "sources": {
+      "football_data": "540445"
+    }
+  },
+  {
+    "id": "match_2025_0043",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2025-09-28T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_bastian_dankert",
+    "sources": {
+      "football_data": "540443"
+    }
+  },
+  {
+    "id": "match_2025_0044",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2025-09-28T15:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_matthias_jollenbeck",
+    "sources": {
+      "football_data": "540450"
+    }
+  },
+  {
+    "id": "match_2025_0045",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2025-09-28T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_deniz_aytekin",
+    "sources": {
+      "football_data": "540447"
+    }
+  },
+  {
+    "id": "match_2025_0046",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2025-10-03T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540458"
+    }
+  },
+  {
+    "id": "match_2025_0047",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2025-10-04T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_christian_dingert",
+    "sources": {
+      "football_data": "540451"
+    }
+  },
+  {
+    "id": "match_2025_0048",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2025-10-04T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_sascha_stegemann",
+    "sources": {
+      "football_data": "540453"
+    }
+  },
+  {
+    "id": "match_2025_0049",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2025-10-04T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_soren_storks",
+    "sources": {
+      "football_data": "540454"
+    }
+  },
+  {
+    "id": "match_2025_0050",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2025-10-04T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_benjamin_brand",
+    "sources": {
+      "football_data": "540457"
+    }
+  },
+  {
+    "id": "match_2025_0051",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2025-10-04T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540452"
+    }
+  },
+  {
+    "id": "match_2025_0052",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2025-10-05T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "540455"
+    }
+  },
+  {
+    "id": "match_2025_0053",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2025-10-05T15:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_robert_hartmann",
+    "sources": {
+      "football_data": "540459"
+    }
+  },
+  {
+    "id": "match_2025_0054",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2025-10-05T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_daniel_schlager",
+    "sources": {
+      "football_data": "540456"
+    }
+  },
+  {
+    "id": "match_2025_0055",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2025-10-17T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_reichel",
+    "sources": {
+      "football_data": "540465"
+    }
+  },
+  {
+    "id": "match_2025_0056",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2025-10-18T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_florian_exner",
+    "sources": {
+      "football_data": "540462"
+    }
+  },
+  {
+    "id": "match_2025_0057",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2025-10-18T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_welz",
+    "sources": {
+      "football_data": "540463"
+    }
+  },
+  {
+    "id": "match_2025_0058",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2025-10-18T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_florian_badstubner",
+    "sources": {
+      "football_data": "540464"
+    }
+  },
+  {
+    "id": "match_2025_0059",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2025-10-18T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_patrick_ittrich",
+    "sources": {
+      "football_data": "540467"
+    }
+  },
+  {
+    "id": "match_2025_0060",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2025-10-18T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_timo_gerach",
+    "sources": {
+      "football_data": "540468"
+    }
+  },
+  {
+    "id": "match_2025_0061",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2025-10-18T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_bastian_dankert",
+    "sources": {
+      "football_data": "540460"
+    }
+  },
+  {
+    "id": "match_2025_0062",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2025-10-19T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_deniz_aytekin",
+    "sources": {
+      "football_data": "540461"
+    }
+  },
+  {
+    "id": "match_2025_0063",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2025-10-19T15:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540466"
+    }
+  },
+  {
+    "id": "match_2025_0064",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2025-10-24T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_daniel_schlager",
+    "sources": {
+      "football_data": "540472"
+    }
+  },
+  {
+    "id": "match_2025_0065",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2025-10-25T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_robin_braun",
+    "sources": {
+      "football_data": "540470"
+    }
+  },
+  {
+    "id": "match_2025_0066",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2025-10-25T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 6
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540475"
+    }
+  },
+  {
+    "id": "match_2025_0067",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2025-10-25T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_matthias_jollenbeck",
+    "sources": {
+      "football_data": "540476"
+    }
+  },
+  {
+    "id": "match_2025_0068",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2025-10-25T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_martin_petersen",
+    "sources": {
+      "football_data": "540477"
+    }
+  },
+  {
+    "id": "match_2025_0069",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2025-10-25T13:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_sascha_stegemann",
+    "sources": {
+      "football_data": "540474"
+    }
+  },
+  {
+    "id": "match_2025_0070",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2025-10-25T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_benjamin_brand",
+    "sources": {
+      "football_data": "540471"
+    }
+  },
+  {
+    "id": "match_2025_0071",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2025-10-26T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_harm_osmers",
+    "sources": {
+      "football_data": "540469"
+    }
+  },
+  {
+    "id": "match_2025_0072",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2025-10-26T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540473"
+    }
+  },
+  {
+    "id": "match_2025_0073",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2025-10-31T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "540482"
+    }
+  },
+  {
+    "id": "match_2025_0074",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2025-11-01T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_florian_badstubner",
+    "sources": {
+      "football_data": "540479"
+    }
+  },
+  {
+    "id": "match_2025_0075",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2025-11-01T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540480"
+    }
+  },
+  {
+    "id": "match_2025_0076",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2025-11-01T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_soren_storks",
+    "sources": {
+      "football_data": "540483"
+    }
+  },
+  {
+    "id": "match_2025_0077",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2025-11-01T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_robert_hartmann",
+    "sources": {
+      "football_data": "540484"
+    }
+  },
+  {
+    "id": "match_2025_0078",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2025-11-01T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_christian_dingert",
+    "sources": {
+      "football_data": "540485"
+    }
+  },
+  {
+    "id": "match_2025_0079",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2025-11-01T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_deniz_aytekin",
+    "sources": {
+      "football_data": "540478"
+    }
+  },
+  {
+    "id": "match_2025_0080",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2025-11-02T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_daniel_schlager",
+    "sources": {
+      "football_data": "540486"
+    }
+  },
+  {
+    "id": "match_2025_0081",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2025-11-02T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_frank_willenborg",
+    "sources": {
+      "football_data": "540481"
+    }
+  },
+  {
+    "id": "match_2025_0082",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2025-11-07T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540490"
+    }
+  },
+  {
+    "id": "match_2025_0083",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2025-11-08T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 6,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_bastian_dankert",
+    "sources": {
+      "football_data": "540487"
+    }
+  },
+  {
+    "id": "match_2025_0084",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2025-11-08T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_florian_exner",
+    "sources": {
+      "football_data": "540493"
+    }
+  },
+  {
+    "id": "match_2025_0085",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2025-11-08T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_patrick_ittrich",
+    "sources": {
+      "football_data": "540494"
+    }
+  },
+  {
+    "id": "match_2025_0086",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2025-11-08T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_reichel",
+    "sources": {
+      "football_data": "540495"
+    }
+  },
+  {
+    "id": "match_2025_0087",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2025-11-08T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_deniz_aytekin",
+    "sources": {
+      "football_data": "540492"
+    }
+  },
+  {
+    "id": "match_2025_0088",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2025-11-09T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_benjamin_brand",
+    "sources": {
+      "football_data": "540489"
+    }
+  },
+  {
+    "id": "match_2025_0089",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2025-11-09T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_harm_osmers",
+    "sources": {
+      "football_data": "540491"
+    }
+  },
+  {
+    "id": "match_2025_0090",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2025-11-09T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_matthias_jollenbeck",
+    "sources": {
+      "football_data": "540488"
+    }
+  },
+  {
+    "id": "match_2025_0091",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2025-11-21T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_sascha_stegemann",
+    "sources": {
+      "football_data": "540498"
+    }
+  },
+  {
+    "id": "match_2025_0092",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2025-11-22T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 6,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540496"
+    }
+  },
+  {
+    "id": "match_2025_0093",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2025-11-22T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_benjamin_brand",
+    "sources": {
+      "football_data": "540497"
+    }
+  },
+  {
+    "id": "match_2025_0094",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2025-11-22T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_robert_hartmann",
+    "sources": {
+      "football_data": "540500"
+    }
+  },
+  {
+    "id": "match_2025_0095",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2025-11-22T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_robin_braun",
+    "sources": {
+      "football_data": "540501"
+    }
+  },
+  {
+    "id": "match_2025_0096",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2025-11-22T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_frank_willenborg",
+    "sources": {
+      "football_data": "540503"
+    }
+  },
+  {
+    "id": "match_2025_0097",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2025-11-22T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_florian_badstubner",
+    "sources": {
+      "football_data": "540504"
+    }
+  },
+  {
+    "id": "match_2025_0098",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2025-11-23T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_martin_petersen",
+    "sources": {
+      "football_data": "540499"
+    }
+  },
+  {
+    "id": "match_2025_0099",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2025-11-23T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "540502"
+    }
+  },
+  {
+    "id": "match_2025_0100",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2025-11-28T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_timo_gerach",
+    "sources": {
+      "football_data": "540510"
+    }
+  },
+  {
+    "id": "match_2025_0101",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2025-11-29T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540505"
+    }
+  },
+  {
+    "id": "match_2025_0102",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2025-11-29T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_bastian_dankert",
+    "sources": {
+      "football_data": "540509"
+    }
+  },
+  {
+    "id": "match_2025_0103",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2025-11-29T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_patrick_ittrich",
+    "sources": {
+      "football_data": "540511"
+    }
+  },
+  {
+    "id": "match_2025_0104",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2025-11-29T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_christian_dingert",
+    "sources": {
+      "football_data": "540512"
+    }
+  },
+  {
+    "id": "match_2025_0105",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2025-11-29T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_tobias_welz",
+    "sources": {
+      "football_data": "540506"
+    }
+  },
+  {
+    "id": "match_2025_0106",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2025-11-30T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_soren_storks",
+    "sources": {
+      "football_data": "540513"
+    }
+  },
+  {
+    "id": "match_2025_0107",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2025-11-30T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_harm_osmers",
+    "sources": {
+      "football_data": "540507"
+    }
+  },
+  {
+    "id": "match_2025_0108",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2025-11-30T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_daniel_schlager",
+    "sources": {
+      "football_data": "540508"
+    }
+  },
+  {
+    "id": "match_2025_0109",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2025-12-05T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_benjamin_brand",
+    "sources": {
+      "football_data": "540515"
+    }
+  },
+  {
+    "id": "match_2025_0110",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2025-12-06T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 5
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "540517"
+    }
+  },
+  {
+    "id": "match_2025_0111",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2025-12-06T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_robert_schroder",
+    "sources": {
+      "football_data": "540518"
+    }
+  },
+  {
+    "id": "match_2025_0112",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2025-12-06T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_florian_exner",
+    "sources": {
+      "football_data": "540519"
+    }
+  },
+  {
+    "id": "match_2025_0113",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2025-12-06T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_reichel",
+    "sources": {
+      "football_data": "540520"
+    }
+  },
+  {
+    "id": "match_2025_0114",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2025-12-06T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540522"
+    }
+  },
+  {
+    "id": "match_2025_0115",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2025-12-06T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 6,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540516"
+    }
+  },
+  {
+    "id": "match_2025_0116",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2025-12-07T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_sascha_stegemann",
+    "sources": {
+      "football_data": "540521"
+    }
+  },
+  {
+    "id": "match_2025_0117",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2025-12-07T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_florian_badstubner",
+    "sources": {
+      "football_data": "540514"
+    }
+  },
+  {
+    "id": "match_2025_0118",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2025-12-12T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_daniel_schlager",
+    "sources": {
+      "football_data": "540529"
+    }
+  },
+  {
+    "id": "match_2025_0119",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2025-12-13T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_frank_willenborg",
+    "sources": {
+      "football_data": "540525"
+    }
+  },
+  {
+    "id": "match_2025_0120",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2025-12-13T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_patrick_ittrich",
+    "sources": {
+      "football_data": "540528"
+    }
+  },
+  {
+    "id": "match_2025_0121",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2025-12-13T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_soren_storks",
+    "sources": {
+      "football_data": "540530"
+    }
+  },
+  {
+    "id": "match_2025_0122",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2025-12-13T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_martin_petersen",
+    "sources": {
+      "football_data": "540531"
+    }
+  },
+  {
+    "id": "match_2025_0123",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2025-12-13T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_harm_osmers",
+    "sources": {
+      "football_data": "540524"
+    }
+  },
+  {
+    "id": "match_2025_0124",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2025-12-14T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540526"
+    }
+  },
+  {
+    "id": "match_2025_0125",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2025-12-14T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_robin_braun",
+    "sources": {
+      "football_data": "540523"
+    }
+  },
+  {
+    "id": "match_2025_0126",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2025-12-14T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_robert_hartmann",
+    "sources": {
+      "football_data": "540527"
+    }
+  },
+  {
+    "id": "match_2025_0127",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2025-12-19T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540532"
+    }
+  },
+  {
+    "id": "match_2025_0128",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2025-12-20T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540535"
+    }
+  },
+  {
+    "id": "match_2025_0129",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2025-12-20T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_sascha_stegemann",
+    "sources": {
+      "football_data": "540536"
+    }
+  },
+  {
+    "id": "match_2025_0130",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2025-12-20T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_tobias_welz",
+    "sources": {
+      "football_data": "540537"
+    }
+  },
+  {
+    "id": "match_2025_0131",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2025-12-20T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_christian_dingert",
+    "sources": {
+      "football_data": "540539"
+    }
+  },
+  {
+    "id": "match_2025_0132",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2025-12-20T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "540540"
+    }
+  },
+  {
+    "id": "match_2025_0133",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2025-12-20T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_benjamin_brand",
+    "sources": {
+      "football_data": "540534"
+    }
+  },
+  {
+    "id": "match_2025_0134",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2025-12-21T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_matthias_jollenbeck",
+    "sources": {
+      "football_data": "540533"
+    }
+  },
+  {
+    "id": "match_2025_0135",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2025-12-21T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_florian_badstubner",
+    "sources": {
+      "football_data": "540538"
+    }
+  },
+  {
+    "id": "match_2025_0136",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2026-01-09T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_daniel_schlager",
+    "sources": {
+      "football_data": "540543"
+    }
+  },
+  {
+    "id": "match_2025_0137",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2026-01-10T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_timo_gerach",
+    "sources": {
+      "football_data": "540544"
+    }
+  },
+  {
+    "id": "match_2025_0138",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2026-01-10T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_bastian_dankert",
+    "sources": {
+      "football_data": "540547"
+    }
+  },
+  {
+    "id": "match_2025_0139",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2026-01-10T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_robert_schroder",
+    "sources": {
+      "football_data": "540549"
+    }
+  },
+  {
+    "id": "match_2025_0140",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2026-01-10T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540542"
+    }
+  },
+  {
+    "id": "match_2025_0141",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2026-01-11T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_harm_osmers",
+    "sources": {
+      "football_data": "540546"
+    }
+  },
+  {
+    "id": "match_2025_0142",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2026-01-11T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 8,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_florian_badstubner",
+    "sources": {
+      "football_data": "540541"
+    }
+  },
+  {
+    "id": "match_2025_0143",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2026-01-13T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_matthias_jollenbeck",
+    "sources": {
+      "football_data": "540553"
+    }
+  },
+  {
+    "id": "match_2025_0144",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2026-01-13T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540550"
+    }
+  },
+  {
+    "id": "match_2025_0145",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2026-01-13T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540551"
+    }
+  },
+  {
+    "id": "match_2025_0146",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2026-01-14T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_frank_willenborg",
+    "sources": {
+      "football_data": "540554"
+    }
+  },
+  {
+    "id": "match_2025_0147",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2026-01-14T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_robert_hartmann",
+    "sources": {
+      "football_data": "540552"
+    }
+  },
+  {
+    "id": "match_2025_0148",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2026-01-14T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_christian_dingert",
+    "sources": {
+      "football_data": "540556"
+    }
+  },
+  {
+    "id": "match_2025_0149",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-01-14T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_patrick_ittrich",
+    "sources": {
+      "football_data": "540557"
+    }
+  },
+  {
+    "id": "match_2025_0150",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2026-01-15T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_florian_badstubner",
+    "sources": {
+      "football_data": "540555"
+    }
+  },
+  {
+    "id": "match_2025_0151",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2026-01-16T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_benjamin_brand",
+    "sources": {
+      "football_data": "540560"
+    }
+  },
+  {
+    "id": "match_2025_0152",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2026-01-17T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_daniel_schlager",
+    "sources": {
+      "football_data": "540561"
+    }
+  },
+  {
+    "id": "match_2025_0153",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2026-01-17T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540563"
+    }
+  },
+  {
+    "id": "match_2025_0154",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2026-01-17T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_robert_schroder",
+    "sources": {
+      "football_data": "540564"
+    }
+  },
+  {
+    "id": "match_2025_0155",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2026-01-17T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_harm_osmers",
+    "sources": {
+      "football_data": "540566"
+    }
+  },
+  {
+    "id": "match_2025_0156",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2026-01-17T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_welz",
+    "sources": {
+      "football_data": "540567"
+    }
+  },
+  {
+    "id": "match_2025_0157",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-01-17T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 5
+    },
+    "events": [],
+    "referee_id": "ref_sascha_stegemann",
+    "sources": {
+      "football_data": "540559"
+    }
+  },
+  {
+    "id": "match_2025_0158",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2026-01-18T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_deniz_aytekin",
+    "sources": {
+      "football_data": "540565"
+    }
+  },
+  {
+    "id": "match_2025_0159",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2026-01-18T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_martin_petersen",
+    "sources": {
+      "football_data": "540562"
+    }
+  },
+  {
+    "id": "match_2025_0160",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2026-01-23T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_tobias_welz",
+    "sources": {
+      "football_data": "540576"
+    }
+  },
+  {
+    "id": "match_2025_0161",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2026-01-24T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "540569"
+    }
+  },
+  {
+    "id": "match_2025_0162",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2026-01-24T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_tobias_reichel",
+    "sources": {
+      "football_data": "540570"
+    }
+  },
+  {
+    "id": "match_2025_0163",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2026-01-24T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540572"
+    }
+  },
+  {
+    "id": "match_2025_0164",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2026-01-24T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_florian_exner",
+    "sources": {
+      "football_data": "540573"
+    }
+  },
+  {
+    "id": "match_2025_0165",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2026-01-24T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540574"
+    }
+  },
+  {
+    "id": "match_2025_0166",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2026-01-24T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_robert_hartmann",
+    "sources": {
+      "football_data": "540568"
+    }
+  },
+  {
+    "id": "match_2025_0167",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2026-01-25T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_soren_storks",
+    "sources": {
+      "football_data": "540571"
+    }
+  },
+  {
+    "id": "match_2025_0168",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2026-01-25T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_bastian_dankert",
+    "sources": {
+      "football_data": "540575"
+    }
+  },
+  {
+    "id": "match_2025_0169",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2026-01-27T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_frank_willenborg",
+    "sources": {
+      "football_data": "540545"
+    }
+  },
+  {
+    "id": "match_2025_0170",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2026-01-27T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_florian_exner",
+    "sources": {
+      "football_data": "540548"
+    }
+  },
+  {
+    "id": "match_2025_0171",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2026-01-30T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_martin_petersen",
+    "sources": {
+      "football_data": "540582"
+    }
+  },
+  {
+    "id": "match_2025_0172",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2026-01-31T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_robert_schroder",
+    "sources": {
+      "football_data": "540578"
+    }
+  },
+  {
+    "id": "match_2025_0173",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2026-01-31T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_daniel_schlager",
+    "sources": {
+      "football_data": "540580"
+    }
+  },
+  {
+    "id": "match_2025_0174",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2026-01-31T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540581"
+    }
+  },
+  {
+    "id": "match_2025_0175",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2026-01-31T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_robin_braun",
+    "sources": {
+      "football_data": "540583"
+    }
+  },
+  {
+    "id": "match_2025_0176",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2026-01-31T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_sascha_stegemann",
+    "sources": {
+      "football_data": "540584"
+    }
+  },
+  {
+    "id": "match_2025_0177",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-01-31T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_harm_osmers",
+    "sources": {
+      "football_data": "540577"
+    }
+  },
+  {
+    "id": "match_2025_0178",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2026-02-01T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_florian_badstubner",
+    "sources": {
+      "football_data": "540579"
+    }
+  },
+  {
+    "id": "match_2025_0179",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2026-02-01T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_matthias_jollenbeck",
+    "sources": {
+      "football_data": "540585"
+    }
+  },
+  {
+    "id": "match_2025_0180",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2026-02-06T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_soren_storks",
+    "sources": {
+      "football_data": "540587"
+    }
+  },
+  {
+    "id": "match_2025_0181",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2026-02-07T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_timo_gerach",
+    "sources": {
+      "football_data": "540588"
+    }
+  },
+  {
+    "id": "match_2025_0182",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2026-02-07T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_deniz_aytekin",
+    "sources": {
+      "football_data": "540590"
+    }
+  },
+  {
+    "id": "match_2025_0183",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2026-02-07T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_benjamin_brand",
+    "sources": {
+      "football_data": "540591"
+    }
+  },
+  {
+    "id": "match_2025_0184",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2026-02-07T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_patrick_ittrich",
+    "sources": {
+      "football_data": "540592"
+    }
+  },
+  {
+    "id": "match_2025_0185",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2026-02-07T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540594"
+    }
+  },
+  {
+    "id": "match_2025_0186",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2026-02-07T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_christian_dingert",
+    "sources": {
+      "football_data": "540586"
+    }
+  },
+  {
+    "id": "match_2025_0187",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2026-02-08T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_frank_willenborg",
+    "sources": {
+      "football_data": "540589"
+    }
+  },
+  {
+    "id": "match_2025_0188",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2026-02-08T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "540593"
+    }
+  },
+  {
+    "id": "match_2025_0189",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2026-02-13T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_tobias_welz",
+    "sources": {
+      "football_data": "540597"
+    }
+  },
+  {
+    "id": "match_2025_0190",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-02-14T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_bastian_dankert",
+    "sources": {
+      "football_data": "540595"
+    }
+  },
+  {
+    "id": "match_2025_0191",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2026-02-14T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_florian_exner",
+    "sources": {
+      "football_data": "540596"
+    }
+  },
+  {
+    "id": "match_2025_0192",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2026-02-14T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_martin_petersen",
+    "sources": {
+      "football_data": "540598"
+    }
+  },
+  {
+    "id": "match_2025_0193",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2026-02-14T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_florian_badstubner",
+    "sources": {
+      "football_data": "540600"
+    }
+  },
+  {
+    "id": "match_2025_0194",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2026-02-14T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540601"
+    }
+  },
+  {
+    "id": "match_2025_0195",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2026-02-14T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_robert_hartmann",
+    "sources": {
+      "football_data": "540603"
+    }
+  },
+  {
+    "id": "match_2025_0196",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2026-02-15T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540602"
+    }
+  },
+  {
+    "id": "match_2025_0197",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2026-02-15T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_matthias_jollenbeck",
+    "sources": {
+      "football_data": "540599"
+    }
+  },
+  {
+    "id": "match_2025_0198",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2026-02-20T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_robin_braun",
+    "sources": {
+      "football_data": "540612"
+    }
+  },
+  {
+    "id": "match_2025_0199",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2026-02-21T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_harm_osmers",
+    "sources": {
+      "football_data": "540604"
+    }
+  },
+  {
+    "id": "match_2025_0200",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2026-02-21T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_tobias_reichel",
+    "sources": {
+      "football_data": "540605"
+    }
+  },
+  {
+    "id": "match_2025_0201",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2026-02-21T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_daniel_schlager",
+    "sources": {
+      "football_data": "540610"
+    }
+  },
+  {
+    "id": "match_2025_0202",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2026-02-21T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_robert_schroder",
+    "sources": {
+      "football_data": "540611"
+    }
+  },
+  {
+    "id": "match_2025_0203",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2026-02-21T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_benjamin_brand",
+    "sources": {
+      "football_data": "540606"
+    }
+  },
+  {
+    "id": "match_2025_0204",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2026-02-22T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540609"
+    }
+  },
+  {
+    "id": "match_2025_0205",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2026-02-22T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_soren_storks",
+    "sources": {
+      "football_data": "540607"
+    }
+  },
+  {
+    "id": "match_2025_0206",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2026-02-22T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_sascha_stegemann",
+    "sources": {
+      "football_data": "540608"
+    }
+  },
+  {
+    "id": "match_2025_0207",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2026-02-27T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_tobias_welz",
+    "sources": {
+      "football_data": "540621"
+    }
+  },
+  {
+    "id": "match_2025_0208",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2026-02-28T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "540615"
+    }
+  },
+  {
+    "id": "match_2025_0209",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2026-02-28T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_matthias_jollenbeck",
+    "sources": {
+      "football_data": "540618"
+    }
+  },
+  {
+    "id": "match_2025_0210",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2026-02-28T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_deniz_aytekin",
+    "sources": {
+      "football_data": "540619"
+    }
+  },
+  {
+    "id": "match_2025_0211",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2026-02-28T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_florian_badstubner",
+    "sources": {
+      "football_data": "540620"
+    }
+  },
+  {
+    "id": "match_2025_0212",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-02-28T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540613"
+    }
+  },
+  {
+    "id": "match_2025_0213",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2026-03-01T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_patrick_ittrich",
+    "sources": {
+      "football_data": "540617"
+    }
+  },
+  {
+    "id": "match_2025_0214",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2026-03-01T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_christian_dingert",
+    "sources": {
+      "football_data": "540614"
+    }
+  },
+  {
+    "id": "match_2025_0215",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2026-03-01T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_bastian_dankert",
+    "sources": {
+      "football_data": "540616"
+    }
+  },
+  {
+    "id": "match_2025_0216",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2026-03-04T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_soren_storks",
+    "sources": {
+      "football_data": "540558"
+    }
+  },
+  {
+    "id": "match_2025_0217",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2026-03-06T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_robert_schroder",
+    "sources": {
+      "football_data": "540627"
+    }
+  },
+  {
+    "id": "match_2025_0218",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2026-03-07T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_benjamin_brand",
+    "sources": {
+      "football_data": "540622"
+    }
+  },
+  {
+    "id": "match_2025_0219",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2026-03-07T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_matthias_jollenbeck",
+    "sources": {
+      "football_data": "540626"
+    }
+  },
+  {
+    "id": "match_2025_0220",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2026-03-07T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_martin_petersen",
+    "sources": {
+      "football_data": "540628"
+    }
+  },
+  {
+    "id": "match_2025_0221",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2026-03-07T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_robert_hartmann",
+    "sources": {
+      "football_data": "540629"
+    }
+  },
+  {
+    "id": "match_2025_0222",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2026-03-07T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_florian_exner",
+    "sources": {
+      "football_data": "540630"
+    }
+  },
+  {
+    "id": "match_2025_0223",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2026-03-07T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540624"
+    }
+  },
+  {
+    "id": "match_2025_0224",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2026-03-08T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540623"
+    }
+  },
+  {
+    "id": "match_2025_0225",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2026-03-08T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_timo_gerach",
+    "sources": {
+      "football_data": "540625"
+    }
+  },
+  {
+    "id": "match_2025_0226",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2026-03-13T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_daniel_schlager",
+    "sources": {
+      "football_data": "540637"
+    }
+  },
+  {
+    "id": "match_2025_0227",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-03-14T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_christian_dingert",
+    "sources": {
+      "football_data": "540631"
+    }
+  },
+  {
+    "id": "match_2025_0228",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2026-03-14T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_reichel",
+    "sources": {
+      "football_data": "540634"
+    }
+  },
+  {
+    "id": "match_2025_0229",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2026-03-14T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_bastian_dankert",
+    "sources": {
+      "football_data": "540635"
+    }
+  },
+  {
+    "id": "match_2025_0230",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2026-03-14T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_harm_osmers",
+    "sources": {
+      "football_data": "540638"
+    }
+  },
+  {
+    "id": "match_2025_0231",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2026-03-14T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_welz",
+    "sources": {
+      "football_data": "540639"
+    }
+  },
+  {
+    "id": "match_2025_0232",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2026-03-15T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_sascha_stegemann",
+    "sources": {
+      "football_data": "540632"
+    }
+  },
+  {
+    "id": "match_2025_0233",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2026-03-15T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540636"
+    }
+  },
+  {
+    "id": "match_2025_0234",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2026-03-15T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_deniz_aytekin",
+    "sources": {
+      "football_data": "540633"
+    }
+  },
+  {
+    "id": "match_2025_0235",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2026-03-20T19:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540647"
+    }
+  },
+  {
+    "id": "match_2025_0236",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2026-03-21T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_robin_braun",
+    "sources": {
+      "football_data": "540640"
+    }
+  },
+  {
+    "id": "match_2025_0237",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2026-03-21T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_benjamin_brand",
+    "sources": {
+      "football_data": "540643"
+    }
+  },
+  {
+    "id": "match_2025_0238",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2026-03-21T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_soren_storks",
+    "sources": {
+      "football_data": "540645"
+    }
+  },
+  {
+    "id": "match_2025_0239",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2026-03-21T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_patrick_ittrich",
+    "sources": {
+      "football_data": "540646"
+    }
+  },
+  {
+    "id": "match_2025_0240",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2026-03-21T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_matthias_jollenbeck",
+    "sources": {
+      "football_data": "540648"
+    }
+  },
+  {
+    "id": "match_2025_0241",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2026-03-22T14:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "540641"
+    }
+  },
+  {
+    "id": "match_2025_0242",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2026-03-22T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_florian_badstubner",
+    "sources": {
+      "football_data": "540642"
+    }
+  },
+  {
+    "id": "match_2025_0243",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2026-03-22T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 5
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540644"
+    }
+  },
+  {
+    "id": "match_2025_0244",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-04-04T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540649"
+    }
+  },
+  {
+    "id": "match_2025_0245",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2026-04-04T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_harm_osmers",
+    "sources": {
+      "football_data": "540651"
+    }
+  },
+  {
+    "id": "match_2025_0246",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2026-04-04T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_robert_hartmann",
+    "sources": {
+      "football_data": "540652"
+    }
+  },
+  {
+    "id": "match_2025_0247",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2026-04-04T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 6,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_martin_petersen",
+    "sources": {
+      "football_data": "540653"
+    }
+  },
+  {
+    "id": "match_2025_0248",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2026-04-04T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_deniz_aytekin",
+    "sources": {
+      "football_data": "540654"
+    }
+  },
+  {
+    "id": "match_2025_0249",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2026-04-04T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_bastian_dankert",
+    "sources": {
+      "football_data": "540656"
+    }
+  },
+  {
+    "id": "match_2025_0250",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2026-04-04T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_robert_schroder",
+    "sources": {
+      "football_data": "540650"
+    }
+  },
+  {
+    "id": "match_2025_0251",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2026-04-05T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_welz",
+    "sources": {
+      "football_data": "540655"
+    }
+  },
+  {
+    "id": "match_2025_0252",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2026-04-05T15:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_florian_exner",
+    "sources": {
+      "football_data": "540657"
+    }
+  },
+  {
+    "id": "match_2025_0253",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2026-04-10T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_daniel_schlager",
+    "sources": {
+      "football_data": "540665"
+    }
+  },
+  {
+    "id": "match_2025_0254",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2026-04-11T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_deniz_aytekin",
+    "sources": {
+      "football_data": "540659"
+    }
+  },
+  {
+    "id": "match_2025_0255",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2026-04-11T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_timo_gerach",
+    "sources": {
+      "football_data": "540660"
+    }
+  },
+  {
+    "id": "match_2025_0256",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2026-04-11T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_sascha_stegemann",
+    "sources": {
+      "football_data": "540663"
+    }
+  },
+  {
+    "id": "match_2025_0257",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2026-04-11T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_christian_dingert",
+    "sources": {
+      "football_data": "540664"
+    }
+  },
+  {
+    "id": "match_2025_0258",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-04-11T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 5
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "540658"
+    }
+  },
+  {
+    "id": "match_2025_0259",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2026-04-12T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_reichel",
+    "sources": {
+      "football_data": "540662"
+    }
+  },
+  {
+    "id": "match_2025_0260",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2026-04-12T15:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540666"
+    }
+  },
+  {
+    "id": "match_2025_0261",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2026-04-12T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540661"
+    }
+  },
+  {
+    "id": "match_2025_0262",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2026-04-17T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_matthias_jollenbeck",
+    "sources": {
+      "football_data": "540673"
+    }
+  },
+  {
+    "id": "match_2025_0263",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2026-04-18T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_florian_exner",
+    "sources": {
+      "football_data": "540674"
+    }
+  },
+  {
+    "id": "match_2025_0264",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2026-04-18T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_benjamin_brand",
+    "sources": {
+      "football_data": "540675"
+    }
+  },
+  {
+    "id": "match_2025_0265",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2026-04-18T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540667"
+    }
+  },
+  {
+    "id": "match_2025_0266",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2026-04-18T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_florian_badstubner",
+    "sources": {
+      "football_data": "540671"
+    }
+  },
+  {
+    "id": "match_2025_0267",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2026-04-18T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_bastian_dankert",
+    "sources": {
+      "football_data": "540669"
+    }
+  },
+  {
+    "id": "match_2025_0268",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2026-04-19T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_patrick_ittrich",
+    "sources": {
+      "football_data": "540672"
+    }
+  },
+  {
+    "id": "match_2025_0269",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2026-04-19T15:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_soren_storks",
+    "sources": {
+      "football_data": "540670"
+    }
+  },
+  {
+    "id": "match_2025_0270",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2026-04-19T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_welz",
+    "sources": {
+      "football_data": "540668"
+    }
+  },
+  {
+    "id": "match_2025_0271",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2026-04-24T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540682"
+    }
+  },
+  {
+    "id": "match_2025_0272",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-04-25T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_martin_petersen",
+    "sources": {
+      "football_data": "540676"
+    }
+  },
+  {
+    "id": "match_2025_0273",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2026-04-25T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_robert_hartmann",
+    "sources": {
+      "football_data": "540677"
+    }
+  },
+  {
+    "id": "match_2025_0274",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2026-04-25T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_harm_osmers",
+    "sources": {
+      "football_data": "540678"
+    }
+  },
+  {
+    "id": "match_2025_0275",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2026-04-25T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "540681"
+    }
+  },
+  {
+    "id": "match_2025_0276",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2026-04-25T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540683"
+    }
+  },
+  {
+    "id": "match_2025_0277",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2026-04-25T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_robert_schroder",
+    "sources": {
+      "football_data": "540684"
+    }
+  },
+  {
+    "id": "match_2025_0278",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2026-04-26T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_christian_dingert",
+    "sources": {
+      "football_data": "540680"
+    }
+  },
+  {
+    "id": "match_2025_0279",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2026-04-26T15:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_robin_braun",
+    "sources": {
+      "football_data": "540679"
+    }
+  },
+  {
+    "id": "match_2025_0280",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2026-05-02T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_sascha_stegemann",
+    "sources": {
+      "football_data": "540688"
+    }
+  },
+  {
+    "id": "match_2025_0281",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2026-05-02T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540690"
+    }
+  },
+  {
+    "id": "match_2025_0282",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2026-05-02T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_frank_willenborg",
+    "sources": {
+      "football_data": "540691"
+    }
+  },
+  {
+    "id": "match_2025_0283",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2026-05-02T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_daniel_schlager",
+    "sources": {
+      "football_data": "540692"
+    }
+  },
+  {
+    "id": "match_2025_0284",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2026-05-02T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_deniz_aytekin",
+    "sources": {
+      "football_data": "540693"
+    }
+  },
+  {
+    "id": "match_2025_0285",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2026-05-02T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_welz",
+    "sources": {
+      "football_data": "540687"
+    }
+  },
+  {
+    "id": "match_2025_0286",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2026-05-03T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_timo_gerach",
+    "sources": {
+      "football_data": "540686"
+    }
+  },
+  {
+    "id": "match_2025_0287",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2026-05-03T15:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_florian_badstubner",
+    "sources": {
+      "football_data": "540685"
+    }
+  },
+  {
+    "id": "match_2025_0288",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2026-05-03T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_bastian_dankert",
+    "sources": {
+      "football_data": "540689"
+    }
+  },
+  {
+    "id": "match_2025_0289",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2026-05-08T18:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_patrick_ittrich",
+    "sources": {
+      "football_data": "540696"
+    }
+  },
+  {
+    "id": "match_2025_0290",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2026-05-09T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_robert_schroder",
+    "sources": {
+      "football_data": "540695"
+    }
+  },
+  {
+    "id": "match_2025_0291",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_tsg_1899_hoffenheim",
+    "away_team": "team_sv_werder_bremen",
+    "stadium_id": null,
+    "date": "2026-05-09T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_soren_storks",
+    "sources": {
+      "football_data": "540698"
+    }
+  },
+  {
+    "id": "match_2025_0292",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_borussia_monchengladbach",
+    "stadium_id": null,
+    "date": "2026-05-09T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_reichel",
+    "sources": {
+      "football_data": "540699"
+    }
+  },
+  {
+    "id": "match_2025_0293",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_fc_st_pauli_1910",
+    "stadium_id": null,
+    "date": "2026-05-09T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_benjamin_brand",
+    "sources": {
+      "football_data": "540701"
+    }
+  },
+  {
+    "id": "match_2025_0294",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_vfl_wolfsburg",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-05-09T16:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_matthias_jollenbeck",
+    "sources": {
+      "football_data": "540694"
+    }
+  },
+  {
+    "id": "match_2025_0295",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_sc_freiburg",
+    "stadium_id": null,
+    "date": "2026-05-10T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "540697"
+    }
+  },
+  {
+    "id": "match_2025_0296",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_1_fc_heidenheim_1846",
+    "stadium_id": null,
+    "date": "2026-05-10T15:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "540702"
+    }
+  },
+  {
+    "id": "match_2025_0297",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fsv_mainz_05",
+    "away_team": "team_1_fc_union_berlin",
+    "stadium_id": null,
+    "date": "2026-05-10T17:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_florian_exner",
+    "sources": {
+      "football_data": "540700"
+    }
+  },
+  {
+    "id": "match_2025_0298",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sv_werder_bremen",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2026-05-16T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_bastian_dankert",
+    "sources": {
+      "football_data": "540703"
+    }
+  },
+  {
+    "id": "match_2025_0299",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_heidenheim_1846",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2026-05-16T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_robert_hartmann",
+    "sources": {
+      "football_data": "540704"
+    }
+  },
+  {
+    "id": "match_2025_0300",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_sc_freiburg",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2026-05-16T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_sascha_stegemann",
+    "sources": {
+      "football_data": "540705"
+    }
+  },
+  {
+    "id": "match_2025_0301",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2026-05-16T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_tobias_welz",
+    "sources": {
+      "football_data": "540706"
+    }
+  },
+  {
+    "id": "match_2025_0302",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_st_pauli_1910",
+    "away_team": "team_vfl_wolfsburg",
+    "stadium_id": null,
+    "date": "2026-05-16T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "540707"
+    }
+  },
+  {
+    "id": "match_2025_0303",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2026-05-16T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_patrick_ittrich",
+    "sources": {
+      "football_data": "540708"
+    }
+  },
+  {
+    "id": "match_2025_0304",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_borussia_monchengladbach",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2026-05-16T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_frank_willenborg",
+    "sources": {
+      "football_data": "540709"
+    }
+  },
+  {
+    "id": "match_2025_0305",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2026-05-16T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_deniz_aytekin",
+    "sources": {
+      "football_data": "540710"
+    }
+  },
+  {
+    "id": "match_2025_0306",
+    "competition_id": "competition_bundesliga_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2026-05-16T13:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "540711"
+    }
+  },
+  {
+    "id": "match_2025_0001",
     "competition_id": "competition_primera_division_2025",
     "home_team": "team_girona_fc",
     "away_team": "team_rayo_vallecano_de_madrid",

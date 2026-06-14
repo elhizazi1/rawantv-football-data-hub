@@ -401,38 +401,41 @@
   {
     "id": "team_borussia_dortmund",
     "sources": {
-      "thesportsdb": "133650"
+      "thesportsdb": "133650",
+      "football_data": "4"
     },
     "name": "Borussia Dortmund",
-    "short_name": "DOR",
+    "short_name": "BVB",
     "country": "Germany",
     "founded": 1909,
     "stadium_id": "stadium_signal_iduna_park",
-    "logo": null
+    "logo": "https://crests.football-data.org/4.png"
   },
   {
     "id": "team_borussia_monchengladbach",
     "sources": {
-      "thesportsdb": "134779"
+      "thesportsdb": "134779",
+      "football_data": "18"
     },
     "name": "Borussia Mönchengladbach",
-    "short_name": null,
+    "short_name": "BMG",
     "country": "Germany",
     "founded": 1900,
     "stadium_id": "stadium_stadion_im_borussia_park",
-    "logo": null
+    "logo": "https://crests.football-data.org/18.png"
   },
   {
     "id": "team_eintracht_frankfurt",
     "sources": {
-      "thesportsdb": "133814"
+      "thesportsdb": "133814",
+      "football_data": "19"
     },
     "name": "Eintracht Frankfurt",
     "short_name": "SGE",
     "country": "Germany",
     "founded": 1899,
     "stadium_id": "stadium_deutsche_bank_park",
-    "logo": null
+    "logo": "https://crests.football-data.org/19.png"
   },
   {
     "id": "team_elversberg",
@@ -601,6 +604,171 @@
     "founded": 1899,
     "stadium_id": "stadium_orange_velodrome",
     "logo": null
+  },
+  {
+    "id": "team_1_fc_koln",
+    "sources": {
+      "football_data": "1"
+    },
+    "name": "1. FC Köln",
+    "short_name": "KOE",
+    "country": "Germany",
+    "founded": 1948,
+    "logo": "https://crests.football-data.org/1.png"
+  },
+  {
+    "id": "team_tsg_1899_hoffenheim",
+    "sources": {
+      "football_data": "2"
+    },
+    "name": "TSG 1899 Hoffenheim",
+    "short_name": "TSG",
+    "country": "Germany",
+    "founded": 1921,
+    "logo": "https://crests.football-data.org/2.png"
+  },
+  {
+    "id": "team_bayer_04_leverkusen",
+    "sources": {
+      "football_data": "3"
+    },
+    "name": "Bayer 04 Leverkusen",
+    "short_name": "B04",
+    "country": "Germany",
+    "founded": 1904,
+    "logo": "https://crests.football-data.org/3.png"
+  },
+  {
+    "id": "team_fc_bayern_munchen",
+    "sources": {
+      "football_data": "5"
+    },
+    "name": "FC Bayern München",
+    "short_name": "FCB",
+    "country": "Germany",
+    "founded": 1900,
+    "logo": "https://crests.football-data.org/5.png"
+  },
+  {
+    "id": "team_hamburger_sv",
+    "sources": {
+      "football_data": "7"
+    },
+    "name": "Hamburger SV",
+    "short_name": "HSV",
+    "country": "Germany",
+    "founded": 1887,
+    "logo": "https://crests.football-data.org/7.png"
+  },
+  {
+    "id": "team_vfb_stuttgart",
+    "sources": {
+      "football_data": "10"
+    },
+    "name": "VfB Stuttgart",
+    "short_name": "VFB",
+    "country": "Germany",
+    "founded": 1893,
+    "logo": "https://crests.football-data.org/10.png"
+  },
+  {
+    "id": "team_vfl_wolfsburg",
+    "sources": {
+      "football_data": "11"
+    },
+    "name": "VfL Wolfsburg",
+    "short_name": "WOB",
+    "country": "Germany",
+    "founded": 1945,
+    "logo": "https://crests.football-data.org/11.png"
+  },
+  {
+    "id": "team_sv_werder_bremen",
+    "sources": {
+      "football_data": "12"
+    },
+    "name": "SV Werder Bremen",
+    "short_name": "SVW",
+    "country": "Germany",
+    "founded": 1899,
+    "logo": "https://crests.football-data.org/12.png"
+  },
+  {
+    "id": "team_1_fsv_mainz_05",
+    "sources": {
+      "football_data": "15"
+    },
+    "name": "1. FSV Mainz 05",
+    "short_name": "M05",
+    "country": "Germany",
+    "founded": 1905,
+    "logo": "https://crests.football-data.org/15.png"
+  },
+  {
+    "id": "team_fc_augsburg",
+    "sources": {
+      "football_data": "16"
+    },
+    "name": "FC Augsburg",
+    "short_name": "FCA",
+    "country": "Germany",
+    "founded": 1907,
+    "logo": "https://crests.football-data.org/16.png"
+  },
+  {
+    "id": "team_sc_freiburg",
+    "sources": {
+      "football_data": "17"
+    },
+    "name": "SC Freiburg",
+    "short_name": "SCF",
+    "country": "Germany",
+    "founded": 1912,
+    "logo": "https://crests.football-data.org/17.png"
+  },
+  {
+    "id": "team_fc_st_pauli_1910",
+    "sources": {
+      "football_data": "20"
+    },
+    "name": "FC St. Pauli 1910",
+    "short_name": "STP",
+    "country": "Germany",
+    "founded": 1910,
+    "logo": "https://crests.football-data.org/20.png"
+  },
+  {
+    "id": "team_1_fc_union_berlin",
+    "sources": {
+      "football_data": "28"
+    },
+    "name": "1. FC Union Berlin",
+    "short_name": "UNB",
+    "country": "Germany",
+    "founded": 1906,
+    "logo": "https://crests.football-data.org/28.png"
+  },
+  {
+    "id": "team_1_fc_heidenheim_1846",
+    "sources": {
+      "football_data": "44"
+    },
+    "name": "1. FC Heidenheim 1846",
+    "short_name": "HEI",
+    "country": "Germany",
+    "founded": 1846,
+    "logo": "https://crests.football-data.org/44.png"
+  },
+  {
+    "id": "team_rb_leipzig",
+    "sources": {
+      "football_data": "721"
+    },
+    "name": "RB Leipzig",
+    "short_name": "RBL",
+    "country": "Germany",
+    "founded": 2009,
+    "logo": "https://crests.football-data.org/721.png"
   },
   {
     "id": "team_athletic_club",
