@@ -27888,10 +27888,10 @@
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
     "date": "2026-05-19T18:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 1,
-      "away": 0
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_anthony_taylor",
@@ -28034,7 +28034,7 @@
     "date": "2026-05-24T15:00:00Z",
     "status": "finished",
     "score": {
-      "home": 2,
+      "home": 1,
       "away": 2
     },
     "events": [],
@@ -28266,10 +28266,10 @@
     "away_team": "team_japan",
     "stadium_id": null,
     "date": "2026-06-14T20:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_ismail_elfath",
@@ -28284,13 +28284,13 @@
     "away_team": "team_ecuador",
     "stadium_id": null,
     "date": "2026-06-14T23:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_francois_letexier",
     "sources": {
       "football_data": "537352"
     }
@@ -28302,13 +28302,13 @@
     "away_team": "team_tunisia",
     "stadium_id": null,
     "date": "2026-06-15T02:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_yael_falcon",
     "sources": {
       "football_data": "537358"
     }
