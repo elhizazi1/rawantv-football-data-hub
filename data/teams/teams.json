@@ -1110,6 +1110,171 @@
     "logo": "https://crests.football-data.org/11034.png"
   },
   {
+    "id": "team_toulouse_fc",
+    "sources": {
+      "football_data": "511"
+    },
+    "name": "Toulouse FC",
+    "short_name": "TOU",
+    "country": "France",
+    "founded": 1937,
+    "logo": "https://crests.football-data.org/511.png"
+  },
+  {
+    "id": "team_stade_brestois_29",
+    "sources": {
+      "football_data": "512"
+    },
+    "name": "Stade Brestois 29",
+    "short_name": "BRE",
+    "country": "France",
+    "founded": 1903,
+    "logo": "https://crests.football-data.org/512.png"
+  },
+  {
+    "id": "team_aj_auxerre",
+    "sources": {
+      "football_data": "519"
+    },
+    "name": "AJ Auxerre",
+    "short_name": "AJA",
+    "country": "France",
+    "founded": 1905,
+    "logo": "https://crests.football-data.org/519.png"
+  },
+  {
+    "id": "team_lille_osc",
+    "sources": {
+      "football_data": "521"
+    },
+    "name": "Lille OSC",
+    "short_name": "LIL",
+    "country": "France",
+    "founded": 1944,
+    "logo": "https://crests.football-data.org/521.png"
+  },
+  {
+    "id": "team_ogc_nice",
+    "sources": {
+      "football_data": "522"
+    },
+    "name": "OGC Nice",
+    "short_name": "NIC",
+    "country": "France",
+    "founded": 1904,
+    "logo": "https://crests.football-data.org/522.png"
+  },
+  {
+    "id": "team_olympique_lyonnais",
+    "sources": {
+      "football_data": "523"
+    },
+    "name": "Olympique Lyonnais",
+    "short_name": "LYO",
+    "country": "France",
+    "founded": 1896,
+    "logo": "https://crests.football-data.org/523.png"
+  },
+  {
+    "id": "team_fc_lorient",
+    "sources": {
+      "football_data": "525"
+    },
+    "name": "FC Lorient",
+    "short_name": "FCL",
+    "country": "France",
+    "founded": 1926,
+    "logo": "https://crests.football-data.org/525.png"
+  },
+  {
+    "id": "team_stade_rennais_fc_1901",
+    "sources": {
+      "football_data": "529"
+    },
+    "name": "Stade Rennais FC 1901",
+    "short_name": "REN",
+    "country": "France",
+    "founded": 1901,
+    "logo": "https://crests.football-data.org/529.png"
+  },
+  {
+    "id": "team_es_troyes_ac",
+    "sources": {
+      "football_data": "531"
+    },
+    "name": "ES Troyes AC",
+    "short_name": "ETR",
+    "country": "France",
+    "founded": 1986,
+    "logo": "https://crests.football-data.org/531.png"
+  },
+  {
+    "id": "team_angers_sco",
+    "sources": {
+      "football_data": "532"
+    },
+    "name": "Angers SCO",
+    "short_name": "ANG",
+    "country": "France",
+    "founded": 1919,
+    "logo": "https://crests.football-data.org/532.png"
+  },
+  {
+    "id": "team_le_havre_ac",
+    "sources": {
+      "football_data": "533"
+    },
+    "name": "Le Havre AC",
+    "short_name": "HAC",
+    "country": "France",
+    "founded": 1872,
+    "logo": "https://crests.football-data.org/533.png"
+  },
+  {
+    "id": "team_le_mans_fc",
+    "sources": {
+      "football_data": "535"
+    },
+    "name": "Le Mans FC",
+    "short_name": "LMF",
+    "country": "France",
+    "founded": 1985,
+    "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg"
+  },
+  {
+    "id": "team_racing_club_de_lens",
+    "sources": {
+      "football_data": "546"
+    },
+    "name": "Racing Club de Lens",
+    "short_name": "RCL",
+    "country": "France",
+    "founded": 1906,
+    "logo": "https://crests.football-data.org/546.png"
+  },
+  {
+    "id": "team_rc_strasbourg_alsace",
+    "sources": {
+      "football_data": "576"
+    },
+    "name": "RC Strasbourg Alsace",
+    "short_name": "RC ",
+    "country": "France",
+    "founded": 1906,
+    "logo": "https://crests.football-data.org/576.png"
+  },
+  {
+    "id": "team_paris_fc",
+    "sources": {
+      "football_data": "1045"
+    },
+    "name": "Paris FC",
+    "short_name": "PFC",
+    "country": "France",
+    "founded": 1969,
+    "logo": "https://crests.football-data.org/1045.png"
+  },
+  {
     "id": "team_ca_osasuna",
     "sources": {
       "football_data": "79"
