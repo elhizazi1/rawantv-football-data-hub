@@ -1484,26 +1484,15 @@
     "logo": "https://crests.football-data.org/71.png"
   },
   {
-    "id": "team_wolverhampton_wanderers_fc",
+    "id": "team_hull_city_afc",
     "sources": {
-      "football_data": "76"
+      "football_data": "322"
     },
-    "name": "Wolverhampton Wanderers FC",
-    "short_name": "WOL",
+    "name": "Hull City AFC",
+    "short_name": "HUL",
     "country": "England",
-    "founded": 1877,
-    "logo": "https://crests.football-data.org/76.png"
-  },
-  {
-    "id": "team_burnley_fc",
-    "sources": {
-      "football_data": "328"
-    },
-    "name": "Burnley FC",
-    "short_name": "BUR",
-    "country": "England",
-    "founded": 1881,
-    "logo": "https://crests.football-data.org/328.png"
+    "founded": 1904,
+    "logo": "https://crests.football-data.org/322.png"
   },
   {
     "id": "team_leeds_united_fc",
@@ -1515,6 +1504,17 @@
     "country": "England",
     "founded": 1904,
     "logo": "https://crests.football-data.org/341.png"
+  },
+  {
+    "id": "team_ipswich_town_fc",
+    "sources": {
+      "football_data": "349"
+    },
+    "name": "Ipswich Town FC",
+    "short_name": "IPS",
+    "country": "England",
+    "founded": 1887,
+    "logo": "https://crests.football-data.org/349.png"
   },
   {
     "id": "team_nottingham_forest_fc",
@@ -1561,17 +1561,6 @@
     "logo": "https://crests.football-data.org/402.png"
   },
   {
-    "id": "team_west_ham_united_fc",
-    "sources": {
-      "football_data": "563"
-    },
-    "name": "West Ham United FC",
-    "short_name": "WHU",
-    "country": "England",
-    "founded": 1895,
-    "logo": "https://crests.football-data.org/563.png"
-  },
-  {
     "id": "team_afc_bournemouth",
     "sources": {
       "football_data": "1044"
@@ -1581,6 +1570,17 @@
     "country": "England",
     "founded": 1890,
     "logo": "https://crests.football-data.org/bournemouth.png"
+  },
+  {
+    "id": "team_coventry_city_fc",
+    "sources": {
+      "football_data": "1076"
+    },
+    "name": "Coventry City FC",
+    "short_name": "COV",
+    "country": "England",
+    "founded": 1883,
+    "logo": "https://crests.football-data.org/1076.png"
   },
   {
     "id": "team_acf_fiorentina",
