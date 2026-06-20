@@ -182,6 +182,18 @@
     "logo": "https://crests.football-data.org/263.png"
   },
   {
+    "id": "team_deportivo_de_la_coruna",
+    "sources": {
+      "thesportsdb": "133816"
+    },
+    "name": "Deportivo de La Coruña",
+    "short_name": null,
+    "country": "Spain",
+    "founded": 1906,
+    "stadium_id": "stadium_estadio_abanca_riazor",
+    "logo": null
+  },
+  {
     "id": "team_elche",
     "sources": {
       "thesportsdb": "134384"
@@ -215,18 +227,6 @@
     "country": "Spain",
     "founded": 1946,
     "stadium_id": "stadium_estadio_coliseum",
-    "logo": null
-  },
-  {
-    "id": "team_girona",
-    "sources": {
-      "thesportsdb": "134700"
-    },
-    "name": "Girona",
-    "short_name": "GIR",
-    "country": "Spain",
-    "founded": 1930,
-    "stadium_id": "stadium_estadi_municipal_de_montilivi",
     "logo": null
   },
   {
