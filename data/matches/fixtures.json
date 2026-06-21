@@ -28734,10 +28734,10 @@
     "away_team": "team_japan",
     "stadium_id": null,
     "date": "2026-06-21T04:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 4
     },
     "events": [],
     "referee_id": "ref_istvan_kovacs",
