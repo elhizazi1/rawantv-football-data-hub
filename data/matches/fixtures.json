@@ -15755,7 +15755,7 @@
     "home_team": "team_udinese_calcio",
     "away_team": "team_como_1907",
     "stadium_id": null,
-    "date": "2026-08-23T18:30:00Z",
+    "date": "2026-08-23T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15773,7 +15773,7 @@
     "home_team": "team_bologna_fc_1909",
     "away_team": "team_ss_lazio",
     "stadium_id": null,
-    "date": "2026-08-23T18:30:00Z",
+    "date": "2026-08-23T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15791,7 +15791,7 @@
     "home_team": "team_genoa_cfc",
     "away_team": "team_ssc_napoli",
     "stadium_id": null,
-    "date": "2026-08-23T18:30:00Z",
+    "date": "2026-08-23T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15809,7 +15809,7 @@
     "home_team": "team_fc_internazionale_milano",
     "away_team": "team_ac_monza",
     "stadium_id": null,
-    "date": "2026-08-23T18:30:00Z",
+    "date": "2026-08-23T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15827,7 +15827,7 @@
     "home_team": "team_atalanta_bc",
     "away_team": "team_us_sassuolo_calcio",
     "stadium_id": null,
-    "date": "2026-08-23T18:30:00Z",
+    "date": "2026-08-23T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15845,7 +15845,7 @@
     "home_team": "team_torino_fc",
     "away_team": "team_ac_milan",
     "stadium_id": null,
-    "date": "2026-08-23T18:30:00Z",
+    "date": "2026-08-23T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15863,7 +15863,7 @@
     "home_team": "team_frosinone_calcio",
     "away_team": "team_juventus_fc",
     "stadium_id": null,
-    "date": "2026-08-23T18:30:00Z",
+    "date": "2026-08-23T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15881,7 +15881,7 @@
     "home_team": "team_parma_calcio_1913",
     "away_team": "team_cagliari_calcio",
     "stadium_id": null,
-    "date": "2026-08-23T18:30:00Z",
+    "date": "2026-08-23T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15899,7 +15899,7 @@
     "home_team": "team_venezia_fc",
     "away_team": "team_us_lecce",
     "stadium_id": null,
-    "date": "2026-08-23T18:30:00Z",
+    "date": "2026-08-23T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15917,7 +15917,7 @@
     "home_team": "team_as_roma",
     "away_team": "team_acf_fiorentina",
     "stadium_id": null,
-    "date": "2026-08-23T18:30:00Z",
+    "date": "2026-08-23T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15935,7 +15935,7 @@
     "home_team": "team_juventus_fc",
     "away_team": "team_parma_calcio_1913",
     "stadium_id": null,
-    "date": "2026-08-30T18:30:00Z",
+    "date": "2026-08-30T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15953,7 +15953,7 @@
     "home_team": "team_us_sassuolo_calcio",
     "away_team": "team_torino_fc",
     "stadium_id": null,
-    "date": "2026-08-30T18:30:00Z",
+    "date": "2026-08-30T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15971,7 +15971,7 @@
     "home_team": "team_us_lecce",
     "away_team": "team_as_roma",
     "stadium_id": null,
-    "date": "2026-08-30T18:30:00Z",
+    "date": "2026-08-30T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15989,7 +15989,7 @@
     "home_team": "team_ss_lazio",
     "away_team": "team_genoa_cfc",
     "stadium_id": null,
-    "date": "2026-08-30T18:30:00Z",
+    "date": "2026-08-30T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16007,7 +16007,7 @@
     "home_team": "team_cagliari_calcio",
     "away_team": "team_fc_internazionale_milano",
     "stadium_id": null,
-    "date": "2026-08-30T18:30:00Z",
+    "date": "2026-08-30T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16025,7 +16025,7 @@
     "home_team": "team_ac_monza",
     "away_team": "team_udinese_calcio",
     "stadium_id": null,
-    "date": "2026-08-30T18:30:00Z",
+    "date": "2026-08-30T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16043,7 +16043,7 @@
     "home_team": "team_ac_milan",
     "away_team": "team_venezia_fc",
     "stadium_id": null,
-    "date": "2026-08-30T18:30:00Z",
+    "date": "2026-08-30T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16061,7 +16061,7 @@
     "home_team": "team_ssc_napoli",
     "away_team": "team_como_1907",
     "stadium_id": null,
-    "date": "2026-08-30T18:30:00Z",
+    "date": "2026-08-30T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16079,7 +16079,7 @@
     "home_team": "team_acf_fiorentina",
     "away_team": "team_frosinone_calcio",
     "stadium_id": null,
-    "date": "2026-08-30T18:30:00Z",
+    "date": "2026-08-30T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16097,7 +16097,7 @@
     "home_team": "team_atalanta_bc",
     "away_team": "team_bologna_fc_1909",
     "stadium_id": null,
-    "date": "2026-08-30T18:30:00Z",
+    "date": "2026-08-30T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16115,7 +16115,7 @@
     "home_team": "team_genoa_cfc",
     "away_team": "team_como_1907",
     "stadium_id": null,
-    "date": "2026-09-06T18:30:00Z",
+    "date": "2026-09-06T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16133,7 +16133,7 @@
     "home_team": "team_cagliari_calcio",
     "away_team": "team_us_lecce",
     "stadium_id": null,
-    "date": "2026-09-06T18:30:00Z",
+    "date": "2026-09-06T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16151,7 +16151,7 @@
     "home_team": "team_as_roma",
     "away_team": "team_atalanta_bc",
     "stadium_id": null,
-    "date": "2026-09-06T18:30:00Z",
+    "date": "2026-09-06T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16169,7 +16169,7 @@
     "home_team": "team_parma_calcio_1913",
     "away_team": "team_ac_monza",
     "stadium_id": null,
-    "date": "2026-09-06T18:30:00Z",
+    "date": "2026-09-06T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16187,7 +16187,7 @@
     "home_team": "team_bologna_fc_1909",
     "away_team": "team_us_sassuolo_calcio",
     "stadium_id": null,
-    "date": "2026-09-06T18:30:00Z",
+    "date": "2026-09-06T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16205,7 +16205,7 @@
     "home_team": "team_fc_internazionale_milano",
     "away_team": "team_ssc_napoli",
     "stadium_id": null,
-    "date": "2026-09-06T18:30:00Z",
+    "date": "2026-09-06T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16223,7 +16223,7 @@
     "home_team": "team_frosinone_calcio",
     "away_team": "team_venezia_fc",
     "stadium_id": null,
-    "date": "2026-09-06T18:30:00Z",
+    "date": "2026-09-06T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16241,7 +16241,7 @@
     "home_team": "team_acf_fiorentina",
     "away_team": "team_torino_fc",
     "stadium_id": null,
-    "date": "2026-09-06T18:30:00Z",
+    "date": "2026-09-06T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16259,7 +16259,7 @@
     "home_team": "team_udinese_calcio",
     "away_team": "team_ss_lazio",
     "stadium_id": null,
-    "date": "2026-09-06T18:30:00Z",
+    "date": "2026-09-06T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16277,7 +16277,7 @@
     "home_team": "team_juventus_fc",
     "away_team": "team_ac_milan",
     "stadium_id": null,
-    "date": "2026-09-06T18:30:00Z",
+    "date": "2026-09-06T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16295,7 +16295,7 @@
     "home_team": "team_ssc_napoli",
     "away_team": "team_bologna_fc_1909",
     "stadium_id": null,
-    "date": "2026-09-13T18:30:00Z",
+    "date": "2026-09-13T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16313,7 +16313,7 @@
     "home_team": "team_ss_lazio",
     "away_team": "team_ac_milan",
     "stadium_id": null,
-    "date": "2026-09-13T18:30:00Z",
+    "date": "2026-09-13T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16331,7 +16331,7 @@
     "home_team": "team_fc_internazionale_milano",
     "away_team": "team_udinese_calcio",
     "stadium_id": null,
-    "date": "2026-09-13T18:30:00Z",
+    "date": "2026-09-13T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16349,7 +16349,7 @@
     "home_team": "team_como_1907",
     "away_team": "team_parma_calcio_1913",
     "stadium_id": null,
-    "date": "2026-09-13T18:30:00Z",
+    "date": "2026-09-13T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16367,7 +16367,7 @@
     "home_team": "team_torino_fc",
     "away_team": "team_as_roma",
     "stadium_id": null,
-    "date": "2026-09-13T18:30:00Z",
+    "date": "2026-09-13T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16385,7 +16385,7 @@
     "home_team": "team_genoa_cfc",
     "away_team": "team_frosinone_calcio",
     "stadium_id": null,
-    "date": "2026-09-13T18:30:00Z",
+    "date": "2026-09-13T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16403,7 +16403,7 @@
     "home_team": "team_us_lecce",
     "away_team": "team_ac_monza",
     "stadium_id": null,
-    "date": "2026-09-13T18:30:00Z",
+    "date": "2026-09-13T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16421,7 +16421,7 @@
     "home_team": "team_venezia_fc",
     "away_team": "team_acf_fiorentina",
     "stadium_id": null,
-    "date": "2026-09-13T18:30:00Z",
+    "date": "2026-09-13T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16439,7 +16439,7 @@
     "home_team": "team_atalanta_bc",
     "away_team": "team_cagliari_calcio",
     "stadium_id": null,
-    "date": "2026-09-13T18:30:00Z",
+    "date": "2026-09-13T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16457,7 +16457,7 @@
     "home_team": "team_us_sassuolo_calcio",
     "away_team": "team_juventus_fc",
     "stadium_id": null,
-    "date": "2026-09-13T18:30:00Z",
+    "date": "2026-09-13T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16475,7 +16475,7 @@
     "home_team": "team_frosinone_calcio",
     "away_team": "team_como_1907",
     "stadium_id": null,
-    "date": "2026-09-20T18:30:00Z",
+    "date": "2026-09-20T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16493,7 +16493,7 @@
     "home_team": "team_as_roma",
     "away_team": "team_fc_internazionale_milano",
     "stadium_id": null,
-    "date": "2026-09-20T18:30:00Z",
+    "date": "2026-09-20T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16511,7 +16511,7 @@
     "home_team": "team_venezia_fc",
     "away_team": "team_ss_lazio",
     "stadium_id": null,
-    "date": "2026-09-20T18:30:00Z",
+    "date": "2026-09-20T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16529,7 +16529,7 @@
     "home_team": "team_juventus_fc",
     "away_team": "team_atalanta_bc",
     "stadium_id": null,
-    "date": "2026-09-20T18:30:00Z",
+    "date": "2026-09-20T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16547,7 +16547,7 @@
     "home_team": "team_ac_monza",
     "away_team": "team_us_sassuolo_calcio",
     "stadium_id": null,
-    "date": "2026-09-20T18:30:00Z",
+    "date": "2026-09-20T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16565,7 +16565,7 @@
     "home_team": "team_ac_milan",
     "away_team": "team_us_lecce",
     "stadium_id": null,
-    "date": "2026-09-20T18:30:00Z",
+    "date": "2026-09-20T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16583,7 +16583,7 @@
     "home_team": "team_bologna_fc_1909",
     "away_team": "team_torino_fc",
     "stadium_id": null,
-    "date": "2026-09-20T18:30:00Z",
+    "date": "2026-09-20T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16601,7 +16601,7 @@
     "home_team": "team_udinese_calcio",
     "away_team": "team_cagliari_calcio",
     "stadium_id": null,
-    "date": "2026-09-20T18:30:00Z",
+    "date": "2026-09-20T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16619,7 +16619,7 @@
     "home_team": "team_parma_calcio_1913",
     "away_team": "team_genoa_cfc",
     "stadium_id": null,
-    "date": "2026-09-20T18:30:00Z",
+    "date": "2026-09-20T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16637,7 +16637,7 @@
     "home_team": "team_acf_fiorentina",
     "away_team": "team_ssc_napoli",
     "stadium_id": null,
-    "date": "2026-09-20T18:30:00Z",
+    "date": "2026-09-20T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16655,7 +16655,7 @@
     "home_team": "team_atalanta_bc",
     "away_team": "team_venezia_fc",
     "stadium_id": null,
-    "date": "2026-10-11T18:30:00Z",
+    "date": "2026-10-11T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16673,7 +16673,7 @@
     "home_team": "team_us_sassuolo_calcio",
     "away_team": "team_ac_milan",
     "stadium_id": null,
-    "date": "2026-10-11T18:30:00Z",
+    "date": "2026-10-11T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16691,7 +16691,7 @@
     "home_team": "team_us_lecce",
     "away_team": "team_bologna_fc_1909",
     "stadium_id": null,
-    "date": "2026-10-11T18:30:00Z",
+    "date": "2026-10-11T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16709,7 +16709,7 @@
     "home_team": "team_fc_internazionale_milano",
     "away_team": "team_parma_calcio_1913",
     "stadium_id": null,
-    "date": "2026-10-11T18:30:00Z",
+    "date": "2026-10-11T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16727,7 +16727,7 @@
     "home_team": "team_ss_lazio",
     "away_team": "team_ac_monza",
     "stadium_id": null,
-    "date": "2026-10-11T18:30:00Z",
+    "date": "2026-10-11T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16745,7 +16745,7 @@
     "home_team": "team_cagliari_calcio",
     "away_team": "team_juventus_fc",
     "stadium_id": null,
-    "date": "2026-10-11T18:30:00Z",
+    "date": "2026-10-11T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16763,7 +16763,7 @@
     "home_team": "team_como_1907",
     "away_team": "team_as_roma",
     "stadium_id": null,
-    "date": "2026-10-11T18:30:00Z",
+    "date": "2026-10-11T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16781,7 +16781,7 @@
     "home_team": "team_ssc_napoli",
     "away_team": "team_frosinone_calcio",
     "stadium_id": null,
-    "date": "2026-10-11T18:30:00Z",
+    "date": "2026-10-11T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16799,7 +16799,7 @@
     "home_team": "team_torino_fc",
     "away_team": "team_udinese_calcio",
     "stadium_id": null,
-    "date": "2026-10-11T18:30:00Z",
+    "date": "2026-10-11T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16817,7 +16817,7 @@
     "home_team": "team_genoa_cfc",
     "away_team": "team_acf_fiorentina",
     "stadium_id": null,
-    "date": "2026-10-11T18:30:00Z",
+    "date": "2026-10-11T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16835,7 +16835,7 @@
     "home_team": "team_ac_milan",
     "away_team": "team_atalanta_bc",
     "stadium_id": null,
-    "date": "2026-10-18T18:30:00Z",
+    "date": "2026-10-18T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16853,7 +16853,7 @@
     "home_team": "team_juventus_fc",
     "away_team": "team_ss_lazio",
     "stadium_id": null,
-    "date": "2026-10-18T18:30:00Z",
+    "date": "2026-10-18T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16871,7 +16871,7 @@
     "home_team": "team_bologna_fc_1909",
     "away_team": "team_fc_internazionale_milano",
     "stadium_id": null,
-    "date": "2026-10-18T18:30:00Z",
+    "date": "2026-10-18T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16889,7 +16889,7 @@
     "home_team": "team_as_roma",
     "away_team": "team_genoa_cfc",
     "stadium_id": null,
-    "date": "2026-10-18T18:30:00Z",
+    "date": "2026-10-18T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16907,7 +16907,7 @@
     "home_team": "team_frosinone_calcio",
     "away_team": "team_us_sassuolo_calcio",
     "stadium_id": null,
-    "date": "2026-10-18T18:30:00Z",
+    "date": "2026-10-18T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16925,7 +16925,7 @@
     "home_team": "team_udinese_calcio",
     "away_team": "team_us_lecce",
     "stadium_id": null,
-    "date": "2026-10-18T18:30:00Z",
+    "date": "2026-10-18T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16943,7 +16943,7 @@
     "home_team": "team_venezia_fc",
     "away_team": "team_ssc_napoli",
     "stadium_id": null,
-    "date": "2026-10-18T18:30:00Z",
+    "date": "2026-10-18T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16961,7 +16961,7 @@
     "home_team": "team_ac_monza",
     "away_team": "team_cagliari_calcio",
     "stadium_id": null,
-    "date": "2026-10-18T18:30:00Z",
+    "date": "2026-10-18T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16979,7 +16979,7 @@
     "home_team": "team_acf_fiorentina",
     "away_team": "team_como_1907",
     "stadium_id": null,
-    "date": "2026-10-18T18:30:00Z",
+    "date": "2026-10-18T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -16997,7 +16997,7 @@
     "home_team": "team_parma_calcio_1913",
     "away_team": "team_torino_fc",
     "stadium_id": null,
-    "date": "2026-10-18T18:30:00Z",
+    "date": "2026-10-18T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17015,7 +17015,7 @@
     "home_team": "team_udinese_calcio",
     "away_team": "team_ac_milan",
     "stadium_id": null,
-    "date": "2026-10-25T18:30:00Z",
+    "date": "2026-10-25T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17033,7 +17033,7 @@
     "home_team": "team_cagliari_calcio",
     "away_team": "team_bologna_fc_1909",
     "stadium_id": null,
-    "date": "2026-10-25T18:30:00Z",
+    "date": "2026-10-25T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17051,7 +17051,7 @@
     "home_team": "team_como_1907",
     "away_team": "team_us_sassuolo_calcio",
     "stadium_id": null,
-    "date": "2026-10-25T18:30:00Z",
+    "date": "2026-10-25T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17069,7 +17069,7 @@
     "home_team": "team_atalanta_bc",
     "away_team": "team_frosinone_calcio",
     "stadium_id": null,
-    "date": "2026-10-25T18:30:00Z",
+    "date": "2026-10-25T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17087,7 +17087,7 @@
     "home_team": "team_fc_internazionale_milano",
     "away_team": "team_acf_fiorentina",
     "stadium_id": null,
-    "date": "2026-10-25T18:30:00Z",
+    "date": "2026-10-25T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17105,7 +17105,7 @@
     "home_team": "team_ssc_napoli",
     "away_team": "team_as_roma",
     "stadium_id": null,
-    "date": "2026-10-25T18:30:00Z",
+    "date": "2026-10-25T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17123,7 +17123,7 @@
     "home_team": "team_ss_lazio",
     "away_team": "team_parma_calcio_1913",
     "stadium_id": null,
-    "date": "2026-10-25T18:30:00Z",
+    "date": "2026-10-25T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17141,7 +17141,7 @@
     "home_team": "team_us_lecce",
     "away_team": "team_juventus_fc",
     "stadium_id": null,
-    "date": "2026-10-25T18:30:00Z",
+    "date": "2026-10-25T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17159,7 +17159,7 @@
     "home_team": "team_torino_fc",
     "away_team": "team_ac_monza",
     "stadium_id": null,
-    "date": "2026-10-25T18:30:00Z",
+    "date": "2026-10-25T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17177,7 +17177,7 @@
     "home_team": "team_genoa_cfc",
     "away_team": "team_venezia_fc",
     "stadium_id": null,
-    "date": "2026-10-25T18:30:00Z",
+    "date": "2026-10-25T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17195,7 +17195,7 @@
     "home_team": "team_ac_milan",
     "away_team": "team_bologna_fc_1909",
     "stadium_id": null,
-    "date": "2026-10-28T18:30:00Z",
+    "date": "2026-10-28T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17213,7 +17213,7 @@
     "home_team": "team_venezia_fc",
     "away_team": "team_fc_internazionale_milano",
     "stadium_id": null,
-    "date": "2026-10-28T18:30:00Z",
+    "date": "2026-10-28T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17231,7 +17231,7 @@
     "home_team": "team_acf_fiorentina",
     "away_team": "team_atalanta_bc",
     "stadium_id": null,
-    "date": "2026-10-28T18:30:00Z",
+    "date": "2026-10-28T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17249,7 +17249,7 @@
     "home_team": "team_genoa_cfc",
     "away_team": "team_juventus_fc",
     "stadium_id": null,
-    "date": "2026-10-28T18:30:00Z",
+    "date": "2026-10-28T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17267,7 +17267,7 @@
     "home_team": "team_parma_calcio_1913",
     "away_team": "team_udinese_calcio",
     "stadium_id": null,
-    "date": "2026-10-28T18:30:00Z",
+    "date": "2026-10-28T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17285,7 +17285,7 @@
     "home_team": "team_ac_monza",
     "away_team": "team_ssc_napoli",
     "stadium_id": null,
-    "date": "2026-10-28T18:30:00Z",
+    "date": "2026-10-28T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17303,7 +17303,7 @@
     "home_team": "team_as_roma",
     "away_team": "team_cagliari_calcio",
     "stadium_id": null,
-    "date": "2026-10-28T18:30:00Z",
+    "date": "2026-10-28T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17321,7 +17321,7 @@
     "home_team": "team_us_sassuolo_calcio",
     "away_team": "team_ss_lazio",
     "stadium_id": null,
-    "date": "2026-10-28T18:30:00Z",
+    "date": "2026-10-28T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17339,7 +17339,7 @@
     "home_team": "team_torino_fc",
     "away_team": "team_como_1907",
     "stadium_id": null,
-    "date": "2026-10-28T18:30:00Z",
+    "date": "2026-10-28T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17357,7 +17357,7 @@
     "home_team": "team_frosinone_calcio",
     "away_team": "team_us_lecce",
     "stadium_id": null,
-    "date": "2026-10-28T18:30:00Z",
+    "date": "2026-10-28T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17375,7 +17375,7 @@
     "home_team": "team_bologna_fc_1909",
     "away_team": "team_ac_monza",
     "stadium_id": null,
-    "date": "2026-11-01T18:30:00Z",
+    "date": "2026-11-01T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17393,7 +17393,7 @@
     "home_team": "team_us_lecce",
     "away_team": "team_genoa_cfc",
     "stadium_id": null,
-    "date": "2026-11-01T18:30:00Z",
+    "date": "2026-11-01T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17411,7 +17411,7 @@
     "home_team": "team_us_sassuolo_calcio",
     "away_team": "team_acf_fiorentina",
     "stadium_id": null,
-    "date": "2026-11-01T18:30:00Z",
+    "date": "2026-11-01T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17429,7 +17429,7 @@
     "home_team": "team_udinese_calcio",
     "away_team": "team_as_roma",
     "stadium_id": null,
-    "date": "2026-11-01T18:30:00Z",
+    "date": "2026-11-01T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17447,7 +17447,7 @@
     "home_team": "team_como_1907",
     "away_team": "team_venezia_fc",
     "stadium_id": null,
-    "date": "2026-11-01T18:30:00Z",
+    "date": "2026-11-01T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17465,7 +17465,7 @@
     "home_team": "team_frosinone_calcio",
     "away_team": "team_torino_fc",
     "stadium_id": null,
-    "date": "2026-11-01T18:30:00Z",
+    "date": "2026-11-01T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17483,7 +17483,7 @@
     "home_team": "team_atalanta_bc",
     "away_team": "team_parma_calcio_1913",
     "stadium_id": null,
-    "date": "2026-11-01T18:30:00Z",
+    "date": "2026-11-01T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17501,7 +17501,7 @@
     "home_team": "team_ss_lazio",
     "away_team": "team_cagliari_calcio",
     "stadium_id": null,
-    "date": "2026-11-01T18:30:00Z",
+    "date": "2026-11-01T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17519,7 +17519,7 @@
     "home_team": "team_juventus_fc",
     "away_team": "team_ssc_napoli",
     "stadium_id": null,
-    "date": "2026-11-01T18:30:00Z",
+    "date": "2026-11-01T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17537,7 +17537,7 @@
     "home_team": "team_ac_milan",
     "away_team": "team_fc_internazionale_milano",
     "stadium_id": null,
-    "date": "2026-11-01T18:30:00Z",
+    "date": "2026-11-01T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17555,7 +17555,7 @@
     "home_team": "team_acf_fiorentina",
     "away_team": "team_juventus_fc",
     "stadium_id": null,
-    "date": "2026-11-08T18:30:00Z",
+    "date": "2026-11-08T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17573,7 +17573,7 @@
     "home_team": "team_fc_internazionale_milano",
     "away_team": "team_como_1907",
     "stadium_id": null,
-    "date": "2026-11-08T18:30:00Z",
+    "date": "2026-11-08T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17591,7 +17591,7 @@
     "home_team": "team_as_roma",
     "away_team": "team_us_sassuolo_calcio",
     "stadium_id": null,
-    "date": "2026-11-08T18:30:00Z",
+    "date": "2026-11-08T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17609,7 +17609,7 @@
     "home_team": "team_torino_fc",
     "away_team": "team_us_lecce",
     "stadium_id": null,
-    "date": "2026-11-08T18:30:00Z",
+    "date": "2026-11-08T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17627,7 +17627,7 @@
     "home_team": "team_ssc_napoli",
     "away_team": "team_ss_lazio",
     "stadium_id": null,
-    "date": "2026-11-08T18:30:00Z",
+    "date": "2026-11-08T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17645,7 +17645,7 @@
     "home_team": "team_cagliari_calcio",
     "away_team": "team_frosinone_calcio",
     "stadium_id": null,
-    "date": "2026-11-08T18:30:00Z",
+    "date": "2026-11-08T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17663,7 +17663,7 @@
     "home_team": "team_parma_calcio_1913",
     "away_team": "team_bologna_fc_1909",
     "stadium_id": null,
-    "date": "2026-11-08T18:30:00Z",
+    "date": "2026-11-08T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17681,7 +17681,7 @@
     "home_team": "team_genoa_cfc",
     "away_team": "team_ac_milan",
     "stadium_id": null,
-    "date": "2026-11-08T18:30:00Z",
+    "date": "2026-11-08T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17699,7 +17699,7 @@
     "home_team": "team_venezia_fc",
     "away_team": "team_udinese_calcio",
     "stadium_id": null,
-    "date": "2026-11-08T18:30:00Z",
+    "date": "2026-11-08T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17717,7 +17717,7 @@
     "home_team": "team_ac_monza",
     "away_team": "team_atalanta_bc",
     "stadium_id": null,
-    "date": "2026-11-08T18:30:00Z",
+    "date": "2026-11-08T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17735,7 +17735,7 @@
     "home_team": "team_ac_monza",
     "away_team": "team_acf_fiorentina",
     "stadium_id": null,
-    "date": "2026-11-22T18:30:00Z",
+    "date": "2026-11-22T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17753,7 +17753,7 @@
     "home_team": "team_atalanta_bc",
     "away_team": "team_fc_internazionale_milano",
     "stadium_id": null,
-    "date": "2026-11-22T18:30:00Z",
+    "date": "2026-11-22T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17771,7 +17771,7 @@
     "home_team": "team_juventus_fc",
     "away_team": "team_venezia_fc",
     "stadium_id": null,
-    "date": "2026-11-22T18:30:00Z",
+    "date": "2026-11-22T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17789,7 +17789,7 @@
     "home_team": "team_bologna_fc_1909",
     "away_team": "team_udinese_calcio",
     "stadium_id": null,
-    "date": "2026-11-22T18:30:00Z",
+    "date": "2026-11-22T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17807,7 +17807,7 @@
     "home_team": "team_ac_milan",
     "away_team": "team_frosinone_calcio",
     "stadium_id": null,
-    "date": "2026-11-22T18:30:00Z",
+    "date": "2026-11-22T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17825,7 +17825,7 @@
     "home_team": "team_us_sassuolo_calcio",
     "away_team": "team_genoa_cfc",
     "stadium_id": null,
-    "date": "2026-11-22T18:30:00Z",
+    "date": "2026-11-22T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17843,7 +17843,7 @@
     "home_team": "team_como_1907",
     "away_team": "team_cagliari_calcio",
     "stadium_id": null,
-    "date": "2026-11-22T18:30:00Z",
+    "date": "2026-11-22T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17861,7 +17861,7 @@
     "home_team": "team_parma_calcio_1913",
     "away_team": "team_as_roma",
     "stadium_id": null,
-    "date": "2026-11-22T18:30:00Z",
+    "date": "2026-11-22T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17879,7 +17879,7 @@
     "home_team": "team_ssc_napoli",
     "away_team": "team_torino_fc",
     "stadium_id": null,
-    "date": "2026-11-22T18:30:00Z",
+    "date": "2026-11-22T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17897,7 +17897,7 @@
     "home_team": "team_ss_lazio",
     "away_team": "team_us_lecce",
     "stadium_id": null,
-    "date": "2026-11-22T18:30:00Z",
+    "date": "2026-11-22T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17915,7 +17915,7 @@
     "home_team": "team_us_sassuolo_calcio",
     "away_team": "team_ssc_napoli",
     "stadium_id": null,
-    "date": "2026-11-29T18:30:00Z",
+    "date": "2026-11-29T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17933,7 +17933,7 @@
     "home_team": "team_cagliari_calcio",
     "away_team": "team_ac_milan",
     "stadium_id": null,
-    "date": "2026-11-29T18:30:00Z",
+    "date": "2026-11-29T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17951,7 +17951,7 @@
     "home_team": "team_como_1907",
     "away_team": "team_juventus_fc",
     "stadium_id": null,
-    "date": "2026-11-29T18:30:00Z",
+    "date": "2026-11-29T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17969,7 +17969,7 @@
     "home_team": "team_as_roma",
     "away_team": "team_ac_monza",
     "stadium_id": null,
-    "date": "2026-11-29T18:30:00Z",
+    "date": "2026-11-29T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -17987,7 +17987,7 @@
     "home_team": "team_frosinone_calcio",
     "away_team": "team_parma_calcio_1913",
     "stadium_id": null,
-    "date": "2026-11-29T18:30:00Z",
+    "date": "2026-11-29T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18005,7 +18005,7 @@
     "home_team": "team_torino_fc",
     "away_team": "team_ss_lazio",
     "stadium_id": null,
-    "date": "2026-11-29T18:30:00Z",
+    "date": "2026-11-29T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18023,7 +18023,7 @@
     "home_team": "team_venezia_fc",
     "away_team": "team_bologna_fc_1909",
     "stadium_id": null,
-    "date": "2026-11-29T18:30:00Z",
+    "date": "2026-11-29T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18041,7 +18041,7 @@
     "home_team": "team_us_lecce",
     "away_team": "team_atalanta_bc",
     "stadium_id": null,
-    "date": "2026-11-29T18:30:00Z",
+    "date": "2026-11-29T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18059,7 +18059,7 @@
     "home_team": "team_udinese_calcio",
     "away_team": "team_acf_fiorentina",
     "stadium_id": null,
-    "date": "2026-11-29T18:30:00Z",
+    "date": "2026-11-29T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18077,7 +18077,7 @@
     "home_team": "team_fc_internazionale_milano",
     "away_team": "team_genoa_cfc",
     "stadium_id": null,
-    "date": "2026-11-29T18:30:00Z",
+    "date": "2026-11-29T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18095,7 +18095,7 @@
     "home_team": "team_genoa_cfc",
     "away_team": "team_torino_fc",
     "stadium_id": null,
-    "date": "2026-12-06T18:30:00Z",
+    "date": "2026-12-06T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18113,7 +18113,7 @@
     "home_team": "team_juventus_fc",
     "away_team": "team_udinese_calcio",
     "stadium_id": null,
-    "date": "2026-12-06T18:30:00Z",
+    "date": "2026-12-06T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18131,7 +18131,7 @@
     "home_team": "team_frosinone_calcio",
     "away_team": "team_fc_internazionale_milano",
     "stadium_id": null,
-    "date": "2026-12-06T18:30:00Z",
+    "date": "2026-12-06T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18149,7 +18149,7 @@
     "home_team": "team_bologna_fc_1909",
     "away_team": "team_as_roma",
     "stadium_id": null,
-    "date": "2026-12-06T18:30:00Z",
+    "date": "2026-12-06T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18167,7 +18167,7 @@
     "home_team": "team_acf_fiorentina",
     "away_team": "team_cagliari_calcio",
     "stadium_id": null,
-    "date": "2026-12-06T18:30:00Z",
+    "date": "2026-12-06T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18185,7 +18185,7 @@
     "home_team": "team_ss_lazio",
     "away_team": "team_atalanta_bc",
     "stadium_id": null,
-    "date": "2026-12-06T18:30:00Z",
+    "date": "2026-12-06T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18203,7 +18203,7 @@
     "home_team": "team_ac_milan",
     "away_team": "team_parma_calcio_1913",
     "stadium_id": null,
-    "date": "2026-12-06T18:30:00Z",
+    "date": "2026-12-06T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18221,7 +18221,7 @@
     "home_team": "team_venezia_fc",
     "away_team": "team_us_sassuolo_calcio",
     "stadium_id": null,
-    "date": "2026-12-06T18:30:00Z",
+    "date": "2026-12-06T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18239,7 +18239,7 @@
     "home_team": "team_ac_monza",
     "away_team": "team_como_1907",
     "stadium_id": null,
-    "date": "2026-12-06T18:30:00Z",
+    "date": "2026-12-06T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18257,7 +18257,7 @@
     "home_team": "team_ssc_napoli",
     "away_team": "team_us_lecce",
     "stadium_id": null,
-    "date": "2026-12-06T18:30:00Z",
+    "date": "2026-12-06T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18275,7 +18275,7 @@
     "home_team": "team_ssc_napoli",
     "away_team": "team_ac_milan",
     "stadium_id": null,
-    "date": "2026-12-13T18:30:00Z",
+    "date": "2026-12-13T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18293,7 +18293,7 @@
     "home_team": "team_como_1907",
     "away_team": "team_bologna_fc_1909",
     "stadium_id": null,
-    "date": "2026-12-13T18:30:00Z",
+    "date": "2026-12-13T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18311,7 +18311,7 @@
     "home_team": "team_udinese_calcio",
     "away_team": "team_frosinone_calcio",
     "stadium_id": null,
-    "date": "2026-12-13T18:30:00Z",
+    "date": "2026-12-13T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18329,7 +18329,7 @@
     "home_team": "team_us_lecce",
     "away_team": "team_us_sassuolo_calcio",
     "stadium_id": null,
-    "date": "2026-12-13T18:30:00Z",
+    "date": "2026-12-13T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18347,7 +18347,7 @@
     "home_team": "team_parma_calcio_1913",
     "away_team": "team_acf_fiorentina",
     "stadium_id": null,
-    "date": "2026-12-13T18:30:00Z",
+    "date": "2026-12-13T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18365,7 +18365,7 @@
     "home_team": "team_cagliari_calcio",
     "away_team": "team_venezia_fc",
     "stadium_id": null,
-    "date": "2026-12-13T18:30:00Z",
+    "date": "2026-12-13T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18383,7 +18383,7 @@
     "home_team": "team_fc_internazionale_milano",
     "away_team": "team_torino_fc",
     "stadium_id": null,
-    "date": "2026-12-13T18:30:00Z",
+    "date": "2026-12-13T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18401,7 +18401,7 @@
     "home_team": "team_juventus_fc",
     "away_team": "team_ac_monza",
     "stadium_id": null,
-    "date": "2026-12-13T18:30:00Z",
+    "date": "2026-12-13T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18419,7 +18419,7 @@
     "home_team": "team_atalanta_bc",
     "away_team": "team_genoa_cfc",
     "stadium_id": null,
-    "date": "2026-12-13T18:30:00Z",
+    "date": "2026-12-13T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18437,7 +18437,7 @@
     "home_team": "team_ss_lazio",
     "away_team": "team_as_roma",
     "stadium_id": null,
-    "date": "2026-12-13T18:30:00Z",
+    "date": "2026-12-13T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18455,7 +18455,7 @@
     "home_team": "team_ac_milan",
     "away_team": "team_como_1907",
     "stadium_id": null,
-    "date": "2026-12-20T18:30:00Z",
+    "date": "2026-12-20T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18473,7 +18473,7 @@
     "home_team": "team_us_sassuolo_calcio",
     "away_team": "team_parma_calcio_1913",
     "stadium_id": null,
-    "date": "2026-12-20T18:30:00Z",
+    "date": "2026-12-20T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18491,7 +18491,7 @@
     "home_team": "team_as_roma",
     "away_team": "team_juventus_fc",
     "stadium_id": null,
-    "date": "2026-12-20T18:30:00Z",
+    "date": "2026-12-20T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18509,7 +18509,7 @@
     "home_team": "team_frosinone_calcio",
     "away_team": "team_ss_lazio",
     "stadium_id": null,
-    "date": "2026-12-20T18:30:00Z",
+    "date": "2026-12-20T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18527,7 +18527,7 @@
     "home_team": "team_atalanta_bc",
     "away_team": "team_ssc_napoli",
     "stadium_id": null,
-    "date": "2026-12-20T18:30:00Z",
+    "date": "2026-12-20T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18545,7 +18545,7 @@
     "home_team": "team_acf_fiorentina",
     "away_team": "team_bologna_fc_1909",
     "stadium_id": null,
-    "date": "2026-12-20T18:30:00Z",
+    "date": "2026-12-20T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18563,7 +18563,7 @@
     "home_team": "team_genoa_cfc",
     "away_team": "team_udinese_calcio",
     "stadium_id": null,
-    "date": "2026-12-20T18:30:00Z",
+    "date": "2026-12-20T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18581,7 +18581,7 @@
     "home_team": "team_us_lecce",
     "away_team": "team_fc_internazionale_milano",
     "stadium_id": null,
-    "date": "2026-12-20T18:30:00Z",
+    "date": "2026-12-20T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18599,7 +18599,7 @@
     "home_team": "team_torino_fc",
     "away_team": "team_cagliari_calcio",
     "stadium_id": null,
-    "date": "2026-12-20T18:30:00Z",
+    "date": "2026-12-20T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -18617,7 +18617,7 @@
     "home_team": "team_venezia_fc",
     "away_team": "team_ac_monza",
     "stadium_id": null,
-    "date": "2026-12-20T18:30:00Z",
+    "date": "2026-12-20T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23388,13 +23388,13 @@
     "away_team": "team_uzbekistan",
     "stadium_id": null,
     "date": "2026-06-23T17:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 5,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jalal_jayed",
     "sources": {
       "football_data": "537405"
     }
@@ -23406,13 +23406,13 @@
     "away_team": "team_ghana",
     "stadium_id": null,
     "date": "2026-06-23T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_said_martinez",
     "sources": {
       "football_data": "537411"
     }
@@ -23424,10 +23424,10 @@
     "away_team": "team_croatia",
     "stadium_id": null,
     "date": "2026-06-23T23:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
     "referee_id": null,
@@ -23924,7 +23924,7 @@
   {
     "id": "match_2026_1636",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_germany",
+    "home_team": "team_",
     "away_team": "team_",
     "stadium_id": null,
     "date": "2026-06-29T20:30:00Z",
@@ -23996,7 +23996,7 @@
   {
     "id": "match_2026_1640",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_mexico",
+    "home_team": "team_",
     "away_team": "team_",
     "stadium_id": null,
     "date": "2026-07-01T01:00:00Z",
@@ -24050,7 +24050,7 @@
   {
     "id": "match_2026_1643",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_united_states",
+    "home_team": "team_",
     "away_team": "team_",
     "stadium_id": null,
     "date": "2026-07-02T00:00:00Z",
