@@ -55,6 +55,61 @@
     }
   },
   {
+    "id": "league_french_ligue_1",
+    "name": "French Ligue 1",
+    "country": "International",
+    "tier": null,
+    "logo": null,
+    "current_season": null,
+    "sources": {
+      "thesportsdb": "4334"
+    }
+  },
+  {
+    "id": "league_spanish_la_liga",
+    "name": "Spanish La Liga",
+    "country": "International",
+    "tier": null,
+    "logo": null,
+    "current_season": null,
+    "sources": {
+      "thesportsdb": "4335"
+    }
+  },
+  {
+    "id": "league_greek_superleague_greece",
+    "name": "Greek Superleague Greece",
+    "country": "International",
+    "tier": null,
+    "logo": null,
+    "current_season": null,
+    "sources": {
+      "thesportsdb": "4336"
+    }
+  },
+  {
+    "id": "league_dutch_eredivisie",
+    "name": "Dutch Eredivisie",
+    "country": "International",
+    "tier": null,
+    "logo": null,
+    "current_season": null,
+    "sources": {
+      "thesportsdb": "4337"
+    }
+  },
+  {
+    "id": "league_belgian_pro_league",
+    "name": "Belgian Pro League",
+    "country": "International",
+    "tier": null,
+    "logo": null,
+    "current_season": null,
+    "sources": {
+      "thesportsdb": "4338"
+    }
+  },
+  {
     "id": "league_campeonato_brasileiro_serie_a",
     "sources": {
       "football_data": "2013"

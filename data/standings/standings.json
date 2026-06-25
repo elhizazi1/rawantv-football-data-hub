@@ -1495,45 +1495,45 @@
         "position": 1,
         "team_id": "team_mexico",
         "played": 3,
-        "won": 2,
-        "drawn": 1,
+        "won": 3,
+        "drawn": 0,
         "lost": 0,
-        "goals_for": 3,
+        "goals_for": 6,
         "goals_against": 0,
-        "points": 7
+        "points": 9
       },
       {
         "position": 2,
-        "team_id": "team_south_korea",
+        "team_id": "team_south_africa",
         "played": 3,
         "won": 1,
         "drawn": 1,
         "lost": 1,
         "goals_for": 2,
-        "goals_against": 2,
+        "goals_against": 3,
         "points": 4
       },
       {
         "position": 3,
-        "team_id": "team_czechia",
+        "team_id": "team_south_korea",
         "played": 3,
-        "won": 0,
-        "drawn": 2,
-        "lost": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 2,
         "goals_for": 2,
         "goals_against": 3,
-        "points": 2
+        "points": 3
       },
       {
         "position": 4,
-        "team_id": "team_south_africa",
+        "team_id": "team_czechia",
         "played": 3,
         "won": 0,
-        "drawn": 2,
-        "lost": 1,
-        "goals_for": 1,
-        "goals_against": 3,
-        "points": 2
+        "drawn": 1,
+        "lost": 2,
+        "goals_for": 2,
+        "goals_against": 6,
+        "points": 1
       }
     ]
   }
