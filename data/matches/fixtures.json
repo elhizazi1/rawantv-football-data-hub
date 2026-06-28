@@ -36204,10 +36204,10 @@
     "away_team": "team_argentina",
     "stadium_id": null,
     "date": "2026-06-28T02:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 1
+      "home": 1,
+      "away": 3
     },
     "events": [],
     "referee_id": "ref_istvan_kovacs",
@@ -36222,10 +36222,10 @@
     "away_team": "team_austria",
     "stadium_id": null,
     "date": "2026-06-28T02:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 1
+      "home": 3,
+      "away": 3
     },
     "events": [],
     "referee_id": "ref_ilgiz_tantashev",
@@ -36236,8 +36236,8 @@
   {
     "id": "match_2026_1634",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_south_africa",
+    "away_team": "team_canada",
     "stadium_id": null,
     "date": "2026-06-28T19:00:00Z",
     "status": "scheduled",
@@ -36254,8 +36254,8 @@
   {
     "id": "match_2026_1635",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_brazil",
+    "away_team": "team_japan",
     "stadium_id": null,
     "date": "2026-06-29T17:00:00Z",
     "status": "scheduled",
@@ -36272,8 +36272,8 @@
   {
     "id": "match_2026_1636",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_germany",
+    "away_team": "team_paraguay",
     "stadium_id": null,
     "date": "2026-06-29T20:30:00Z",
     "status": "scheduled",
@@ -36290,8 +36290,8 @@
   {
     "id": "match_2026_1637",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_netherlands",
+    "away_team": "team_morocco",
     "stadium_id": null,
     "date": "2026-06-30T01:00:00Z",
     "status": "scheduled",
@@ -36308,8 +36308,8 @@
   {
     "id": "match_2026_1638",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_ivory_coast",
+    "away_team": "team_norway",
     "stadium_id": null,
     "date": "2026-06-30T17:00:00Z",
     "status": "scheduled",
@@ -36326,8 +36326,8 @@
   {
     "id": "match_2026_1639",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_france",
+    "away_team": "team_sweden",
     "stadium_id": null,
     "date": "2026-06-30T21:00:00Z",
     "status": "scheduled",
@@ -36344,8 +36344,8 @@
   {
     "id": "match_2026_1640",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_mexico",
+    "away_team": "team_ecuador",
     "stadium_id": null,
     "date": "2026-07-01T01:00:00Z",
     "status": "scheduled",
@@ -36362,8 +36362,8 @@
   {
     "id": "match_2026_1641",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_england",
+    "away_team": "team_congo_dr",
     "stadium_id": null,
     "date": "2026-07-01T16:00:00Z",
     "status": "scheduled",
@@ -36380,8 +36380,8 @@
   {
     "id": "match_2026_1642",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_belgium",
+    "away_team": "team_senegal",
     "stadium_id": null,
     "date": "2026-07-01T20:00:00Z",
     "status": "scheduled",
@@ -36398,8 +36398,8 @@
   {
     "id": "match_2026_1643",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_united_states",
+    "away_team": "team_bosnia_herzegovina",
     "stadium_id": null,
     "date": "2026-07-02T00:00:00Z",
     "status": "scheduled",
@@ -36416,8 +36416,8 @@
   {
     "id": "match_2026_1644",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_spain",
+    "away_team": "team_austria",
     "stadium_id": null,
     "date": "2026-07-02T19:00:00Z",
     "status": "scheduled",
@@ -36434,8 +36434,8 @@
   {
     "id": "match_2026_1645",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_portugal",
+    "away_team": "team_croatia",
     "stadium_id": null,
     "date": "2026-07-02T23:00:00Z",
     "status": "scheduled",
@@ -36452,8 +36452,8 @@
   {
     "id": "match_2026_1646",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_switzerland",
+    "away_team": "team_algeria",
     "stadium_id": null,
     "date": "2026-07-03T03:00:00Z",
     "status": "scheduled",
@@ -36470,8 +36470,8 @@
   {
     "id": "match_2026_1647",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_australia",
+    "away_team": "team_egypt",
     "stadium_id": null,
     "date": "2026-07-03T18:00:00Z",
     "status": "scheduled",
@@ -36488,8 +36488,8 @@
   {
     "id": "match_2026_1648",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_argentina",
+    "away_team": "team_cape_verde_islands",
     "stadium_id": null,
     "date": "2026-07-03T22:00:00Z",
     "status": "scheduled",
@@ -36506,8 +36506,8 @@
   {
     "id": "match_2026_1649",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_colombia",
+    "away_team": "team_ghana",
     "stadium_id": null,
     "date": "2026-07-04T01:30:00Z",
     "status": "scheduled",
