@@ -36132,13 +36132,13 @@
     "away_team": "team_england",
     "stadium_id": null,
     "date": "2026-06-27T21:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_abdulrahman_al_jassim",
     "sources": {
       "football_data": "537413"
     }
@@ -36150,13 +36150,13 @@
     "away_team": "team_ghana",
     "stadium_id": null,
     "date": "2026-06-27T21:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_drew_fischer",
     "sources": {
       "football_data": "537414"
     }
@@ -36168,13 +36168,13 @@
     "away_team": "team_portugal",
     "stadium_id": null,
     "date": "2026-06-27T23:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_alireza_faghani",
     "sources": {
       "football_data": "537407"
     }
@@ -36186,13 +36186,13 @@
     "away_team": "team_uzbekistan",
     "stadium_id": null,
     "date": "2026-06-27T23:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_felix_zwayer",
     "sources": {
       "football_data": "537408"
     }
@@ -36204,13 +36204,13 @@
     "away_team": "team_argentina",
     "stadium_id": null,
     "date": "2026-06-28T02:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_istvan_kovacs",
     "sources": {
       "football_data": "537401"
     }
@@ -36225,10 +36225,10 @@
     "status": "scheduled",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_ilgiz_tantashev",
     "sources": {
       "football_data": "537402"
     }
@@ -36236,8 +36236,8 @@
   {
     "id": "match_2026_1634",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_south_africa",
-    "away_team": "team_canada",
+    "home_team": "team_",
+    "away_team": "team_",
     "stadium_id": null,
     "date": "2026-06-28T19:00:00Z",
     "status": "scheduled",
@@ -36254,8 +36254,8 @@
   {
     "id": "match_2026_1635",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_brazil",
-    "away_team": "team_japan",
+    "home_team": "team_",
+    "away_team": "team_",
     "stadium_id": null,
     "date": "2026-06-29T17:00:00Z",
     "status": "scheduled",
@@ -36272,7 +36272,7 @@
   {
     "id": "match_2026_1636",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_germany",
+    "home_team": "team_",
     "away_team": "team_",
     "stadium_id": null,
     "date": "2026-06-29T20:30:00Z",
@@ -36290,8 +36290,8 @@
   {
     "id": "match_2026_1637",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_netherlands",
-    "away_team": "team_morocco",
+    "home_team": "team_",
+    "away_team": "team_",
     "stadium_id": null,
     "date": "2026-06-30T01:00:00Z",
     "status": "scheduled",
@@ -36308,7 +36308,7 @@
   {
     "id": "match_2026_1638",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_ivory_coast",
+    "home_team": "team_",
     "away_team": "team_",
     "stadium_id": null,
     "date": "2026-06-30T17:00:00Z",
@@ -36344,7 +36344,7 @@
   {
     "id": "match_2026_1640",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_mexico",
+    "home_team": "team_",
     "away_team": "team_",
     "stadium_id": null,
     "date": "2026-07-01T01:00:00Z",
@@ -36398,8 +36398,8 @@
   {
     "id": "match_2026_1643",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_united_states",
-    "away_team": "team_bosnia_herzegovina",
+    "home_team": "team_",
+    "away_team": "team_",
     "stadium_id": null,
     "date": "2026-07-02T00:00:00Z",
     "status": "scheduled",
@@ -36452,7 +36452,7 @@
   {
     "id": "match_2026_1646",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_switzerland",
+    "home_team": "team_",
     "away_team": "team_",
     "stadium_id": null,
     "date": "2026-07-03T03:00:00Z",
@@ -36470,7 +36470,7 @@
   {
     "id": "match_2026_1647",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_australia",
+    "home_team": "team_",
     "away_team": "team_",
     "stadium_id": null,
     "date": "2026-07-03T18:00:00Z",
@@ -36488,7 +36488,7 @@
   {
     "id": "match_2026_1648",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_argentina",
+    "home_team": "team_",
     "away_team": "team_",
     "stadium_id": null,
     "date": "2026-07-03T22:00:00Z",
