@@ -36264,7 +36264,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_maurizio_mariani",
     "sources": {
       "football_data": "537423"
     }
@@ -36524,7 +36524,7 @@
   {
     "id": "match_2026_1650",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
+    "home_team": "team_canada",
     "away_team": "team_",
     "stadium_id": null,
     "date": "2026-07-04T17:00:00Z",
