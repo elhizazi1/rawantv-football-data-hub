@@ -36240,13 +36240,13 @@
     "away_team": "team_canada",
     "stadium_id": null,
     "date": "2026-06-28T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_joao_pinheiro",
     "sources": {
       "football_data": "537417"
     }
