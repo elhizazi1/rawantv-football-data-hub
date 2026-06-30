@@ -36294,10 +36294,10 @@
     "away_team": "team_morocco",
     "stadium_id": null,
     "date": "2026-06-30T01:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 4
     },
     "events": [],
     "referee_id": "ref_wilton_sampaio",
@@ -36525,7 +36525,7 @@
     "id": "match_2026_1650",
     "competition_id": "competition_fifa_world_cup_2026",
     "home_team": "team_canada",
-    "away_team": "team_",
+    "away_team": "team_morocco",
     "stadium_id": null,
     "date": "2026-07-04T17:00:00Z",
     "status": "scheduled",
@@ -36542,7 +36542,7 @@
   {
     "id": "match_2026_1651",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
+    "home_team": "team_paraguay",
     "away_team": "team_",
     "stadium_id": null,
     "date": "2026-07-04T21:00:00Z",
@@ -36560,7 +36560,7 @@
   {
     "id": "match_2026_1652",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
+    "home_team": "team_brazil",
     "away_team": "team_",
     "stadium_id": null,
     "date": "2026-07-05T20:00:00Z",
