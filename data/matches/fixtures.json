@@ -36258,10 +36258,10 @@
     "away_team": "team_japan",
     "stadium_id": null,
     "date": "2026-06-29T17:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_maurizio_mariani",
@@ -36276,13 +36276,13 @@
     "away_team": "team_paraguay",
     "stadium_id": null,
     "date": "2026-06-29T20:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 4,
+      "away": 5
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jalal_jayed",
     "sources": {
       "football_data": "537415"
     }
@@ -36294,13 +36294,13 @@
     "away_team": "team_morocco",
     "stadium_id": null,
     "date": "2026-06-30T01:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_wilton_sampaio",
     "sources": {
       "football_data": "537418"
     }
