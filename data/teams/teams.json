@@ -1308,6 +1308,17 @@
     "logo": "https://crests.football-data.org/82.png"
   },
   {
+    "id": "team_malaga_cf",
+    "sources": {
+      "football_data": "84"
+    },
+    "name": "Málaga CF",
+    "short_name": "MAL",
+    "country": "Spain",
+    "founded": 1933,
+    "logo": "https://crests.football-data.org/84.png"
+  },
+  {
     "id": "team_rayo_vallecano_de_madrid",
     "sources": {
       "football_data": "87"
@@ -1328,17 +1339,6 @@
     "country": "Spain",
     "founded": 1909,
     "logo": "https://crests.football-data.org/88.png"
-  },
-  {
-    "id": "team_rcd_mallorca",
-    "sources": {
-      "football_data": "89"
-    },
-    "name": "RCD Mallorca",
-    "short_name": "MAL",
-    "country": "Spain",
-    "founded": 1916,
-    "logo": "https://crests.football-data.org/89.png"
   },
   {
     "id": "team_real_betis_balompie",
@@ -1385,17 +1385,6 @@
     "logo": "https://crests.football-data.org/285.png"
   },
   {
-    "id": "team_girona_fc",
-    "sources": {
-      "football_data": "298"
-    },
-    "name": "Girona FC",
-    "short_name": "GIR",
-    "country": "Spain",
-    "founded": 1930,
-    "logo": "https://crests.football-data.org/298.png"
-  },
-  {
     "id": "team_rc_celta_de_vigo",
     "sources": {
       "football_data": "558"
@@ -1418,15 +1407,26 @@
     "logo": "https://crests.football-data.org/559.png"
   },
   {
-    "id": "team_real_oviedo",
+    "id": "team_rc_deportivo_la_coruna",
     "sources": {
-      "football_data": "1048"
+      "football_data": "560"
     },
-    "name": "Real Oviedo",
-    "short_name": "OVI",
+    "name": "RC Deportivo La Coruña",
+    "short_name": "DEP",
     "country": "Spain",
-    "founded": 1926,
-    "logo": "https://crests.football-data.org/1048.png"
+    "founded": 1906,
+    "logo": "https://crests.football-data.org/560.png"
+  },
+  {
+    "id": "team_real_racing_club_de_santander",
+    "sources": {
+      "football_data": "5335"
+    },
+    "name": "Real Racing Club de Santander",
+    "short_name": "SAN",
+    "country": "Spain",
+    "founded": 1913,
+    "logo": "https://crests.football-data.org/5335.png"
   },
   {
     "id": "team_aston_villa_fc",
