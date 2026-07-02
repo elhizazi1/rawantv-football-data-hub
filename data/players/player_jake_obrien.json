@@ -1,0 +1,19 @@
+{
+  "id": "player_jake_obrien",
+  "name": "Jake O'Brien",
+  "position": "Defender",
+  "nationality": "Ireland",
+  "birth_date": "2001-05-15",
+  "height": 197,
+  "weight": 203,
+  "club_id": "team_everton",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/w16wc91771945248.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34221719"
+  }
+}

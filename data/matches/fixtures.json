@@ -29526,10 +29526,10 @@
     "away_team": "team_congo_dr",
     "stadium_id": null,
     "date": "2026-07-01T16:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_adham_makhadmeh",
@@ -29544,13 +29544,13 @@
     "away_team": "team_senegal",
     "stadium_id": null,
     "date": "2026-07-01T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_said_martinez",
     "sources": {
       "football_data": "537422"
     }
@@ -29562,13 +29562,13 @@
     "away_team": "team_bosnia_herzegovina",
     "stadium_id": null,
     "date": "2026-07-02T00:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_raphael_claus",
     "sources": {
       "football_data": "537421"
     }

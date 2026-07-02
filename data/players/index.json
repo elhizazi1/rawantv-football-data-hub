@@ -46,7 +46,7 @@
     "name": "Declan Rice",
     "club_id": "team_arsenal",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ty3z7g1705918131.jpg",
-    "position": "Defensive Midfield"
+    "position": "Central Midfield"
   },
   {
     "id": "player_eberechi_eze",
@@ -56,18 +56,18 @@
     "position": "Attacking Midfield"
   },
   {
-    "id": "player_gabriel_heinze",
-    "name": "Gabriel Heinze",
+    "id": "player_ethan_nwaneri",
+    "name": "Ethan Nwaneri",
     "club_id": "team_arsenal",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/g1201n1767708489.jpg",
-    "position": "Assistant Coach"
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/cbmpwr1769331233.jpg",
+    "position": "Attacking Midfield"
   },
   {
-    "id": "player_gabriel_jesus",
-    "name": "Gabriel Jesus",
+    "id": "player_fabio_vieira",
+    "name": "Fábio Vieira",
     "club_id": "team_arsenal",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/iwt0021678196502.jpg",
-    "position": "Centre-Forward"
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vt9o6v1705918788.jpg",
+    "position": "Attacking Midfield"
   },
   {
     "id": "player_alysson",
@@ -623,11 +623,11 @@
     "position": "Midfielder"
   },
   {
-    "id": "player_jack_grealish",
-    "name": "Jack Grealish",
+    "id": "player_jake_obrien",
+    "name": "Jake O'Brien",
     "club_id": "team_everton",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ah2exe1771944888.jpg",
-    "position": "Left Wing"
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/w16wc91771945248.jpg",
+    "position": "Defender"
   },
   {
     "id": "player_alex_iwobi",

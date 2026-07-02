@@ -1,0 +1,19 @@
+{
+  "id": "player_fabio_vieira",
+  "name": "Fábio Vieira",
+  "position": "Attacking Midfield",
+  "nationality": "Portugal",
+  "birth_date": "2000-05-30",
+  "height": 170,
+  "weight": 128,
+  "club_id": "team_arsenal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vt9o6v1705918788.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34176976"
+  }
+}
