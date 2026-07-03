@@ -650,6 +650,17 @@
     "logo": "https://crests.football-data.org/5.png"
   },
   {
+    "id": "team_fc_schalke_04",
+    "sources": {
+      "football_data": "6"
+    },
+    "name": "FC Schalke 04",
+    "short_name": "S04",
+    "country": "Germany",
+    "founded": 1904,
+    "logo": "https://crests.football-data.org/6.png"
+  },
+  {
     "id": "team_hamburger_sv",
     "sources": {
       "football_data": "7"
@@ -670,17 +681,6 @@
     "country": "Germany",
     "founded": 1893,
     "logo": "https://crests.football-data.org/10.png"
-  },
-  {
-    "id": "team_vfl_wolfsburg",
-    "sources": {
-      "football_data": "11"
-    },
-    "name": "VfL Wolfsburg",
-    "short_name": "WOB",
-    "country": "Germany",
-    "founded": 1945,
-    "logo": "https://crests.football-data.org/11.png"
   },
   {
     "id": "team_sv_werder_bremen",
@@ -727,17 +727,6 @@
     "logo": "https://crests.football-data.org/17.png"
   },
   {
-    "id": "team_fc_st_pauli_1910",
-    "sources": {
-      "football_data": "20"
-    },
-    "name": "FC St. Pauli 1910",
-    "short_name": "STP",
-    "country": "Germany",
-    "founded": 1910,
-    "logo": "https://crests.football-data.org/20.png"
-  },
-  {
     "id": "team_1_fc_union_berlin",
     "sources": {
       "football_data": "28"
@@ -749,15 +738,26 @@
     "logo": "https://crests.football-data.org/28.png"
   },
   {
-    "id": "team_1_fc_heidenheim_1846",
+    "id": "team_sc_paderborn_07",
     "sources": {
-      "football_data": "44"
+      "football_data": "29"
     },
-    "name": "1. FC Heidenheim 1846",
-    "short_name": "HEI",
+    "name": "SC Paderborn 07",
+    "short_name": "SCP",
     "country": "Germany",
-    "founded": 1846,
-    "logo": "https://crests.football-data.org/44.png"
+    "founded": 1985,
+    "logo": "https://crests.football-data.org/29.png"
+  },
+  {
+    "id": "team_sv_07_elversberg",
+    "sources": {
+      "football_data": "719"
+    },
+    "name": "SV 07 Elversberg",
+    "short_name": "ELV",
+    "country": "Germany",
+    "founded": 1907,
+    "logo": "https://crests.football-data.org/719.png"
   },
   {
     "id": "team_rb_leipzig",
