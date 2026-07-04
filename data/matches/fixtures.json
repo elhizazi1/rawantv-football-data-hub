@@ -36510,7 +36510,7 @@
     "away_team": "team_ghana",
     "stadium_id": null,
     "date": "2026-07-04T01:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 1,
       "away": 0
@@ -36596,8 +36596,8 @@
   {
     "id": "match_2026_1654",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_portugal",
+    "away_team": "team_spain",
     "stadium_id": null,
     "date": "2026-07-06T19:00:00Z",
     "status": "scheduled",
@@ -36632,8 +36632,8 @@
   {
     "id": "match_2026_1656",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_argentina",
+    "away_team": "team_egypt",
     "stadium_id": null,
     "date": "2026-07-07T16:00:00Z",
     "status": "scheduled",
@@ -36650,8 +36650,8 @@
   {
     "id": "match_2026_1657",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_switzerland",
+    "away_team": "team_colombia",
     "stadium_id": null,
     "date": "2026-07-07T20:00:00Z",
     "status": "scheduled",
