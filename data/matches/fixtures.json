@@ -36474,13 +36474,13 @@
     "away_team": "team_egypt",
     "stadium_id": null,
     "date": "2026-07-03T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 5
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_gustavo_tejera",
     "sources": {
       "football_data": "537428"
     }
@@ -36492,13 +36492,13 @@
     "away_team": "team_cape_verde_islands",
     "stadium_id": null,
     "date": "2026-07-03T22:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_drew_fischer",
     "sources": {
       "football_data": "537427"
     }
@@ -36510,13 +36510,13 @@
     "away_team": "team_ghana",
     "stadium_id": null,
     "date": "2026-07-04T01:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_clement_turpin",
     "sources": {
       "football_data": "537430"
     }
