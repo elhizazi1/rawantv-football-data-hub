@@ -36668,8 +36668,8 @@
   {
     "id": "match_2026_1658",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_france",
+    "away_team": "team_morocco",
     "stadium_id": null,
     "date": "2026-07-09T20:00:00Z",
     "status": "scheduled",
