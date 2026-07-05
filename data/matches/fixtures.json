@@ -36528,13 +36528,13 @@
     "away_team": "team_morocco",
     "stadium_id": null,
     "date": "2026-07-04T17:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 3
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_michael_oliver",
     "sources": {
       "football_data": "537376"
     }
@@ -36546,13 +36546,13 @@
     "away_team": "team_france",
     "stadium_id": null,
     "date": "2026-07-04T21:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_ilgiz_tantashev",
     "sources": {
       "football_data": "537375"
     }
