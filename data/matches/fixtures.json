@@ -36564,13 +36564,13 @@
     "away_team": "team_norway",
     "stadium_id": null,
     "date": "2026-07-05T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_ismail_elfath",
     "sources": {
       "football_data": "537377"
     }
@@ -36581,14 +36581,14 @@
     "home_team": "team_mexico",
     "away_team": "team_england",
     "stadium_id": null,
-    "date": "2026-07-06T00:00:00Z",
+    "date": "2026-07-06T01:00:00Z",
     "status": "scheduled",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_alireza_faghani",
     "sources": {
       "football_data": "537378"
     }
