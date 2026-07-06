@@ -36582,10 +36582,10 @@
     "away_team": "team_england",
     "stadium_id": null,
     "date": "2026-07-06T01:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 1,
-      "away": 2
+      "home": 2,
+      "away": 3
     },
     "events": [],
     "referee_id": "ref_alireza_faghani",
@@ -36704,8 +36704,8 @@
   {
     "id": "match_2026_1660",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_norway",
+    "away_team": "team_england",
     "stadium_id": null,
     "date": "2026-07-11T21:00:00Z",
     "status": "scheduled",
