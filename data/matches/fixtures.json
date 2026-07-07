@@ -36642,7 +36642,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_francois_letexier",
     "sources": {
       "football_data": "537381"
     }
@@ -36686,8 +36686,8 @@
   {
     "id": "match_2026_1659",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_spain",
+    "away_team": "team_belgium",
     "stadium_id": null,
     "date": "2026-07-10T19:00:00Z",
     "status": "scheduled",
