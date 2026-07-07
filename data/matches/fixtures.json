@@ -36600,13 +36600,13 @@
     "away_team": "team_spain",
     "stadium_id": null,
     "date": "2026-07-06T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_anthony_taylor",
     "sources": {
       "football_data": "537379"
     }
@@ -36618,13 +36618,13 @@
     "away_team": "team_belgium",
     "stadium_id": null,
     "date": "2026-07-07T00:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 4
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_adham_makhadmeh",
     "sources": {
       "football_data": "537380"
     }
