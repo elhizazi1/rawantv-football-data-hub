@@ -637,6 +637,13 @@
     "position": "Attacking Midfield"
   },
   {
+    "id": "player_alvaro_arbeloa",
+    "name": "Álvaro Arbeloa",
+    "club_id": "team_fulham",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/3mo03y1771266587.jpg",
+    "position": "Manager"
+  },
+  {
     "id": "player_antonee_robinson",
     "name": "Antonee Robinson",
     "club_id": "team_fulham",
@@ -690,13 +697,6 @@
     "name": "Issa Diop",
     "club_id": "team_fulham",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/z1xits1779839831.jpg",
-    "position": "Centre-Back"
-  },
-  {
-    "id": "player_joachim_andersen",
-    "name": "Joachim Andersen",
-    "club_id": "team_fulham",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/emjhls1772024689.jpg",
     "position": "Centre-Back"
   }
 ]

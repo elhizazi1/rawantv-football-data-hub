@@ -36636,10 +36636,10 @@
     "away_team": "team_egypt",
     "stadium_id": null,
     "date": "2026-07-07T16:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_francois_letexier",
@@ -36654,13 +36654,13 @@
     "away_team": "team_colombia",
     "stadium_id": null,
     "date": "2026-07-07T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 4,
+      "away": 3
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_ivan_barton",
     "sources": {
       "football_data": "537382"
     }
