@@ -36722,8 +36722,8 @@
   {
     "id": "match_2026_1661",
     "competition_id": "competition_fifa_world_cup_2026",
-    "home_team": "team_",
-    "away_team": "team_",
+    "home_team": "team_argentina",
+    "away_team": "team_switzerland",
     "stadium_id": null,
     "date": "2026-07-12T01:00:00Z",
     "status": "scheduled",
