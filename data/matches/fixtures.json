@@ -21438,66 +21438,12 @@
     }
   },
   {
-    "id": "match_2026_1192",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_liverpool_fc",
-    "away_team": "team_nottingham_forest_fc",
-    "stadium_id": null,
-    "date": "2026-08-29T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560552"
-    }
-  },
-  {
-    "id": "match_2026_1193",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_manchester_united",
-    "away_team": "team_ipswich_town_fc",
-    "stadium_id": null,
-    "date": "2026-08-29T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560553"
-    }
-  },
-  {
-    "id": "match_2026_1194",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_sunderland_afc",
-    "away_team": "team_fulham_fc",
-    "stadium_id": null,
-    "date": "2026-08-29T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560554"
-    }
-  },
-  {
     "id": "match_2026_1195",
     "competition_id": "competition_premier_league_2026",
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2026-08-29T14:00:00Z",
+    "date": "2026-08-28T19:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -21510,12 +21456,12 @@
     }
   },
   {
-    "id": "match_2026_1196",
+    "id": "match_2026_1192",
     "competition_id": "competition_premier_league_2026",
-    "home_team": "team_chelsea_fc",
-    "away_team": "team_brighton_and_hove_albion_fc",
+    "home_team": "team_liverpool_fc",
+    "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
-    "date": "2026-08-29T14:00:00Z",
+    "date": "2026-08-29T11:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -21524,61 +21470,7 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "560556"
-    }
-  },
-  {
-    "id": "match_2026_1197",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_aston_villa_fc",
-    "away_team": "team_arsenal_fc",
-    "stadium_id": null,
-    "date": "2026-08-29T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560557"
-    }
-  },
-  {
-    "id": "match_2026_1198",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_tottenham_hotspur_fc",
-    "away_team": "team_newcastle_united_fc",
-    "stadium_id": null,
-    "date": "2026-08-29T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560558"
-    }
-  },
-  {
-    "id": "match_2026_1199",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_leeds_united_fc",
-    "away_team": "team_brentford_fc",
-    "stadium_id": null,
-    "date": "2026-08-29T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560559"
+      "football_data": "560552"
     }
   },
   {
@@ -21615,6 +21507,150 @@
     "referee_id": null,
     "sources": {
       "football_data": "560561"
+    }
+  },
+  {
+    "id": "match_2026_1198",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_tottenham_hotspur_fc",
+    "away_team": "team_newcastle_united_fc",
+    "stadium_id": null,
+    "date": "2026-08-29T16:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560558"
+    }
+  },
+  {
+    "id": "match_2026_1194",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_sunderland_afc",
+    "away_team": "team_fulham_fc",
+    "stadium_id": null,
+    "date": "2026-08-30T13:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560554"
+    }
+  },
+  {
+    "id": "match_2026_1196",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_chelsea_fc",
+    "away_team": "team_brighton_and_hove_albion_fc",
+    "stadium_id": null,
+    "date": "2026-08-30T13:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560556"
+    }
+  },
+  {
+    "id": "match_2026_1199",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_leeds_united_fc",
+    "away_team": "team_brentford_fc",
+    "stadium_id": null,
+    "date": "2026-08-30T13:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560559"
+    }
+  },
+  {
+    "id": "match_2026_1193",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_manchester_united",
+    "away_team": "team_ipswich_town_fc",
+    "stadium_id": null,
+    "date": "2026-08-30T15:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560553"
+    }
+  },
+  {
+    "id": "match_2026_1197",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_aston_villa_fc",
+    "away_team": "team_arsenal_fc",
+    "stadium_id": null,
+    "date": "2026-08-31T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560557"
+    }
+  },
+  {
+    "id": "match_2026_1206",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_ipswich_town_fc",
+    "away_team": "team_liverpool_fc",
+    "stadium_id": null,
+    "date": "2026-09-04T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560566"
+    }
+  },
+  {
+    "id": "match_2026_1211",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_newcastle_united_fc",
+    "away_team": "team_afc_bournemouth",
+    "stadium_id": null,
+    "date": "2026-09-05T11:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560571"
     }
   },
   {
@@ -21690,42 +21726,6 @@
     }
   },
   {
-    "id": "match_2026_1206",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_ipswich_town_fc",
-    "away_team": "team_liverpool_fc",
-    "stadium_id": null,
-    "date": "2026-09-05T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560566"
-    }
-  },
-  {
-    "id": "match_2026_1207",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_everton_fc",
-    "away_team": "team_manchester_united",
-    "stadium_id": null,
-    "date": "2026-09-05T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560567"
-    }
-  },
-  {
     "id": "match_2026_1208",
     "competition_id": "competition_premier_league_2026",
     "home_team": "team_fulham_fc",
@@ -21749,7 +21749,7 @@
     "home_team": "team_hull_city_afc",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2026-09-05T14:00:00Z",
+    "date": "2026-09-05T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -21762,12 +21762,30 @@
     }
   },
   {
+    "id": "match_2026_1207",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_everton_fc",
+    "away_team": "team_manchester_united",
+    "stadium_id": null,
+    "date": "2026-09-06T13:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560567"
+    }
+  },
+  {
     "id": "match_2026_1210",
     "competition_id": "competition_premier_league_2026",
     "home_team": "team_arsenal_fc",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2026-09-05T14:00:00Z",
+    "date": "2026-09-06T15:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -21777,24 +21795,6 @@
     "referee_id": null,
     "sources": {
       "football_data": "560570"
-    }
-  },
-  {
-    "id": "match_2026_1211",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_newcastle_united_fc",
-    "away_team": "team_afc_bournemouth",
-    "stadium_id": null,
-    "date": "2026-09-05T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560571"
     }
   },
   {
@@ -21852,24 +21852,6 @@
     }
   },
   {
-    "id": "match_2026_1215",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_tottenham_hotspur_fc",
-    "away_team": "team_everton_fc",
-    "stadium_id": null,
-    "date": "2026-09-12T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560575"
-    }
-  },
-  {
     "id": "match_2026_1216",
     "competition_id": "competition_premier_league_2026",
     "home_team": "team_afc_bournemouth",
@@ -21885,78 +21867,6 @@
     "referee_id": null,
     "sources": {
       "football_data": "560576"
-    }
-  },
-  {
-    "id": "match_2026_1217",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_sunderland_afc",
-    "away_team": "team_arsenal_fc",
-    "stadium_id": null,
-    "date": "2026-09-12T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560577"
-    }
-  },
-  {
-    "id": "match_2026_1218",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_coventry_city_fc",
-    "away_team": "team_brighton_and_hove_albion_fc",
-    "stadium_id": null,
-    "date": "2026-09-12T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560578"
-    }
-  },
-  {
-    "id": "match_2026_1219",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_leeds_united_fc",
-    "away_team": "team_newcastle_united_fc",
-    "stadium_id": null,
-    "date": "2026-09-12T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560579"
-    }
-  },
-  {
-    "id": "match_2026_1220",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_manchester_united",
-    "away_team": "team_manchester_city_fc",
-    "stadium_id": null,
-    "date": "2026-09-12T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560580"
     }
   },
   {
@@ -21978,12 +21888,12 @@
     }
   },
   {
-    "id": "match_2026_1222",
+    "id": "match_2026_1215",
     "competition_id": "competition_premier_league_2026",
-    "home_team": "team_afc_bournemouth",
-    "away_team": "team_liverpool_fc",
+    "home_team": "team_tottenham_hotspur_fc",
+    "away_team": "team_everton_fc",
     "stadium_id": null,
-    "date": "2026-09-19T14:00:00Z",
+    "date": "2026-09-12T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -21992,16 +21902,16 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "560582"
+      "football_data": "560575"
     }
   },
   {
-    "id": "match_2026_1223",
+    "id": "match_2026_1217",
     "competition_id": "competition_premier_league_2026",
-    "home_team": "team_fulham_fc",
-    "away_team": "team_manchester_united",
+    "home_team": "team_sunderland_afc",
+    "away_team": "team_arsenal_fc",
     "stadium_id": null,
-    "date": "2026-09-19T14:00:00Z",
+    "date": "2026-09-12T19:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -22010,7 +21920,97 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "560583"
+      "football_data": "560577"
+    }
+  },
+  {
+    "id": "match_2026_1218",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_coventry_city_fc",
+    "away_team": "team_brighton_and_hove_albion_fc",
+    "stadium_id": null,
+    "date": "2026-09-13T13:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560578"
+    }
+  },
+  {
+    "id": "match_2026_1220",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_manchester_united",
+    "away_team": "team_manchester_city_fc",
+    "stadium_id": null,
+    "date": "2026-09-13T15:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560580"
+    }
+  },
+  {
+    "id": "match_2026_1219",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_leeds_united_fc",
+    "away_team": "team_newcastle_united_fc",
+    "stadium_id": null,
+    "date": "2026-09-14T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560579"
+    }
+  },
+  {
+    "id": "match_2026_1231",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_brentford_fc",
+    "away_team": "team_chelsea_fc",
+    "stadium_id": null,
+    "date": "2026-09-18T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560591"
+    }
+  },
+  {
+    "id": "match_2026_1227",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_tottenham_hotspur_fc",
+    "away_team": "team_aston_villa_fc",
+    "stadium_id": null,
+    "date": "2026-09-19T11:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560587"
     }
   },
   {
@@ -22068,24 +22068,6 @@
     }
   },
   {
-    "id": "match_2026_1227",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_tottenham_hotspur_fc",
-    "away_team": "team_aston_villa_fc",
-    "stadium_id": null,
-    "date": "2026-09-19T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560587"
-    }
-  },
-  {
     "id": "match_2026_1228",
     "competition_id": "competition_premier_league_2026",
     "home_team": "team_newcastle_united_fc",
@@ -22101,24 +22083,6 @@
     "referee_id": null,
     "sources": {
       "football_data": "560588"
-    }
-  },
-  {
-    "id": "match_2026_1229",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_nottingham_forest_fc",
-    "away_team": "team_coventry_city_fc",
-    "stadium_id": null,
-    "date": "2026-09-19T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560589"
     }
   },
   {
@@ -22140,12 +22104,12 @@
     }
   },
   {
-    "id": "match_2026_1231",
+    "id": "match_2026_1229",
     "competition_id": "competition_premier_league_2026",
-    "home_team": "team_brentford_fc",
-    "away_team": "team_chelsea_fc",
+    "home_team": "team_nottingham_forest_fc",
+    "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2026-09-19T14:00:00Z",
+    "date": "2026-09-19T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -22154,7 +22118,43 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "560591"
+      "football_data": "560589"
+    }
+  },
+  {
+    "id": "match_2026_1222",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_afc_bournemouth",
+    "away_team": "team_liverpool_fc",
+    "stadium_id": null,
+    "date": "2026-09-20T13:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560582"
+    }
+  },
+  {
+    "id": "match_2026_1223",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_fulham_fc",
+    "away_team": "team_manchester_united",
+    "stadium_id": null,
+    "date": "2026-09-20T15:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560583"
     }
   },
   {
