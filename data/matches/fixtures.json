@@ -36672,13 +36672,13 @@
     "away_team": "team_morocco",
     "stadium_id": null,
     "date": "2026-07-09T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_facundo_tello",
     "sources": {
       "football_data": "537383"
     }
