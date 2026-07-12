@@ -34936,5 +34936,1877 @@
     "sources": {
       "football_data": "558268"
     }
+  },
+  {
+    "id": "match_2026_1562",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_mexico",
+    "away_team": "team_south_africa",
+    "stadium_id": null,
+    "date": "2026-06-11T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_wilton_sampaio",
+    "sources": {
+      "football_data": "537327"
+    }
+  },
+  {
+    "id": "match_2026_1563",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_south_korea",
+    "away_team": "team_czechia",
+    "stadium_id": null,
+    "date": "2026-06-12T02:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_amin_omar",
+    "sources": {
+      "football_data": "537328"
+    }
+  },
+  {
+    "id": "match_2026_1564",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_canada",
+    "away_team": "team_bosnia_herzegovina",
+    "stadium_id": null,
+    "date": "2026-06-12T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_facundo_tello",
+    "sources": {
+      "football_data": "537333"
+    }
+  },
+  {
+    "id": "match_2026_1565",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_united_states",
+    "away_team": "team_paraguay",
+    "stadium_id": null,
+    "date": "2026-06-13T01:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_danny_makkelie",
+    "sources": {
+      "football_data": "537345"
+    }
+  },
+  {
+    "id": "match_2026_1566",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_qatar",
+    "away_team": "team_switzerland",
+    "stadium_id": null,
+    "date": "2026-06-13T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_said_martinez",
+    "sources": {
+      "football_data": "537334"
+    }
+  },
+  {
+    "id": "match_2026_1567",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_brazil",
+    "away_team": "team_morocco",
+    "stadium_id": null,
+    "date": "2026-06-13T22:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_slavko_vincic",
+    "sources": {
+      "football_data": "537339"
+    }
+  },
+  {
+    "id": "match_2026_1568",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_haiti",
+    "away_team": "team_scotland",
+    "stadium_id": null,
+    "date": "2026-06-14T01:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_mustapha_ghorbal",
+    "sources": {
+      "football_data": "537340"
+    }
+  },
+  {
+    "id": "match_2026_1569",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_australia",
+    "away_team": "team_turkey",
+    "stadium_id": null,
+    "date": "2026-06-14T04:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_jesus_valenzuela",
+    "sources": {
+      "football_data": "537346"
+    }
+  },
+  {
+    "id": "match_2026_1570",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_germany",
+    "away_team": "team_curacao",
+    "stadium_id": null,
+    "date": "2026-06-14T17:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 7,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_jalal_jayed",
+    "sources": {
+      "football_data": "537351"
+    }
+  },
+  {
+    "id": "match_2026_1571",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_netherlands",
+    "away_team": "team_japan",
+    "stadium_id": null,
+    "date": "2026-06-14T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_ismail_elfath",
+    "sources": {
+      "football_data": "537357"
+    }
+  },
+  {
+    "id": "match_2026_1572",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_ivory_coast",
+    "away_team": "team_ecuador",
+    "stadium_id": null,
+    "date": "2026-06-14T23:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_francois_letexier",
+    "sources": {
+      "football_data": "537352"
+    }
+  },
+  {
+    "id": "match_2026_1573",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_sweden",
+    "away_team": "team_tunisia",
+    "stadium_id": null,
+    "date": "2026-06-15T02:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_yael_falcon",
+    "sources": {
+      "football_data": "537358"
+    }
+  },
+  {
+    "id": "match_2026_1574",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_spain",
+    "away_team": "team_cape_verde_islands",
+    "stadium_id": null,
+    "date": "2026-06-15T16:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_adham_makhadmeh",
+    "sources": {
+      "football_data": "537369"
+    }
+  },
+  {
+    "id": "match_2026_1575",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_belgium",
+    "away_team": "team_egypt",
+    "stadium_id": null,
+    "date": "2026-06-15T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_ramon_abatti_abel",
+    "sources": {
+      "football_data": "537363"
+    }
+  },
+  {
+    "id": "match_2026_1576",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_saudi_arabia",
+    "away_team": "team_uruguay",
+    "stadium_id": null,
+    "date": "2026-06-15T22:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_maurizio_mariani",
+    "sources": {
+      "football_data": "537370"
+    }
+  },
+  {
+    "id": "match_2026_1577",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_iran",
+    "away_team": "team_new_zealand",
+    "stadium_id": null,
+    "date": "2026-06-16T01:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_cesar_ramos",
+    "sources": {
+      "football_data": "537364"
+    }
+  },
+  {
+    "id": "match_2026_1578",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_france",
+    "away_team": "team_senegal",
+    "stadium_id": null,
+    "date": "2026-06-16T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_alireza_faghani",
+    "sources": {
+      "football_data": "537391"
+    }
+  },
+  {
+    "id": "match_2026_1579",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_iraq",
+    "away_team": "team_norway",
+    "stadium_id": null,
+    "date": "2026-06-16T22:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_pierre_atcho",
+    "sources": {
+      "football_data": "537392"
+    }
+  },
+  {
+    "id": "match_2026_1580",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_argentina",
+    "away_team": "team_algeria",
+    "stadium_id": null,
+    "date": "2026-06-17T01:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_szymon_marciniak",
+    "sources": {
+      "football_data": "537397"
+    }
+  },
+  {
+    "id": "match_2026_1581",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_austria",
+    "away_team": "team_jordan",
+    "stadium_id": null,
+    "date": "2026-06-17T04:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_dahane_beida",
+    "sources": {
+      "football_data": "537398"
+    }
+  },
+  {
+    "id": "match_2026_1582",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_portugal",
+    "away_team": "team_congo_dr",
+    "stadium_id": null,
+    "date": "2026-06-17T17:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_abdulrahman_al_jassim",
+    "sources": {
+      "football_data": "537403"
+    }
+  },
+  {
+    "id": "match_2026_1583",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_england",
+    "away_team": "team_croatia",
+    "stadium_id": null,
+    "date": "2026-06-17T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_clement_turpin",
+    "sources": {
+      "football_data": "537409"
+    }
+  },
+  {
+    "id": "match_2026_1584",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_ghana",
+    "away_team": "team_panama",
+    "stadium_id": null,
+    "date": "2026-06-17T23:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_glenn_nyberg",
+    "sources": {
+      "football_data": "537410"
+    }
+  },
+  {
+    "id": "match_2026_1585",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_uzbekistan",
+    "away_team": "team_colombia",
+    "stadium_id": null,
+    "date": "2026-06-18T02:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_anthony_taylor",
+    "sources": {
+      "football_data": "537404"
+    }
+  },
+  {
+    "id": "match_2026_1586",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_czechia",
+    "away_team": "team_south_africa",
+    "stadium_id": null,
+    "date": "2026-06-18T16:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tori_penso",
+    "sources": {
+      "football_data": "537329"
+    }
+  },
+  {
+    "id": "match_2026_1587",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_switzerland",
+    "away_team": "team_bosnia_herzegovina",
+    "stadium_id": null,
+    "date": "2026-06-18T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_joao_pinheiro",
+    "sources": {
+      "football_data": "537335"
+    }
+  },
+  {
+    "id": "match_2026_1588",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_canada",
+    "away_team": "team_qatar",
+    "stadium_id": null,
+    "date": "2026-06-18T22:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 6,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_cristian_garay",
+    "sources": {
+      "football_data": "537336"
+    }
+  },
+  {
+    "id": "match_2026_1589",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_mexico",
+    "away_team": "team_south_korea",
+    "stadium_id": null,
+    "date": "2026-06-19T01:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_gustavo_tejera",
+    "sources": {
+      "football_data": "537330"
+    }
+  },
+  {
+    "id": "match_2026_1590",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_united_states",
+    "away_team": "team_australia",
+    "stadium_id": null,
+    "date": "2026-06-19T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "537348"
+    }
+  },
+  {
+    "id": "match_2026_1591",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_scotland",
+    "away_team": "team_morocco",
+    "stadium_id": null,
+    "date": "2026-06-19T22:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_ilgiz_tantashev",
+    "sources": {
+      "football_data": "537342"
+    }
+  },
+  {
+    "id": "match_2026_1592",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_brazil",
+    "away_team": "team_haiti",
+    "stadium_id": null,
+    "date": "2026-06-20T00:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_alejandro_hernandez_hernandez",
+    "sources": {
+      "football_data": "537341"
+    }
+  },
+  {
+    "id": "match_2026_1593",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_turkey",
+    "away_team": "team_paraguay",
+    "stadium_id": null,
+    "date": "2026-06-20T03:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_ivan_barton",
+    "sources": {
+      "football_data": "537347"
+    }
+  },
+  {
+    "id": "match_2026_1594",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_netherlands",
+    "away_team": "team_sweden",
+    "stadium_id": null,
+    "date": "2026-06-20T17:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_michael_oliver",
+    "sources": {
+      "football_data": "537359"
+    }
+  },
+  {
+    "id": "match_2026_1595",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_germany",
+    "away_team": "team_ivory_coast",
+    "stadium_id": null,
+    "date": "2026-06-20T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_juan_benitez",
+    "sources": {
+      "football_data": "537353"
+    }
+  },
+  {
+    "id": "match_2026_1596",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_ecuador",
+    "away_team": "team_curacao",
+    "stadium_id": null,
+    "date": "2026-06-21T00:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_ning_ma",
+    "sources": {
+      "football_data": "537354"
+    }
+  },
+  {
+    "id": "match_2026_1597",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_tunisia",
+    "away_team": "team_japan",
+    "stadium_id": null,
+    "date": "2026-06-21T04:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_istvan_kovacs",
+    "sources": {
+      "football_data": "537360"
+    }
+  },
+  {
+    "id": "match_2026_1598",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_spain",
+    "away_team": "team_saudi_arabia",
+    "stadium_id": null,
+    "date": "2026-06-21T16:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_raphael_claus",
+    "sources": {
+      "football_data": "537371"
+    }
+  },
+  {
+    "id": "match_2026_1599",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_belgium",
+    "away_team": "team_iran",
+    "stadium_id": null,
+    "date": "2026-06-21T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_dario_herrera",
+    "sources": {
+      "football_data": "537365"
+    }
+  },
+  {
+    "id": "match_2026_1600",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_uruguay",
+    "away_team": "team_cape_verde_islands",
+    "stadium_id": null,
+    "date": "2026-06-21T22:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_espen_eskas",
+    "sources": {
+      "football_data": "537372"
+    }
+  },
+  {
+    "id": "match_2026_1601",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_new_zealand",
+    "away_team": "team_egypt",
+    "stadium_id": null,
+    "date": "2026-06-22T01:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_omar_mohamed_al_ali",
+    "sources": {
+      "football_data": "537366"
+    }
+  },
+  {
+    "id": "match_2026_1602",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_argentina",
+    "away_team": "team_austria",
+    "stadium_id": null,
+    "date": "2026-06-22T17:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_amin_omar",
+    "sources": {
+      "football_data": "537399"
+    }
+  },
+  {
+    "id": "match_2026_1603",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_france",
+    "away_team": "team_iraq",
+    "stadium_id": null,
+    "date": "2026-06-22T21:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_drew_fischer",
+    "sources": {
+      "football_data": "537393"
+    }
+  },
+  {
+    "id": "match_2026_1604",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_norway",
+    "away_team": "team_senegal",
+    "stadium_id": null,
+    "date": "2026-06-23T00:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_wilton_sampaio",
+    "sources": {
+      "football_data": "537394"
+    }
+  },
+  {
+    "id": "match_2026_1605",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_jordan",
+    "away_team": "team_algeria",
+    "stadium_id": null,
+    "date": "2026-06-23T03:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_slavko_vincic",
+    "sources": {
+      "football_data": "537400"
+    }
+  },
+  {
+    "id": "match_2026_1606",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_portugal",
+    "away_team": "team_uzbekistan",
+    "stadium_id": null,
+    "date": "2026-06-23T17:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_jalal_jayed",
+    "sources": {
+      "football_data": "537405"
+    }
+  },
+  {
+    "id": "match_2026_1607",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_england",
+    "away_team": "team_ghana",
+    "stadium_id": null,
+    "date": "2026-06-23T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_said_martinez",
+    "sources": {
+      "football_data": "537411"
+    }
+  },
+  {
+    "id": "match_2026_1608",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_panama",
+    "away_team": "team_croatia",
+    "stadium_id": null,
+    "date": "2026-06-23T23:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "537412"
+    }
+  },
+  {
+    "id": "match_2026_1609",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_colombia",
+    "away_team": "team_congo_dr",
+    "stadium_id": null,
+    "date": "2026-06-24T02:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "537406"
+    }
+  },
+  {
+    "id": "match_2026_1610",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_switzerland",
+    "away_team": "team_canada",
+    "stadium_id": null,
+    "date": "2026-06-24T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_ramon_abatti_abel",
+    "sources": {
+      "football_data": "537337"
+    }
+  },
+  {
+    "id": "match_2026_1611",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_bosnia_herzegovina",
+    "away_team": "team_qatar",
+    "stadium_id": null,
+    "date": "2026-06-24T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_jesus_valenzuela",
+    "sources": {
+      "football_data": "537338"
+    }
+  },
+  {
+    "id": "match_2026_1612",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_morocco",
+    "away_team": "team_haiti",
+    "stadium_id": null,
+    "date": "2026-06-24T22:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_danny_makkelie",
+    "sources": {
+      "football_data": "537344"
+    }
+  },
+  {
+    "id": "match_2026_1613",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_scotland",
+    "away_team": "team_brazil",
+    "stadium_id": null,
+    "date": "2026-06-24T22:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_cesar_ramos",
+    "sources": {
+      "football_data": "537343"
+    }
+  },
+  {
+    "id": "match_2026_1614",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_czechia",
+    "away_team": "team_mexico",
+    "stadium_id": null,
+    "date": "2026-06-25T01:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_yael_falcon",
+    "sources": {
+      "football_data": "537331"
+    }
+  },
+  {
+    "id": "match_2026_1615",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_south_africa",
+    "away_team": "team_south_korea",
+    "stadium_id": null,
+    "date": "2026-06-25T01:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_facundo_tello",
+    "sources": {
+      "football_data": "537332"
+    }
+  },
+  {
+    "id": "match_2026_1616",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_ecuador",
+    "away_team": "team_germany",
+    "stadium_id": null,
+    "date": "2026-06-25T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tori_penso",
+    "sources": {
+      "football_data": "537355"
+    }
+  },
+  {
+    "id": "match_2026_1617",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_curacao",
+    "away_team": "team_ivory_coast",
+    "stadium_id": null,
+    "date": "2026-06-25T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_glenn_nyberg",
+    "sources": {
+      "football_data": "537356"
+    }
+  },
+  {
+    "id": "match_2026_1618",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_tunisia",
+    "away_team": "team_netherlands",
+    "stadium_id": null,
+    "date": "2026-06-25T23:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_katia_garcia",
+    "sources": {
+      "football_data": "537361"
+    }
+  },
+  {
+    "id": "match_2026_1619",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_japan",
+    "away_team": "team_sweden",
+    "stadium_id": null,
+    "date": "2026-06-25T23:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_ivan_barton",
+    "sources": {
+      "football_data": "537362"
+    }
+  },
+  {
+    "id": "match_2026_1620",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_turkey",
+    "away_team": "team_united_states",
+    "stadium_id": null,
+    "date": "2026-06-26T02:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_mustapha_ghorbal",
+    "sources": {
+      "football_data": "537349"
+    }
+  },
+  {
+    "id": "match_2026_1621",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_paraguay",
+    "away_team": "team_australia",
+    "stadium_id": null,
+    "date": "2026-06-26T02:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_clement_turpin",
+    "sources": {
+      "football_data": "537350"
+    }
+  },
+  {
+    "id": "match_2026_1622",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_norway",
+    "away_team": "team_france",
+    "stadium_id": null,
+    "date": "2026-06-26T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_michael_oliver",
+    "sources": {
+      "football_data": "537395"
+    }
+  },
+  {
+    "id": "match_2026_1623",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_senegal",
+    "away_team": "team_iraq",
+    "stadium_id": null,
+    "date": "2026-06-26T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_anthony_taylor",
+    "sources": {
+      "football_data": "537396"
+    }
+  },
+  {
+    "id": "match_2026_1624",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_uruguay",
+    "away_team": "team_spain",
+    "stadium_id": null,
+    "date": "2026-06-27T00:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_ismail_elfath",
+    "sources": {
+      "football_data": "537373"
+    }
+  },
+  {
+    "id": "match_2026_1625",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_cape_verde_islands",
+    "away_team": "team_saudi_arabia",
+    "stadium_id": null,
+    "date": "2026-06-27T00:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_francois_letexier",
+    "sources": {
+      "football_data": "537374"
+    }
+  },
+  {
+    "id": "match_2026_1626",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_new_zealand",
+    "away_team": "team_belgium",
+    "stadium_id": null,
+    "date": "2026-06-27T03:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 5
+    },
+    "events": [],
+    "referee_id": "ref_adham_makhadmeh",
+    "sources": {
+      "football_data": "537367"
+    }
+  },
+  {
+    "id": "match_2026_1627",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_egypt",
+    "away_team": "team_iran",
+    "stadium_id": null,
+    "date": "2026-06-27T03:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_szymon_marciniak",
+    "sources": {
+      "football_data": "537368"
+    }
+  },
+  {
+    "id": "match_2026_1628",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_panama",
+    "away_team": "team_england",
+    "stadium_id": null,
+    "date": "2026-06-27T21:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_abdulrahman_al_jassim",
+    "sources": {
+      "football_data": "537413"
+    }
+  },
+  {
+    "id": "match_2026_1629",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_croatia",
+    "away_team": "team_ghana",
+    "stadium_id": null,
+    "date": "2026-06-27T21:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_drew_fischer",
+    "sources": {
+      "football_data": "537414"
+    }
+  },
+  {
+    "id": "match_2026_1630",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_colombia",
+    "away_team": "team_portugal",
+    "stadium_id": null,
+    "date": "2026-06-27T23:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_alireza_faghani",
+    "sources": {
+      "football_data": "537407"
+    }
+  },
+  {
+    "id": "match_2026_1631",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_congo_dr",
+    "away_team": "team_uzbekistan",
+    "stadium_id": null,
+    "date": "2026-06-27T23:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "537408"
+    }
+  },
+  {
+    "id": "match_2026_1632",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_jordan",
+    "away_team": "team_argentina",
+    "stadium_id": null,
+    "date": "2026-06-28T02:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_istvan_kovacs",
+    "sources": {
+      "football_data": "537401"
+    }
+  },
+  {
+    "id": "match_2026_1633",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_algeria",
+    "away_team": "team_austria",
+    "stadium_id": null,
+    "date": "2026-06-28T02:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_ilgiz_tantashev",
+    "sources": {
+      "football_data": "537402"
+    }
+  },
+  {
+    "id": "match_2026_1634",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_south_africa",
+    "away_team": "team_canada",
+    "stadium_id": null,
+    "date": "2026-06-28T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_joao_pinheiro",
+    "sources": {
+      "football_data": "537417"
+    }
+  },
+  {
+    "id": "match_2026_1635",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_brazil",
+    "away_team": "team_japan",
+    "stadium_id": null,
+    "date": "2026-06-29T17:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_maurizio_mariani",
+    "sources": {
+      "football_data": "537423"
+    }
+  },
+  {
+    "id": "match_2026_1636",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_germany",
+    "away_team": "team_paraguay",
+    "stadium_id": null,
+    "date": "2026-06-29T20:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 5
+    },
+    "events": [],
+    "referee_id": "ref_jalal_jayed",
+    "sources": {
+      "football_data": "537415"
+    }
+  },
+  {
+    "id": "match_2026_1637",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_netherlands",
+    "away_team": "team_morocco",
+    "stadium_id": null,
+    "date": "2026-06-30T01:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_wilton_sampaio",
+    "sources": {
+      "football_data": "537418"
+    }
+  },
+  {
+    "id": "match_2026_1638",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_ivory_coast",
+    "away_team": "team_norway",
+    "stadium_id": null,
+    "date": "2026-06-30T17:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_jesus_valenzuela",
+    "sources": {
+      "football_data": "537424"
+    }
+  },
+  {
+    "id": "match_2026_1639",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_france",
+    "away_team": "team_sweden",
+    "stadium_id": null,
+    "date": "2026-06-30T21:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_danny_makkelie",
+    "sources": {
+      "football_data": "537416"
+    }
+  },
+  {
+    "id": "match_2026_1640",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_mexico",
+    "away_team": "team_ecuador",
+    "stadium_id": null,
+    "date": "2026-07-01T02:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_slavko_vincic",
+    "sources": {
+      "football_data": "537425"
+    }
+  },
+  {
+    "id": "match_2026_1641",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_england",
+    "away_team": "team_congo_dr",
+    "stadium_id": null,
+    "date": "2026-07-01T16:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_adham_makhadmeh",
+    "sources": {
+      "football_data": "537426"
+    }
+  },
+  {
+    "id": "match_2026_1642",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_belgium",
+    "away_team": "team_senegal",
+    "stadium_id": null,
+    "date": "2026-07-01T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_said_martinez",
+    "sources": {
+      "football_data": "537422"
+    }
+  },
+  {
+    "id": "match_2026_1643",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_united_states",
+    "away_team": "team_bosnia_herzegovina",
+    "stadium_id": null,
+    "date": "2026-07-02T00:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_raphael_claus",
+    "sources": {
+      "football_data": "537421"
+    }
+  },
+  {
+    "id": "match_2026_1644",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_spain",
+    "away_team": "team_austria",
+    "stadium_id": null,
+    "date": "2026-07-02T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_glenn_nyberg",
+    "sources": {
+      "football_data": "537420"
+    }
+  },
+  {
+    "id": "match_2026_1645",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_portugal",
+    "away_team": "team_croatia",
+    "stadium_id": null,
+    "date": "2026-07-02T23:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_espen_eskas",
+    "sources": {
+      "football_data": "537419"
+    }
+  },
+  {
+    "id": "match_2026_1646",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_switzerland",
+    "away_team": "team_algeria",
+    "stadium_id": null,
+    "date": "2026-07-03T03:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_yael_falcon",
+    "sources": {
+      "football_data": "537429"
+    }
+  },
+  {
+    "id": "match_2026_1647",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_australia",
+    "away_team": "team_egypt",
+    "stadium_id": null,
+    "date": "2026-07-03T18:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 5
+    },
+    "events": [],
+    "referee_id": "ref_gustavo_tejera",
+    "sources": {
+      "football_data": "537428"
+    }
+  },
+  {
+    "id": "match_2026_1648",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_argentina",
+    "away_team": "team_cape_verde_islands",
+    "stadium_id": null,
+    "date": "2026-07-03T22:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_drew_fischer",
+    "sources": {
+      "football_data": "537427"
+    }
+  },
+  {
+    "id": "match_2026_1649",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_colombia",
+    "away_team": "team_ghana",
+    "stadium_id": null,
+    "date": "2026-07-04T01:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_clement_turpin",
+    "sources": {
+      "football_data": "537430"
+    }
+  },
+  {
+    "id": "match_2026_1650",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_canada",
+    "away_team": "team_morocco",
+    "stadium_id": null,
+    "date": "2026-07-04T17:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_michael_oliver",
+    "sources": {
+      "football_data": "537376"
+    }
+  },
+  {
+    "id": "match_2026_1651",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_paraguay",
+    "away_team": "team_france",
+    "stadium_id": null,
+    "date": "2026-07-04T21:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_ilgiz_tantashev",
+    "sources": {
+      "football_data": "537375"
+    }
+  },
+  {
+    "id": "match_2026_1652",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_brazil",
+    "away_team": "team_norway",
+    "stadium_id": null,
+    "date": "2026-07-05T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_ismail_elfath",
+    "sources": {
+      "football_data": "537377"
+    }
+  },
+  {
+    "id": "match_2026_1653",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_mexico",
+    "away_team": "team_england",
+    "stadium_id": null,
+    "date": "2026-07-06T01:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_alireza_faghani",
+    "sources": {
+      "football_data": "537378"
+    }
+  },
+  {
+    "id": "match_2026_1654",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_portugal",
+    "away_team": "team_spain",
+    "stadium_id": null,
+    "date": "2026-07-06T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_anthony_taylor",
+    "sources": {
+      "football_data": "537379"
+    }
+  },
+  {
+    "id": "match_2026_1655",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_united_states",
+    "away_team": "team_belgium",
+    "stadium_id": null,
+    "date": "2026-07-07T00:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_adham_makhadmeh",
+    "sources": {
+      "football_data": "537380"
+    }
+  },
+  {
+    "id": "match_2026_1656",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_argentina",
+    "away_team": "team_egypt",
+    "stadium_id": null,
+    "date": "2026-07-07T16:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_francois_letexier",
+    "sources": {
+      "football_data": "537381"
+    }
+  },
+  {
+    "id": "match_2026_1657",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_switzerland",
+    "away_team": "team_colombia",
+    "stadium_id": null,
+    "date": "2026-07-07T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_ivan_barton",
+    "sources": {
+      "football_data": "537382"
+    }
+  },
+  {
+    "id": "match_2026_1658",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_france",
+    "away_team": "team_morocco",
+    "stadium_id": null,
+    "date": "2026-07-09T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_facundo_tello",
+    "sources": {
+      "football_data": "537383"
+    }
+  },
+  {
+    "id": "match_2026_1659",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_spain",
+    "away_team": "team_belgium",
+    "stadium_id": null,
+    "date": "2026-07-10T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_michael_oliver",
+    "sources": {
+      "football_data": "537384"
+    }
+  },
+  {
+    "id": "match_2026_1660",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_norway",
+    "away_team": "team_england",
+    "stadium_id": null,
+    "date": "2026-07-11T21:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_clement_turpin",
+    "sources": {
+      "football_data": "537385"
+    }
+  },
+  {
+    "id": "match_2026_1661",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_argentina",
+    "away_team": "team_switzerland",
+    "stadium_id": null,
+    "date": "2026-07-12T01:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_joao_pinheiro",
+    "sources": {
+      "football_data": "537386"
+    }
+  },
+  {
+    "id": "match_2026_1662",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_france",
+    "away_team": "team_spain",
+    "stadium_id": null,
+    "date": "2026-07-14T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "537387"
+    }
+  },
+  {
+    "id": "match_2026_1663",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_england",
+    "away_team": "team_argentina",
+    "stadium_id": null,
+    "date": "2026-07-15T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "537388"
+    }
+  },
+  {
+    "id": "match_2026_1664",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_",
+    "away_team": "team_",
+    "stadium_id": null,
+    "date": "2026-07-18T21:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "537389"
+    }
+  },
+  {
+    "id": "match_2026_1665",
+    "competition_id": "competition_fifa_world_cup_2026",
+    "home_team": "team_",
+    "away_team": "team_",
+    "stadium_id": null,
+    "date": "2026-07-19T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "537390"
+    }
   }
 ]
