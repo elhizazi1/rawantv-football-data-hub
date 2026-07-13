@@ -357,13 +357,6 @@
     "position": "Left Wing"
   },
   {
-    "id": "player_andrey_santos",
-    "name": "Andrey Santos",
-    "club_id": "team_chelsea",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kdun6w1771428273.jpg",
-    "position": "Defensive Midfield"
-  },
-  {
     "id": "player_benoit_badiashile",
     "name": "Benoit Badiashile",
     "club_id": "team_chelsea",
@@ -418,6 +411,13 @@
     "club_id": "team_chelsea",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dbyzxw1766827918.jpg",
     "position": "Defender"
+  },
+  {
+    "id": "player_james_hillson",
+    "name": "James Hillson",
+    "club_id": "team_chelsea",
+    "photo": null,
+    "position": "Goalkeeper"
   },
   {
     "id": "player_ben_wilson",
