@@ -168,6 +168,13 @@
     "position": "Central Midfield"
   },
   {
+    "id": "player_alvaro_rodriguez",
+    "name": "Álvaro Rodríguez",
+    "club_id": "team_bournemouth",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9e9pcr1677352696.jpg",
+    "position": "Centre-Forward"
+  },
+  {
     "id": "player_amine_adli",
     "name": "Amine Adli",
     "club_id": "team_bournemouth",
@@ -201,13 +208,6 @@
     "club_id": "team_bournemouth",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/rz7f471771751668.jpg",
     "position": "Goalkeeper"
-  },
-  {
-    "id": "player_eli_junior_kroupi",
-    "name": "Eli Junior Kroupi",
-    "club_id": "team_bournemouth",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/js4g5i1771751533.jpg",
-    "position": "Centre-Forward"
   },
   {
     "id": "player_aaron_hickey",
@@ -294,13 +294,6 @@
     "position": "Goalkeeper"
   },
   {
-    "id": "player_brajan_gruda",
-    "name": "Brajan Gruda",
-    "club_id": "team_brighton_and_hove_albion",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/de7me51680006501.jpg",
-    "position": "Midfielder"
-  },
-  {
     "id": "player_carlos_baleba",
     "name": "Carlos Baleba",
     "club_id": "team_brighton_and_hove_albion",
@@ -348,6 +341,13 @@
     "club_id": "team_brighton_and_hove_albion",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/qn0nr21772017123.jpg",
     "position": "Left-Back"
+  },
+  {
+    "id": "player_georginio_rutter",
+    "name": "Georginio Rutter",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/4ea6mr1631544242.jpg",
+    "position": "Centre-Forward"
   },
   {
     "id": "player_alejandro_garnacho",

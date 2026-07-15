@@ -1,0 +1,19 @@
+{
+  "id": "player_georginio_rutter",
+  "name": "Georginio Rutter",
+  "position": "Centre-Forward",
+  "nationality": "France",
+  "birth_date": "2002-04-20",
+  "height": 182,
+  "weight": 183,
+  "club_id": "team_brighton_and_hove_albion",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/4ea6mr1631544242.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34175409"
+  }
+}
