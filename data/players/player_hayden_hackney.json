@@ -1,0 +1,19 @@
+{
+  "id": "player_hayden_hackney",
+  "name": "Hayden Hackney",
+  "position": "Defensive Midfield",
+  "nationality": "England",
+  "birth_date": "2002-06-26",
+  "height": 178,
+  "weight": 152,
+  "club_id": "team_everton",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bnt69f1674660433.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34203491"
+  }
+}

@@ -609,6 +609,13 @@
     "position": "Midfielder"
   },
   {
+    "id": "player_hayden_hackney",
+    "name": "Hayden Hackney",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bnt69f1674660433.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
     "id": "player_idrissa_gueye",
     "name": "Idrissa Gueye",
     "club_id": "team_everton",
@@ -621,13 +628,6 @@
     "club_id": "team_everton",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mewy8h1628334209.jpg",
     "position": "Midfielder"
-  },
-  {
-    "id": "player_jake_obrien",
-    "name": "Jake O'Brien",
-    "club_id": "team_everton",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/w16wc91771945248.jpg",
-    "position": "Defender"
   },
   {
     "id": "player_alex_iwobi",

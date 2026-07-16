@@ -36762,13 +36762,13 @@
     "away_team": "team_argentina",
     "stadium_id": null,
     "date": "2026-07-15T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_ismail_elfath",
     "sources": {
       "football_data": "537388"
     }
