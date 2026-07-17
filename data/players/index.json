@@ -336,18 +336,18 @@
     "position": "Manager"
   },
   {
+    "id": "player_facundo_buonanotte",
+    "name": "Facundo Buonanotte",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/umjusa1678183288.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
     "id": "player_ferdi_kadioglu",
     "name": "Ferdi Kadıoğlu",
     "club_id": "team_brighton_and_hove_albion",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/qn0nr21772017123.jpg",
     "position": "Left-Back"
-  },
-  {
-    "id": "player_georginio_rutter",
-    "name": "Georginio Rutter",
-    "club_id": "team_brighton_and_hove_albion",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/4ea6mr1631544242.jpg",
-    "position": "Centre-Forward"
   },
   {
     "id": "player_alejandro_garnacho",
@@ -616,18 +616,18 @@
     "position": "Defensive Midfield"
   },
   {
-    "id": "player_idrissa_gueye",
-    "name": "Idrissa Gueye",
-    "club_id": "team_everton",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/707lot1771944827.jpg",
-    "position": "Defensive Midfield"
-  },
-  {
     "id": "player_iliman_ndiaye",
     "name": "Iliman Ndiaye",
     "club_id": "team_everton",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mewy8h1628334209.jpg",
     "position": "Midfielder"
+  },
+  {
+    "id": "player_jake_obrien",
+    "name": "Jake O'Brien",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/w16wc91771945248.jpg",
+    "position": "Defender"
   },
   {
     "id": "player_alex_iwobi",
@@ -673,7 +673,7 @@
   },
   {
     "id": "player_emil_smith_rowe",
-    "name": "Emil Smith Rowe",
+    "name": "Emile Smith-Rowe",
     "club_id": "team_fulham",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kjimti1772026445.jpg",
     "position": "Attacking Midfield"
@@ -686,17 +686,17 @@
     "position": "Central Midfield"
   },
   {
-    "id": "player_harry_wilson",
-    "name": "Harry Wilson",
-    "club_id": "team_fulham",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ionbzl1772024456.jpg",
-    "position": "Right Winger"
-  },
-  {
     "id": "player_issa_diop",
     "name": "Issa Diop",
     "club_id": "team_fulham",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/z1xits1779839831.jpg",
+    "position": "Centre-Back"
+  },
+  {
+    "id": "player_joachim_andersen",
+    "name": "Joachim Andersen",
+    "club_id": "team_fulham",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/emjhls1772024689.jpg",
     "position": "Centre-Back"
   }
 ]
