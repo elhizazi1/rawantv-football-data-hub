@@ -90,42 +90,6 @@
     }
   },
   {
-    "id": "match_2026_0006",
-    "competition_id": "competition_bundesliga_2026",
-    "home_team": "team_borussia_dortmund",
-    "away_team": "team_hamburger_sv",
-    "stadium_id": null,
-    "date": "2026-08-29T13:30:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "565781"
-    }
-  },
-  {
-    "id": "match_2026_0007",
-    "competition_id": "competition_bundesliga_2026",
-    "home_team": "team_fc_augsburg",
-    "away_team": "team_fc_schalke_04",
-    "stadium_id": null,
-    "date": "2026-08-29T13:30:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "565782"
-    }
-  },
-  {
     "id": "match_2026_0008",
     "competition_id": "competition_bundesliga_2026",
     "home_team": "team_1_fc_koln",
@@ -144,12 +108,30 @@
     }
   },
   {
+    "id": "match_2026_0006",
+    "competition_id": "competition_bundesliga_2026",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2026-08-29T16:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "565781"
+    }
+  },
+  {
     "id": "match_2026_0009",
     "competition_id": "competition_bundesliga_2026",
     "home_team": "team_sc_freiburg",
     "away_team": "team_sv_werder_bremen",
     "stadium_id": null,
-    "date": "2026-08-29T13:30:00Z",
+    "date": "2026-08-30T13:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -159,6 +141,42 @@
     "referee_id": null,
     "sources": {
       "football_data": "565784"
+    }
+  },
+  {
+    "id": "match_2026_0007",
+    "competition_id": "competition_bundesliga_2026",
+    "home_team": "team_fc_augsburg",
+    "away_team": "team_fc_schalke_04",
+    "stadium_id": null,
+    "date": "2026-08-30T15:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "565782"
+    }
+  },
+  {
+    "id": "match_2026_0016",
+    "competition_id": "competition_bundesliga_2026",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_1_fc_koln",
+    "stadium_id": null,
+    "date": "2026-09-04T18:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "565791"
     }
   },
   {
@@ -180,24 +198,6 @@
     }
   },
   {
-    "id": "match_2026_0011",
-    "competition_id": "competition_bundesliga_2026",
-    "home_team": "team_eintracht_frankfurt",
-    "away_team": "team_fc_augsburg",
-    "stadium_id": null,
-    "date": "2026-09-05T13:30:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "565786"
-    }
-  },
-  {
     "id": "match_2026_0012",
     "competition_id": "competition_bundesliga_2026",
     "home_team": "team_tsg_1899_hoffenheim",
@@ -216,42 +216,6 @@
     }
   },
   {
-    "id": "match_2026_0013",
-    "competition_id": "competition_bundesliga_2026",
-    "home_team": "team_hamburger_sv",
-    "away_team": "team_1_fsv_mainz_05",
-    "stadium_id": null,
-    "date": "2026-09-05T13:30:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "565788"
-    }
-  },
-  {
-    "id": "match_2026_0014",
-    "competition_id": "competition_bundesliga_2026",
-    "home_team": "team_fc_schalke_04",
-    "away_team": "team_fc_bayern_munchen",
-    "stadium_id": null,
-    "date": "2026-09-05T13:30:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "565789"
-    }
-  },
-  {
     "id": "match_2026_0015",
     "competition_id": "competition_bundesliga_2026",
     "home_team": "team_bayer_04_leverkusen",
@@ -267,24 +231,6 @@
     "referee_id": null,
     "sources": {
       "football_data": "565790"
-    }
-  },
-  {
-    "id": "match_2026_0016",
-    "competition_id": "competition_bundesliga_2026",
-    "home_team": "team_vfb_stuttgart",
-    "away_team": "team_1_fc_koln",
-    "stadium_id": null,
-    "date": "2026-09-05T13:30:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "565791"
     }
   },
   {
@@ -321,6 +267,78 @@
     "referee_id": null,
     "sources": {
       "football_data": "565793"
+    }
+  },
+  {
+    "id": "match_2026_0014",
+    "competition_id": "competition_bundesliga_2026",
+    "home_team": "team_fc_schalke_04",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-09-05T16:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "565789"
+    }
+  },
+  {
+    "id": "match_2026_0013",
+    "competition_id": "competition_bundesliga_2026",
+    "home_team": "team_hamburger_sv",
+    "away_team": "team_1_fsv_mainz_05",
+    "stadium_id": null,
+    "date": "2026-09-06T13:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "565788"
+    }
+  },
+  {
+    "id": "match_2026_0011",
+    "competition_id": "competition_bundesliga_2026",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_fc_augsburg",
+    "stadium_id": null,
+    "date": "2026-09-06T15:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "565786"
+    }
+  },
+  {
+    "id": "match_2026_0022",
+    "competition_id": "competition_bundesliga_2026",
+    "home_team": "team_1_fc_union_berlin",
+    "away_team": "team_fc_schalke_04",
+    "stadium_id": null,
+    "date": "2026-09-11T18:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "565797"
     }
   },
   {
@@ -378,78 +396,6 @@
     }
   },
   {
-    "id": "match_2026_0022",
-    "competition_id": "competition_bundesliga_2026",
-    "home_team": "team_1_fc_union_berlin",
-    "away_team": "team_fc_schalke_04",
-    "stadium_id": null,
-    "date": "2026-09-12T13:30:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "565797"
-    }
-  },
-  {
-    "id": "match_2026_0023",
-    "competition_id": "competition_bundesliga_2026",
-    "home_team": "team_1_fc_koln",
-    "away_team": "team_sv_werder_bremen",
-    "stadium_id": null,
-    "date": "2026-09-12T13:30:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "565798"
-    }
-  },
-  {
-    "id": "match_2026_0024",
-    "competition_id": "competition_bundesliga_2026",
-    "home_team": "team_rb_leipzig",
-    "away_team": "team_hamburger_sv",
-    "stadium_id": null,
-    "date": "2026-09-12T13:30:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "565799"
-    }
-  },
-  {
-    "id": "match_2026_0025",
-    "competition_id": "competition_bundesliga_2026",
-    "home_team": "team_sv_07_elversberg",
-    "away_team": "team_fc_bayern_munchen",
-    "stadium_id": null,
-    "date": "2026-09-12T13:30:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "565800"
-    }
-  },
-  {
     "id": "match_2026_0026",
     "competition_id": "competition_bundesliga_2026",
     "home_team": "team_1_fsv_mainz_05",
@@ -486,12 +432,12 @@
     }
   },
   {
-    "id": "match_2026_0028",
+    "id": "match_2026_0023",
     "competition_id": "competition_bundesliga_2026",
-    "home_team": "team_sc_paderborn_07",
-    "away_team": "team_tsg_1899_hoffenheim",
+    "home_team": "team_1_fc_koln",
+    "away_team": "team_sv_werder_bremen",
     "stadium_id": null,
-    "date": "2026-09-19T13:30:00Z",
+    "date": "2026-09-12T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -500,7 +446,43 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "565803"
+      "football_data": "565798"
+    }
+  },
+  {
+    "id": "match_2026_0024",
+    "competition_id": "competition_bundesliga_2026",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_hamburger_sv",
+    "stadium_id": null,
+    "date": "2026-09-13T13:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "565799"
+    }
+  },
+  {
+    "id": "match_2026_0025",
+    "competition_id": "competition_bundesliga_2026",
+    "home_team": "team_sv_07_elversberg",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-09-13T15:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "565800"
     }
   },
   {
@@ -509,7 +491,7 @@
     "home_team": "team_fc_bayern_munchen",
     "away_team": "team_1_fc_union_berlin",
     "stadium_id": null,
-    "date": "2026-09-19T13:30:00Z",
+    "date": "2026-09-18T18:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -519,60 +501,6 @@
     "referee_id": null,
     "sources": {
       "football_data": "565804"
-    }
-  },
-  {
-    "id": "match_2026_0030",
-    "competition_id": "competition_bundesliga_2026",
-    "home_team": "team_fc_schalke_04",
-    "away_team": "team_sv_07_elversberg",
-    "stadium_id": null,
-    "date": "2026-09-19T13:30:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "565805"
-    }
-  },
-  {
-    "id": "match_2026_0031",
-    "competition_id": "competition_bundesliga_2026",
-    "home_team": "team_vfb_stuttgart",
-    "away_team": "team_borussia_dortmund",
-    "stadium_id": null,
-    "date": "2026-09-19T13:30:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "565806"
-    }
-  },
-  {
-    "id": "match_2026_0032",
-    "competition_id": "competition_bundesliga_2026",
-    "home_team": "team_bayer_04_leverkusen",
-    "away_team": "team_rb_leipzig",
-    "stadium_id": null,
-    "date": "2026-09-19T13:30:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "565807"
     }
   },
   {
@@ -645,6 +573,78 @@
     "referee_id": null,
     "sources": {
       "football_data": "565811"
+    }
+  },
+  {
+    "id": "match_2026_0031",
+    "competition_id": "competition_bundesliga_2026",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2026-09-19T16:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "565806"
+    }
+  },
+  {
+    "id": "match_2026_0032",
+    "competition_id": "competition_bundesliga_2026",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2026-09-20T13:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "565807"
+    }
+  },
+  {
+    "id": "match_2026_0030",
+    "competition_id": "competition_bundesliga_2026",
+    "home_team": "team_fc_schalke_04",
+    "away_team": "team_sv_07_elversberg",
+    "stadium_id": null,
+    "date": "2026-09-20T15:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "565805"
+    }
+  },
+  {
+    "id": "match_2026_0028",
+    "competition_id": "competition_bundesliga_2026",
+    "home_team": "team_sc_paderborn_07",
+    "away_team": "team_tsg_1899_hoffenheim",
+    "stadium_id": null,
+    "date": "2026-09-20T17:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "565803"
     }
   },
   {
