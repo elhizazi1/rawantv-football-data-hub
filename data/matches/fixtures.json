@@ -36798,13 +36798,13 @@
     "away_team": "team_argentina",
     "stadium_id": null,
     "date": "2026-07-19T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_slavko_vincic",
     "sources": {
       "football_data": "537390"
     }
