@@ -70,6 +70,13 @@
     "position": "Attacking Midfield"
   },
   {
+    "id": "player_alejandro_garnacho",
+    "name": "Alejandro Garnacho",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/pi2i4q1771427479.jpg",
+    "position": "Left Wing"
+  },
+  {
     "id": "player_alysson",
     "name": "Alysson",
     "club_id": "team_aston_villa",
@@ -131,13 +138,6 @@
     "club_id": "team_aston_villa",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/uc1jmw1770201046.jpg",
     "position": "Centre-Back"
-  },
-  {
-    "id": "player_harvey_elliott",
-    "name": "Harvey Elliott",
-    "club_id": "team_aston_villa",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/leaxd51770200679.jpg",
-    "position": "Attacking Midfield"
   },
   {
     "id": "player_adam_smith",
@@ -350,13 +350,6 @@
     "position": "Left-Back"
   },
   {
-    "id": "player_alejandro_garnacho",
-    "name": "Alejandro Garnacho",
-    "club_id": "team_chelsea",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/pi2i4q1771427479.jpg",
-    "position": "Left Wing"
-  },
-  {
     "id": "player_benoit_badiashile",
     "name": "Benoit Badiashile",
     "club_id": "team_chelsea",
@@ -418,6 +411,13 @@
     "club_id": "team_chelsea",
     "photo": null,
     "position": "Goalkeeper"
+  },
+  {
+    "id": "player_jamie_gittens",
+    "name": "Jamie Gittens",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kc467a1659533292.jpg",
+    "position": "Midfielder"
   },
   {
     "id": "player_ben_wilson",
