@@ -182,6 +182,13 @@
     "position": "Midfielder"
   },
   {
+    "id": "player_antonio_silva",
+    "name": "António Silva",
+    "club_id": "team_bournemouth",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9o82xc1668118534.jpg",
+    "position": "Centre-Back"
+  },
+  {
     "id": "player_bafode_diakite",
     "name": "Bafodé Diakité",
     "club_id": "team_bournemouth",
@@ -201,13 +208,6 @@
     "club_id": "team_bournemouth",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tehtnz1771750805.jpg",
     "position": "Right Winger"
-  },
-  {
-    "id": "player_djordje_petrovic",
-    "name": "Đorđe Petrović",
-    "club_id": "team_bournemouth",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/rz7f471771751668.jpg",
-    "position": "Goalkeeper"
   },
   {
     "id": "player_aaron_hickey",
@@ -308,13 +308,6 @@
     "position": "Attacker"
   },
   {
-    "id": "player_danny_welbeck",
-    "name": "Danny Welbeck",
-    "club_id": "team_brighton_and_hove_albion",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/f5sgpu1772017716.jpg",
-    "position": "Centre-Forward"
-  },
-  {
     "id": "player_diego_coppola",
     "name": "Diego Coppola",
     "club_id": "team_brighton_and_hove_albion",
@@ -350,6 +343,13 @@
     "position": "Left-Back"
   },
   {
+    "id": "player_georginio_rutter",
+    "name": "Georginio Rutter",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/4ea6mr1631544242.jpg",
+    "position": "Centre-Forward"
+  },
+  {
     "id": "player_benoit_badiashile",
     "name": "Benoit Badiashile",
     "club_id": "team_chelsea",
@@ -362,6 +362,13 @@
     "club_id": "team_chelsea",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/r7yrsa1770541322.jpg",
     "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_danny_welbeck",
+    "name": "Danny Welbeck",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/f5sgpu1772017716.jpg",
+    "position": "Centre-Forward"
   },
   {
     "id": "player_dario_essugo",
@@ -411,13 +418,6 @@
     "club_id": "team_chelsea",
     "photo": null,
     "position": "Goalkeeper"
-  },
-  {
-    "id": "player_jamie_gittens",
-    "name": "Jamie Gittens",
-    "club_id": "team_chelsea",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kc467a1659533292.jpg",
-    "position": "Midfielder"
   },
   {
     "id": "player_ben_wilson",

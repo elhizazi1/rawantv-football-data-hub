@@ -1,0 +1,19 @@
+{
+  "id": "player_antonio_silva",
+  "name": "António Silva",
+  "position": "Centre-Back",
+  "nationality": "Portugal",
+  "birth_date": "2003-10-31",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_bournemouth",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9o82xc1668118534.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34200488"
+  }
+}
