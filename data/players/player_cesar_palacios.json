@@ -1,0 +1,19 @@
+{
+  "id": "player_cesar_palacios",
+  "name": "César Palacios",
+  "position": "Attacking Midfield",
+  "nationality": "Spain",
+  "birth_date": "2004-11-11",
+  "height": 1,
+  "weight": 68,
+  "club_id": "team_fulham",
+  "photo": "https://www.thesportsdb.com/images/media/player/thumb/jewg071785577178.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34434464"
+  }
+}

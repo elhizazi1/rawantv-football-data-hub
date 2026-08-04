@@ -672,6 +672,13 @@
     "position": "Centre-Back"
   },
   {
+    "id": "player_cesar_palacios",
+    "name": "César Palacios",
+    "club_id": "team_fulham",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/jewg071785577178.jpg",
+    "position": "Attacking Midfield"
+  },
+  {
     "id": "player_emil_smith_rowe",
     "name": "Emile Smith-Rowe",
     "club_id": "team_fulham",
@@ -679,24 +686,17 @@
     "position": "Attacking Midfield"
   },
   {
+    "id": "player_gonzalo",
+    "name": "Gonzalo",
+    "club_id": "team_fulham",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8926eb1771264748.jpg",
+    "position": "Centre-Forward"
+  },
+  {
     "id": "player_harrison_reed",
     "name": "Harrison Reed",
     "club_id": "team_fulham",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/iyk4af1772026336.jpg",
     "position": "Central Midfield"
-  },
-  {
-    "id": "player_issa_diop",
-    "name": "Issa Diop",
-    "club_id": "team_fulham",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/z1xits1779839831.jpg",
-    "position": "Centre-Back"
-  },
-  {
-    "id": "player_joachim_andersen",
-    "name": "Joachim Andersen",
-    "club_id": "team_fulham",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/emjhls1772024689.jpg",
-    "position": "Centre-Back"
   }
 ]
