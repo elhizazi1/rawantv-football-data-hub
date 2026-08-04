@@ -350,6 +350,13 @@
     "position": "Centre-Forward"
   },
   {
+    "id": "player_aaron_anselmino",
+    "name": "Aarón Anselmino",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/rapyzo1716634921.jpg",
+    "position": "Centre-Back"
+  },
+  {
     "id": "player_benoit_badiashile",
     "name": "Benoit Badiashile",
     "club_id": "team_chelsea",
@@ -406,18 +413,11 @@
     "position": "Goalkeeper"
   },
   {
-    "id": "player_genesis_antwi",
-    "name": "Genesis Antwi",
+    "id": "player_jamie_gittens",
+    "name": "Jamie Gittens",
     "club_id": "team_chelsea",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dbyzxw1766827918.jpg",
-    "position": "Defender"
-  },
-  {
-    "id": "player_james_hillson",
-    "name": "James Hillson",
-    "club_id": "team_chelsea",
-    "photo": null,
-    "position": "Goalkeeper"
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kc467a1659533292.jpg",
+    "position": "Midfielder"
   },
   {
     "id": "player_ben_wilson",
