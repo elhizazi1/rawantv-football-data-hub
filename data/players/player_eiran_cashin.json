@@ -1,0 +1,19 @@
+{
+  "id": "player_eiran_cashin",
+  "name": "Eiran Cashin",
+  "position": "Midfielder",
+  "nationality": "Ireland",
+  "birth_date": "2001-11-09",
+  "height": 6,
+  "weight": 190,
+  "club_id": "team_brighton_and_hove_albion",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ekef3i1697280845.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34195633"
+  }
+}

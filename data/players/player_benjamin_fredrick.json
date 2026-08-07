@@ -1,0 +1,19 @@
+{
+  "id": "player_benjamin_fredrick",
+  "name": "Benjamin Fredrick",
+  "position": "Defender",
+  "nationality": "Nigeria",
+  "birth_date": "2005-05-28",
+  "height": 187,
+  "weight": null,
+  "club_id": "team_brentford",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/u8a4go1767615967.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34348947"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "player_evann_guessand",
+  "name": "Evann Guessand",
+  "position": "Forward",
+  "nationality": "Ivory Coast",
+  "birth_date": "2001-07-01",
+  "height": 1,
+  "weight": 172,
+  "club_id": "team_aston_villa",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2jox8i1770200799.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34194251"
+  }
+}

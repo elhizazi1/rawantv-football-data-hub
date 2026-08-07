@@ -21,11 +21,11 @@
     "position": "Right Winger"
   },
   {
-    "id": "player_christian_norgaard",
-    "name": "Christian Nørgaard",
+    "id": "player_christos_tzolis",
+    "name": "Christos Tzolis",
     "club_id": "team_arsenal",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kgz9ij1622034947.jpg",
-    "position": "Defensive Midfield"
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1jxetg1732226638.jpg",
+    "position": "Left Wing"
   },
   {
     "id": "player_cristhian_mosquera",
@@ -91,13 +91,6 @@
     "position": "Defensive Midfield"
   },
   {
-    "id": "player_andres_garcia",
-    "name": "Andrés García",
-    "club_id": "team_aston_villa",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xbvuoa1743871372.jpg",
-    "position": "Right-Back"
-  },
-  {
     "id": "player_boubacar_kamara",
     "name": "Boubacar Kamara",
     "club_id": "team_aston_villa",
@@ -110,13 +103,6 @@
     "club_id": "team_aston_villa",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/uxp2yx1770199284.jpg",
     "position": "Midfielder"
-  },
-  {
-    "id": "player_douglas_luiz",
-    "name": "Douglas Luiz",
-    "club_id": "team_aston_villa",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/wwihws1628614265.jpg",
-    "position": "Central Midfield"
   },
   {
     "id": "player_emiliano_buendia",
@@ -133,11 +119,25 @@
     "position": "Goalkeeper"
   },
   {
+    "id": "player_evann_guessand",
+    "name": "Evann Guessand",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2jox8i1770200799.jpg",
+    "position": "Forward"
+  },
+  {
     "id": "player_ezri_konsa",
     "name": "Ezri Konsa",
     "club_id": "team_aston_villa",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/uc1jmw1770201046.jpg",
     "position": "Centre-Back"
+  },
+  {
+    "id": "player_ian_maatsen",
+    "name": "Ian Maatsen",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kwj0ts1770201186.jpg",
+    "position": "Left-Back"
   },
   {
     "id": "player_adam_smith",
@@ -151,13 +151,6 @@
     "name": "Adrien Truffert",
     "club_id": "team_bournemouth",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ihcsn51771752205.jpg",
-    "position": "Left-Back"
-  },
-  {
-    "id": "player_alex_jimenez",
-    "name": "Álex Jiménez",
-    "club_id": "team_bournemouth",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/begenu1705228539.jpg",
     "position": "Left-Back"
   },
   {
@@ -203,11 +196,18 @@
     "position": "Right Winger"
   },
   {
-    "id": "player_david_brooks",
-    "name": "David Brooks",
+    "id": "player_callum_wilson",
+    "name": "Callum Wilson",
     "club_id": "team_bournemouth",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tehtnz1771750805.jpg",
-    "position": "Right Winger"
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/fb3m3z1772134076.jpg",
+    "position": "Centre-Forward"
+  },
+  {
+    "id": "player_daniel_jebbison",
+    "name": "Daniel Jebbison",
+    "club_id": "team_bournemouth",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/yw9m091628334323.jpg",
+    "position": "Centre-Forward"
   },
   {
     "id": "player_aaron_hickey",
@@ -224,6 +224,20 @@
     "position": "Midfielder"
   },
   {
+    "id": "player_benjamin_arthur",
+    "name": "Benjamin Arthur",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/t3c0im1777019200.jpg",
+    "position": "Defender"
+  },
+  {
+    "id": "player_benjamin_fredrick",
+    "name": "Benjamin Fredrick",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/u8a4go1767615967.jpg",
+    "position": "Defender"
+  },
+  {
     "id": "player_caoimhin_kelleher",
     "name": "Caoimhín Kelleher",
     "club_id": "team_brentford",
@@ -236,13 +250,6 @@
     "club_id": "team_brentford",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0irbqm1771939488.jpg",
     "position": "Right Winger"
-  },
-  {
-    "id": "player_edmond_paris_maghoma",
-    "name": "Edmond-Paris Maghoma",
-    "club_id": "team_brentford",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jzjqxl1690900932.jpg",
-    "position": "Midfielder"
   },
   {
     "id": "player_ellery_balcombe",
@@ -273,20 +280,6 @@
     "position": "Attacker"
   },
   {
-    "id": "player_hakon_rafn_valdimarsson",
-    "name": "Hákon Rafn Valdimarsson",
-    "club_id": "team_brentford",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/lgxldx1708098593.jpg",
-    "position": "Goalkeeper"
-  },
-  {
-    "id": "player_adam_webster",
-    "name": "Adam Webster",
-    "club_id": "team_brighton_and_hove_albion",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vbhgi21772017548.jpg",
-    "position": "Centre-Back"
-  },
-  {
     "id": "player_bart_verbruggen",
     "name": "Bart Verbruggen",
     "club_id": "team_brighton_and_hove_albion",
@@ -308,11 +301,11 @@
     "position": "Attacker"
   },
   {
-    "id": "player_diego_coppola",
-    "name": "Diego Coppola",
+    "id": "player_costinha",
+    "name": "Costinha",
     "club_id": "team_brighton_and_hove_albion",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ptm9451772016730.jpg",
-    "position": "Defender"
+    "photo": null,
+    "position": "Right-Back"
   },
   {
     "id": "player_diego_gomez",
@@ -320,6 +313,20 @@
     "club_id": "team_brighton_and_hove_albion",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mpmz961772016796.jpg",
     "position": "Central Midfield"
+  },
+  {
+    "id": "player_eiran_cashin",
+    "name": "Eiran Cashin",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ekef3i1697280845.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_evan_ferguson",
+    "name": "Evan Ferguson",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tnrkpn1661083367.jpg",
+    "position": "Centre-Forward"
   },
   {
     "id": "player_fabian_hurzeler",
@@ -341,13 +348,6 @@
     "club_id": "team_brighton_and_hove_albion",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/qn0nr21772017123.jpg",
     "position": "Left-Back"
-  },
-  {
-    "id": "player_georginio_rutter",
-    "name": "Georginio Rutter",
-    "club_id": "team_brighton_and_hove_albion",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/4ea6mr1631544242.jpg",
-    "position": "Centre-Forward"
   },
   {
     "id": "player_aaron_anselmino",
@@ -413,11 +413,11 @@
     "position": "Goalkeeper"
   },
   {
-    "id": "player_jamie_gittens",
-    "name": "Jamie Gittens",
+    "id": "player_geovany_quenda",
+    "name": "Geovany Quenda",
     "club_id": "team_chelsea",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kc467a1659533292.jpg",
-    "position": "Midfielder"
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/7i1fob1762290308.jpg",
+    "position": "Attacker"
   },
   {
     "id": "player_ben_wilson",
@@ -588,6 +588,13 @@
     "position": "Coach"
   },
   {
+    "id": "player_christian_norgaard",
+    "name": "Christian Nørgaard",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kgz9ij1622034947.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
     "id": "player_david_moyes",
     "name": "David Moyes",
     "club_id": "team_everton",
@@ -621,13 +628,6 @@
     "club_id": "team_everton",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mewy8h1628334209.jpg",
     "position": "Midfielder"
-  },
-  {
-    "id": "player_jake_obrien",
-    "name": "Jake O'Brien",
-    "club_id": "team_everton",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/w16wc91771945248.jpg",
-    "position": "Defender"
   },
   {
     "id": "player_alex_iwobi",

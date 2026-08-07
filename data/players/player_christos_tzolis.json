@@ -1,0 +1,19 @@
+{
+  "id": "player_christos_tzolis",
+  "name": "Christos Tzolis",
+  "position": "Left Wing",
+  "nationality": "Greece",
+  "birth_date": "2002-01-30",
+  "height": 179,
+  "weight": 152,
+  "club_id": "team_arsenal",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1jxetg1732226638.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34193337"
+  }
+}

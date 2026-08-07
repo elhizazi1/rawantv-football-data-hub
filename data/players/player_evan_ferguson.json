@@ -1,0 +1,19 @@
+{
+  "id": "player_evan_ferguson",
+  "name": "Evan Ferguson",
+  "position": "Centre-Forward",
+  "nationality": "Ireland",
+  "birth_date": "2004-10-19",
+  "height": 6,
+  "weight": 172,
+  "club_id": "team_brighton_and_hove_albion",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tnrkpn1661083367.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34196408"
+  }
+}
