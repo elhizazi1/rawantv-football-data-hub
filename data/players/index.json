@@ -14,6 +14,13 @@
     "position": "Right-Back"
   },
   {
+    "id": "player_bruno_guimaraes",
+    "name": "Bruno Guimarães",
+    "club_id": "team_arsenal",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/emzl1v1749155913.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
     "id": "player_bukayo_saka",
     "name": "Bukayo Saka",
     "club_id": "team_arsenal",
@@ -60,13 +67,6 @@
     "name": "Ethan Nwaneri",
     "club_id": "team_arsenal",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/cbmpwr1769331233.jpg",
-    "position": "Attacking Midfield"
-  },
-  {
-    "id": "player_fabio_vieira",
-    "name": "Fábio Vieira",
-    "club_id": "team_arsenal",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/vt9o6v1705918788.jpg",
     "position": "Attacking Midfield"
   },
   {
@@ -336,18 +336,18 @@
     "position": "Manager"
   },
   {
-    "id": "player_facundo_buonanotte",
-    "name": "Facundo Buonanotte",
-    "club_id": "team_brighton_and_hove_albion",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/umjusa1678183288.jpg",
-    "position": "Attacking Midfield"
-  },
-  {
     "id": "player_ferdi_kadioglu",
     "name": "Ferdi Kadıoğlu",
     "club_id": "team_brighton_and_hove_albion",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/qn0nr21772017123.jpg",
     "position": "Left-Back"
+  },
+  {
+    "id": "player_georginio_rutter",
+    "name": "Georginio Rutter",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/4ea6mr1631544242.jpg",
+    "position": "Centre-Forward"
   },
   {
     "id": "player_aaron_anselmino",
