@@ -5508,6 +5508,3408 @@
     }
   },
   {
+    "id": "match_2025_0307",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_athletic_club",
+    "away_team": "team_arsenal_fc",
+    "stadium_id": null,
+    "date": "2025-09-16T16:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_donatas_rumsas",
+    "sources": {
+      "football_data": "551981"
+    }
+  },
+  {
+    "id": "match_2025_0308",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_psv",
+    "away_team": "team_royale_union_saint_gilloise",
+    "stadium_id": null,
+    "date": "2025-09-16T16:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_anthony_taylor",
+    "sources": {
+      "football_data": "552049"
+    }
+  },
+  {
+    "id": "match_2025_0309",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_juventus_fc",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2025-09-16T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_francois_letexier",
+    "sources": {
+      "football_data": "551941"
+    }
+  },
+  {
+    "id": "match_2025_0310",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_sport_lisboa_e_benfica",
+    "away_team": "team_qarabag_agdam_fk",
+    "stadium_id": null,
+    "date": "2025-09-16T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_erik_lambrechts",
+    "sources": {
+      "football_data": "551991"
+    }
+  },
+  {
+    "id": "match_2025_0311",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_tottenham_hotspur_fc",
+    "away_team": "team_villarreal_cf",
+    "stadium_id": null,
+    "date": "2025-09-16T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_rade_obrenovic",
+    "sources": {
+      "football_data": "552012"
+    }
+  },
+  {
+    "id": "match_2025_0312",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_real_madrid",
+    "away_team": "team_olympique_de_marseille",
+    "stadium_id": null,
+    "date": "2025-09-16T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_irfan_peljto",
+    "sources": {
+      "football_data": "551927"
+    }
+  },
+  {
+    "id": "match_2025_0313",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_sk_slavia_praha",
+    "away_team": "team_fk_bodoglimt",
+    "stadium_id": null,
+    "date": "2025-09-17T16:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_marian_barbu",
+    "sources": {
+      "football_data": "552023"
+    }
+  },
+  {
+    "id": "match_2025_0314",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_pae_olympiakos_sfp",
+    "away_team": "team_paphos_fc",
+    "stadium_id": null,
+    "date": "2025-09-17T16:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_istvan_kovacs",
+    "sources": {
+      "football_data": "552031"
+    }
+  },
+  {
+    "id": "match_2025_0315",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_afc_ajax",
+    "away_team": "team_fc_internazionale_milano",
+    "stadium_id": null,
+    "date": "2025-09-17T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_michael_oliver",
+    "sources": {
+      "football_data": "551936"
+    }
+  },
+  {
+    "id": "match_2025_0316",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_liverpool_fc",
+    "away_team": "team_club_atletico_de_madrid",
+    "stadium_id": null,
+    "date": "2025-09-17T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_maurizio_mariani",
+    "sources": {
+      "football_data": "551946"
+    }
+  },
+  {
+    "id": "match_2025_0317",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_paris_saint_germain_fc",
+    "away_team": "team_atalanta_bc",
+    "stadium_id": null,
+    "date": "2025-09-17T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_sandro_scharer",
+    "sources": {
+      "football_data": "551959"
+    }
+  },
+  {
+    "id": "match_2025_0318",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_chelsea_fc",
+    "stadium_id": null,
+    "date": "2025-09-17T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_jose_sanchez_martinez",
+    "sources": {
+      "football_data": "551908"
+    }
+  },
+  {
+    "id": "match_2025_0319",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_kobenhavn",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2025-09-18T16:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_aliyar_agayev",
+    "sources": {
+      "football_data": "551975"
+    }
+  },
+  {
+    "id": "match_2025_0320",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_club_brugge_kv",
+    "away_team": "team_as_monaco_fc",
+    "stadium_id": null,
+    "date": "2025-09-18T16:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_simone_sozza",
+    "sources": {
+      "football_data": "551995"
+    }
+  },
+  {
+    "id": "match_2025_0321",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_newcastle_united_fc",
+    "away_team": "team_barcelona",
+    "stadium_id": null,
+    "date": "2025-09-18T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_glenn_nyberg",
+    "sources": {
+      "football_data": "551958"
+    }
+  },
+  {
+    "id": "match_2025_0322",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_manchester_city_fc",
+    "away_team": "team_ssc_napoli",
+    "stadium_id": null,
+    "date": "2025-09-18T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "551965"
+    }
+  },
+  {
+    "id": "match_2025_0323",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_galatasaray_sk",
+    "stadium_id": null,
+    "date": "2025-09-18T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_marco_guida",
+    "sources": {
+      "football_data": "552000"
+    }
+  },
+  {
+    "id": "match_2025_0324",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_sporting_clube_de_portugal",
+    "away_team": "team_fk_kairat",
+    "stadium_id": null,
+    "date": "2025-09-18T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_damian_sylwestrzak",
+    "sources": {
+      "football_data": "552027"
+    }
+  },
+  {
+    "id": "match_2025_0325",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_atalanta_bc",
+    "away_team": "team_club_brugge_kv",
+    "stadium_id": null,
+    "date": "2025-09-30T16:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_espen_eskas",
+    "sources": {
+      "football_data": "551982"
+    }
+  },
+  {
+    "id": "match_2025_0326",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fk_kairat",
+    "away_team": "team_real_madrid",
+    "stadium_id": null,
+    "date": "2025-09-30T16:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 5
+    },
+    "events": [],
+    "referee_id": "ref_marco_guida",
+    "sources": {
+      "football_data": "551930"
+    }
+  },
+  {
+    "id": "match_2025_0327",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_galatasaray_sk",
+    "away_team": "team_liverpool_fc",
+    "stadium_id": null,
+    "date": "2025-09-30T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_clement_turpin",
+    "sources": {
+      "football_data": "551951"
+    }
+  },
+  {
+    "id": "match_2025_0328",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_club_atletico_de_madrid",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2025-09-30T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_slavko_vincic",
+    "sources": {
+      "football_data": "551997"
+    }
+  },
+  {
+    "id": "match_2025_0329",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_olympique_de_marseille",
+    "away_team": "team_afc_ajax",
+    "stadium_id": null,
+    "date": "2025-09-30T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_anthony_taylor",
+    "sources": {
+      "football_data": "552015"
+    }
+  },
+  {
+    "id": "match_2025_0330",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fk_bodoglimt",
+    "away_team": "team_tottenham_hotspur_fc",
+    "stadium_id": null,
+    "date": "2025-09-30T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_ivan_kruzliak",
+    "sources": {
+      "football_data": "552020"
+    }
+  },
+  {
+    "id": "match_2025_0331",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_paphos_fc",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2025-09-30T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 5
+    },
+    "events": [],
+    "referee_id": "ref_manfredas_lukjancukas",
+    "sources": {
+      "football_data": "551915"
+    }
+  },
+  {
+    "id": "match_2025_0332",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_chelsea_fc",
+    "away_team": "team_sport_lisboa_e_benfica",
+    "stadium_id": null,
+    "date": "2025-09-30T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "551917"
+    }
+  },
+  {
+    "id": "match_2025_0333",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_internazionale_milano",
+    "away_team": "team_sk_slavia_praha",
+    "stadium_id": null,
+    "date": "2025-09-30T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_chris_kavanagh",
+    "sources": {
+      "football_data": "551935"
+    }
+  },
+  {
+    "id": "match_2025_0334",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_qarabag_agdam_fk",
+    "away_team": "team_fc_kobenhavn",
+    "stadium_id": null,
+    "date": "2025-10-01T16:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_serdar_gozubuyuk",
+    "sources": {
+      "football_data": "552039"
+    }
+  },
+  {
+    "id": "match_2025_0335",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_royale_union_saint_gilloise",
+    "away_team": "team_newcastle_united_fc",
+    "stadium_id": null,
+    "date": "2025-10-01T16:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_urs_schnyder",
+    "sources": {
+      "football_data": "552044"
+    }
+  },
+  {
+    "id": "match_2025_0336",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_athletic_club",
+    "stadium_id": null,
+    "date": "2025-10-01T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_szymon_marciniak",
+    "sources": {
+      "football_data": "551944"
+    }
+  },
+  {
+    "id": "match_2025_0337",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_barcelona",
+    "away_team": "team_paris_saint_germain_fc",
+    "stadium_id": null,
+    "date": "2025-10-01T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_michael_oliver",
+    "sources": {
+      "football_data": "551952"
+    }
+  },
+  {
+    "id": "match_2025_0338",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_as_monaco_fc",
+    "away_team": "team_manchester_city_fc",
+    "stadium_id": null,
+    "date": "2025-10-01T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_jesus_gil_manzano",
+    "sources": {
+      "football_data": "551968"
+    }
+  },
+  {
+    "id": "match_2025_0339",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_psv",
+    "stadium_id": null,
+    "date": "2025-10-01T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_glenn_nyberg",
+    "sources": {
+      "football_data": "551972"
+    }
+  },
+  {
+    "id": "match_2025_0340",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_arsenal_fc",
+    "away_team": "team_pae_olympiakos_sfp",
+    "stadium_id": null,
+    "date": "2025-10-01T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_francois_letexier",
+    "sources": {
+      "football_data": "551978"
+    }
+  },
+  {
+    "id": "match_2025_0341",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_villarreal_cf",
+    "away_team": "team_juventus_fc",
+    "stadium_id": null,
+    "date": "2025-10-01T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_istvan_kovacs",
+    "sources": {
+      "football_data": "552002"
+    }
+  },
+  {
+    "id": "match_2025_0342",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_ssc_napoli",
+    "away_team": "team_sporting_clube_de_portugal",
+    "stadium_id": null,
+    "date": "2025-10-01T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_danny_makkelie",
+    "sources": {
+      "football_data": "552026"
+    }
+  },
+  {
+    "id": "match_2025_0343",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_barcelona",
+    "away_team": "team_pae_olympiakos_sfp",
+    "stadium_id": null,
+    "date": "2025-10-21T16:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 6,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_urs_schnyder",
+    "sources": {
+      "football_data": "551955"
+    }
+  },
+  {
+    "id": "match_2025_0344",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fk_kairat",
+    "away_team": "team_paphos_fc",
+    "stadium_id": null,
+    "date": "2025-10-21T16:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_chris_kavanagh",
+    "sources": {
+      "football_data": "552045"
+    }
+  },
+  {
+    "id": "match_2025_0345",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_royale_union_saint_gilloise",
+    "away_team": "team_fc_internazionale_milano",
+    "stadium_id": null,
+    "date": "2025-10-21T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_glenn_nyberg",
+    "sources": {
+      "football_data": "551938"
+    }
+  },
+  {
+    "id": "match_2025_0346",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_kobenhavn",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2025-10-21T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_danny_makkelie",
+    "sources": {
+      "football_data": "551945"
+    }
+  },
+  {
+    "id": "match_2025_0347",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_paris_saint_germain_fc",
+    "stadium_id": null,
+    "date": "2025-10-21T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 7
+    },
+    "events": [],
+    "referee_id": "ref_jesus_gil_manzano",
+    "sources": {
+      "football_data": "551960"
+    }
+  },
+  {
+    "id": "match_2025_0348",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_villarreal_cf",
+    "away_team": "team_manchester_city_fc",
+    "stadium_id": null,
+    "date": "2025-10-21T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_serdar_gozubuyuk",
+    "sources": {
+      "football_data": "551964"
+    }
+  },
+  {
+    "id": "match_2025_0349",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_arsenal_fc",
+    "away_team": "team_club_atletico_de_madrid",
+    "stadium_id": null,
+    "date": "2025-10-21T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_davide_massa",
+    "sources": {
+      "football_data": "551976"
+    }
+  },
+  {
+    "id": "match_2025_0350",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_newcastle_united_fc",
+    "away_team": "team_sport_lisboa_e_benfica",
+    "stadium_id": null,
+    "date": "2025-10-21T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_szymon_marciniak",
+    "sources": {
+      "football_data": "551992"
+    }
+  },
+  {
+    "id": "match_2025_0351",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_psv",
+    "away_team": "team_ssc_napoli",
+    "stadium_id": null,
+    "date": "2025-10-21T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 6,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "552048"
+    }
+  },
+  {
+    "id": "match_2025_0352",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_galatasaray_sk",
+    "away_team": "team_fk_bodoglimt",
+    "stadium_id": null,
+    "date": "2025-10-22T16:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_michael_oliver",
+    "sources": {
+      "football_data": "552025"
+    }
+  },
+  {
+    "id": "match_2025_0353",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_athletic_club",
+    "away_team": "team_qarabag_agdam_fk",
+    "stadium_id": null,
+    "date": "2025-10-22T16:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_igor_pajac",
+    "sources": {
+      "football_data": "552040"
+    }
+  },
+  {
+    "id": "match_2025_0354",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_liverpool_fc",
+    "stadium_id": null,
+    "date": "2025-10-22T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 5
+    },
+    "events": [],
+    "referee_id": "ref_francois_letexier",
+    "sources": {
+      "football_data": "551947"
+    }
+  },
+  {
+    "id": "match_2025_0355",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_atalanta_bc",
+    "away_team": "team_sk_slavia_praha",
+    "stadium_id": null,
+    "date": "2025-10-22T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_ricardo_de_burgos",
+    "sources": {
+      "football_data": "551984"
+    }
+  },
+  {
+    "id": "match_2025_0356",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_sporting_clube_de_portugal",
+    "away_team": "team_olympique_de_marseille",
+    "stadium_id": null,
+    "date": "2025-10-22T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_rade_obrenovic",
+    "sources": {
+      "football_data": "552016"
+    }
+  },
+  {
+    "id": "match_2025_0357",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_as_monaco_fc",
+    "away_team": "team_tottenham_hotspur_fc",
+    "stadium_id": null,
+    "date": "2025-10-22T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_marco_guida",
+    "sources": {
+      "football_data": "552022"
+    }
+  },
+  {
+    "id": "match_2025_0358",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_club_brugge_kv",
+    "stadium_id": null,
+    "date": "2025-10-22T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_donatas_rumsas",
+    "sources": {
+      "football_data": "551910"
+    }
+  },
+  {
+    "id": "match_2025_0359",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_chelsea_fc",
+    "away_team": "team_afc_ajax",
+    "stadium_id": null,
+    "date": "2025-10-22T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "551919"
+    }
+  },
+  {
+    "id": "match_2025_0360",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_real_madrid",
+    "away_team": "team_juventus_fc",
+    "stadium_id": null,
+    "date": "2025-10-22T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_slavko_vincic",
+    "sources": {
+      "football_data": "551925"
+    }
+  },
+  {
+    "id": "match_2025_0361",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_sk_slavia_praha",
+    "away_team": "team_arsenal_fc",
+    "stadium_id": null,
+    "date": "2025-11-04T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_aliyar_agayev",
+    "sources": {
+      "football_data": "551979"
+    }
+  },
+  {
+    "id": "match_2025_0362",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_ssc_napoli",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2025-11-04T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_joao_pinheiro",
+    "sources": {
+      "football_data": "551999"
+    }
+  },
+  {
+    "id": "match_2025_0363",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_juventus_fc",
+    "away_team": "team_sporting_clube_de_portugal",
+    "stadium_id": null,
+    "date": "2025-11-04T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "552003"
+    }
+  },
+  {
+    "id": "match_2025_0364",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_club_atletico_de_madrid",
+    "away_team": "team_royale_union_saint_gilloise",
+    "stadium_id": null,
+    "date": "2025-11-04T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_espen_eskas",
+    "sources": {
+      "football_data": "552009"
+    }
+  },
+  {
+    "id": "match_2025_0365",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_tottenham_hotspur_fc",
+    "away_team": "team_fc_kobenhavn",
+    "stadium_id": null,
+    "date": "2025-11-04T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_erik_lambrechts",
+    "sources": {
+      "football_data": "552021"
+    }
+  },
+  {
+    "id": "match_2025_0366",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fk_bodoglimt",
+    "away_team": "team_as_monaco_fc",
+    "stadium_id": null,
+    "date": "2025-11-04T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_damian_sylwestrzak",
+    "sources": {
+      "football_data": "552024"
+    }
+  },
+  {
+    "id": "match_2025_0367",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_pae_olympiakos_sfp",
+    "away_team": "team_psv",
+    "stadium_id": null,
+    "date": "2025-11-04T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_clement_turpin",
+    "sources": {
+      "football_data": "552029"
+    }
+  },
+  {
+    "id": "match_2025_0368",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_paris_saint_germain_fc",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2025-11-04T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_maurizio_mariani",
+    "sources": {
+      "football_data": "551909"
+    }
+  },
+  {
+    "id": "match_2025_0369",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_liverpool_fc",
+    "away_team": "team_real_madrid",
+    "stadium_id": null,
+    "date": "2025-11-04T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_istvan_kovacs",
+    "sources": {
+      "football_data": "551924"
+    }
+  },
+  {
+    "id": "match_2025_0370",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_paphos_fc",
+    "away_team": "team_villarreal_cf",
+    "stadium_id": null,
+    "date": "2025-11-05T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "552014"
+    }
+  },
+  {
+    "id": "match_2025_0371",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_qarabag_agdam_fk",
+    "away_team": "team_chelsea_fc",
+    "stadium_id": null,
+    "date": "2025-11-05T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_sebastian_gishamer",
+    "sources": {
+      "football_data": "551922"
+    }
+  },
+  {
+    "id": "match_2025_0372",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_internazionale_milano",
+    "away_team": "team_fk_kairat",
+    "stadium_id": null,
+    "date": "2025-11-05T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_luis_godinho",
+    "sources": {
+      "football_data": "551937"
+    }
+  },
+  {
+    "id": "match_2025_0373",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_manchester_city_fc",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2025-11-05T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_szymon_marciniak",
+    "sources": {
+      "football_data": "551939"
+    }
+  },
+  {
+    "id": "match_2025_0374",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_club_brugge_kv",
+    "away_team": "team_barcelona",
+    "stadium_id": null,
+    "date": "2025-11-05T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_anthony_taylor",
+    "sources": {
+      "football_data": "551954"
+    }
+  },
+  {
+    "id": "match_2025_0375",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_sport_lisboa_e_benfica",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2025-11-05T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_simone_sozza",
+    "sources": {
+      "football_data": "551971"
+    }
+  },
+  {
+    "id": "match_2025_0376",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_olympique_de_marseille",
+    "away_team": "team_atalanta_bc",
+    "stadium_id": null,
+    "date": "2025-11-05T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_jose_sanchez_martinez",
+    "sources": {
+      "football_data": "551985"
+    }
+  },
+  {
+    "id": "match_2025_0377",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_afc_ajax",
+    "away_team": "team_galatasaray_sk",
+    "stadium_id": null,
+    "date": "2025-11-05T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_benoit_bastien",
+    "sources": {
+      "football_data": "552033"
+    }
+  },
+  {
+    "id": "match_2025_0378",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_newcastle_united_fc",
+    "away_team": "team_athletic_club",
+    "stadium_id": null,
+    "date": "2025-11-05T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_ivan_kruzliak",
+    "sources": {
+      "football_data": "552047"
+    }
+  },
+  {
+    "id": "match_2025_0379",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_afc_ajax",
+    "away_team": "team_sport_lisboa_e_benfica",
+    "stadium_id": null,
+    "date": "2025-11-25T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "551990"
+    }
+  },
+  {
+    "id": "match_2025_0380",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_galatasaray_sk",
+    "away_team": "team_royale_union_saint_gilloise",
+    "stadium_id": null,
+    "date": "2025-11-25T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_jose_sanchez_martinez",
+    "sources": {
+      "football_data": "552043"
+    }
+  },
+  {
+    "id": "match_2025_0381",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_villarreal_cf",
+    "stadium_id": null,
+    "date": "2025-11-25T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_davide_massa",
+    "sources": {
+      "football_data": "551940"
+    }
+  },
+  {
+    "id": "match_2025_0382",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_manchester_city_fc",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2025-11-25T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_joao_pinheiro",
+    "sources": {
+      "football_data": "551963"
+    }
+  },
+  {
+    "id": "match_2025_0383",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fk_bodoglimt",
+    "away_team": "team_juventus_fc",
+    "stadium_id": null,
+    "date": "2025-11-25T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_danny_makkelie",
+    "sources": {
+      "football_data": "552004"
+    }
+  },
+  {
+    "id": "match_2025_0384",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_olympique_de_marseille",
+    "away_team": "team_newcastle_united_fc",
+    "stadium_id": null,
+    "date": "2025-11-25T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_maurizio_mariani",
+    "sources": {
+      "football_data": "552017"
+    }
+  },
+  {
+    "id": "match_2025_0385",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_sk_slavia_praha",
+    "away_team": "team_athletic_club",
+    "stadium_id": null,
+    "date": "2025-11-25T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_donatas_rumsas",
+    "sources": {
+      "football_data": "552035"
+    }
+  },
+  {
+    "id": "match_2025_0386",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_ssc_napoli",
+    "away_team": "team_qarabag_agdam_fk",
+    "stadium_id": null,
+    "date": "2025-11-25T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_szymon_marciniak",
+    "sources": {
+      "football_data": "552037"
+    }
+  },
+  {
+    "id": "match_2025_0387",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_chelsea_fc",
+    "away_team": "team_barcelona",
+    "stadium_id": null,
+    "date": "2025-11-25T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_slavko_vincic",
+    "sources": {
+      "football_data": "551916"
+    }
+  },
+  {
+    "id": "match_2025_0388",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_paphos_fc",
+    "away_team": "team_as_monaco_fc",
+    "stadium_id": null,
+    "date": "2025-11-26T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_ivan_kruzliak",
+    "sources": {
+      "football_data": "552042"
+    }
+  },
+  {
+    "id": "match_2025_0389",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_kobenhavn",
+    "away_team": "team_fk_kairat",
+    "stadium_id": null,
+    "date": "2025-11-26T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_nick_walsh",
+    "sources": {
+      "football_data": "552046"
+    }
+  },
+  {
+    "id": "match_2025_0390",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_liverpool_fc",
+    "away_team": "team_psv",
+    "stadium_id": null,
+    "date": "2025-11-26T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_alejandro_hernandez_hernandez",
+    "sources": {
+      "football_data": "551948"
+    }
+  },
+  {
+    "id": "match_2025_0391",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_paris_saint_germain_fc",
+    "away_team": "team_tottenham_hotspur_fc",
+    "stadium_id": null,
+    "date": "2025-11-26T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "551961"
+    }
+  },
+  {
+    "id": "match_2025_0392",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_atalanta_bc",
+    "stadium_id": null,
+    "date": "2025-11-26T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_chris_kavanagh",
+    "sources": {
+      "football_data": "551983"
+    }
+  },
+  {
+    "id": "match_2025_0393",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_sporting_clube_de_portugal",
+    "away_team": "team_club_brugge_kv",
+    "stadium_id": null,
+    "date": "2025-11-26T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "551994"
+    }
+  },
+  {
+    "id": "match_2025_0394",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_arsenal_fc",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2025-11-26T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_marco_guida",
+    "sources": {
+      "football_data": "551911"
+    }
+  },
+  {
+    "id": "match_2025_0395",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_pae_olympiakos_sfp",
+    "away_team": "team_real_madrid",
+    "stadium_id": null,
+    "date": "2025-11-26T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_michael_oliver",
+    "sources": {
+      "football_data": "551928"
+    }
+  },
+  {
+    "id": "match_2025_0396",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_club_atletico_de_madrid",
+    "away_team": "team_fc_internazionale_milano",
+    "stadium_id": null,
+    "date": "2025-11-26T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_francois_letexier",
+    "sources": {
+      "football_data": "551934"
+    }
+  },
+  {
+    "id": "match_2025_0397",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fk_kairat",
+    "away_team": "team_pae_olympiakos_sfp",
+    "stadium_id": null,
+    "date": "2025-12-09T15:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_juan_martinez_munuera",
+    "sources": {
+      "football_data": "552032"
+    }
+  },
+  {
+    "id": "match_2025_0398",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_sporting_clube_de_portugal",
+    "stadium_id": null,
+    "date": "2025-12-09T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_nick_walsh",
+    "sources": {
+      "football_data": "551912"
+    }
+  },
+  {
+    "id": "match_2025_0399",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_barcelona",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2025-12-09T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_davide_massa",
+    "sources": {
+      "football_data": "551953"
+    }
+  },
+  {
+    "id": "match_2025_0400",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_psv",
+    "away_team": "team_club_atletico_de_madrid",
+    "stadium_id": null,
+    "date": "2025-12-09T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_michael_oliver",
+    "sources": {
+      "football_data": "552008"
+    }
+  },
+  {
+    "id": "match_2025_0401",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_royale_union_saint_gilloise",
+    "away_team": "team_olympique_de_marseille",
+    "stadium_id": null,
+    "date": "2025-12-09T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_joao_pinheiro",
+    "sources": {
+      "football_data": "552018"
+    }
+  },
+  {
+    "id": "match_2025_0402",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_tottenham_hotspur_fc",
+    "away_team": "team_sk_slavia_praha",
+    "stadium_id": null,
+    "date": "2025-12-09T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_benoit_bastien",
+    "sources": {
+      "football_data": "552019"
+    }
+  },
+  {
+    "id": "match_2025_0403",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_as_monaco_fc",
+    "away_team": "team_galatasaray_sk",
+    "stadium_id": null,
+    "date": "2025-12-09T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_danny_makkelie",
+    "sources": {
+      "football_data": "552041"
+    }
+  },
+  {
+    "id": "match_2025_0404",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_atalanta_bc",
+    "away_team": "team_chelsea_fc",
+    "stadium_id": null,
+    "date": "2025-12-09T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_alejandro_hernandez_hernandez",
+    "sources": {
+      "football_data": "551918"
+    }
+  },
+  {
+    "id": "match_2025_0405",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_internazionale_milano",
+    "away_team": "team_liverpool_fc",
+    "stadium_id": null,
+    "date": "2025-12-09T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "551931"
+    }
+  },
+  {
+    "id": "match_2025_0406",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_villarreal_cf",
+    "away_team": "team_fc_kobenhavn",
+    "stadium_id": null,
+    "date": "2025-12-10T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_ivan_kruzliak",
+    "sources": {
+      "football_data": "552013"
+    }
+  },
+  {
+    "id": "match_2025_0407",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_qarabag_agdam_fk",
+    "away_team": "team_afc_ajax",
+    "stadium_id": null,
+    "date": "2025-12-10T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_rade_obrenovic",
+    "sources": {
+      "football_data": "552034"
+    }
+  },
+  {
+    "id": "match_2025_0408",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_fk_bodoglimt",
+    "stadium_id": null,
+    "date": "2025-12-10T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_erik_lambrechts",
+    "sources": {
+      "football_data": "551942"
+    }
+  },
+  {
+    "id": "match_2025_0409",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_athletic_club",
+    "away_team": "team_paris_saint_germain_fc",
+    "stadium_id": null,
+    "date": "2025-12-10T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "551969"
+    }
+  },
+  {
+    "id": "match_2025_0410",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_newcastle_united_fc",
+    "stadium_id": null,
+    "date": "2025-12-10T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_serdar_gozubuyuk",
+    "sources": {
+      "football_data": "551974"
+    }
+  },
+  {
+    "id": "match_2025_0411",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_club_brugge_kv",
+    "away_team": "team_arsenal_fc",
+    "stadium_id": null,
+    "date": "2025-12-10T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "551977"
+    }
+  },
+  {
+    "id": "match_2025_0412",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_sport_lisboa_e_benfica",
+    "away_team": "team_ssc_napoli",
+    "stadium_id": null,
+    "date": "2025-12-10T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_slavko_vincic",
+    "sources": {
+      "football_data": "551989"
+    }
+  },
+  {
+    "id": "match_2025_0413",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_juventus_fc",
+    "away_team": "team_paphos_fc",
+    "stadium_id": null,
+    "date": "2025-12-10T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_jesus_gil_manzano",
+    "sources": {
+      "football_data": "552005"
+    }
+  },
+  {
+    "id": "match_2025_0414",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_real_madrid",
+    "away_team": "team_manchester_city_fc",
+    "stadium_id": null,
+    "date": "2025-12-10T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_clement_turpin",
+    "sources": {
+      "football_data": "551923"
+    }
+  },
+  {
+    "id": "match_2025_0415",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fk_kairat",
+    "away_team": "team_club_brugge_kv",
+    "stadium_id": null,
+    "date": "2026-01-20T15:30:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_donatas_rumsas",
+    "sources": {
+      "football_data": "551996"
+    }
+  },
+  {
+    "id": "match_2025_0416",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fk_bodoglimt",
+    "away_team": "team_manchester_city_fc",
+    "stadium_id": null,
+    "date": "2026-01-20T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_sven_jablonski",
+    "sources": {
+      "football_data": "551966"
+    }
+  },
+  {
+    "id": "match_2025_0417",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_tottenham_hotspur_fc",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2026-01-20T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_glenn_nyberg",
+    "sources": {
+      "football_data": "551943"
+    }
+  },
+  {
+    "id": "match_2025_0418",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_sporting_clube_de_portugal",
+    "away_team": "team_paris_saint_germain_fc",
+    "stadium_id": null,
+    "date": "2026-01-20T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_anthony_taylor",
+    "sources": {
+      "football_data": "551962"
+    }
+  },
+  {
+    "id": "match_2025_0419",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_pae_olympiakos_sfp",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2026-01-20T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_maurizio_mariani",
+    "sources": {
+      "football_data": "551973"
+    }
+  },
+  {
+    "id": "match_2025_0420",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_villarreal_cf",
+    "away_team": "team_afc_ajax",
+    "stadium_id": null,
+    "date": "2026-01-20T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_nick_walsh",
+    "sources": {
+      "football_data": "552011"
+    }
+  },
+  {
+    "id": "match_2025_0421",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_kobenhavn",
+    "away_team": "team_ssc_napoli",
+    "stadium_id": null,
+    "date": "2026-01-20T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_irfan_peljto",
+    "sources": {
+      "football_data": "552038"
+    }
+  },
+  {
+    "id": "match_2025_0422",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_real_madrid",
+    "away_team": "team_as_monaco_fc",
+    "stadium_id": null,
+    "date": "2026-01-20T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 6,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_espen_eskas",
+    "sources": {
+      "football_data": "551929"
+    }
+  },
+  {
+    "id": "match_2025_0423",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_internazionale_milano",
+    "away_team": "team_arsenal_fc",
+    "stadium_id": null,
+    "date": "2026-01-20T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_joao_pinheiro",
+    "sources": {
+      "football_data": "551933"
+    }
+  },
+  {
+    "id": "match_2025_0424",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_qarabag_agdam_fk",
+    "away_team": "team_eintracht_frankfurt",
+    "stadium_id": null,
+    "date": "2026-01-21T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_sandro_scharer",
+    "sources": {
+      "football_data": "552001"
+    }
+  },
+  {
+    "id": "match_2025_0425",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_galatasaray_sk",
+    "away_team": "team_club_atletico_de_madrid",
+    "stadium_id": null,
+    "date": "2026-01-21T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_istvan_kovacs",
+    "sources": {
+      "football_data": "552010"
+    }
+  },
+  {
+    "id": "match_2025_0426",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_olympique_de_marseille",
+    "away_team": "team_liverpool_fc",
+    "stadium_id": null,
+    "date": "2026-01-21T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_slavko_vincic",
+    "sources": {
+      "football_data": "551949"
+    }
+  },
+  {
+    "id": "match_2025_0427",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_sk_slavia_praha",
+    "away_team": "team_barcelona",
+    "stadium_id": null,
+    "date": "2026-01-21T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_chris_kavanagh",
+    "sources": {
+      "football_data": "551956"
+    }
+  },
+  {
+    "id": "match_2025_0428",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_atalanta_bc",
+    "away_team": "team_athletic_club",
+    "stadium_id": null,
+    "date": "2026-01-21T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_danny_makkelie",
+    "sources": {
+      "football_data": "551986"
+    }
+  },
+  {
+    "id": "match_2025_0429",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_juventus_fc",
+    "away_team": "team_sport_lisboa_e_benfica",
+    "stadium_id": null,
+    "date": "2026-01-21T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_serdar_gozubuyuk",
+    "sources": {
+      "football_data": "551988"
+    }
+  },
+  {
+    "id": "match_2025_0430",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_newcastle_united_fc",
+    "away_team": "team_psv",
+    "stadium_id": null,
+    "date": "2026-01-21T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "552036"
+    }
+  },
+  {
+    "id": "match_2025_0431",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_royale_union_saint_gilloise",
+    "stadium_id": null,
+    "date": "2026-01-21T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_rade_obrenovic",
+    "sources": {
+      "football_data": "551914"
+    }
+  },
+  {
+    "id": "match_2025_0432",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_chelsea_fc",
+    "away_team": "team_paphos_fc",
+    "stadium_id": null,
+    "date": "2026-01-21T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_erik_lambrechts",
+    "sources": {
+      "football_data": "551921"
+    }
+  },
+  {
+    "id": "match_2025_0433",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_liverpool_fc",
+    "away_team": "team_qarabag_agdam_fk",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 6,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_ivan_kruzliak",
+    "sources": {
+      "football_data": "551950"
+    }
+  },
+  {
+    "id": "match_2025_0434",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_barcelona",
+    "away_team": "team_fc_kobenhavn",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_benoit_bastien",
+    "sources": {
+      "football_data": "551957"
+    }
+  },
+  {
+    "id": "match_2025_0435",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_manchester_city_fc",
+    "away_team": "team_galatasaray_sk",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_alejandro_hernandez_hernandez",
+    "sources": {
+      "football_data": "551967"
+    }
+  },
+  {
+    "id": "match_2025_0436",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_villarreal_cf",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_espen_eskas",
+    "sources": {
+      "football_data": "551970"
+    }
+  },
+  {
+    "id": "match_2025_0437",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_arsenal_fc",
+    "away_team": "team_fk_kairat",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_urs_schnyder",
+    "sources": {
+      "football_data": "551980"
+    }
+  },
+  {
+    "id": "match_2025_0438",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_royale_union_saint_gilloise",
+    "away_team": "team_atalanta_bc",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_michael_oliver",
+    "sources": {
+      "football_data": "551987"
+    }
+  },
+  {
+    "id": "match_2025_0439",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_club_brugge_kv",
+    "away_team": "team_olympique_de_marseille",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_marco_guida",
+    "sources": {
+      "football_data": "551993"
+    }
+  },
+  {
+    "id": "match_2025_0440",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_eintracht_frankfurt",
+    "away_team": "team_tottenham_hotspur_fc",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_jesus_gil_manzano",
+    "sources": {
+      "football_data": "551998"
+    }
+  },
+  {
+    "id": "match_2025_0441",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_as_monaco_fc",
+    "away_team": "team_juventus_fc",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_jose_sanchez_martinez",
+    "sources": {
+      "football_data": "552006"
+    }
+  },
+  {
+    "id": "match_2025_0442",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_club_atletico_de_madrid",
+    "away_team": "team_fk_bodoglimt",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_maurizio_mariani",
+    "sources": {
+      "football_data": "552007"
+    }
+  },
+  {
+    "id": "match_2025_0443",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_athletic_club",
+    "away_team": "team_sporting_clube_de_portugal",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_felix_zwayer",
+    "sources": {
+      "football_data": "552028"
+    }
+  },
+  {
+    "id": "match_2025_0444",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_afc_ajax",
+    "away_team": "team_pae_olympiakos_sfp",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_francois_letexier",
+    "sources": {
+      "football_data": "552030"
+    }
+  },
+  {
+    "id": "match_2025_0445",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_paris_saint_germain_fc",
+    "away_team": "team_newcastle_united_fc",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_slavko_vincic",
+    "sources": {
+      "football_data": "552050"
+    }
+  },
+  {
+    "id": "match_2025_0446",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_paphos_fc",
+    "away_team": "team_sk_slavia_praha",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_tobias_stieler",
+    "sources": {
+      "football_data": "552051"
+    }
+  },
+  {
+    "id": "match_2025_0447",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_psv",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_joao_pinheiro",
+    "sources": {
+      "football_data": "551913"
+    }
+  },
+  {
+    "id": "match_2025_0448",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_ssc_napoli",
+    "away_team": "team_chelsea_fc",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_clement_turpin",
+    "sources": {
+      "football_data": "551920"
+    }
+  },
+  {
+    "id": "match_2025_0449",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_sport_lisboa_e_benfica",
+    "away_team": "team_real_madrid",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_davide_massa",
+    "sources": {
+      "football_data": "551926"
+    }
+  },
+  {
+    "id": "match_2025_0450",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_fc_internazionale_milano",
+    "stadium_id": null,
+    "date": "2026-01-28T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_istvan_kovacs",
+    "sources": {
+      "football_data": "551932"
+    }
+  },
+  {
+    "id": "match_2025_0451",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_galatasaray_sk",
+    "away_team": "team_juventus_fc",
+    "stadium_id": null,
+    "date": "2026-02-17T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_danny_makkelie",
+    "sources": {
+      "football_data": "552055"
+    }
+  },
+  {
+    "id": "match_2025_0452",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_sport_lisboa_e_benfica",
+    "away_team": "team_real_madrid",
+    "stadium_id": null,
+    "date": "2026-02-17T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_francois_letexier",
+    "sources": {
+      "football_data": "552052"
+    }
+  },
+  {
+    "id": "match_2025_0453",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_as_monaco_fc",
+    "away_team": "team_paris_saint_germain_fc",
+    "stadium_id": null,
+    "date": "2026-02-17T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_jesus_gil_manzano",
+    "sources": {
+      "football_data": "552053"
+    }
+  },
+  {
+    "id": "match_2025_0454",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_atalanta_bc",
+    "stadium_id": null,
+    "date": "2026-02-17T20:15:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_serdar_gozubuyuk",
+    "sources": {
+      "football_data": "552057"
+    }
+  },
+  {
+    "id": "match_2025_0455",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_qarabag_agdam_fk",
+    "away_team": "team_newcastle_united_fc",
+    "stadium_id": null,
+    "date": "2026-02-18T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 6
+    },
+    "events": [],
+    "referee_id": "ref_espen_eskas",
+    "sources": {
+      "football_data": "552054"
+    }
+  },
+  {
+    "id": "match_2025_0456",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_club_brugge_kv",
+    "away_team": "team_club_atletico_de_madrid",
+    "stadium_id": null,
+    "date": "2026-02-18T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_glenn_nyberg",
+    "sources": {
+      "football_data": "552056"
+    }
+  },
+  {
+    "id": "match_2025_0457",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_pae_olympiakos_sfp",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2026-02-18T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_joao_pinheiro",
+    "sources": {
+      "football_data": "552058"
+    }
+  },
+  {
+    "id": "match_2025_0458",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fk_bodoglimt",
+    "away_team": "team_fc_internazionale_milano",
+    "stadium_id": null,
+    "date": "2026-02-18T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "552059"
+    }
+  },
+  {
+    "id": "match_2025_0459",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_club_atletico_de_madrid",
+    "away_team": "team_club_brugge_kv",
+    "stadium_id": null,
+    "date": "2026-02-24T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_clement_turpin",
+    "sources": {
+      "football_data": "552064"
+    }
+  },
+  {
+    "id": "match_2025_0460",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_newcastle_united_fc",
+    "away_team": "team_qarabag_agdam_fk",
+    "stadium_id": null,
+    "date": "2026-02-24T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_davide_massa",
+    "sources": {
+      "football_data": "552062"
+    }
+  },
+  {
+    "id": "match_2025_0461",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_pae_olympiakos_sfp",
+    "stadium_id": null,
+    "date": "2026-02-24T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_michael_oliver",
+    "sources": {
+      "football_data": "552066"
+    }
+  },
+  {
+    "id": "match_2025_0462",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_internazionale_milano",
+    "away_team": "team_fk_bodoglimt",
+    "stadium_id": null,
+    "date": "2026-02-24T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_alejandro_hernandez_hernandez",
+    "sources": {
+      "football_data": "552067"
+    }
+  },
+  {
+    "id": "match_2025_0463",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_atalanta_bc",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2026-02-25T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_jose_sanchez_martinez",
+    "sources": {
+      "football_data": "552065"
+    }
+  },
+  {
+    "id": "match_2025_0464",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_real_madrid",
+    "away_team": "team_sport_lisboa_e_benfica",
+    "stadium_id": null,
+    "date": "2026-02-25T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_slavko_vincic",
+    "sources": {
+      "football_data": "552060"
+    }
+  },
+  {
+    "id": "match_2025_0465",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_paris_saint_germain_fc",
+    "away_team": "team_as_monaco_fc",
+    "stadium_id": null,
+    "date": "2026-02-25T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_istvan_kovacs",
+    "sources": {
+      "football_data": "552061"
+    }
+  },
+  {
+    "id": "match_2025_0466",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_juventus_fc",
+    "away_team": "team_galatasaray_sk",
+    "stadium_id": null,
+    "date": "2026-02-25T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_joao_pinheiro",
+    "sources": {
+      "football_data": "552063"
+    }
+  },
+  {
+    "id": "match_2025_0467",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_galatasaray_sk",
+    "away_team": "team_liverpool_fc",
+    "stadium_id": null,
+    "date": "2026-03-10T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_jesus_gil_manzano",
+    "sources": {
+      "football_data": "552069"
+    }
+  },
+  {
+    "id": "match_2025_0468",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_atalanta_bc",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-03-10T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 6
+    },
+    "events": [],
+    "referee_id": "ref_espen_eskas",
+    "sources": {
+      "football_data": "552071"
+    }
+  },
+  {
+    "id": "match_2025_0469",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_newcastle_united_fc",
+    "away_team": "team_barcelona",
+    "stadium_id": null,
+    "date": "2026-03-10T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_marco_guida",
+    "sources": {
+      "football_data": "552072"
+    }
+  },
+  {
+    "id": "match_2025_0470",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_club_atletico_de_madrid",
+    "away_team": "team_tottenham_hotspur_fc",
+    "stadium_id": null,
+    "date": "2026-03-10T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_serdar_gozubuyuk",
+    "sources": {
+      "football_data": "552073"
+    }
+  },
+  {
+    "id": "match_2025_0471",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_bayer_04_leverkusen",
+    "away_team": "team_arsenal_fc",
+    "stadium_id": null,
+    "date": "2026-03-11T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_halil_meler",
+    "sources": {
+      "football_data": "552075"
+    }
+  },
+  {
+    "id": "match_2025_0472",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_paris_saint_germain_fc",
+    "away_team": "team_chelsea_fc",
+    "stadium_id": null,
+    "date": "2026-03-11T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_alejandro_hernandez_hernandez",
+    "sources": {
+      "football_data": "552068"
+    }
+  },
+  {
+    "id": "match_2025_0473",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_real_madrid",
+    "away_team": "team_manchester_city_fc",
+    "stadium_id": null,
+    "date": "2026-03-11T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_maurizio_mariani",
+    "sources": {
+      "football_data": "552070"
+    }
+  },
+  {
+    "id": "match_2025_0474",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fk_bodoglimt",
+    "away_team": "team_sporting_clube_de_portugal",
+    "stadium_id": null,
+    "date": "2026-03-11T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_ivan_kruzliak",
+    "sources": {
+      "football_data": "552074"
+    }
+  },
+  {
+    "id": "match_2025_0475",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_sporting_clube_de_portugal",
+    "away_team": "team_fk_bodoglimt",
+    "stadium_id": null,
+    "date": "2026-03-17T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_sandro_scharer",
+    "sources": {
+      "football_data": "552082"
+    }
+  },
+  {
+    "id": "match_2025_0476",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_chelsea_fc",
+    "away_team": "team_paris_saint_germain_fc",
+    "stadium_id": null,
+    "date": "2026-03-17T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_slavko_vincic",
+    "sources": {
+      "football_data": "552076"
+    }
+  },
+  {
+    "id": "match_2025_0477",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_manchester_city_fc",
+    "away_team": "team_real_madrid",
+    "stadium_id": null,
+    "date": "2026-03-17T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_clement_turpin",
+    "sources": {
+      "football_data": "552078"
+    }
+  },
+  {
+    "id": "match_2025_0478",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_arsenal_fc",
+    "away_team": "team_bayer_04_leverkusen",
+    "stadium_id": null,
+    "date": "2026-03-17T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_danny_makkelie",
+    "sources": {
+      "football_data": "552083"
+    }
+  },
+  {
+    "id": "match_2025_0479",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_barcelona",
+    "away_team": "team_newcastle_united_fc",
+    "stadium_id": null,
+    "date": "2026-03-18T17:45:00Z",
+    "status": "finished",
+    "score": {
+      "home": 7,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_francois_letexier",
+    "sources": {
+      "football_data": "552080"
+    }
+  },
+  {
+    "id": "match_2025_0480",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_liverpool_fc",
+    "away_team": "team_galatasaray_sk",
+    "stadium_id": null,
+    "date": "2026-03-18T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_szymon_marciniak",
+    "sources": {
+      "football_data": "552077"
+    }
+  },
+  {
+    "id": "match_2025_0481",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_atalanta_bc",
+    "stadium_id": null,
+    "date": "2026-03-18T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_benoit_bastien",
+    "sources": {
+      "football_data": "552079"
+    }
+  },
+  {
+    "id": "match_2025_0482",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_tottenham_hotspur_fc",
+    "away_team": "team_club_atletico_de_madrid",
+    "stadium_id": null,
+    "date": "2026-03-18T20:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 3,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "552081"
+    }
+  },
+  {
+    "id": "match_2025_0483",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_real_madrid",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-04-07T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_michael_oliver",
+    "sources": {
+      "football_data": "556719"
+    }
+  },
+  {
+    "id": "match_2025_0484",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_sporting_clube_de_portugal",
+    "away_team": "team_arsenal_fc",
+    "stadium_id": null,
+    "date": "2026-04-07T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "556721"
+    }
+  },
+  {
+    "id": "match_2025_0485",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_paris_saint_germain_fc",
+    "away_team": "team_liverpool_fc",
+    "stadium_id": null,
+    "date": "2026-04-08T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 2,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_jose_sanchez_martinez",
+    "sources": {
+      "football_data": "556718"
+    }
+  },
+  {
+    "id": "match_2025_0486",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_barcelona",
+    "away_team": "team_club_atletico_de_madrid",
+    "stadium_id": null,
+    "date": "2026-04-08T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_istvan_kovacs",
+    "sources": {
+      "football_data": "556720"
+    }
+  },
+  {
+    "id": "match_2025_0487",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_liverpool_fc",
+    "away_team": "team_paris_saint_germain_fc",
+    "stadium_id": null,
+    "date": "2026-04-14T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_maurizio_mariani",
+    "sources": {
+      "football_data": "556722"
+    }
+  },
+  {
+    "id": "match_2025_0488",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_club_atletico_de_madrid",
+    "away_team": "team_barcelona",
+    "stadium_id": null,
+    "date": "2026-04-14T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 2
+    },
+    "events": [],
+    "referee_id": "ref_clement_turpin",
+    "sources": {
+      "football_data": "556724"
+    }
+  },
+  {
+    "id": "match_2025_0489",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_real_madrid",
+    "stadium_id": null,
+    "date": "2026-04-15T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 4,
+      "away": 3
+    },
+    "events": [],
+    "referee_id": "ref_slavko_vincic",
+    "sources": {
+      "football_data": "556723"
+    }
+  },
+  {
+    "id": "match_2025_0490",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_arsenal_fc",
+    "away_team": "team_sporting_clube_de_portugal",
+    "stadium_id": null,
+    "date": "2026-04-15T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_francois_letexier",
+    "sources": {
+      "football_data": "556725"
+    }
+  },
+  {
+    "id": "match_2025_0491",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_paris_saint_germain_fc",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-04-28T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_sandro_scharer",
+    "sources": {
+      "football_data": "552092"
+    }
+  },
+  {
+    "id": "match_2025_0492",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_club_atletico_de_madrid",
+    "away_team": "team_arsenal_fc",
+    "stadium_id": null,
+    "date": "2026-04-29T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_danny_makkelie",
+    "sources": {
+      "football_data": "552093"
+    }
+  },
+  {
+    "id": "match_2025_0493",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_arsenal_fc",
+    "away_team": "team_club_atletico_de_madrid",
+    "stadium_id": null,
+    "date": "2026-05-05T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "552095"
+    }
+  },
+  {
+    "id": "match_2025_0494",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_paris_saint_germain_fc",
+    "stadium_id": null,
+    "date": "2026-05-06T19:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 1,
+      "away": 1
+    },
+    "events": [],
+    "referee_id": "ref_joao_pinheiro",
+    "sources": {
+      "football_data": "552094"
+    }
+  },
+  {
+    "id": "match_2025_0495",
+    "competition_id": "competition_uefa_champions_league_2025",
+    "home_team": "team_paris_saint_germain_fc",
+    "away_team": "team_arsenal_fc",
+    "stadium_id": null,
+    "date": "2026-05-30T16:00:00Z",
+    "status": "finished",
+    "score": {
+      "home": 5,
+      "away": 4
+    },
+    "events": [],
+    "referee_id": "ref_daniel_siebert",
+    "sources": {
+      "football_data": "552096"
+    }
+  },
+  {
     "id": "match_2026_0500",
     "competition_id": "competition_ligue_1_2026",
     "home_team": "team_olympique_de_marseille",
