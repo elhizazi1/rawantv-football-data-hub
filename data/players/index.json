@@ -504,13 +504,6 @@
     "position": "Left-Back"
   },
   {
-    "id": "player_brennan_johnson",
-    "name": "Brennan Johnson",
-    "club_id": "team_crystal_palace",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ai0p7z1772140777.jpg",
-    "position": "Right Winger"
-  },
-  {
     "id": "player_caleb_kporha",
     "name": "Caleb Kporha",
     "club_id": "team_crystal_palace",
@@ -560,6 +553,13 @@
     "position": "Right-Back"
   },
   {
+    "id": "player_dean_henderson",
+    "name": "Dean Henderson",
+    "club_id": "team_crystal_palace",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0bcnqd1772140599.jpg",
+    "position": "Goalkeeper"
+  },
+  {
     "id": "player_adam_aznou",
     "name": "Adam Aznou",
     "club_id": "team_everton",
@@ -572,6 +572,13 @@
     "club_id": "team_everton",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/gwwydk1632855624.jpg",
     "position": "Centre-Forward"
+  },
+  {
+    "id": "player_brennan_johnson",
+    "name": "Brennan Johnson",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ai0p7z1772140777.jpg",
+    "position": "Right Winger"
   },
   {
     "id": "player_carlos_alcaraz",
@@ -600,13 +607,6 @@
     "club_id": "team_everton",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/6cpkqp1577807176.jpg",
     "position": "Manager"
-  },
-  {
-    "id": "player_dwight_mcneil",
-    "name": "Dwight McNeil",
-    "club_id": "team_everton",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0iadzp1771945200.jpg",
-    "position": "Left Wing"
   },
   {
     "id": "player_harrison_armstrong",

@@ -1,0 +1,19 @@
+{
+  "id": "player_dean_henderson",
+  "name": "Dean Henderson",
+  "position": "Goalkeeper",
+  "nationality": "England",
+  "birth_date": "1997-03-12",
+  "height": 1,
+  "weight": 185,
+  "club_id": "team_crystal_palace",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0bcnqd1772140599.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34160940"
+  }
+}
