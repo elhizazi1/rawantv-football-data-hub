@@ -476,18 +476,18 @@
     "position": "Central Midfield"
   },
   {
+    "id": "player_gustavo_hamer",
+    "name": "Gustavo Hamer",
+    "club_id": "team_coventry_city",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xh72ip1604958622.jpg",
+    "position": "Defensive Midfield"
+  },
+  {
     "id": "player_haji_wright",
     "name": "Haji Wright",
     "club_id": "team_coventry_city",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/embitf1668434881.jpg",
     "position": "Centre-Forward"
-  },
-  {
-    "id": "player_jack_rudoni",
-    "name": "Jack Rudoni",
-    "club_id": "team_coventry_city",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mjlxqz1632337567.jpg",
-    "position": "Midfielder"
   },
   {
     "id": "player_adam_wharton",
