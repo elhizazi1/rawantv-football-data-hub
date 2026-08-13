@@ -105,6 +105,13 @@
     "position": "Midfielder"
   },
   {
+    "id": "player_brian_madjo",
+    "name": "Brian Madjo",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/117pnx1767869819.jpg",
+    "position": "Attacker"
+  },
+  {
     "id": "player_emiliano_buendia",
     "name": "Emi Buendía",
     "club_id": "team_aston_villa",
@@ -131,13 +138,6 @@
     "club_id": "team_aston_villa",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/uc1jmw1770201046.jpg",
     "position": "Centre-Back"
-  },
-  {
-    "id": "player_ian_maatsen",
-    "name": "Ian Maatsen",
-    "club_id": "team_aston_villa",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kwj0ts1770201186.jpg",
-    "position": "Left-Back"
   },
   {
     "id": "player_adam_smith",
