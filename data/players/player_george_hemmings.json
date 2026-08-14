@@ -1,0 +1,19 @@
+{
+  "id": "player_george_hemmings",
+  "name": "George Hemmings",
+  "position": "Midfielder",
+  "nationality": "England",
+  "birth_date": "2007-03-04",
+  "height": null,
+  "weight": null,
+  "club_id": "team_aston_villa",
+  "photo": null,
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34296398"
+  }
+}

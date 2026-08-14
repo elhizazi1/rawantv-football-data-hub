@@ -126,18 +126,18 @@
     "position": "Goalkeeper"
   },
   {
-    "id": "player_evann_guessand",
-    "name": "Evann Guessand",
-    "club_id": "team_aston_villa",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2jox8i1770200799.jpg",
-    "position": "Forward"
-  },
-  {
     "id": "player_ezri_konsa",
     "name": "Ezri Konsa",
     "club_id": "team_aston_villa",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/uc1jmw1770201046.jpg",
     "position": "Centre-Back"
+  },
+  {
+    "id": "player_george_hemmings",
+    "name": "George Hemmings",
+    "club_id": "team_aston_villa",
+    "photo": null,
+    "position": "Midfielder"
   },
   {
     "id": "player_adam_smith",
@@ -224,13 +224,6 @@
     "position": "Midfielder"
   },
   {
-    "id": "player_benjamin_arthur",
-    "name": "Benjamin Arthur",
-    "club_id": "team_brentford",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/t3c0im1777019200.jpg",
-    "position": "Defender"
-  },
-  {
     "id": "player_benjamin_fredrick",
     "name": "Benjamin Fredrick",
     "club_id": "team_brentford",
@@ -278,6 +271,13 @@
     "club_id": "team_brentford",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/810hbv1724961800.jpg",
     "position": "Attacker"
+  },
+  {
+    "id": "player_hakon_rafn_valdimarsson",
+    "name": "Hákon Rafn Valdimarsson",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/lgxldx1708098593.jpg",
+    "position": "Goalkeeper"
   },
   {
     "id": "player_bart_verbruggen",
