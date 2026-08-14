@@ -15143,7 +15143,7 @@
     "home_team": "team_elche_cf",
     "away_team": "team_real_sociedad_de_futbol",
     "stadium_id": null,
-    "date": "2026-09-07T19:00:00Z",
+    "date": "2026-09-07T19:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -28607,7 +28607,7 @@
     "home_team": "team_cagliari_calcio",
     "away_team": "team_us_lecce",
     "stadium_id": null,
-    "date": "2026-09-07T16:30:00Z",
+    "date": "2026-09-07T16:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
