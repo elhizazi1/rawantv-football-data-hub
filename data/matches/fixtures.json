@@ -14490,24 +14490,6 @@
     }
   },
   {
-    "id": "match_2026_0810",
-    "competition_id": "competition_primera_division_2026",
-    "home_team": "team_rc_celta_de_vigo",
-    "away_team": "team_ca_osasuna",
-    "stadium_id": null,
-    "date": "2026-08-16T19:30:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "564636"
-    }
-  },
-  {
     "id": "match_2026_0809",
     "competition_id": "competition_primera_division_2026",
     "home_team": "team_rc_deportivo_la_coruna",
@@ -14757,6 +14739,24 @@
     "referee_id": null,
     "sources": {
       "football_data": "564631"
+    }
+  },
+  {
+    "id": "match_2026_0810",
+    "competition_id": "competition_primera_division_2026",
+    "home_team": "team_rc_celta_de_vigo",
+    "away_team": "team_ca_osasuna",
+    "stadium_id": null,
+    "date": "2026-08-27T18:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "564636"
     }
   },
   {
