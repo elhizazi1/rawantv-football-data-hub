@@ -14424,13 +14424,13 @@
     "away_team": "team_getafe_cf",
     "stadium_id": null,
     "date": "2026-08-15T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 3,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_manuel_orellana_cid",
     "sources": {
       "football_data": "564634"
     }
@@ -14442,13 +14442,13 @@
     "away_team": "team_rayo_vallecano_de_madrid",
     "stadium_id": null,
     "date": "2026-08-15T19:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_ricardo_de_burgos",
     "sources": {
       "football_data": "564633"
     }
