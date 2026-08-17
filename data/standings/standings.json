@@ -825,7 +825,18 @@
         "points": 3
       },
       {
-        "position": 2,
+        "position": 1,
+        "team_id": "team_rcd_espanyol_de_barcelona",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goals_for": 3,
+        "goals_against": 0,
+        "points": 3
+      },
+      {
+        "position": 3,
         "team_id": "team_sevilla_fc",
         "played": 1,
         "won": 1,
@@ -836,7 +847,29 @@
         "points": 3
       },
       {
-        "position": 3,
+        "position": 4,
+        "team_id": "team_real_racing_club_de_santander",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goals_for": 2,
+        "goals_against": 2,
+        "points": 1
+      },
+      {
+        "position": 4,
+        "team_id": "team_villarreal_cf",
+        "played": 1,
+        "won": 0,
+        "drawn": 1,
+        "lost": 0,
+        "goals_for": 2,
+        "goals_against": 2,
+        "points": 1
+      },
+      {
+        "position": 6,
         "team_id": "team_athletic_club",
         "played": 0,
         "won": 0,
@@ -847,7 +880,7 @@
         "points": 0
       },
       {
-        "position": 3,
+        "position": 6,
         "team_id": "team_club_atletico_de_madrid",
         "played": 0,
         "won": 0,
@@ -858,7 +891,7 @@
         "points": 0
       },
       {
-        "position": 3,
+        "position": 6,
         "team_id": "team_ca_osasuna",
         "played": 0,
         "won": 0,
@@ -869,7 +902,7 @@
         "points": 0
       },
       {
-        "position": 3,
+        "position": 6,
         "team_id": "team_rc_deportivo_la_coruna",
         "played": 0,
         "won": 0,
@@ -880,7 +913,7 @@
         "points": 0
       },
       {
-        "position": 3,
+        "position": 6,
         "team_id": "team_elche_cf",
         "played": 0,
         "won": 0,
@@ -891,18 +924,7 @@
         "points": 0
       },
       {
-        "position": 3,
-        "team_id": "team_rcd_espanyol_de_barcelona",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0
-      },
-      {
-        "position": 3,
+        "position": 6,
         "team_id": "team_barcelona",
         "played": 0,
         "won": 0,
@@ -913,18 +935,7 @@
         "points": 0
       },
       {
-        "position": 3,
-        "team_id": "team_levante_ud",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0
-      },
-      {
-        "position": 3,
+        "position": 6,
         "team_id": "team_malaga_cf",
         "played": 0,
         "won": 0,
@@ -935,18 +946,7 @@
         "points": 0
       },
       {
-        "position": 3,
-        "team_id": "team_real_racing_club_de_santander",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0
-      },
-      {
-        "position": 3,
+        "position": 6,
         "team_id": "team_rc_celta_de_vigo",
         "played": 0,
         "won": 0,
@@ -957,7 +957,7 @@
         "points": 0
       },
       {
-        "position": 3,
+        "position": 6,
         "team_id": "team_real_betis_balompie",
         "played": 0,
         "won": 0,
@@ -968,7 +968,7 @@
         "points": 0
       },
       {
-        "position": 3,
+        "position": 6,
         "team_id": "team_real_madrid",
         "played": 0,
         "won": 0,
@@ -979,7 +979,7 @@
         "points": 0
       },
       {
-        "position": 3,
+        "position": 6,
         "team_id": "team_real_sociedad_de_futbol",
         "played": 0,
         "won": 0,
@@ -990,7 +990,7 @@
         "points": 0
       },
       {
-        "position": 3,
+        "position": 6,
         "team_id": "team_valencia_cf",
         "played": 0,
         "won": 0,
@@ -1001,18 +1001,7 @@
         "points": 0
       },
       {
-        "position": 3,
-        "team_id": "team_villarreal_cf",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0
-      },
-      {
-        "position": 19,
+        "position": 18,
         "team_id": "team_rayo_vallecano_de_madrid",
         "played": 1,
         "won": 0,
@@ -1023,8 +1012,19 @@
         "points": 0
       },
       {
-        "position": 20,
+        "position": 19,
         "team_id": "team_getafe_cf",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goals_for": 0,
+        "goals_against": 3,
+        "points": 0
+      },
+      {
+        "position": 19,
+        "team_id": "team_levante_ud",
         "played": 1,
         "won": 0,
         "drawn": 0,
