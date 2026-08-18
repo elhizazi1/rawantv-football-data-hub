@@ -1,0 +1,19 @@
+{
+  "id": "player_aimuamwonsa_presly_owen_asemota",
+  "name": "Aimuamwonsa Presly Owen Asemota",
+  "position": "Goalkeeper",
+  "nationality": "England",
+  "birth_date": "2008-04-12",
+  "height": null,
+  "weight": null,
+  "club_id": "team_aston_villa",
+  "photo": null,
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34437513"
+  }
+}

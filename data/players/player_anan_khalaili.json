@@ -1,0 +1,19 @@
+{
+  "id": "player_anan_khalaili",
+  "name": "Anan Khalaili",
+  "position": "Attacker",
+  "nationality": "Israel",
+  "birth_date": "2004-09-03",
+  "height": 183,
+  "weight": null,
+  "club_id": "team_crystal_palace",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/40nrhh1733668267.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34221978"
+  }
+}

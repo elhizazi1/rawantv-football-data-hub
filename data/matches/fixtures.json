@@ -14496,13 +14496,13 @@
     "away_team": "team_elche_cf",
     "stadium_id": null,
     "date": "2026-08-17T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_francisco_hernandez_maeso",
     "sources": {
       "football_data": "564635"
     }

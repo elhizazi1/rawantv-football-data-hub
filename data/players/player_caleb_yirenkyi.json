@@ -1,0 +1,19 @@
+{
+  "id": "player_caleb_yirenkyi",
+  "name": "Caleb Yirenkyi",
+  "position": "Central Midfield",
+  "nationality": "Ghana",
+  "birth_date": "2006-01-15",
+  "height": 182,
+  "weight": null,
+  "club_id": "team_coventry_city",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dzkf7l1743774047.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34335705"
+  }
+}

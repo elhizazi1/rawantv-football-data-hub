@@ -45,7 +45,7 @@
     "id": "player_david_raya",
     "name": "David Raya",
     "club_id": "team_arsenal",
-    "photo": "https://www.thesportsdb.com/images/media/player/thumb/m4qf0r1786386458.jpg",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/m4qf0r1786386458.jpg",
     "position": "Goalkeeper"
   },
   {
@@ -68,6 +68,13 @@
     "club_id": "team_arsenal",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/cbmpwr1769331233.jpg",
     "position": "Attacking Midfield"
+  },
+  {
+    "id": "player_aimuamwonsa_presly_owen_asemota",
+    "name": "Aimuamwonsa Presly Owen Asemota",
+    "club_id": "team_aston_villa",
+    "photo": null,
+    "position": "Goalkeeper"
   },
   {
     "id": "player_alejandro_garnacho",
@@ -131,13 +138,6 @@
     "club_id": "team_aston_villa",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/uc1jmw1770201046.jpg",
     "position": "Centre-Back"
-  },
-  {
-    "id": "player_george_hemmings",
-    "name": "George Hemmings",
-    "club_id": "team_aston_villa",
-    "photo": null,
-    "position": "Midfielder"
   },
   {
     "id": "player_adam_smith",
@@ -420,6 +420,13 @@
     "position": "Attacker"
   },
   {
+    "id": "player_aurele_amenda",
+    "name": "Aurèle Amenda",
+    "club_id": "team_coventry_city",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/oi0evs1700325218.jpg",
+    "position": "Centre-Back"
+  },
+  {
     "id": "player_ben_wilson",
     "name": "Ben Wilson",
     "club_id": "team_coventry_city",
@@ -439,6 +446,13 @@
     "club_id": "team_coventry_city",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/2l2iae1677849806.jpg",
     "position": "Centre-Forward"
+  },
+  {
+    "id": "player_caleb_yirenkyi",
+    "name": "Caleb Yirenkyi",
+    "club_id": "team_coventry_city",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dzkf7l1743774047.jpg",
+    "position": "Central Midfield"
   },
   {
     "id": "player_carl_rushworth",
@@ -476,25 +490,18 @@
     "position": "Central Midfield"
   },
   {
-    "id": "player_gustavo_hamer",
-    "name": "Gustavo Hamer",
-    "club_id": "team_coventry_city",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xh72ip1604958622.jpg",
-    "position": "Defensive Midfield"
-  },
-  {
-    "id": "player_haji_wright",
-    "name": "Haji Wright",
-    "club_id": "team_coventry_city",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/embitf1668434881.jpg",
-    "position": "Centre-Forward"
-  },
-  {
     "id": "player_adam_wharton",
     "name": "Adam Wharton",
     "club_id": "team_crystal_palace",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/z2cksj1724687465.jpg",
     "position": "Central Midfield"
+  },
+  {
+    "id": "player_anan_khalaili",
+    "name": "Anan Khalaili",
+    "club_id": "team_crystal_palace",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/40nrhh1733668267.jpg",
+    "position": "Attacker"
   },
   {
     "id": "player_borna_sosa",
@@ -532,13 +539,6 @@
     "position": "Centre-Back"
   },
   {
-    "id": "player_christantus_uche",
-    "name": "Christantus Uche",
-    "club_id": "team_crystal_palace",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/hh2y2g1757011058.jpg",
-    "position": "Attacking Midfield"
-  },
-  {
     "id": "player_daichi_kamada",
     "name": "Daichi Kamada",
     "club_id": "team_crystal_palace",
@@ -553,11 +553,11 @@
     "position": "Right-Back"
   },
   {
-    "id": "player_dean_henderson",
-    "name": "Dean Henderson",
+    "id": "player_david_ozoh",
+    "name": "David Ozoh",
     "club_id": "team_crystal_palace",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0bcnqd1772140599.jpg",
-    "position": "Goalkeeper"
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/sjf7rl1699733248.jpg",
+    "position": "Midfielder"
   },
   {
     "id": "player_adam_aznou",
@@ -675,7 +675,7 @@
     "id": "player_cesar_palacios",
     "name": "César Palacios",
     "club_id": "team_fulham",
-    "photo": "https://www.thesportsdb.com/images/media/player/thumb/jewg071785577178.jpg",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/jewg071785577178.jpg",
     "position": "Attacking Midfield"
   },
   {
@@ -687,7 +687,7 @@
   },
   {
     "id": "player_gonzalo",
-    "name": "Gonzalo",
+    "name": "Gonzalo García",
     "club_id": "team_fulham",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8926eb1771264748.jpg",
     "position": "Centre-Forward"
