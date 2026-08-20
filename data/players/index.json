@@ -70,13 +70,6 @@
     "position": "Attacking Midfield"
   },
   {
-    "id": "player_aimuamwonsa_presly_owen_asemota",
-    "name": "Aimuamwonsa Presly Owen Asemota",
-    "club_id": "team_aston_villa",
-    "photo": null,
-    "position": "Goalkeeper"
-  },
-  {
     "id": "player_alejandro_garnacho",
     "name": "Alejandro Garnacho",
     "club_id": "team_aston_villa",
@@ -138,6 +131,13 @@
     "club_id": "team_aston_villa",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/uc1jmw1770201046.jpg",
     "position": "Centre-Back"
+  },
+  {
+    "id": "player_george_hemmings",
+    "name": "George Hemmings",
+    "club_id": "team_aston_villa",
+    "photo": null,
+    "position": "Midfielder"
   },
   {
     "id": "player_adam_smith",

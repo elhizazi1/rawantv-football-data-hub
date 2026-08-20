@@ -14514,13 +14514,13 @@
     "away_team": "team_malaga_cf",
     "stadium_id": null,
     "date": "2026-08-19T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_adrian_cordero_vega",
     "sources": {
       "football_data": "564628"
     }
@@ -22883,7 +22883,7 @@
     "home_team": "team_arsenal_fc",
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
-    "date": "2026-11-07T00:00:00Z",
+    "date": "2026-11-07T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -22901,7 +22901,7 @@
     "home_team": "team_nottingham_forest_fc",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2026-11-07T00:00:00Z",
+    "date": "2026-11-07T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -22919,7 +22919,7 @@
     "home_team": "team_leeds_united_fc",
     "away_team": "team_tottenham_hotspur_fc",
     "stadium_id": null,
-    "date": "2026-11-07T00:00:00Z",
+    "date": "2026-11-07T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -22937,7 +22937,7 @@
     "home_team": "team_fulham_fc",
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
-    "date": "2026-11-07T00:00:00Z",
+    "date": "2026-11-07T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -22955,7 +22955,7 @@
     "home_team": "team_everton_fc",
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2026-11-07T00:00:00Z",
+    "date": "2026-11-07T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -22973,7 +22973,7 @@
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
-    "date": "2026-11-07T00:00:00Z",
+    "date": "2026-11-07T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -22991,7 +22991,7 @@
     "home_team": "team_sunderland_afc",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2026-11-07T00:00:00Z",
+    "date": "2026-11-07T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23009,7 +23009,7 @@
     "home_team": "team_ipswich_town_fc",
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
-    "date": "2026-11-07T00:00:00Z",
+    "date": "2026-11-07T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23027,7 +23027,7 @@
     "home_team": "team_brighton_and_hove_albion_fc",
     "away_team": "team_brentford_fc",
     "stadium_id": null,
-    "date": "2026-11-07T00:00:00Z",
+    "date": "2026-11-07T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23045,7 +23045,7 @@
     "home_team": "team_manchester_united",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2026-11-07T00:00:00Z",
+    "date": "2026-11-07T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23063,7 +23063,7 @@
     "home_team": "team_chelsea_fc",
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
-    "date": "2026-11-21T00:00:00Z",
+    "date": "2026-11-21T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23081,7 +23081,7 @@
     "home_team": "team_manchester_city_fc",
     "away_team": "team_fulham_fc",
     "stadium_id": null,
-    "date": "2026-11-21T00:00:00Z",
+    "date": "2026-11-21T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23099,7 +23099,7 @@
     "home_team": "team_aston_villa_fc",
     "away_team": "team_sunderland_afc",
     "stadium_id": null,
-    "date": "2026-11-21T00:00:00Z",
+    "date": "2026-11-21T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23117,7 +23117,7 @@
     "home_team": "team_liverpool_fc",
     "away_team": "team_manchester_united",
     "stadium_id": null,
-    "date": "2026-11-21T00:00:00Z",
+    "date": "2026-11-21T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23135,7 +23135,7 @@
     "home_team": "team_hull_city_afc",
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
-    "date": "2026-11-21T00:00:00Z",
+    "date": "2026-11-21T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23153,7 +23153,7 @@
     "home_team": "team_afc_bournemouth",
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
-    "date": "2026-11-21T00:00:00Z",
+    "date": "2026-11-21T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23171,7 +23171,7 @@
     "home_team": "team_tottenham_hotspur_fc",
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
-    "date": "2026-11-21T00:00:00Z",
+    "date": "2026-11-21T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23189,7 +23189,7 @@
     "home_team": "team_brentford_fc",
     "away_team": "team_everton_fc",
     "stadium_id": null,
-    "date": "2026-11-21T00:00:00Z",
+    "date": "2026-11-21T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23207,7 +23207,7 @@
     "home_team": "team_coventry_city_fc",
     "away_team": "team_crystal_palace_fc",
     "stadium_id": null,
-    "date": "2026-11-21T00:00:00Z",
+    "date": "2026-11-21T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23225,7 +23225,7 @@
     "home_team": "team_newcastle_united_fc",
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
-    "date": "2026-11-21T00:00:00Z",
+    "date": "2026-11-21T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23243,7 +23243,7 @@
     "home_team": "team_leeds_united_fc",
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2026-11-28T00:00:00Z",
+    "date": "2026-11-28T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23261,7 +23261,7 @@
     "home_team": "team_ipswich_town_fc",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2026-11-28T00:00:00Z",
+    "date": "2026-11-28T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23279,7 +23279,7 @@
     "home_team": "team_arsenal_fc",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2026-11-28T00:00:00Z",
+    "date": "2026-11-28T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23297,7 +23297,7 @@
     "home_team": "team_manchester_united",
     "away_team": "team_brentford_fc",
     "stadium_id": null,
-    "date": "2026-11-28T00:00:00Z",
+    "date": "2026-11-28T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23315,7 +23315,7 @@
     "home_team": "team_everton_fc",
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
-    "date": "2026-11-28T00:00:00Z",
+    "date": "2026-11-28T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23333,7 +23333,7 @@
     "home_team": "team_fulham_fc",
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
-    "date": "2026-11-28T00:00:00Z",
+    "date": "2026-11-28T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23351,7 +23351,7 @@
     "home_team": "team_nottingham_forest_fc",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2026-11-28T00:00:00Z",
+    "date": "2026-11-28T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23369,7 +23369,7 @@
     "home_team": "team_brighton_and_hove_albion_fc",
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
-    "date": "2026-11-28T00:00:00Z",
+    "date": "2026-11-28T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23387,7 +23387,7 @@
     "home_team": "team_sunderland_afc",
     "away_team": "team_tottenham_hotspur_fc",
     "stadium_id": null,
-    "date": "2026-11-28T00:00:00Z",
+    "date": "2026-11-28T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23405,7 +23405,7 @@
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
-    "date": "2026-11-28T00:00:00Z",
+    "date": "2026-11-28T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23423,7 +23423,7 @@
     "home_team": "team_tottenham_hotspur_fc",
     "away_team": "team_fulham_fc",
     "stadium_id": null,
-    "date": "2026-12-02T00:00:00Z",
+    "date": "2026-12-02T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23441,7 +23441,7 @@
     "home_team": "team_liverpool_fc",
     "away_team": "team_sunderland_afc",
     "stadium_id": null,
-    "date": "2026-12-02T00:00:00Z",
+    "date": "2026-12-02T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23459,7 +23459,7 @@
     "home_team": "team_hull_city_afc",
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
-    "date": "2026-12-02T00:00:00Z",
+    "date": "2026-12-02T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23477,7 +23477,7 @@
     "home_team": "team_chelsea_fc",
     "away_team": "team_crystal_palace_fc",
     "stadium_id": null,
-    "date": "2026-12-02T00:00:00Z",
+    "date": "2026-12-02T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23495,7 +23495,7 @@
     "home_team": "team_aston_villa_fc",
     "away_team": "team_everton_fc",
     "stadium_id": null,
-    "date": "2026-12-02T00:00:00Z",
+    "date": "2026-12-02T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23513,7 +23513,7 @@
     "home_team": "team_brentford_fc",
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
-    "date": "2026-12-02T00:00:00Z",
+    "date": "2026-12-02T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23531,7 +23531,7 @@
     "home_team": "team_coventry_city_fc",
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
-    "date": "2026-12-02T00:00:00Z",
+    "date": "2026-12-02T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23549,7 +23549,7 @@
     "home_team": "team_manchester_city_fc",
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
-    "date": "2026-12-02T00:00:00Z",
+    "date": "2026-12-02T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23567,7 +23567,7 @@
     "home_team": "team_newcastle_united_fc",
     "away_team": "team_manchester_united",
     "stadium_id": null,
-    "date": "2026-12-02T00:00:00Z",
+    "date": "2026-12-02T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23585,7 +23585,7 @@
     "home_team": "team_afc_bournemouth",
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
-    "date": "2026-12-02T00:00:00Z",
+    "date": "2026-12-02T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23603,7 +23603,7 @@
     "home_team": "team_tottenham_hotspur_fc",
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
-    "date": "2026-12-05T00:00:00Z",
+    "date": "2026-12-05T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23621,7 +23621,7 @@
     "home_team": "team_manchester_united",
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2026-12-05T00:00:00Z",
+    "date": "2026-12-05T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23639,7 +23639,7 @@
     "home_team": "team_leeds_united_fc",
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
-    "date": "2026-12-05T00:00:00Z",
+    "date": "2026-12-05T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23657,7 +23657,7 @@
     "home_team": "team_newcastle_united_fc",
     "away_team": "team_sunderland_afc",
     "stadium_id": null,
-    "date": "2026-12-05T00:00:00Z",
+    "date": "2026-12-05T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23675,7 +23675,7 @@
     "home_team": "team_chelsea_fc",
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
-    "date": "2026-12-05T00:00:00Z",
+    "date": "2026-12-05T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23693,7 +23693,7 @@
     "home_team": "team_brentford_fc",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2026-12-05T00:00:00Z",
+    "date": "2026-12-05T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23711,7 +23711,7 @@
     "home_team": "team_afc_bournemouth",
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
-    "date": "2026-12-05T00:00:00Z",
+    "date": "2026-12-05T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23729,7 +23729,7 @@
     "home_team": "team_aston_villa_fc",
     "away_team": "team_crystal_palace_fc",
     "stadium_id": null,
-    "date": "2026-12-05T00:00:00Z",
+    "date": "2026-12-05T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23747,7 +23747,7 @@
     "home_team": "team_nottingham_forest_fc",
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
-    "date": "2026-12-05T00:00:00Z",
+    "date": "2026-12-05T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23765,7 +23765,7 @@
     "home_team": "team_everton_fc",
     "away_team": "team_fulham_fc",
     "stadium_id": null,
-    "date": "2026-12-05T00:00:00Z",
+    "date": "2026-12-05T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23783,7 +23783,7 @@
     "home_team": "team_sunderland_afc",
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
-    "date": "2026-12-12T00:00:00Z",
+    "date": "2026-12-12T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23801,7 +23801,7 @@
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_manchester_united",
     "stadium_id": null,
-    "date": "2026-12-12T00:00:00Z",
+    "date": "2026-12-12T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23819,7 +23819,7 @@
     "home_team": "team_hull_city_afc",
     "away_team": "team_tottenham_hotspur_fc",
     "stadium_id": null,
-    "date": "2026-12-12T00:00:00Z",
+    "date": "2026-12-12T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23837,7 +23837,7 @@
     "home_team": "team_brighton_and_hove_albion_fc",
     "away_team": "team_everton_fc",
     "stadium_id": null,
-    "date": "2026-12-12T00:00:00Z",
+    "date": "2026-12-12T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23855,7 +23855,7 @@
     "home_team": "team_ipswich_town_fc",
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
-    "date": "2026-12-12T00:00:00Z",
+    "date": "2026-12-12T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23873,7 +23873,7 @@
     "home_team": "team_coventry_city_fc",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2026-12-12T00:00:00Z",
+    "date": "2026-12-12T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23891,7 +23891,7 @@
     "home_team": "team_arsenal_fc",
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
-    "date": "2026-12-12T00:00:00Z",
+    "date": "2026-12-12T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23909,7 +23909,7 @@
     "home_team": "team_manchester_city_fc",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2026-12-12T00:00:00Z",
+    "date": "2026-12-12T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23927,7 +23927,7 @@
     "home_team": "team_liverpool_fc",
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
-    "date": "2026-12-12T00:00:00Z",
+    "date": "2026-12-12T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23945,7 +23945,7 @@
     "home_team": "team_fulham_fc",
     "away_team": "team_brentford_fc",
     "stadium_id": null,
-    "date": "2026-12-12T00:00:00Z",
+    "date": "2026-12-12T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23963,7 +23963,7 @@
     "home_team": "team_leeds_united_fc",
     "away_team": "team_fulham_fc",
     "stadium_id": null,
-    "date": "2026-12-19T00:00:00Z",
+    "date": "2026-12-19T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23981,7 +23981,7 @@
     "home_team": "team_brighton_and_hove_albion_fc",
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
-    "date": "2026-12-19T00:00:00Z",
+    "date": "2026-12-19T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -23999,7 +23999,7 @@
     "home_team": "team_nottingham_forest_fc",
     "away_team": "team_everton_fc",
     "stadium_id": null,
-    "date": "2026-12-19T00:00:00Z",
+    "date": "2026-12-19T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24017,7 +24017,7 @@
     "home_team": "team_brentford_fc",
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
-    "date": "2026-12-19T00:00:00Z",
+    "date": "2026-12-19T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24035,7 +24035,7 @@
     "home_team": "team_manchester_city_fc",
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
-    "date": "2026-12-19T00:00:00Z",
+    "date": "2026-12-19T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24053,7 +24053,7 @@
     "home_team": "team_sunderland_afc",
     "away_team": "team_crystal_palace_fc",
     "stadium_id": null,
-    "date": "2026-12-19T00:00:00Z",
+    "date": "2026-12-19T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24071,7 +24071,7 @@
     "home_team": "team_afc_bournemouth",
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2026-12-19T00:00:00Z",
+    "date": "2026-12-19T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24089,7 +24089,7 @@
     "home_team": "team_arsenal_fc",
     "away_team": "team_manchester_united",
     "stadium_id": null,
-    "date": "2026-12-19T00:00:00Z",
+    "date": "2026-12-19T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24107,7 +24107,7 @@
     "home_team": "team_liverpool_fc",
     "away_team": "team_tottenham_hotspur_fc",
     "stadium_id": null,
-    "date": "2026-12-19T00:00:00Z",
+    "date": "2026-12-19T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24125,7 +24125,7 @@
     "home_team": "team_chelsea_fc",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2026-12-19T00:00:00Z",
+    "date": "2026-12-19T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24143,7 +24143,7 @@
     "home_team": "team_aston_villa_fc",
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
-    "date": "2026-12-26T00:00:00Z",
+    "date": "2026-12-26T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24161,7 +24161,7 @@
     "home_team": "team_manchester_united",
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
-    "date": "2026-12-26T00:00:00Z",
+    "date": "2026-12-26T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24179,7 +24179,7 @@
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
-    "date": "2026-12-26T00:00:00Z",
+    "date": "2026-12-26T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24197,7 +24197,7 @@
     "home_team": "team_everton_fc",
     "away_team": "team_sunderland_afc",
     "stadium_id": null,
-    "date": "2026-12-26T00:00:00Z",
+    "date": "2026-12-26T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24215,7 +24215,7 @@
     "home_team": "team_coventry_city_fc",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2026-12-26T00:00:00Z",
+    "date": "2026-12-26T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24233,7 +24233,7 @@
     "home_team": "team_newcastle_united_fc",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2026-12-26T00:00:00Z",
+    "date": "2026-12-26T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24251,7 +24251,7 @@
     "home_team": "team_fulham_fc",
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
-    "date": "2026-12-26T00:00:00Z",
+    "date": "2026-12-26T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24269,7 +24269,7 @@
     "home_team": "team_tottenham_hotspur_fc",
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
-    "date": "2026-12-26T00:00:00Z",
+    "date": "2026-12-26T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24287,7 +24287,7 @@
     "home_team": "team_hull_city_afc",
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
-    "date": "2026-12-26T00:00:00Z",
+    "date": "2026-12-26T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24305,7 +24305,7 @@
     "home_team": "team_ipswich_town_fc",
     "away_team": "team_brentford_fc",
     "stadium_id": null,
-    "date": "2026-12-26T00:00:00Z",
+    "date": "2026-12-26T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24323,7 +24323,7 @@
     "home_team": "team_fulham_fc",
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
-    "date": "2026-12-30T00:00:00Z",
+    "date": "2026-12-30T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24341,7 +24341,7 @@
     "home_team": "team_coventry_city_fc",
     "away_team": "team_brentford_fc",
     "stadium_id": null,
-    "date": "2026-12-30T00:00:00Z",
+    "date": "2026-12-30T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24359,7 +24359,7 @@
     "home_team": "team_aston_villa_fc",
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
-    "date": "2026-12-30T00:00:00Z",
+    "date": "2026-12-30T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24377,7 +24377,7 @@
     "home_team": "team_newcastle_united_fc",
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
-    "date": "2026-12-30T00:00:00Z",
+    "date": "2026-12-30T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24395,7 +24395,7 @@
     "home_team": "team_hull_city_afc",
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
-    "date": "2026-12-30T00:00:00Z",
+    "date": "2026-12-30T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24413,7 +24413,7 @@
     "home_team": "team_manchester_united",
     "away_team": "team_sunderland_afc",
     "stadium_id": null,
-    "date": "2026-12-30T00:00:00Z",
+    "date": "2026-12-30T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24431,7 +24431,7 @@
     "home_team": "team_ipswich_town_fc",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2026-12-30T00:00:00Z",
+    "date": "2026-12-30T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24449,7 +24449,7 @@
     "home_team": "team_tottenham_hotspur_fc",
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
-    "date": "2026-12-30T00:00:00Z",
+    "date": "2026-12-30T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24467,7 +24467,7 @@
     "home_team": "team_everton_fc",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2026-12-30T00:00:00Z",
+    "date": "2026-12-30T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24485,7 +24485,7 @@
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
-    "date": "2026-12-30T00:00:00Z",
+    "date": "2026-12-30T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24503,7 +24503,7 @@
     "home_team": "team_afc_bournemouth",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2027-01-02T00:00:00Z",
+    "date": "2027-01-02T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24521,7 +24521,7 @@
     "home_team": "team_brentford_fc",
     "away_team": "team_crystal_palace_fc",
     "stadium_id": null,
-    "date": "2027-01-02T00:00:00Z",
+    "date": "2027-01-02T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24539,7 +24539,7 @@
     "home_team": "team_leeds_united_fc",
     "away_team": "team_everton_fc",
     "stadium_id": null,
-    "date": "2027-01-02T00:00:00Z",
+    "date": "2027-01-02T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24557,7 +24557,7 @@
     "home_team": "team_arsenal_fc",
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
-    "date": "2027-01-02T00:00:00Z",
+    "date": "2027-01-02T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24575,7 +24575,7 @@
     "home_team": "team_sunderland_afc",
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
-    "date": "2027-01-02T00:00:00Z",
+    "date": "2027-01-02T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24593,7 +24593,7 @@
     "home_team": "team_liverpool_fc",
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2027-01-02T00:00:00Z",
+    "date": "2027-01-02T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24611,7 +24611,7 @@
     "home_team": "team_chelsea_fc",
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
-    "date": "2027-01-02T00:00:00Z",
+    "date": "2027-01-02T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24629,7 +24629,7 @@
     "home_team": "team_nottingham_forest_fc",
     "away_team": "team_fulham_fc",
     "stadium_id": null,
-    "date": "2027-01-02T00:00:00Z",
+    "date": "2027-01-02T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24647,7 +24647,7 @@
     "home_team": "team_brighton_and_hove_albion_fc",
     "away_team": "team_manchester_united",
     "stadium_id": null,
-    "date": "2027-01-02T00:00:00Z",
+    "date": "2027-01-02T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24665,7 +24665,7 @@
     "home_team": "team_manchester_city_fc",
     "away_team": "team_tottenham_hotspur_fc",
     "stadium_id": null,
-    "date": "2027-01-02T00:00:00Z",
+    "date": "2027-01-02T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24683,7 +24683,7 @@
     "home_team": "team_arsenal_fc",
     "away_team": "team_brentford_fc",
     "stadium_id": null,
-    "date": "2027-01-06T00:00:00Z",
+    "date": "2027-01-06T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24701,7 +24701,7 @@
     "home_team": "team_leeds_united_fc",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2027-01-06T00:00:00Z",
+    "date": "2027-01-06T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24719,7 +24719,7 @@
     "home_team": "team_manchester_united",
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
-    "date": "2027-01-06T00:00:00Z",
+    "date": "2027-01-06T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24737,7 +24737,7 @@
     "home_team": "team_brighton_and_hove_albion_fc",
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
-    "date": "2027-01-06T00:00:00Z",
+    "date": "2027-01-06T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24755,7 +24755,7 @@
     "home_team": "team_nottingham_forest_fc",
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
-    "date": "2027-01-06T00:00:00Z",
+    "date": "2027-01-06T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24773,7 +24773,7 @@
     "home_team": "team_fulham_fc",
     "away_team": "team_tottenham_hotspur_fc",
     "stadium_id": null,
-    "date": "2027-01-06T00:00:00Z",
+    "date": "2027-01-06T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24791,7 +24791,7 @@
     "home_team": "team_everton_fc",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2027-01-06T00:00:00Z",
+    "date": "2027-01-06T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24809,7 +24809,7 @@
     "home_team": "team_sunderland_afc",
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
-    "date": "2027-01-06T00:00:00Z",
+    "date": "2027-01-06T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24827,7 +24827,7 @@
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2027-01-06T00:00:00Z",
+    "date": "2027-01-06T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24845,7 +24845,7 @@
     "home_team": "team_ipswich_town_fc",
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2027-01-06T00:00:00Z",
+    "date": "2027-01-06T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24863,7 +24863,7 @@
     "home_team": "team_afc_bournemouth",
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
-    "date": "2027-01-16T00:00:00Z",
+    "date": "2027-01-16T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24881,7 +24881,7 @@
     "home_team": "team_manchester_city_fc",
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
-    "date": "2027-01-16T00:00:00Z",
+    "date": "2027-01-16T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24899,7 +24899,7 @@
     "home_team": "team_chelsea_fc",
     "away_team": "team_sunderland_afc",
     "stadium_id": null,
-    "date": "2027-01-16T00:00:00Z",
+    "date": "2027-01-16T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24917,7 +24917,7 @@
     "home_team": "team_brentford_fc",
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
-    "date": "2027-01-16T00:00:00Z",
+    "date": "2027-01-16T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24935,7 +24935,7 @@
     "home_team": "team_aston_villa_fc",
     "away_team": "team_manchester_united",
     "stadium_id": null,
-    "date": "2027-01-16T00:00:00Z",
+    "date": "2027-01-16T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24953,7 +24953,7 @@
     "home_team": "team_tottenham_hotspur_fc",
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
-    "date": "2027-01-16T00:00:00Z",
+    "date": "2027-01-16T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24971,7 +24971,7 @@
     "home_team": "team_coventry_city_fc",
     "away_team": "team_everton_fc",
     "stadium_id": null,
-    "date": "2027-01-16T00:00:00Z",
+    "date": "2027-01-16T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -24989,7 +24989,7 @@
     "home_team": "team_liverpool_fc",
     "away_team": "team_crystal_palace_fc",
     "stadium_id": null,
-    "date": "2027-01-16T00:00:00Z",
+    "date": "2027-01-16T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25007,7 +25007,7 @@
     "home_team": "team_hull_city_afc",
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
-    "date": "2027-01-16T00:00:00Z",
+    "date": "2027-01-16T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25025,7 +25025,7 @@
     "home_team": "team_newcastle_united_fc",
     "away_team": "team_fulham_fc",
     "stadium_id": null,
-    "date": "2027-01-16T00:00:00Z",
+    "date": "2027-01-16T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25043,7 +25043,7 @@
     "home_team": "team_ipswich_town_fc",
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
-    "date": "2027-01-23T00:00:00Z",
+    "date": "2027-01-23T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25061,7 +25061,7 @@
     "home_team": "team_everton_fc",
     "away_team": "team_brentford_fc",
     "stadium_id": null,
-    "date": "2027-01-23T00:00:00Z",
+    "date": "2027-01-23T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25079,7 +25079,7 @@
     "home_team": "team_sunderland_afc",
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2027-01-23T00:00:00Z",
+    "date": "2027-01-23T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25097,7 +25097,7 @@
     "home_team": "team_nottingham_forest_fc",
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
-    "date": "2027-01-23T00:00:00Z",
+    "date": "2027-01-23T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25115,7 +25115,7 @@
     "home_team": "team_arsenal_fc",
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
-    "date": "2027-01-23T00:00:00Z",
+    "date": "2027-01-23T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25133,7 +25133,7 @@
     "home_team": "team_leeds_united_fc",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2027-01-23T00:00:00Z",
+    "date": "2027-01-23T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25151,7 +25151,7 @@
     "home_team": "team_fulham_fc",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2027-01-23T00:00:00Z",
+    "date": "2027-01-23T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25169,7 +25169,7 @@
     "home_team": "team_manchester_united",
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
-    "date": "2027-01-23T00:00:00Z",
+    "date": "2027-01-23T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25187,7 +25187,7 @@
     "home_team": "team_brighton_and_hove_albion_fc",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2027-01-23T00:00:00Z",
+    "date": "2027-01-23T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25205,7 +25205,7 @@
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_tottenham_hotspur_fc",
     "stadium_id": null,
-    "date": "2027-01-23T00:00:00Z",
+    "date": "2027-01-23T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25223,7 +25223,7 @@
     "home_team": "team_tottenham_hotspur_fc",
     "away_team": "team_sunderland_afc",
     "stadium_id": null,
-    "date": "2027-01-30T00:00:00Z",
+    "date": "2027-01-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25241,7 +25241,7 @@
     "home_team": "team_brentford_fc",
     "away_team": "team_manchester_united",
     "stadium_id": null,
-    "date": "2027-01-30T00:00:00Z",
+    "date": "2027-01-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25259,7 +25259,7 @@
     "home_team": "team_newcastle_united_fc",
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
-    "date": "2027-01-30T00:00:00Z",
+    "date": "2027-01-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25277,7 +25277,7 @@
     "home_team": "team_hull_city_afc",
     "away_team": "team_crystal_palace_fc",
     "stadium_id": null,
-    "date": "2027-01-30T00:00:00Z",
+    "date": "2027-01-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25295,7 +25295,7 @@
     "home_team": "team_coventry_city_fc",
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
-    "date": "2027-01-30T00:00:00Z",
+    "date": "2027-01-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25313,7 +25313,7 @@
     "home_team": "team_afc_bournemouth",
     "away_team": "team_fulham_fc",
     "stadium_id": null,
-    "date": "2027-01-30T00:00:00Z",
+    "date": "2027-01-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25331,7 +25331,7 @@
     "home_team": "team_chelsea_fc",
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
-    "date": "2027-01-30T00:00:00Z",
+    "date": "2027-01-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25349,7 +25349,7 @@
     "home_team": "team_liverpool_fc",
     "away_team": "team_everton_fc",
     "stadium_id": null,
-    "date": "2027-01-30T00:00:00Z",
+    "date": "2027-01-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25367,7 +25367,7 @@
     "home_team": "team_manchester_city_fc",
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
-    "date": "2027-01-30T00:00:00Z",
+    "date": "2027-01-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25385,7 +25385,7 @@
     "home_team": "team_aston_villa_fc",
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
-    "date": "2027-01-30T00:00:00Z",
+    "date": "2027-01-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25403,7 +25403,7 @@
     "home_team": "team_arsenal_fc",
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
-    "date": "2027-02-06T00:00:00Z",
+    "date": "2027-02-06T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25421,7 +25421,7 @@
     "home_team": "team_brighton_and_hove_albion_fc",
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
-    "date": "2027-02-06T00:00:00Z",
+    "date": "2027-02-06T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25439,7 +25439,7 @@
     "home_team": "team_sunderland_afc",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2027-02-06T00:00:00Z",
+    "date": "2027-02-06T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25457,7 +25457,7 @@
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2027-02-06T00:00:00Z",
+    "date": "2027-02-06T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25475,7 +25475,7 @@
     "home_team": "team_ipswich_town_fc",
     "away_team": "team_tottenham_hotspur_fc",
     "stadium_id": null,
-    "date": "2027-02-06T00:00:00Z",
+    "date": "2027-02-06T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25493,7 +25493,7 @@
     "home_team": "team_everton_fc",
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
-    "date": "2027-02-06T00:00:00Z",
+    "date": "2027-02-06T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25511,7 +25511,7 @@
     "home_team": "team_fulham_fc",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2027-02-06T00:00:00Z",
+    "date": "2027-02-06T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25529,7 +25529,7 @@
     "home_team": "team_leeds_united_fc",
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
-    "date": "2027-02-06T00:00:00Z",
+    "date": "2027-02-06T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25547,7 +25547,7 @@
     "home_team": "team_manchester_united",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2027-02-06T00:00:00Z",
+    "date": "2027-02-06T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25565,7 +25565,7 @@
     "home_team": "team_nottingham_forest_fc",
     "away_team": "team_brentford_fc",
     "stadium_id": null,
-    "date": "2027-02-06T00:00:00Z",
+    "date": "2027-02-06T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25583,7 +25583,7 @@
     "home_team": "team_everton_fc",
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
-    "date": "2027-02-10T00:00:00Z",
+    "date": "2027-02-10T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25601,7 +25601,7 @@
     "home_team": "team_coventry_city_fc",
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
-    "date": "2027-02-10T00:00:00Z",
+    "date": "2027-02-10T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25619,7 +25619,7 @@
     "home_team": "team_hull_city_afc",
     "away_team": "team_sunderland_afc",
     "stadium_id": null,
-    "date": "2027-02-10T00:00:00Z",
+    "date": "2027-02-10T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25637,7 +25637,7 @@
     "home_team": "team_aston_villa_fc",
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
-    "date": "2027-02-10T00:00:00Z",
+    "date": "2027-02-10T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25655,7 +25655,7 @@
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_brentford_fc",
     "stadium_id": null,
-    "date": "2027-02-10T00:00:00Z",
+    "date": "2027-02-10T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25673,7 +25673,7 @@
     "home_team": "team_newcastle_united_fc",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2027-02-10T00:00:00Z",
+    "date": "2027-02-10T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25691,7 +25691,7 @@
     "home_team": "team_fulham_fc",
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
-    "date": "2027-02-10T00:00:00Z",
+    "date": "2027-02-10T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25709,7 +25709,7 @@
     "home_team": "team_tottenham_hotspur_fc",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2027-02-10T00:00:00Z",
+    "date": "2027-02-10T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25727,7 +25727,7 @@
     "home_team": "team_manchester_united",
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
-    "date": "2027-02-10T00:00:00Z",
+    "date": "2027-02-10T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25745,7 +25745,7 @@
     "home_team": "team_ipswich_town_fc",
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
-    "date": "2027-02-10T00:00:00Z",
+    "date": "2027-02-10T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25763,7 +25763,7 @@
     "home_team": "team_manchester_city_fc",
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
-    "date": "2027-02-20T00:00:00Z",
+    "date": "2027-02-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25781,7 +25781,7 @@
     "home_team": "team_afc_bournemouth",
     "away_team": "team_crystal_palace_fc",
     "stadium_id": null,
-    "date": "2027-02-20T00:00:00Z",
+    "date": "2027-02-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25799,7 +25799,7 @@
     "home_team": "team_brentford_fc",
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2027-02-20T00:00:00Z",
+    "date": "2027-02-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25817,7 +25817,7 @@
     "home_team": "team_chelsea_fc",
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
-    "date": "2027-02-20T00:00:00Z",
+    "date": "2027-02-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25835,7 +25835,7 @@
     "home_team": "team_liverpool_fc",
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
-    "date": "2027-02-20T00:00:00Z",
+    "date": "2027-02-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25853,7 +25853,7 @@
     "home_team": "team_arsenal_fc",
     "away_team": "team_fulham_fc",
     "stadium_id": null,
-    "date": "2027-02-20T00:00:00Z",
+    "date": "2027-02-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25871,7 +25871,7 @@
     "home_team": "team_nottingham_forest_fc",
     "away_team": "team_manchester_united",
     "stadium_id": null,
-    "date": "2027-02-20T00:00:00Z",
+    "date": "2027-02-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25889,7 +25889,7 @@
     "home_team": "team_brighton_and_hove_albion_fc",
     "away_team": "team_tottenham_hotspur_fc",
     "stadium_id": null,
-    "date": "2027-02-20T00:00:00Z",
+    "date": "2027-02-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25907,7 +25907,7 @@
     "home_team": "team_sunderland_afc",
     "away_team": "team_everton_fc",
     "stadium_id": null,
-    "date": "2027-02-20T00:00:00Z",
+    "date": "2027-02-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25925,7 +25925,7 @@
     "home_team": "team_leeds_united_fc",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2027-02-20T00:00:00Z",
+    "date": "2027-02-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25943,7 +25943,7 @@
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_sunderland_afc",
     "stadium_id": null,
-    "date": "2027-02-27T00:00:00Z",
+    "date": "2027-02-27T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25961,7 +25961,7 @@
     "home_team": "team_manchester_united",
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
-    "date": "2027-02-27T00:00:00Z",
+    "date": "2027-02-27T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25979,7 +25979,7 @@
     "home_team": "team_ipswich_town_fc",
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
-    "date": "2027-02-27T00:00:00Z",
+    "date": "2027-02-27T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25997,7 +25997,7 @@
     "home_team": "team_coventry_city_fc",
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
-    "date": "2027-02-27T00:00:00Z",
+    "date": "2027-02-27T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26015,7 +26015,7 @@
     "home_team": "team_everton_fc",
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
-    "date": "2027-02-27T00:00:00Z",
+    "date": "2027-02-27T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26033,7 +26033,7 @@
     "home_team": "team_fulham_fc",
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
-    "date": "2027-02-27T00:00:00Z",
+    "date": "2027-02-27T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26051,7 +26051,7 @@
     "home_team": "team_aston_villa_fc",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2027-02-27T00:00:00Z",
+    "date": "2027-02-27T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26069,7 +26069,7 @@
     "home_team": "team_tottenham_hotspur_fc",
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
-    "date": "2027-02-27T00:00:00Z",
+    "date": "2027-02-27T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26087,7 +26087,7 @@
     "home_team": "team_newcastle_united_fc",
     "away_team": "team_brentford_fc",
     "stadium_id": null,
-    "date": "2027-02-27T00:00:00Z",
+    "date": "2027-02-27T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26105,7 +26105,7 @@
     "home_team": "team_hull_city_afc",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2027-02-27T00:00:00Z",
+    "date": "2027-02-27T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26123,7 +26123,7 @@
     "home_team": "team_nottingham_forest_fc",
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
-    "date": "2027-03-03T00:00:00Z",
+    "date": "2027-03-03T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26141,7 +26141,7 @@
     "home_team": "team_afc_bournemouth",
     "away_team": "team_tottenham_hotspur_fc",
     "stadium_id": null,
-    "date": "2027-03-03T00:00:00Z",
+    "date": "2027-03-03T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26159,7 +26159,7 @@
     "home_team": "team_manchester_city_fc",
     "away_team": "team_everton_fc",
     "stadium_id": null,
-    "date": "2027-03-03T00:00:00Z",
+    "date": "2027-03-03T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26177,7 +26177,7 @@
     "home_team": "team_arsenal_fc",
     "away_team": "team_crystal_palace_fc",
     "stadium_id": null,
-    "date": "2027-03-03T00:00:00Z",
+    "date": "2027-03-03T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26195,7 +26195,7 @@
     "home_team": "team_leeds_united_fc",
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
-    "date": "2027-03-03T00:00:00Z",
+    "date": "2027-03-03T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26213,7 +26213,7 @@
     "home_team": "team_sunderland_afc",
     "away_team": "team_manchester_united",
     "stadium_id": null,
-    "date": "2027-03-03T00:00:00Z",
+    "date": "2027-03-03T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26231,7 +26231,7 @@
     "home_team": "team_liverpool_fc",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2027-03-03T00:00:00Z",
+    "date": "2027-03-03T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26249,7 +26249,7 @@
     "home_team": "team_brighton_and_hove_albion_fc",
     "away_team": "team_fulham_fc",
     "stadium_id": null,
-    "date": "2027-03-03T00:00:00Z",
+    "date": "2027-03-03T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26267,7 +26267,7 @@
     "home_team": "team_brentford_fc",
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
-    "date": "2027-03-03T00:00:00Z",
+    "date": "2027-03-03T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26285,7 +26285,7 @@
     "home_team": "team_chelsea_fc",
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2027-03-03T00:00:00Z",
+    "date": "2027-03-03T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26303,7 +26303,7 @@
     "home_team": "team_leeds_united_fc",
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
-    "date": "2027-03-13T00:00:00Z",
+    "date": "2027-03-13T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26321,7 +26321,7 @@
     "home_team": "team_tottenham_hotspur_fc",
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
-    "date": "2027-03-13T00:00:00Z",
+    "date": "2027-03-13T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26339,7 +26339,7 @@
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_fulham_fc",
     "stadium_id": null,
-    "date": "2027-03-13T00:00:00Z",
+    "date": "2027-03-13T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26357,7 +26357,7 @@
     "home_team": "team_liverpool_fc",
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
-    "date": "2027-03-13T00:00:00Z",
+    "date": "2027-03-13T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26375,7 +26375,7 @@
     "home_team": "team_coventry_city_fc",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2027-03-13T00:00:00Z",
+    "date": "2027-03-13T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26393,7 +26393,7 @@
     "home_team": "team_afc_bournemouth",
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
-    "date": "2027-03-13T00:00:00Z",
+    "date": "2027-03-13T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26411,7 +26411,7 @@
     "home_team": "team_chelsea_fc",
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
-    "date": "2027-03-13T00:00:00Z",
+    "date": "2027-03-13T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26429,7 +26429,7 @@
     "home_team": "team_aston_villa_fc",
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
-    "date": "2027-03-13T00:00:00Z",
+    "date": "2027-03-13T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26447,7 +26447,7 @@
     "home_team": "team_manchester_united",
     "away_team": "team_everton_fc",
     "stadium_id": null,
-    "date": "2027-03-13T00:00:00Z",
+    "date": "2027-03-13T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26465,7 +26465,7 @@
     "home_team": "team_sunderland_afc",
     "away_team": "team_brentford_fc",
     "stadium_id": null,
-    "date": "2027-03-13T00:00:00Z",
+    "date": "2027-03-13T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26483,7 +26483,7 @@
     "home_team": "team_brentford_fc",
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
-    "date": "2027-03-20T00:00:00Z",
+    "date": "2027-03-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26501,7 +26501,7 @@
     "home_team": "team_brighton_and_hove_albion_fc",
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2027-03-20T00:00:00Z",
+    "date": "2027-03-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26519,7 +26519,7 @@
     "home_team": "team_manchester_city_fc",
     "away_team": "team_manchester_united",
     "stadium_id": null,
-    "date": "2027-03-20T00:00:00Z",
+    "date": "2027-03-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26537,7 +26537,7 @@
     "home_team": "team_ipswich_town_fc",
     "away_team": "team_crystal_palace_fc",
     "stadium_id": null,
-    "date": "2027-03-20T00:00:00Z",
+    "date": "2027-03-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26555,7 +26555,7 @@
     "home_team": "team_arsenal_fc",
     "away_team": "team_sunderland_afc",
     "stadium_id": null,
-    "date": "2027-03-20T00:00:00Z",
+    "date": "2027-03-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26573,7 +26573,7 @@
     "home_team": "team_fulham_fc",
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
-    "date": "2027-03-20T00:00:00Z",
+    "date": "2027-03-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26591,7 +26591,7 @@
     "home_team": "team_hull_city_afc",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2027-03-20T00:00:00Z",
+    "date": "2027-03-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26609,7 +26609,7 @@
     "home_team": "team_nottingham_forest_fc",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2027-03-20T00:00:00Z",
+    "date": "2027-03-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26627,7 +26627,7 @@
     "home_team": "team_everton_fc",
     "away_team": "team_tottenham_hotspur_fc",
     "stadium_id": null,
-    "date": "2027-03-20T00:00:00Z",
+    "date": "2027-03-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26645,7 +26645,7 @@
     "home_team": "team_newcastle_united_fc",
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
-    "date": "2027-03-20T00:00:00Z",
+    "date": "2027-03-20T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26663,7 +26663,7 @@
     "home_team": "team_sunderland_afc",
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
-    "date": "2027-04-10T00:00:00Z",
+    "date": "2027-04-10T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26681,7 +26681,7 @@
     "home_team": "team_leeds_united_fc",
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
-    "date": "2027-04-10T00:00:00Z",
+    "date": "2027-04-10T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26699,7 +26699,7 @@
     "home_team": "team_manchester_united",
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
-    "date": "2027-04-10T00:00:00Z",
+    "date": "2027-04-10T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26717,7 +26717,7 @@
     "home_team": "team_chelsea_fc",
     "away_team": "team_fulham_fc",
     "stadium_id": null,
-    "date": "2027-04-10T00:00:00Z",
+    "date": "2027-04-10T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26735,7 +26735,7 @@
     "home_team": "team_liverpool_fc",
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
-    "date": "2027-04-10T00:00:00Z",
+    "date": "2027-04-10T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26753,7 +26753,7 @@
     "home_team": "team_coventry_city_fc",
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
-    "date": "2027-04-10T00:00:00Z",
+    "date": "2027-04-10T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26771,7 +26771,7 @@
     "home_team": "team_afc_bournemouth",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2027-04-10T00:00:00Z",
+    "date": "2027-04-10T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26789,7 +26789,7 @@
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_everton_fc",
     "stadium_id": null,
-    "date": "2027-04-10T00:00:00Z",
+    "date": "2027-04-10T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26807,7 +26807,7 @@
     "home_team": "team_tottenham_hotspur_fc",
     "away_team": "team_brentford_fc",
     "stadium_id": null,
-    "date": "2027-04-10T00:00:00Z",
+    "date": "2027-04-10T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26825,7 +26825,7 @@
     "home_team": "team_aston_villa_fc",
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
-    "date": "2027-04-10T00:00:00Z",
+    "date": "2027-04-10T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26843,7 +26843,7 @@
     "home_team": "team_brighton_and_hove_albion_fc",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2027-04-17T00:00:00Z",
+    "date": "2027-04-17T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26861,7 +26861,7 @@
     "home_team": "team_fulham_fc",
     "away_team": "team_sunderland_afc",
     "stadium_id": null,
-    "date": "2027-04-17T00:00:00Z",
+    "date": "2027-04-17T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26879,7 +26879,7 @@
     "home_team": "team_brentford_fc",
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
-    "date": "2027-04-17T00:00:00Z",
+    "date": "2027-04-17T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26897,7 +26897,7 @@
     "home_team": "team_nottingham_forest_fc",
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
-    "date": "2027-04-17T00:00:00Z",
+    "date": "2027-04-17T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26915,7 +26915,7 @@
     "home_team": "team_hull_city_afc",
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2027-04-17T00:00:00Z",
+    "date": "2027-04-17T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26933,7 +26933,7 @@
     "home_team": "team_arsenal_fc",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2027-04-17T00:00:00Z",
+    "date": "2027-04-17T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26951,7 +26951,7 @@
     "home_team": "team_ipswich_town_fc",
     "away_team": "team_manchester_united",
     "stadium_id": null,
-    "date": "2027-04-17T00:00:00Z",
+    "date": "2027-04-17T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26969,7 +26969,7 @@
     "home_team": "team_manchester_city_fc",
     "away_team": "team_crystal_palace_fc",
     "stadium_id": null,
-    "date": "2027-04-17T00:00:00Z",
+    "date": "2027-04-17T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -26987,7 +26987,7 @@
     "home_team": "team_newcastle_united_fc",
     "away_team": "team_tottenham_hotspur_fc",
     "stadium_id": null,
-    "date": "2027-04-17T00:00:00Z",
+    "date": "2027-04-17T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27005,7 +27005,7 @@
     "home_team": "team_everton_fc",
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
-    "date": "2027-04-17T00:00:00Z",
+    "date": "2027-04-17T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27023,7 +27023,7 @@
     "home_team": "team_chelsea_fc",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2027-04-24T00:00:00Z",
+    "date": "2027-04-24T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27041,7 +27041,7 @@
     "home_team": "team_afc_bournemouth",
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
-    "date": "2027-04-24T00:00:00Z",
+    "date": "2027-04-24T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27059,7 +27059,7 @@
     "home_team": "team_tottenham_hotspur_fc",
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
-    "date": "2027-04-24T00:00:00Z",
+    "date": "2027-04-24T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27077,7 +27077,7 @@
     "home_team": "team_manchester_united",
     "away_team": "team_crystal_palace_fc",
     "stadium_id": null,
-    "date": "2027-04-24T00:00:00Z",
+    "date": "2027-04-24T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27095,7 +27095,7 @@
     "home_team": "team_everton_fc",
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
-    "date": "2027-04-24T00:00:00Z",
+    "date": "2027-04-24T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27113,7 +27113,7 @@
     "home_team": "team_nottingham_forest_fc",
     "away_team": "team_sunderland_afc",
     "stadium_id": null,
-    "date": "2027-04-24T00:00:00Z",
+    "date": "2027-04-24T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27131,7 +27131,7 @@
     "home_team": "team_newcastle_united_fc",
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
-    "date": "2027-04-24T00:00:00Z",
+    "date": "2027-04-24T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27149,7 +27149,7 @@
     "home_team": "team_aston_villa_fc",
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2027-04-24T00:00:00Z",
+    "date": "2027-04-24T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27167,7 +27167,7 @@
     "home_team": "team_brentford_fc",
     "away_team": "team_fulham_fc",
     "stadium_id": null,
-    "date": "2027-04-24T00:00:00Z",
+    "date": "2027-04-24T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27185,7 +27185,7 @@
     "home_team": "team_leeds_united_fc",
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
-    "date": "2027-04-24T00:00:00Z",
+    "date": "2027-04-24T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27203,7 +27203,7 @@
     "home_team": "team_sunderland_afc",
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
-    "date": "2027-05-01T00:00:00Z",
+    "date": "2027-05-01T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27221,7 +27221,7 @@
     "home_team": "team_brighton_and_hove_albion_fc",
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
-    "date": "2027-05-01T00:00:00Z",
+    "date": "2027-05-01T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27239,7 +27239,7 @@
     "home_team": "team_coventry_city_fc",
     "away_team": "team_manchester_united",
     "stadium_id": null,
-    "date": "2027-05-01T00:00:00Z",
+    "date": "2027-05-01T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27257,7 +27257,7 @@
     "home_team": "team_hull_city_afc",
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
-    "date": "2027-05-01T00:00:00Z",
+    "date": "2027-05-01T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27275,7 +27275,7 @@
     "home_team": "team_manchester_city_fc",
     "away_team": "team_brentford_fc",
     "stadium_id": null,
-    "date": "2027-05-01T00:00:00Z",
+    "date": "2027-05-01T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27293,7 +27293,7 @@
     "home_team": "team_fulham_fc",
     "away_team": "team_everton_fc",
     "stadium_id": null,
-    "date": "2027-05-01T00:00:00Z",
+    "date": "2027-05-01T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27311,7 +27311,7 @@
     "home_team": "team_liverpool_fc",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2027-05-01T00:00:00Z",
+    "date": "2027-05-01T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27329,7 +27329,7 @@
     "home_team": "team_arsenal_fc",
     "away_team": "team_tottenham_hotspur_fc",
     "stadium_id": null,
-    "date": "2027-05-01T00:00:00Z",
+    "date": "2027-05-01T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27347,7 +27347,7 @@
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2027-05-01T00:00:00Z",
+    "date": "2027-05-01T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27365,7 +27365,7 @@
     "home_team": "team_ipswich_town_fc",
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
-    "date": "2027-05-01T00:00:00Z",
+    "date": "2027-05-01T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27383,7 +27383,7 @@
     "home_team": "team_manchester_city_fc",
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
-    "date": "2027-05-08T00:00:00Z",
+    "date": "2027-05-08T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27401,7 +27401,7 @@
     "home_team": "team_leeds_united_fc",
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
-    "date": "2027-05-08T00:00:00Z",
+    "date": "2027-05-08T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27419,7 +27419,7 @@
     "home_team": "team_fulham_fc",
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
-    "date": "2027-05-08T00:00:00Z",
+    "date": "2027-05-08T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27437,7 +27437,7 @@
     "home_team": "team_nottingham_forest_fc",
     "away_team": "team_crystal_palace_fc",
     "stadium_id": null,
-    "date": "2027-05-08T00:00:00Z",
+    "date": "2027-05-08T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27455,7 +27455,7 @@
     "home_team": "team_brentford_fc",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2027-05-08T00:00:00Z",
+    "date": "2027-05-08T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27473,7 +27473,7 @@
     "home_team": "team_newcastle_united_fc",
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2027-05-08T00:00:00Z",
+    "date": "2027-05-08T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27491,7 +27491,7 @@
     "home_team": "team_brighton_and_hove_albion_fc",
     "away_team": "team_sunderland_afc",
     "stadium_id": null,
-    "date": "2027-05-08T00:00:00Z",
+    "date": "2027-05-08T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27509,7 +27509,7 @@
     "home_team": "team_tottenham_hotspur_fc",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2027-05-08T00:00:00Z",
+    "date": "2027-05-08T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27527,7 +27527,7 @@
     "home_team": "team_everton_fc",
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
-    "date": "2027-05-08T00:00:00Z",
+    "date": "2027-05-08T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27545,7 +27545,7 @@
     "home_team": "team_afc_bournemouth",
     "away_team": "team_manchester_united",
     "stadium_id": null,
-    "date": "2027-05-08T00:00:00Z",
+    "date": "2027-05-08T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27563,7 +27563,7 @@
     "home_team": "team_hull_city_afc",
     "away_team": "team_fulham_fc",
     "stadium_id": null,
-    "date": "2027-05-15T00:00:00Z",
+    "date": "2027-05-15T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27581,7 +27581,7 @@
     "home_team": "team_manchester_united",
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
-    "date": "2027-05-15T00:00:00Z",
+    "date": "2027-05-15T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27599,7 +27599,7 @@
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
-    "date": "2027-05-15T00:00:00Z",
+    "date": "2027-05-15T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27617,7 +27617,7 @@
     "home_team": "team_aston_villa_fc",
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
-    "date": "2027-05-15T00:00:00Z",
+    "date": "2027-05-15T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27635,7 +27635,7 @@
     "home_team": "team_chelsea_fc",
     "away_team": "team_everton_fc",
     "stadium_id": null,
-    "date": "2027-05-15T00:00:00Z",
+    "date": "2027-05-15T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27653,7 +27653,7 @@
     "home_team": "team_coventry_city_fc",
     "away_team": "team_tottenham_hotspur_fc",
     "stadium_id": null,
-    "date": "2027-05-15T00:00:00Z",
+    "date": "2027-05-15T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27671,7 +27671,7 @@
     "home_team": "team_sunderland_afc",
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
-    "date": "2027-05-15T00:00:00Z",
+    "date": "2027-05-15T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27689,7 +27689,7 @@
     "home_team": "team_liverpool_fc",
     "away_team": "team_brentford_fc",
     "stadium_id": null,
-    "date": "2027-05-15T00:00:00Z",
+    "date": "2027-05-15T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27707,7 +27707,7 @@
     "home_team": "team_ipswich_town_fc",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2027-05-15T00:00:00Z",
+    "date": "2027-05-15T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27725,7 +27725,7 @@
     "home_team": "team_arsenal_fc",
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
-    "date": "2027-05-15T00:00:00Z",
+    "date": "2027-05-15T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27743,7 +27743,7 @@
     "home_team": "team_brentford_fc",
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
-    "date": "2027-05-23T00:00:00Z",
+    "date": "2027-05-23T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27761,7 +27761,7 @@
     "home_team": "team_newcastle_united_fc",
     "away_team": "team_crystal_palace_fc",
     "stadium_id": null,
-    "date": "2027-05-23T00:00:00Z",
+    "date": "2027-05-23T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27779,7 +27779,7 @@
     "home_team": "team_tottenham_hotspur_fc",
     "away_team": "team_manchester_united",
     "stadium_id": null,
-    "date": "2027-05-23T00:00:00Z",
+    "date": "2027-05-23T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27797,7 +27797,7 @@
     "home_team": "team_leeds_united_fc",
     "away_team": "team_sunderland_afc",
     "stadium_id": null,
-    "date": "2027-05-23T00:00:00Z",
+    "date": "2027-05-23T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27815,7 +27815,7 @@
     "home_team": "team_brighton_and_hove_albion_fc",
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
-    "date": "2027-05-23T00:00:00Z",
+    "date": "2027-05-23T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27833,7 +27833,7 @@
     "home_team": "team_nottingham_forest_fc",
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
-    "date": "2027-05-23T00:00:00Z",
+    "date": "2027-05-23T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27851,7 +27851,7 @@
     "home_team": "team_afc_bournemouth",
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
-    "date": "2027-05-23T00:00:00Z",
+    "date": "2027-05-23T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27869,7 +27869,7 @@
     "home_team": "team_fulham_fc",
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
-    "date": "2027-05-23T00:00:00Z",
+    "date": "2027-05-23T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27887,7 +27887,7 @@
     "home_team": "team_everton_fc",
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
-    "date": "2027-05-23T00:00:00Z",
+    "date": "2027-05-23T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27905,7 +27905,7 @@
     "home_team": "team_manchester_city_fc",
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
-    "date": "2027-05-23T00:00:00Z",
+    "date": "2027-05-23T14:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27923,7 +27923,7 @@
     "home_team": "team_ipswich_town_fc",
     "away_team": "team_everton_fc",
     "stadium_id": null,
-    "date": "2027-05-30T00:00:00Z",
+    "date": "2027-05-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27941,7 +27941,7 @@
     "home_team": "team_arsenal_fc",
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
-    "date": "2027-05-30T00:00:00Z",
+    "date": "2027-05-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27959,7 +27959,7 @@
     "home_team": "team_liverpool_fc",
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
-    "date": "2027-05-30T00:00:00Z",
+    "date": "2027-05-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27977,7 +27977,7 @@
     "home_team": "team_coventry_city_fc",
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
-    "date": "2027-05-30T00:00:00Z",
+    "date": "2027-05-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -27995,7 +27995,7 @@
     "home_team": "team_aston_villa_fc",
     "away_team": "team_tottenham_hotspur_fc",
     "stadium_id": null,
-    "date": "2027-05-30T00:00:00Z",
+    "date": "2027-05-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -28013,7 +28013,7 @@
     "home_team": "team_hull_city_afc",
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
-    "date": "2027-05-30T00:00:00Z",
+    "date": "2027-05-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -28031,7 +28031,7 @@
     "home_team": "team_manchester_united",
     "away_team": "team_fulham_fc",
     "stadium_id": null,
-    "date": "2027-05-30T00:00:00Z",
+    "date": "2027-05-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -28049,7 +28049,7 @@
     "home_team": "team_sunderland_afc",
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
-    "date": "2027-05-30T00:00:00Z",
+    "date": "2027-05-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -28067,7 +28067,7 @@
     "home_team": "team_chelsea_fc",
     "away_team": "team_brentford_fc",
     "stadium_id": null,
-    "date": "2027-05-30T00:00:00Z",
+    "date": "2027-05-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -28085,7 +28085,7 @@
     "home_team": "team_crystal_palace_fc",
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
-    "date": "2027-05-30T00:00:00Z",
+    "date": "2027-05-30T15:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
