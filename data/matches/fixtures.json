@@ -28674,24 +28674,6 @@
     }
   },
   {
-    "id": "match_2026_1287",
-    "competition_id": "competition_serie_a_2026",
-    "home_team": "team_ss_lazio",
-    "away_team": "team_ac_milan",
-    "stadium_id": null,
-    "date": "2026-09-12T16:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "558600"
-    }
-  },
-  {
     "id": "match_2026_1295",
     "competition_id": "competition_serie_a_2026",
     "home_team": "team_us_sassuolo_calcio",
@@ -28797,6 +28779,24 @@
     "referee_id": null,
     "sources": {
       "football_data": "558599"
+    }
+  },
+  {
+    "id": "match_2026_1287",
+    "competition_id": "competition_serie_a_2026",
+    "home_team": "team_ss_lazio",
+    "away_team": "team_ac_milan",
+    "stadium_id": null,
+    "date": "2026-09-13T18:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "558600"
     }
   },
   {

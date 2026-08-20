@@ -399,13 +399,6 @@
     "position": "Right Winger"
   },
   {
-    "id": "player_filip_jorgensen",
-    "name": "Filip Jörgensen",
-    "club_id": "team_chelsea",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1jn0bn1771427812.jpg",
-    "position": "Goalkeeper"
-  },
-  {
     "id": "player_gabriel_slonina",
     "name": "Gabriel Slonina",
     "club_id": "team_chelsea",
@@ -418,6 +411,13 @@
     "club_id": "team_chelsea",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/7i1fob1762290308.jpg",
     "position": "Attacker"
+  },
+  {
+    "id": "player_jamie_gittens",
+    "name": "Jamie Gittens",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kc467a1659533292.jpg",
+    "position": "Midfielder"
   },
   {
     "id": "player_aurele_amenda",
