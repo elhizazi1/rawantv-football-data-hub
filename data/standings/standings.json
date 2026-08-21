@@ -816,16 +816,16 @@
       {
         "position": 1,
         "team_id": "team_deportivo_alaves",
-        "played": 1,
+        "played": 2,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 0,
-        "goals_for": 3,
-        "goals_against": 0,
-        "points": 3
+        "goals_for": 4,
+        "goals_against": 1,
+        "points": 4
       },
       {
-        "position": 1,
+        "position": 2,
         "team_id": "team_rcd_espanyol_de_barcelona",
         "played": 1,
         "won": 1,
@@ -903,6 +903,17 @@
       },
       {
         "position": 9,
+        "team_id": "team_rayo_vallecano_de_madrid",
+        "played": 2,
+        "won": 0,
+        "drawn": 1,
+        "lost": 1,
+        "goals_for": 2,
+        "goals_against": 3,
+        "points": 1
+      },
+      {
+        "position": 10,
         "team_id": "team_athletic_club",
         "played": 0,
         "won": 0,
@@ -913,7 +924,7 @@
         "points": 0
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "team_ca_osasuna",
         "played": 0,
         "won": 0,
@@ -924,7 +935,7 @@
         "points": 0
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "team_barcelona",
         "played": 0,
         "won": 0,
@@ -935,7 +946,7 @@
         "points": 0
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "team_rc_celta_de_vigo",
         "played": 0,
         "won": 0,
@@ -946,7 +957,7 @@
         "points": 0
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "team_real_betis_balompie",
         "played": 0,
         "won": 0,
@@ -957,7 +968,7 @@
         "points": 0
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "team_real_madrid",
         "played": 0,
         "won": 0,
@@ -968,7 +979,7 @@
         "points": 0
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "team_real_sociedad_de_futbol",
         "played": 0,
         "won": 0,
@@ -979,7 +990,7 @@
         "points": 0
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "team_valencia_cf",
         "played": 0,
         "won": 0,
@@ -987,17 +998,6 @@
         "lost": 0,
         "goals_for": 0,
         "goals_against": 0,
-        "points": 0
-      },
-      {
-        "position": 17,
-        "team_id": "team_rayo_vallecano_de_madrid",
-        "played": 1,
-        "won": 0,
-        "drawn": 0,
-        "lost": 1,
-        "goals_for": 1,
-        "goals_against": 2,
         "points": 0
       },
       {

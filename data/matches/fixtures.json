@@ -14532,13 +14532,13 @@
     "away_team": "team_deportivo_alaves",
     "stadium_id": null,
     "date": "2026-08-20T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jose_munuera_montero",
     "sources": {
       "football_data": "564638"
     }
