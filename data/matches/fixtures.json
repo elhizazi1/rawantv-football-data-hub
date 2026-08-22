@@ -21282,13 +21282,13 @@
     "away_team": "team_manchester_united",
     "stadium_id": null,
     "date": "2026-08-22T11:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_darren_england",
     "sources": {
       "football_data": "560543"
     }
@@ -21306,7 +21306,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_farai_hallam",
     "sources": {
       "football_data": "560544"
     }
@@ -21324,7 +21324,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_robert_jones",
     "sources": {
       "football_data": "560545"
     }
@@ -21342,7 +21342,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_paul_tierney",
     "sources": {
       "football_data": "560546"
     }

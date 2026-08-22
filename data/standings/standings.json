@@ -1052,6 +1052,17 @@
       },
       {
         "position": 2,
+        "team_id": "team_hull_city_afc",
+        "played": 1,
+        "won": 1,
+        "drawn": 0,
+        "lost": 0,
+        "goals_for": 2,
+        "goals_against": 0,
+        "points": 3
+      },
+      {
+        "position": 3,
         "team_id": "team_afc_bournemouth",
         "played": 0,
         "won": 0,
@@ -1062,7 +1073,7 @@
         "points": 0
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_aston_villa_fc",
         "played": 0,
         "won": 0,
@@ -1073,7 +1084,7 @@
         "points": 0
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_brentford_fc",
         "played": 0,
         "won": 0,
@@ -1084,7 +1095,7 @@
         "points": 0
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_brighton_and_hove_albion_fc",
         "played": 0,
         "won": 0,
@@ -1095,7 +1106,7 @@
         "points": 0
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_chelsea_fc",
         "played": 0,
         "won": 0,
@@ -1106,7 +1117,7 @@
         "points": 0
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_crystal_palace_fc",
         "played": 0,
         "won": 0,
@@ -1117,7 +1128,7 @@
         "points": 0
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_everton_fc",
         "played": 0,
         "won": 0,
@@ -1128,7 +1139,7 @@
         "points": 0
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_fulham_fc",
         "played": 0,
         "won": 0,
@@ -1139,18 +1150,7 @@
         "points": 0
       },
       {
-        "position": 2,
-        "team_id": "team_hull_city_afc",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0
-      },
-      {
-        "position": 2,
+        "position": 3,
         "team_id": "team_ipswich_town_fc",
         "played": 0,
         "won": 0,
@@ -1161,7 +1161,7 @@
         "points": 0
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_leeds_united_fc",
         "played": 0,
         "won": 0,
@@ -1172,7 +1172,7 @@
         "points": 0
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_liverpool_fc",
         "played": 0,
         "won": 0,
@@ -1183,7 +1183,7 @@
         "points": 0
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_manchester_city_fc",
         "played": 0,
         "won": 0,
@@ -1194,18 +1194,7 @@
         "points": 0
       },
       {
-        "position": 2,
-        "team_id": "team_manchester_united",
-        "played": 0,
-        "won": 0,
-        "drawn": 0,
-        "lost": 0,
-        "goals_for": 0,
-        "goals_against": 0,
-        "points": 0
-      },
-      {
-        "position": 2,
+        "position": 3,
         "team_id": "team_newcastle_united_fc",
         "played": 0,
         "won": 0,
@@ -1216,7 +1205,7 @@
         "points": 0
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_nottingham_forest_fc",
         "played": 0,
         "won": 0,
@@ -1227,7 +1216,7 @@
         "points": 0
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_sunderland_afc",
         "played": 0,
         "won": 0,
@@ -1238,7 +1227,7 @@
         "points": 0
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_tottenham_hotspur_fc",
         "played": 0,
         "won": 0,
@@ -1246,6 +1235,17 @@
         "lost": 0,
         "goals_for": 0,
         "goals_against": 0,
+        "points": 0
+      },
+      {
+        "position": 19,
+        "team_id": "team_manchester_united",
+        "played": 1,
+        "won": 0,
+        "drawn": 0,
+        "lost": 1,
+        "goals_for": 0,
+        "goals_against": 2,
         "points": 0
       },
       {
