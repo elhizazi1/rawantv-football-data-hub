@@ -8916,13 +8916,13 @@
     "away_team": "team_rc_strasbourg_alsace",
     "stadium_id": null,
     "date": "2026-08-21T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 4,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_ruddy_buquet",
     "sources": {
       "football_data": "559715"
     }
@@ -14550,13 +14550,13 @@
     "away_team": "team_real_sociedad_de_futbol",
     "stadium_id": null,
     "date": "2026-08-21T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_isidro_diaz_de_mera",
     "sources": {
       "football_data": "564647"
     }
@@ -21264,13 +21264,13 @@
     "away_team": "team_coventry_city_fc",
     "stadium_id": null,
     "date": "2026-08-21T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 3,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_thomas_bramall",
     "sources": {
       "football_data": "560542"
     }
