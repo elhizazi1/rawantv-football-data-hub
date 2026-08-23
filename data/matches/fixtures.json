@@ -9030,7 +9030,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jeremy_stinat",
     "sources": {
       "football_data": "559717"
     }
@@ -21378,7 +21378,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_adrian_gillett",
     "sources": {
       "football_data": "560548"
     }
@@ -21396,7 +21396,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_peter_bankes",
     "sources": {
       "football_data": "560549"
     }
