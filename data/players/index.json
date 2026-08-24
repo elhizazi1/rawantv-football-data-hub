@@ -129,7 +129,7 @@
     "id": "player_george_hemmings",
     "name": "George Hemmings",
     "club_id": "team_aston_villa",
-    "photo": null,
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/ejnucw1787493891.jpg",
     "position": "Midfielder"
   },
   {
@@ -462,6 +462,13 @@
     "position": "Goalkeeper"
   },
   {
+    "id": "player_daniel_bentley",
+    "name": "Daniel Bentley",
+    "club_id": "team_coventry_city",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5ihchb1772032095.jpg",
+    "position": "Goalkeeper"
+  },
+  {
     "id": "player_ellis_simms",
     "name": "Ellis Simms",
     "club_id": "team_coventry_city",
@@ -481,13 +488,6 @@
     "club_id": "team_coventry",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/qu60cy1718870905.jpg",
     "position": "Manager"
-  },
-  {
-    "id": "player_frank_onyeka",
-    "name": "Frank Onyeka",
-    "club_id": "team_coventry_city",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/cc9nyv1771939555.jpg",
-    "position": "Central Midfield"
   },
   {
     "id": "player_adam_wharton",

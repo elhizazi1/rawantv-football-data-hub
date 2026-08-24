@@ -1,0 +1,19 @@
+{
+  "id": "player_daniel_bentley",
+  "name": "Daniel Bentley",
+  "position": "Goalkeeper",
+  "nationality": "England",
+  "birth_date": "1993-07-13",
+  "height": 6,
+  "weight": 161,
+  "club_id": "team_coventry_city",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/5ihchb1772032095.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34157261"
+  }
+}

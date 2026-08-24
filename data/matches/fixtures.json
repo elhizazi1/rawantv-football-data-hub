@@ -9024,10 +9024,10 @@
     "away_team": "team_lille_osc",
     "stadium_id": null,
     "date": "2026-08-23T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 3
     },
     "events": [],
     "referee_id": "ref_jeremy_stinat",
@@ -9042,13 +9042,13 @@
     "away_team": "team_as_monaco_fc",
     "stadium_id": null,
     "date": "2026-08-23T15:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jeremie_pignard",
     "sources": {
       "football_data": "559719"
     }
@@ -9060,10 +9060,10 @@
     "away_team": "team_stade_rennais_fc_1901",
     "stadium_id": null,
     "date": "2026-08-23T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 2
     },
     "events": [],
     "referee_id": null,
@@ -14622,10 +14622,10 @@
     "away_team": "team_villarreal_cf",
     "stadium_id": null,
     "date": "2026-08-23T15:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 2
     },
     "events": [],
     "referee_id": null,
@@ -14640,9 +14640,9 @@
     "away_team": "team_real_racing_club_de_santander",
     "stadium_id": null,
     "date": "2026-08-23T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
@@ -14658,10 +14658,10 @@
     "away_team": "team_barcelona",
     "stadium_id": null,
     "date": "2026-08-23T19:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 5
     },
     "events": [],
     "referee_id": null,
@@ -21372,10 +21372,10 @@
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
     "date": "2026-08-23T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_adrian_gillett",
@@ -21390,9 +21390,9 @@
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
     "date": "2026-08-23T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 4,
       "away": 0
     },
     "events": [],
@@ -21408,13 +21408,13 @@
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
     "date": "2026-08-23T15:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_stuart_attwell",
     "sources": {
       "football_data": "560550"
     }
@@ -28176,13 +28176,13 @@
     "away_team": "team_juventus_fc",
     "stadium_id": null,
     "date": "2026-08-23T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_giovanni_ayroldi",
     "sources": {
       "football_data": "558635"
     }
@@ -28194,13 +28194,13 @@
     "away_team": "team_us_lecce",
     "stadium_id": null,
     "date": "2026-08-23T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_antonio_rapuano",
     "sources": {
       "football_data": "558637"
     }
@@ -28212,13 +28212,13 @@
     "away_team": "team_us_sassuolo_calcio",
     "stadium_id": null,
     "date": "2026-08-23T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_valerio_crezzini",
     "sources": {
       "football_data": "558633"
     }
@@ -28230,13 +28230,13 @@
     "away_team": "team_ac_milan",
     "stadium_id": null,
     "date": "2026-08-23T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_luca_zufferli",
     "sources": {
       "football_data": "558634"
     }
