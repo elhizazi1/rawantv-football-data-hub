@@ -9056,8 +9056,8 @@
   {
     "id": "match_2026_0498",
     "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_paris_saint_germain_fc",
-    "away_team": "team_stade_rennais_fc_1901",
+    "home_team": "team_stade_rennais_fc_1901",
+    "away_team": "team_paris_saint_germain_fc",
     "stadium_id": null,
     "date": "2026-08-23T18:45:00Z",
     "status": "finished",
@@ -12494,8 +12494,8 @@
   {
     "id": "match_2026_0695",
     "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_stade_rennais_fc_1901",
-    "away_team": "team_paris_saint_germain_fc",
+    "home_team": "team_paris_saint_germain_fc",
+    "away_team": "team_stade_rennais_fc_1901",
     "stadium_id": null,
     "date": "2027-03-06T00:00:00Z",
     "status": "scheduled",
