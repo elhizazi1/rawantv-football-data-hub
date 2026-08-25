@@ -9066,7 +9066,7 @@
       "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_bastien_dechepy",
     "sources": {
       "football_data": "559713"
     }
@@ -14676,7 +14676,7 @@
     "away_team": "team_levante_ud",
     "stadium_id": null,
     "date": "2026-08-24T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
@@ -14694,10 +14694,10 @@
     "away_team": "team_rc_deportivo_la_coruna",
     "stadium_id": null,
     "date": "2026-08-24T19:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
     "referee_id": null,
@@ -21426,13 +21426,13 @@
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
     "date": "2026-08-24T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 3
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_john_brooks",
     "sources": {
       "football_data": "560551"
     }
@@ -28248,13 +28248,13 @@
     "away_team": "team_ss_lazio",
     "stadium_id": null,
     "date": "2026-08-24T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_fabio_maresca",
     "sources": {
       "football_data": "558630"
     }
@@ -28266,13 +28266,13 @@
     "away_team": "team_acf_fiorentina",
     "stadium_id": null,
     "date": "2026-08-24T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 4,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_matteo_marcenaro",
     "sources": {
       "football_data": "558638"
     }
