@@ -357,13 +357,6 @@
     "position": "Centre-Back"
   },
   {
-    "id": "player_benoit_badiashile",
-    "name": "Benoit Badiashile",
-    "club_id": "team_chelsea",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ayb34a1570044499.jpg",
-    "position": "Centre-Back"
-  },
-  {
     "id": "player_cole_palmer",
     "name": "Cole Palmer",
     "club_id": "team_chelsea",
@@ -418,6 +411,13 @@
     "club_id": "team_chelsea",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kc467a1659533292.jpg",
     "position": "Midfielder"
+  },
+  {
+    "id": "player_joao_pedro",
+    "name": "João Pedro",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/os3osa1703682835.jpg",
+    "position": "Centre-Forward"
   },
   {
     "id": "player_aurele_amenda",
