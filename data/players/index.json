@@ -287,13 +287,6 @@
     "position": "Goalkeeper"
   },
   {
-    "id": "player_carlos_baleba",
-    "name": "Carlos Baleba",
-    "club_id": "team_brighton_and_hove_albion",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ey398d1772016488.jpg",
-    "position": "Defensive Midfield"
-  },
-  {
     "id": "player_charalambos_kostoulas",
     "name": "Charalampos Kostoulas",
     "club_id": "team_brighton_and_hove_albion",
@@ -348,6 +341,13 @@
     "club_id": "team_brighton_and_hove_albion",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/4ea6mr1631544242.jpg",
     "position": "Centre-Forward"
+  },
+  {
+    "id": "player_igor_julio",
+    "name": "Igor Julio",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8th0n11580503642.jpg",
+    "position": "Centre-Back"
   },
   {
     "id": "player_aaron_anselmino",
