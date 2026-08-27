@@ -252,13 +252,6 @@
     "position": "Goalkeeper"
   },
   {
-    "id": "player_ethan_pinnock",
-    "name": "Ethan Pinnock",
-    "club_id": "team_brentford",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1w7wyo1771939649.jpg",
-    "position": "Centre-Back"
-  },
-  {
     "id": "player_fabio_carvalho",
     "name": "Fabio Carvalho",
     "club_id": "team_brentford",
@@ -278,6 +271,13 @@
     "club_id": "team_brentford",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/lgxldx1708098593.jpg",
     "position": "Goalkeeper"
+  },
+  {
+    "id": "player_igor_thiago",
+    "name": "Igor Thiago",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dvar5j1771939878.jpg",
+    "position": "Centre-Forward"
   },
   {
     "id": "player_bart_verbruggen",
@@ -483,11 +483,11 @@
     "position": "Winger"
   },
   {
-    "id": "player_frank_lampard",
-    "name": "Frank Lampard",
-    "club_id": "team_coventry",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/qu60cy1718870905.jpg",
-    "position": "Manager"
+    "id": "player_ethan_pinnock",
+    "name": "Ethan Pinnock",
+    "club_id": "team_coventry_city",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1w7wyo1771939649.jpg",
+    "position": "Centre-Back"
   },
   {
     "id": "player_adam_wharton",
@@ -502,6 +502,13 @@
     "club_id": "team_crystal_palace",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/40nrhh1733668267.jpg",
     "position": "Attacker"
+  },
+  {
+    "id": "player_axel_disasi",
+    "name": "Axel Disasi",
+    "club_id": "team_crystal_palace",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/yzffmg1771427113.jpg",
+    "position": "Centre-Back"
   },
   {
     "id": "player_borna_sosa",
@@ -551,13 +558,6 @@
     "club_id": "team_crystal_palace",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bb6uua1779766697.jpg",
     "position": "Right-Back"
-  },
-  {
-    "id": "player_david_ozoh",
-    "name": "David Ozoh",
-    "club_id": "team_crystal_palace",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/sjf7rl1699733248.jpg",
-    "position": "Midfielder"
   },
   {
     "id": "player_adam_aznou",

@@ -1,0 +1,19 @@
+{
+  "id": "player_igor_thiago",
+  "name": "Igor Thiago",
+  "position": "Centre-Forward",
+  "nationality": "Brazil",
+  "birth_date": "2001-06-26",
+  "height": 191,
+  "weight": null,
+  "club_id": "team_brentford",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dvar5j1771939878.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34249031"
+  }
+}
