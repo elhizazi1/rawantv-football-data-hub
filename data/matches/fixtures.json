@@ -14730,13 +14730,13 @@
     "away_team": "team_real_sociedad_de_futbol",
     "stadium_id": null,
     "date": "2026-08-26T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 5,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_mateo_busquets_ferrer",
     "sources": {
       "football_data": "564631"
     }

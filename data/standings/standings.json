@@ -815,6 +815,17 @@
     "table": [
       {
         "position": 1,
+        "team_id": "team_real_madrid",
+        "played": 2,
+        "won": 2,
+        "drawn": 0,
+        "lost": 0,
+        "goals_for": 6,
+        "goals_against": 2,
+        "points": 6
+      },
+      {
+        "position": 2,
         "team_id": "team_sevilla_fc",
         "played": 2,
         "won": 2,
@@ -825,7 +836,7 @@
         "points": 6
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_real_betis_balompie",
         "played": 2,
         "won": 2,
@@ -836,7 +847,7 @@
         "points": 6
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "team_deportivo_alaves",
         "played": 2,
         "won": 1,
@@ -847,7 +858,7 @@
         "points": 4
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "team_club_atletico_de_madrid",
         "played": 2,
         "won": 1,
@@ -858,7 +869,7 @@
         "points": 4
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "team_barcelona",
         "played": 1,
         "won": 1,
@@ -869,7 +880,7 @@
         "points": 3
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "team_rcd_espanyol_de_barcelona",
         "played": 2,
         "won": 1,
@@ -877,17 +888,6 @@
         "lost": 1,
         "goals_for": 4,
         "goals_against": 2,
-        "points": 3
-      },
-      {
-        "position": 7,
-        "team_id": "team_real_madrid",
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "goals_for": 2,
-        "goals_against": 1,
         "points": 3
       },
       {
@@ -1013,17 +1013,6 @@
       },
       {
         "position": 19,
-        "team_id": "team_real_sociedad_de_futbol",
-        "played": 1,
-        "won": 0,
-        "drawn": 0,
-        "lost": 1,
-        "goals_for": 0,
-        "goals_against": 1,
-        "points": 0
-      },
-      {
-        "position": 20,
         "team_id": "team_athletic_club",
         "played": 1,
         "won": 0,
@@ -1031,6 +1020,17 @@
         "lost": 1,
         "goals_for": 1,
         "goals_against": 3,
+        "points": 0
+      },
+      {
+        "position": 20,
+        "team_id": "team_real_sociedad_de_futbol",
+        "played": 2,
+        "won": 0,
+        "drawn": 0,
+        "lost": 2,
+        "goals_for": 1,
+        "goals_against": 5,
         "points": 0
       }
     ]
