@@ -6,13 +6,13 @@
     "away_team": "team_vfb_stuttgart",
     "stadium_id": null,
     "date": "2026-08-28T18:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 5,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_soren_storks",
     "sources": {
       "football_data": "565776"
     }
@@ -9078,13 +9078,13 @@
     "away_team": "team_paris_saint_germain_fc",
     "stadium_id": null,
     "date": "2026-08-28T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_eric_wattellier",
     "sources": {
       "football_data": "559702"
     }
@@ -14784,10 +14784,10 @@
     "away_team": "team_elche_cf",
     "stadium_id": null,
     "date": "2026-08-28T17:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 2
     },
     "events": [],
     "referee_id": null,
@@ -14802,9 +14802,9 @@
     "away_team": "team_villarreal_cf",
     "stadium_id": null,
     "date": "2026-08-28T19:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
@@ -28284,13 +28284,13 @@
     "away_team": "team_venezia_fc",
     "stadium_id": null,
     "date": "2026-08-28T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_gianluca_manganiello",
     "sources": {
       "football_data": "558625"
     }
