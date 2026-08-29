@@ -21444,13 +21444,13 @@
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
     "date": "2026-08-28T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 4
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_andy_madley",
     "sources": {
       "football_data": "560555"
     }
@@ -22086,24 +22086,6 @@
     }
   },
   {
-    "id": "match_2026_1230",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_manchester_city_fc",
-    "away_team": "team_sunderland_afc",
-    "stadium_id": null,
-    "date": "2026-09-19T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560590"
-    }
-  },
-  {
     "id": "match_2026_1229",
     "competition_id": "competition_premier_league_2026",
     "home_team": "team_nottingham_forest_fc",
@@ -22137,6 +22119,24 @@
     "referee_id": null,
     "sources": {
       "football_data": "560582"
+    }
+  },
+  {
+    "id": "match_2026_1230",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_manchester_city_fc",
+    "away_team": "team_sunderland_afc",
+    "stadium_id": null,
+    "date": "2026-09-20T13:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560590"
     }
   },
   {
