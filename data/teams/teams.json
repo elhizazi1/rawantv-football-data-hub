@@ -782,15 +782,15 @@
     "logo": "https://crests.football-data.org/57.png"
   },
   {
-    "id": "team_chelsea_fc",
+    "id": "team_aston_villa_fc",
     "sources": {
-      "football_data": "61"
+      "football_data": "58"
     },
-    "name": "Chelsea FC",
-    "short_name": "CHE",
+    "name": "Aston Villa FC",
+    "short_name": "AVL",
     "country": "England",
-    "founded": 1905,
-    "logo": "https://crests.football-data.org/61.png"
+    "founded": 1872,
+    "logo": "https://crests.football-data.org/58.png"
   },
   {
     "id": "team_liverpool_fc",
@@ -815,37 +815,15 @@
     "logo": "https://crests.football-data.org/65.png"
   },
   {
-    "id": "team_newcastle_united_fc",
+    "id": "team_manchester_united",
     "sources": {
-      "football_data": "67"
+      "football_data": "66"
     },
-    "name": "Newcastle United FC",
-    "short_name": "NEW",
+    "name": "Manchester United FC",
+    "short_name": "MUN",
     "country": "England",
-    "founded": 1881,
-    "logo": "https://crests.football-data.org/67.png"
-  },
-  {
-    "id": "team_tottenham_hotspur_fc",
-    "sources": {
-      "football_data": "73"
-    },
-    "name": "Tottenham Hotspur FC",
-    "short_name": "TOT",
-    "country": "England",
-    "founded": 1882,
-    "logo": "https://crests.football-data.org/73.png"
-  },
-  {
-    "id": "team_athletic_club",
-    "sources": {
-      "football_data": "77"
-    },
-    "name": "Athletic Club",
-    "short_name": "ATH",
-    "country": "Spain",
-    "founded": 1898,
-    "logo": "https://crests.football-data.org/77.png"
+    "founded": 1878,
+    "logo": "https://crests.football-data.org/66.png"
   },
   {
     "id": "team_club_atletico_de_madrid",
@@ -870,6 +848,17 @@
     "logo": "https://crests.football-data.org/81.png"
   },
   {
+    "id": "team_real_betis_balompie",
+    "sources": {
+      "football_data": "90"
+    },
+    "name": "Real Betis Balompié",
+    "short_name": "BET",
+    "country": "Spain",
+    "founded": 1907,
+    "logo": "https://crests.football-data.org/90.png"
+  },
+  {
     "id": "team_villarreal_cf",
     "sources": {
       "football_data": "94"
@@ -881,15 +870,15 @@
     "logo": "https://crests.football-data.org/94.png"
   },
   {
-    "id": "team_atalanta_bc",
+    "id": "team_as_roma",
     "sources": {
-      "football_data": "102"
+      "football_data": "100"
     },
-    "name": "Atalanta BC",
-    "short_name": "ATA",
+    "name": "AS Roma",
+    "short_name": "ROM",
     "country": "Italy",
-    "founded": 1904,
-    "logo": "https://crests.football-data.org/102.png"
+    "founded": 1927,
+    "logo": "https://crests.football-data.org/100.png"
   },
   {
     "id": "team_fc_internazionale_milano",
@@ -901,17 +890,6 @@
     "country": "Italy",
     "founded": 1908,
     "logo": "https://crests.football-data.org/108.png"
-  },
-  {
-    "id": "team_juventus_fc",
-    "sources": {
-      "football_data": "109"
-    },
-    "name": "Juventus FC",
-    "short_name": "JUV",
-    "country": "Italy",
-    "founded": 1897,
-    "logo": "https://crests.football-data.org/109.png"
   },
   {
     "id": "team_ssc_napoli",
@@ -936,15 +914,26 @@
     "logo": "https://crests.football-data.org/498.png"
   },
   {
-    "id": "team_olympique_de_marseille",
+    "id": "team_fc_porto",
     "sources": {
-      "football_data": "516"
+      "football_data": "503"
     },
-    "name": "Olympique de Marseille",
-    "short_name": "MAR",
+    "name": "FC Porto",
+    "short_name": "FCP",
+    "country": "Portugal",
+    "founded": 1893,
+    "logo": "https://crests.football-data.org/503.png"
+  },
+  {
+    "id": "team_lille_osc",
+    "sources": {
+      "football_data": "521"
+    },
+    "name": "Lille OSC",
+    "short_name": "LIL",
     "country": "France",
-    "founded": 1898,
-    "logo": "https://crests.football-data.org/516.png"
+    "founded": 1944,
+    "logo": "https://crests.football-data.org/521.png"
   },
   {
     "id": "team_paris_saint_germain_fc",
@@ -958,15 +947,15 @@
     "logo": "https://crests.football-data.org/524.png"
   },
   {
-    "id": "team_as_monaco_fc",
+    "id": "team_racing_club_de_lens",
     "sources": {
-      "football_data": "548"
+      "football_data": "546"
     },
-    "name": "AS Monaco FC",
-    "short_name": "ASM",
-    "country": "Monaco",
-    "founded": 1919,
-    "logo": "https://crests.football-data.org/548.png"
+    "name": "Racing Club de Lens",
+    "short_name": "RCL",
+    "country": "France",
+    "founded": 1906,
+    "logo": "https://crests.football-data.org/546.png"
   },
   {
     "id": "team_galatasaray_sk",
@@ -980,26 +969,15 @@
     "logo": "https://crests.football-data.org/610.png"
   },
   {
-    "id": "team_qarabag_agdam_fk",
+    "id": "team_fenerbahce_sk",
     "sources": {
-      "football_data": "611"
+      "football_data": "613"
     },
-    "name": "Qarabağ Ağdam FK",
-    "short_name": "QAR",
-    "country": "Azerbaijan",
-    "founded": 1951,
-    "logo": "https://crests.football-data.org/611.png"
-  },
-  {
-    "id": "team_pae_olympiakos_sfp",
-    "sources": {
-      "football_data": "654"
-    },
-    "name": "PAE Olympiakos SFP",
-    "short_name": "OLY",
-    "country": "Greece",
-    "founded": 1925,
-    "logo": "https://crests.football-data.org/654.png"
+    "name": "Fenerbahçe SK",
+    "short_name": "FEN",
+    "country": "Turkey",
+    "founded": 1907,
+    "logo": "https://crests.football-data.org/613.png"
   },
   {
     "id": "team_psv",
@@ -1013,15 +991,15 @@
     "logo": "https://crests.football-data.org/674.png"
   },
   {
-    "id": "team_afc_ajax",
+    "id": "team_feyenoord_rotterdam",
     "sources": {
-      "football_data": "678"
+      "football_data": "675"
     },
-    "name": "AFC Ajax",
-    "short_name": "AJA",
+    "name": "Feyenoord Rotterdam",
+    "short_name": "FEY",
     "country": "Netherlands",
-    "founded": 1900,
-    "logo": "https://crests.football-data.org/678.png"
+    "founded": 1908,
+    "logo": "https://crests.football-data.org/675.png"
   },
   {
     "id": "team_club_brugge_kv",
@@ -1046,37 +1024,48 @@
     "logo": "https://crests.football-data.org/930.png"
   },
   {
-    "id": "team_fc_kobenhavn",
+    "id": "team_fk_shakhtar_donetsk",
     "sources": {
-      "football_data": "1876"
+      "football_data": "1887"
     },
-    "name": "FC København",
-    "short_name": "KOB",
-    "country": "Denmark",
-    "founded": 1992,
-    "logo": "https://crests.football-data.org/1876.png"
+    "name": "FK Shakhtar Donetsk",
+    "short_name": "SHD",
+    "country": "Ukraine",
+    "founded": 1936,
+    "logo": "https://crests.football-data.org/1887.png"
   },
   {
-    "id": "team_sport_lisboa_e_benfica",
+    "id": "team_pae_aek",
     "sources": {
-      "football_data": "1903"
+      "football_data": "1899"
     },
-    "name": "Sport Lisboa e Benfica",
-    "short_name": "BEN",
-    "country": "Portugal",
-    "founded": 1904,
-    "logo": "https://crests.football-data.org/1903.png"
+    "name": "PAE AEK",
+    "short_name": "AEK",
+    "country": "Greece",
+    "founded": 1924,
+    "logo": "https://crests.football-data.org/1899.png"
   },
   {
-    "id": "team_royale_union_saint_gilloise",
+    "id": "team_lask_linz",
     "sources": {
-      "football_data": "3929"
+      "football_data": "2016"
     },
-    "name": "Royale Union Saint-Gilloise",
-    "short_name": "USG",
-    "country": "Belgium",
-    "founded": 1897,
-    "logo": "https://crests.football-data.org/3929.png"
+    "name": "LASK Linz",
+    "short_name": "LIN",
+    "country": "Austria",
+    "founded": 1908,
+    "logo": "https://crests.football-data.org/2016.png"
+  },
+  {
+    "id": "team_viking_fk",
+    "sources": {
+      "football_data": "5720"
+    },
+    "name": "Viking FK",
+    "short_name": "VIK",
+    "country": "Norway",
+    "founded": 1899,
+    "logo": "https://crests.football-data.org/5720.png"
   },
   {
     "id": "team_fk_bodoglimt",
@@ -1090,24 +1079,36 @@
     "logo": "https://crests.football-data.org/5721.png"
   },
   {
-    "id": "team_fk_kairat",
+    "id": "team_como_1907",
     "sources": {
-      "football_data": "10601"
+      "football_data": "7397"
     },
-    "name": "FK Kairat",
-    "short_name": "KAI",
-    "country": "Kazakhstan",
-    "logo": "https://crests.football-data.org/10601.png"
+    "name": "Como 1907",
+    "short_name": "COM",
+    "country": "Italy",
+    "founded": 1907,
+    "logo": "https://crests.football-data.org/7397.png"
   },
   {
-    "id": "team_paphos_fc",
+    "id": "team_sk_slovan_bratislava",
     "sources": {
-      "football_data": "11034"
+      "football_data": "7509"
     },
-    "name": "Paphos FC",
-    "short_name": "AEP",
-    "country": "Cyprus",
-    "logo": "https://crests.football-data.org/11034.png"
+    "name": "ŠK Slovan Bratislava",
+    "short_name": "SBA",
+    "country": "Slovakia",
+    "founded": 1919,
+    "logo": "https://crests.football-data.org/7509.png"
+  },
+  {
+    "id": "team_sabah_fk",
+    "sources": {
+      "football_data": "10233"
+    },
+    "name": "Sabah FK",
+    "short_name": "SAB",
+    "country": "Azerbaijan",
+    "logo": "https://crests.football-data.org/10233.png"
   },
   {
     "id": "team_toulouse_fc",
@@ -1132,6 +1133,17 @@
     "logo": "https://crests.football-data.org/512.png"
   },
   {
+    "id": "team_olympique_de_marseille",
+    "sources": {
+      "football_data": "516"
+    },
+    "name": "Olympique de Marseille",
+    "short_name": "MAR",
+    "country": "France",
+    "founded": 1898,
+    "logo": "https://crests.football-data.org/516.png"
+  },
+  {
     "id": "team_aj_auxerre",
     "sources": {
       "football_data": "519"
@@ -1141,17 +1153,6 @@
     "country": "France",
     "founded": 1905,
     "logo": "https://crests.football-data.org/519.png"
-  },
-  {
-    "id": "team_lille_osc",
-    "sources": {
-      "football_data": "521"
-    },
-    "name": "Lille OSC",
-    "short_name": "LIL",
-    "country": "France",
-    "founded": 1944,
-    "logo": "https://crests.football-data.org/521.png"
   },
   {
     "id": "team_ogc_nice",
@@ -1242,15 +1243,15 @@
     "logo": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg"
   },
   {
-    "id": "team_racing_club_de_lens",
+    "id": "team_as_monaco_fc",
     "sources": {
-      "football_data": "546"
+      "football_data": "548"
     },
-    "name": "Racing Club de Lens",
-    "short_name": "RCL",
-    "country": "France",
-    "founded": 1906,
-    "logo": "https://crests.football-data.org/546.png"
+    "name": "AS Monaco FC",
+    "short_name": "ASM",
+    "country": "Monaco",
+    "founded": 1919,
+    "logo": "https://crests.football-data.org/548.png"
   },
   {
     "id": "team_rc_strasbourg_alsace",
@@ -1273,6 +1274,17 @@
     "country": "France",
     "founded": 1969,
     "logo": "https://crests.football-data.org/1045.png"
+  },
+  {
+    "id": "team_athletic_club",
+    "sources": {
+      "football_data": "77"
+    },
+    "name": "Athletic Club",
+    "short_name": "ATH",
+    "country": "Spain",
+    "founded": 1898,
+    "logo": "https://crests.football-data.org/77.png"
   },
   {
     "id": "team_ca_osasuna",
@@ -1339,17 +1351,6 @@
     "country": "Spain",
     "founded": 1909,
     "logo": "https://crests.football-data.org/88.png"
-  },
-  {
-    "id": "team_real_betis_balompie",
-    "sources": {
-      "football_data": "90"
-    },
-    "name": "Real Betis Balompié",
-    "short_name": "BET",
-    "country": "Spain",
-    "founded": 1907,
-    "logo": "https://crests.football-data.org/90.png"
   },
   {
     "id": "team_real_sociedad_de_futbol",
@@ -1429,15 +1430,15 @@
     "logo": "https://crests.football-data.org/5335.png"
   },
   {
-    "id": "team_aston_villa_fc",
+    "id": "team_chelsea_fc",
     "sources": {
-      "football_data": "58"
+      "football_data": "61"
     },
-    "name": "Aston Villa FC",
-    "short_name": "AVL",
+    "name": "Chelsea FC",
+    "short_name": "CHE",
     "country": "England",
-    "founded": 1872,
-    "logo": "https://crests.football-data.org/58.png"
+    "founded": 1905,
+    "logo": "https://crests.football-data.org/61.png"
   },
   {
     "id": "team_everton_fc",
@@ -1462,15 +1463,15 @@
     "logo": "https://crests.football-data.org/63.png"
   },
   {
-    "id": "team_manchester_united",
+    "id": "team_newcastle_united_fc",
     "sources": {
-      "football_data": "66"
+      "football_data": "67"
     },
-    "name": "Manchester United FC",
-    "short_name": "MUN",
+    "name": "Newcastle United FC",
+    "short_name": "NEW",
     "country": "England",
-    "founded": 1878,
-    "logo": "https://crests.football-data.org/66.png"
+    "founded": 1881,
+    "logo": "https://crests.football-data.org/67.png"
   },
   {
     "id": "team_sunderland_afc",
@@ -1482,6 +1483,17 @@
     "country": "England",
     "founded": 1879,
     "logo": "https://crests.football-data.org/71.png"
+  },
+  {
+    "id": "team_tottenham_hotspur_fc",
+    "sources": {
+      "football_data": "73"
+    },
+    "name": "Tottenham Hotspur FC",
+    "short_name": "TOT",
+    "country": "England",
+    "founded": 1882,
+    "logo": "https://crests.football-data.org/73.png"
   },
   {
     "id": "team_hull_city_afc",
@@ -1594,15 +1606,15 @@
     "logo": "https://crests.football-data.org/99.png"
   },
   {
-    "id": "team_as_roma",
+    "id": "team_atalanta_bc",
     "sources": {
-      "football_data": "100"
+      "football_data": "102"
     },
-    "name": "AS Roma",
-    "short_name": "ROM",
+    "name": "Atalanta BC",
+    "short_name": "ATA",
     "country": "Italy",
-    "founded": 1927,
-    "logo": "https://crests.football-data.org/100.png"
+    "founded": 1904,
+    "logo": "https://crests.football-data.org/102.png"
   },
   {
     "id": "team_bologna_fc_1909",
@@ -1636,6 +1648,17 @@
     "country": "Italy",
     "founded": 1893,
     "logo": "https://crests.football-data.org/107.png"
+  },
+  {
+    "id": "team_juventus_fc",
+    "sources": {
+      "football_data": "109"
+    },
+    "name": "Juventus FC",
+    "short_name": "JUV",
+    "country": "Italy",
+    "founded": 1897,
+    "logo": "https://crests.football-data.org/109.png"
   },
   {
     "id": "team_ss_lazio",
@@ -1735,17 +1758,6 @@
     "country": "Italy",
     "founded": 1912,
     "logo": "https://crests.football-data.org/5911.png"
-  },
-  {
-    "id": "team_como_1907",
-    "sources": {
-      "football_data": "7397"
-    },
-    "name": "Como 1907",
-    "short_name": "COM",
-    "country": "Italy",
-    "founded": 1907,
-    "logo": "https://crests.football-data.org/7397.png"
   },
   {
     "id": "team_uruguay",

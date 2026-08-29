@@ -4426,5 +4426,14 @@
   "thesportsdb:34169537": "player_igor_julio",
   "thesportsdb:34169326": "player_joao_pedro",
   "thesportsdb:34249031": "player_igor_thiago",
-  "thesportsdb:34166118": "player_axel_disasi"
+  "thesportsdb:34166118": "player_axel_disasi",
+  "football_data:503": "team_fc_porto",
+  "football_data:613": "team_fenerbahce_sk",
+  "football_data:675": "team_feyenoord_rotterdam",
+  "football_data:1887": "team_fk_shakhtar_donetsk",
+  "football_data:1899": "team_pae_aek",
+  "football_data:2016": "team_lask_linz",
+  "football_data:5720": "team_viking_fk",
+  "football_data:7509": "team_sk_slovan_bratislava",
+  "football_data:10233": "team_sabah_fk"
 }
