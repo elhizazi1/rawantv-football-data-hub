@@ -1,0 +1,19 @@
+{
+  "id": "player_el_hadji_malick_diouf",
+  "name": "El Hadji Malick Diouf",
+  "position": "Left-Back",
+  "nationality": "Senegal",
+  "birth_date": "2004-12-29",
+  "height": 183,
+  "weight": 75,
+  "club_id": "team_brentford",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/nuctm81755776005.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34229663"
+  }
+}

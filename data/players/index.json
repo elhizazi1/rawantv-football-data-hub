@@ -119,13 +119,6 @@
     "position": "Right Winger"
   },
   {
-    "id": "player_emiliano_martinez",
-    "name": "Emiliano Martinez",
-    "club_id": "team_aston_villa",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/7drp311770201331.jpg",
-    "position": "Goalkeeper"
-  },
-  {
     "id": "player_george_hemmings",
     "name": "George Hemmings",
     "club_id": "team_aston_villa",
@@ -138,6 +131,13 @@
     "club_id": "team_aston_villa",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kwj0ts1770201186.jpg",
     "position": "Left-Back"
+  },
+  {
+    "id": "player_jamaldeen_jimoh_aloba",
+    "name": "Jamaldeen Jimoh-Aloba",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9m5wvn1769763171.jpg",
+    "position": "Midfielder"
   },
   {
     "id": "player_adam_smith",
@@ -245,6 +245,13 @@
     "position": "Right Winger"
   },
   {
+    "id": "player_el_hadji_malick_diouf",
+    "name": "El Hadji Malick Diouf",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/nuctm81755776005.jpg",
+    "position": "Left-Back"
+  },
+  {
     "id": "player_ellery_balcombe",
     "name": "Ellery Balcombe",
     "club_id": "team_brentford",
@@ -271,13 +278,6 @@
     "club_id": "team_brentford",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/lgxldx1708098593.jpg",
     "position": "Goalkeeper"
-  },
-  {
-    "id": "player_igor_thiago",
-    "name": "Igor Thiago",
-    "club_id": "team_brentford",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dvar5j1771939878.jpg",
-    "position": "Centre-Forward"
   },
   {
     "id": "player_bart_verbruggen",
@@ -378,6 +378,13 @@
     "position": "Defensive Midfield"
   },
   {
+    "id": "player_emiliano_martinez",
+    "name": "Emiliano Martinez",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/7drp311770201331.jpg",
+    "position": "Goalkeeper"
+  },
+  {
     "id": "player_enzo_fernandez",
     "name": "Enzo Fernández",
     "club_id": "team_chelsea",
@@ -411,13 +418,6 @@
     "club_id": "team_chelsea",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kc467a1659533292.jpg",
     "position": "Midfielder"
-  },
-  {
-    "id": "player_joao_pedro",
-    "name": "João Pedro",
-    "club_id": "team_chelsea",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/os3osa1703682835.jpg",
-    "position": "Centre-Forward"
   },
   {
     "id": "player_aurele_amenda",
