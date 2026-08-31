@@ -11526,9 +11526,9 @@
     "away_team": "team_getafe_cf",
     "stadium_id": null,
     "date": "2026-08-31T17:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
@@ -18210,7 +18210,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_adrian_gillett",
     "sources": {
       "football_data": "560557"
     }
@@ -25026,13 +25026,13 @@
     "away_team": "team_as_roma",
     "stadium_id": null,
     "date": "2026-08-31T16:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 4
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_daniele_chiffi",
     "sources": {
       "football_data": "558621"
     }
@@ -25050,7 +25050,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_daniele_doveri",
     "sources": {
       "football_data": "558628"
     }
@@ -25205,7 +25205,7 @@
     "home_team": "team_cagliari_calcio",
     "away_team": "team_us_lecce",
     "stadium_id": null,
-    "date": "2026-09-07T16:00:00Z",
+    "date": "2026-09-07T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,

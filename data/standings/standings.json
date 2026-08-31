@@ -446,6 +446,17 @@
       },
       {
         "position": 4,
+        "team_id": "team_ca_osasuna",
+        "played": 3,
+        "won": 2,
+        "drawn": 1,
+        "lost": 0,
+        "goals_for": 3,
+        "goals_against": 1,
+        "points": 7
+      },
+      {
+        "position": 5,
         "team_id": "team_barcelona",
         "played": 2,
         "won": 2,
@@ -456,7 +467,7 @@
         "points": 6
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "team_sevilla_fc",
         "played": 3,
         "won": 2,
@@ -467,7 +478,7 @@
         "points": 6
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "team_real_betis_balompie",
         "played": 3,
         "won": 2,
@@ -478,7 +489,7 @@
         "points": 6
       },
       {
-        "position": 7,
+        "position": 8,
         "team_id": "team_rc_deportivo_la_coruna",
         "played": 3,
         "won": 1,
@@ -487,17 +498,6 @@
         "goals_for": 5,
         "goals_against": 3,
         "points": 5
-      },
-      {
-        "position": 8,
-        "team_id": "team_ca_osasuna",
-        "played": 2,
-        "won": 1,
-        "drawn": 1,
-        "lost": 0,
-        "goals_for": 2,
-        "goals_against": 1,
-        "points": 4
       },
       {
         "position": 9,
@@ -545,17 +545,6 @@
       },
       {
         "position": 13,
-        "team_id": "team_getafe_cf",
-        "played": 2,
-        "won": 1,
-        "drawn": 0,
-        "lost": 1,
-        "goals_for": 1,
-        "goals_against": 3,
-        "points": 3
-      },
-      {
-        "position": 14,
         "team_id": "team_real_sociedad_de_futbol",
         "played": 3,
         "won": 1,
@@ -563,6 +552,17 @@
         "lost": 2,
         "goals_for": 3,
         "goals_against": 6,
+        "points": 3
+      },
+      {
+        "position": 14,
+        "team_id": "team_getafe_cf",
+        "played": 3,
+        "won": 1,
+        "drawn": 0,
+        "lost": 2,
+        "goals_for": 1,
+        "goals_against": 4,
         "points": 3
       },
       {
@@ -865,6 +865,17 @@
     "table": [
       {
         "position": 1,
+        "team_id": "team_as_roma",
+        "played": 2,
+        "won": 2,
+        "drawn": 0,
+        "lost": 0,
+        "goals_for": 8,
+        "goals_against": 0,
+        "points": 6
+      },
+      {
+        "position": 2,
         "team_id": "team_fc_internazionale_milano",
         "played": 2,
         "won": 2,
@@ -875,7 +886,7 @@
         "points": 6
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_ac_milan",
         "played": 2,
         "won": 2,
@@ -886,7 +897,7 @@
         "points": 6
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "team_juventus_fc",
         "played": 2,
         "won": 2,
@@ -897,7 +908,7 @@
         "points": 6
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "team_ss_lazio",
         "played": 2,
         "won": 2,
@@ -908,7 +919,7 @@
         "points": 6
       },
       {
-        "position": 5,
+        "position": 6,
         "team_id": "team_udinese_calcio",
         "played": 2,
         "won": 1,
@@ -919,7 +930,7 @@
         "points": 4
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "team_como_1907",
         "played": 2,
         "won": 1,
@@ -928,17 +939,6 @@
         "goals_for": 3,
         "goals_against": 2,
         "points": 4
-      },
-      {
-        "position": 7,
-        "team_id": "team_as_roma",
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "goals_for": 4,
-        "goals_against": 0,
-        "points": 3
       },
       {
         "position": 8,
@@ -953,17 +953,6 @@
       },
       {
         "position": 9,
-        "team_id": "team_us_lecce",
-        "played": 1,
-        "won": 1,
-        "drawn": 0,
-        "lost": 0,
-        "goals_for": 2,
-        "goals_against": 0,
-        "points": 3
-      },
-      {
-        "position": 10,
         "team_id": "team_ssc_napoli",
         "played": 2,
         "won": 1,
@@ -974,7 +963,7 @@
         "points": 3
       },
       {
-        "position": 11,
+        "position": 10,
         "team_id": "team_atalanta_bc",
         "played": 1,
         "won": 1,
@@ -985,7 +974,7 @@
         "points": 3
       },
       {
-        "position": 12,
+        "position": 11,
         "team_id": "team_us_sassuolo_calcio",
         "played": 2,
         "won": 1,
@@ -996,7 +985,7 @@
         "points": 3
       },
       {
-        "position": 13,
+        "position": 12,
         "team_id": "team_cagliari_calcio",
         "played": 2,
         "won": 1,
@@ -1004,6 +993,17 @@
         "lost": 1,
         "goals_for": 1,
         "goals_against": 1,
+        "points": 3
+      },
+      {
+        "position": 13,
+        "team_id": "team_us_lecce",
+        "played": 2,
+        "won": 1,
+        "drawn": 0,
+        "lost": 1,
+        "goals_for": 2,
+        "goals_against": 4,
         "points": 3
       },
       {
