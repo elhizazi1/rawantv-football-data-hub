@@ -6156,12 +6156,12 @@
     }
   },
   {
-    "id": "match_2026_0532",
+    "id": "match_2026_0538",
     "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_aj_auxerre",
-    "away_team": "team_stade_brestois_29",
+    "home_team": "team_as_monaco_fc",
+    "away_team": "team_racing_club_de_lens",
     "stadium_id": null,
-    "date": "2026-09-19T00:00:00Z",
+    "date": "2026-09-18T18:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6170,43 +6170,7 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "559676"
-    }
-  },
-  {
-    "id": "match_2026_0533",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_le_mans_fc",
-    "away_team": "team_fc_lorient",
-    "stadium_id": null,
-    "date": "2026-09-19T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559677"
-    }
-  },
-  {
-    "id": "match_2026_0534",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_ogc_nice",
-    "away_team": "team_lille_osc",
-    "stadium_id": null,
-    "date": "2026-09-19T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559678"
+      "football_data": "559682"
     }
   },
   {
@@ -6215,7 +6179,7 @@
     "home_team": "team_paris_fc",
     "away_team": "team_rc_strasbourg_alsace",
     "stadium_id": null,
-    "date": "2026-09-19T00:00:00Z",
+    "date": "2026-09-19T15:15:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6228,12 +6192,30 @@
     }
   },
   {
+    "id": "match_2026_0533",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_le_mans_fc",
+    "away_team": "team_fc_lorient",
+    "stadium_id": null,
+    "date": "2026-09-19T18:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559677"
+    }
+  },
+  {
     "id": "match_2026_0536",
     "competition_id": "competition_ligue_1_2026",
     "home_team": "team_toulouse_fc",
     "away_team": "team_le_havre_ac",
     "stadium_id": null,
-    "date": "2026-09-19T00:00:00Z",
+    "date": "2026-09-19T18:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6251,7 +6233,7 @@
     "home_team": "team_angers_sco",
     "away_team": "team_es_troyes_ac",
     "stadium_id": null,
-    "date": "2026-09-19T00:00:00Z",
+    "date": "2026-09-19T18:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6264,30 +6246,12 @@
     }
   },
   {
-    "id": "match_2026_0538",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_as_monaco_fc",
-    "away_team": "team_racing_club_de_lens",
-    "stadium_id": null,
-    "date": "2026-09-19T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559682"
-    }
-  },
-  {
     "id": "match_2026_0539",
     "competition_id": "competition_ligue_1_2026",
     "home_team": "team_olympique_lyonnais",
     "away_team": "team_stade_rennais_fc_1901",
     "stadium_id": null,
-    "date": "2026-09-19T00:00:00Z",
+    "date": "2026-09-19T18:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6297,6 +6261,42 @@
     "referee_id": null,
     "sources": {
       "football_data": "559683"
+    }
+  },
+  {
+    "id": "match_2026_0532",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_aj_auxerre",
+    "away_team": "team_stade_brestois_29",
+    "stadium_id": null,
+    "date": "2026-09-20T13:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559676"
+    }
+  },
+  {
+    "id": "match_2026_0534",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_ogc_nice",
+    "away_team": "team_lille_osc",
+    "stadium_id": null,
+    "date": "2026-09-20T15:15:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559678"
     }
   },
   {
@@ -11526,9 +11526,9 @@
     "away_team": "team_getafe_cf",
     "stadium_id": null,
     "date": "2026-08-31T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
@@ -11544,10 +11544,10 @@
     "away_team": "team_rayo_vallecano_de_madrid",
     "stadium_id": null,
     "date": "2026-08-31T19:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 5,
+      "away": 2
     },
     "events": [],
     "referee_id": null,
@@ -12096,6 +12096,24 @@
     }
   },
   {
+    "id": "match_2026_0866",
+    "competition_id": "competition_primera_division_2026",
+    "home_team": "team_rcd_espanyol_de_barcelona",
+    "away_team": "team_elche_cf",
+    "stadium_id": null,
+    "date": "2026-09-18T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "564692"
+    }
+  },
+  {
     "id": "match_2026_0867",
     "competition_id": "competition_primera_division_2026",
     "home_team": "team_ca_osasuna",
@@ -12168,42 +12186,6 @@
     }
   },
   {
-    "id": "match_2026_0863",
-    "competition_id": "competition_primera_division_2026",
-    "home_team": "team_valencia_cf",
-    "away_team": "team_real_sociedad_de_futbol",
-    "stadium_id": null,
-    "date": "2026-09-20T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "564689"
-    }
-  },
-  {
-    "id": "match_2026_0866",
-    "competition_id": "competition_primera_division_2026",
-    "home_team": "team_rcd_espanyol_de_barcelona",
-    "away_team": "team_elche_cf",
-    "stadium_id": null,
-    "date": "2026-09-20T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "564692"
-    }
-  },
-  {
     "id": "match_2026_0871",
     "competition_id": "competition_primera_division_2026",
     "home_team": "team_getafe_cf",
@@ -12273,6 +12255,24 @@
     "referee_id": null,
     "sources": {
       "football_data": "564696"
+    }
+  },
+  {
+    "id": "match_2026_0863",
+    "competition_id": "competition_primera_division_2026",
+    "home_team": "team_valencia_cf",
+    "away_team": "team_real_sociedad_de_futbol",
+    "stadium_id": null,
+    "date": "2026-09-20T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "564689"
     }
   },
   {
@@ -18204,10 +18204,10 @@
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
     "date": "2026-08-31T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_adrian_gillett",
@@ -25026,10 +25026,10 @@
     "away_team": "team_as_roma",
     "stadium_id": null,
     "date": "2026-08-31T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 4
     },
     "events": [],
     "referee_id": "ref_daniele_chiffi",
@@ -25044,9 +25044,9 @@
     "away_team": "team_bologna_fc_1909",
     "stadium_id": null,
     "date": "2026-08-31T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
@@ -25205,7 +25205,7 @@
     "home_team": "team_cagliari_calcio",
     "away_team": "team_us_lecce",
     "stadium_id": null,
-    "date": "2026-09-07T16:00:00Z",
+    "date": "2026-09-07T16:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25272,10 +25272,10 @@
     }
   },
   {
-    "id": "match_2026_1295",
+    "id": "match_2026_1287",
     "competition_id": "competition_serie_a_2026",
-    "home_team": "team_us_sassuolo_calcio",
-    "away_team": "team_juventus_fc",
+    "home_team": "team_ss_lazio",
+    "away_team": "team_ac_milan",
     "stadium_id": null,
     "date": "2026-09-12T16:00:00Z",
     "status": "scheduled",
@@ -25286,7 +25286,7 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "558608"
+      "football_data": "558600"
     }
   },
   {
@@ -25305,42 +25305,6 @@
     "referee_id": null,
     "sources": {
       "football_data": "558607"
-    }
-  },
-  {
-    "id": "match_2026_1290",
-    "competition_id": "competition_serie_a_2026",
-    "home_team": "team_torino_fc",
-    "away_team": "team_as_roma",
-    "stadium_id": null,
-    "date": "2026-09-13T10:30:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "558603"
-    }
-  },
-  {
-    "id": "match_2026_1289",
-    "competition_id": "competition_serie_a_2026",
-    "home_team": "team_como_1907",
-    "away_team": "team_parma_calcio_1913",
-    "stadium_id": null,
-    "date": "2026-09-13T13:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "558602"
     }
   },
   {
@@ -25380,10 +25344,10 @@
     }
   },
   {
-    "id": "match_2026_1287",
+    "id": "match_2026_1295",
     "competition_id": "competition_serie_a_2026",
-    "home_team": "team_ss_lazio",
-    "away_team": "team_ac_milan",
+    "home_team": "team_us_sassuolo_calcio",
+    "away_team": "team_juventus_fc",
     "stadium_id": null,
     "date": "2026-09-13T18:45:00Z",
     "status": "scheduled",
@@ -25394,7 +25358,43 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "558600"
+      "football_data": "558608"
+    }
+  },
+  {
+    "id": "match_2026_1289",
+    "competition_id": "competition_serie_a_2026",
+    "home_team": "team_como_1907",
+    "away_team": "team_parma_calcio_1913",
+    "stadium_id": null,
+    "date": "2026-09-14T16:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "558602"
+    }
+  },
+  {
+    "id": "match_2026_1290",
+    "competition_id": "competition_serie_a_2026",
+    "home_team": "team_torino_fc",
+    "away_team": "team_as_roma",
+    "stadium_id": null,
+    "date": "2026-09-14T16:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "558603"
     }
   },
   {
