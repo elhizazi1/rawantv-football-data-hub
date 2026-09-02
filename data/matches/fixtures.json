@@ -18630,24 +18630,6 @@
     }
   },
   {
-    "id": "match_2026_1225",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_leeds_united_fc",
-    "away_team": "team_crystal_palace_fc",
-    "stadium_id": null,
-    "date": "2026-09-19T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560585"
-    }
-  },
-  {
     "id": "match_2026_1226",
     "competition_id": "competition_premier_league_2026",
     "home_team": "team_brighton_and_hove_albion_fc",
@@ -18717,6 +18699,24 @@
     "referee_id": null,
     "sources": {
       "football_data": "560582"
+    }
+  },
+  {
+    "id": "match_2026_1225",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_leeds_united_fc",
+    "away_team": "team_crystal_palace_fc",
+    "stadium_id": null,
+    "date": "2026-09-20T13:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560585"
     }
   },
   {

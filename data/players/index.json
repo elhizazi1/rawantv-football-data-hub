@@ -98,13 +98,6 @@
     "position": "Defensive Midfield"
   },
   {
-    "id": "player_bradley_paul_burrowes",
-    "name": "Bradley-Paul Burrowes",
-    "club_id": "team_aston_villa",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/uxp2yx1770199284.jpg",
-    "position": "Midfielder"
-  },
-  {
     "id": "player_brian_madjo",
     "name": "Brian Madjo",
     "club_id": "team_aston_villa",
@@ -138,6 +131,13 @@
     "club_id": "team_aston_villa",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9m5wvn1769763171.jpg",
     "position": "Midfielder"
+  },
+  {
+    "id": "player_james_wright",
+    "name": "James Wright",
+    "club_id": "team_aston_villa",
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/dx5gsz1788290290.jpg",
+    "position": "Goalkeeper"
   },
   {
     "id": "player_adam_smith",
@@ -196,18 +196,18 @@
     "position": "Right Winger"
   },
   {
-    "id": "player_callum_wilson",
-    "name": "Callum Wilson",
-    "club_id": "team_bournemouth",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/fb3m3z1772134076.jpg",
-    "position": "Centre-Forward"
-  },
-  {
     "id": "player_daniel_jebbison",
     "name": "Daniel Jebbison",
     "club_id": "team_bournemouth",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/yw9m091628334323.jpg",
     "position": "Centre-Forward"
+  },
+  {
+    "id": "player_david_brooks",
+    "name": "David Brooks",
+    "club_id": "team_bournemouth",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tehtnz1771750805.jpg",
+    "position": "Right Winger"
   },
   {
     "id": "player_aaron_hickey",
@@ -229,6 +229,13 @@
     "club_id": "team_brentford",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/u8a4go1767615967.jpg",
     "position": "Defender"
+  },
+  {
+    "id": "player_callum_wilson",
+    "name": "Callum Wilson",
+    "club_id": "team_brentford",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/fb3m3z1772134076.jpg",
+    "position": "Centre-Forward"
   },
   {
     "id": "player_caoimhin_kelleher",
@@ -273,13 +280,6 @@
     "position": "Attacker"
   },
   {
-    "id": "player_hakon_rafn_valdimarsson",
-    "name": "Hákon Rafn Valdimarsson",
-    "club_id": "team_brentford",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/lgxldx1708098593.jpg",
-    "position": "Goalkeeper"
-  },
-  {
     "id": "player_bart_verbruggen",
     "name": "Bart Verbruggen",
     "club_id": "team_brighton_and_hove_albion",
@@ -306,13 +306,6 @@
     "club_id": "team_brighton_and_hove_albion",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mpmz961772016796.jpg",
     "position": "Central Midfield"
-  },
-  {
-    "id": "player_eiran_cashin",
-    "name": "Eiran Cashin",
-    "club_id": "team_brighton_and_hove_albion",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ekef3i1697280845.jpg",
-    "position": "Midfielder"
   },
   {
     "id": "player_evan_ferguson",
@@ -343,11 +336,18 @@
     "position": "Centre-Forward"
   },
   {
-    "id": "player_igor_julio",
-    "name": "Igor Julio",
+    "id": "player_jack_hinshelwood",
+    "name": "Jack Hinshelwood",
     "club_id": "team_brighton_and_hove_albion",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8th0n11580503642.jpg",
-    "position": "Centre-Back"
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/wjoqd01701950514.jpg",
+    "position": "Midfielder"
+  },
+  {
+    "id": "player_jaouen_hadjam",
+    "name": "Jaouen Hadjam",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/us0ui21678357609.jpg",
+    "position": "Left-Back"
   },
   {
     "id": "player_aaron_anselmino",
@@ -369,13 +369,6 @@
     "club_id": "team_chelsea",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/f5sgpu1772017716.jpg",
     "position": "Centre-Forward"
-  },
-  {
-    "id": "player_dario_essugo",
-    "name": "Dário Essugo",
-    "club_id": "team_chelsea",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/usgaou1771427059.jpg",
-    "position": "Defensive Midfield"
   },
   {
     "id": "player_emiliano_martinez",
@@ -418,6 +411,13 @@
     "club_id": "team_chelsea",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kc467a1659533292.jpg",
     "position": "Midfielder"
+  },
+  {
+    "id": "player_joao_pedro",
+    "name": "João Pedro",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/os3osa1703682835.jpg",
+    "position": "Centre-Forward"
   },
   {
     "id": "player_aurele_amenda",
@@ -567,13 +567,6 @@
     "position": "Defender"
   },
   {
-    "id": "player_beto",
-    "name": "Beto",
-    "club_id": "team_everton",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/gwwydk1632855624.jpg",
-    "position": "Centre-Forward"
-  },
-  {
     "id": "player_brennan_johnson",
     "name": "Brennan Johnson",
     "club_id": "team_everton",
@@ -623,11 +616,18 @@
     "position": "Defensive Midfield"
   },
   {
-    "id": "player_iliman_ndiaye",
-    "name": "Iliman Ndiaye",
+    "id": "player_jack_grealish",
+    "name": "Jack Grealish",
     "club_id": "team_everton",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/mewy8h1628334209.jpg",
-    "position": "Midfielder"
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ah2exe1771944888.jpg",
+    "position": "Left Wing"
+  },
+  {
+    "id": "player_jake_obrien",
+    "name": "Jake O'Brien",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/w16wc91771945248.jpg",
+    "position": "Defender"
   },
   {
     "id": "player_alex_iwobi",

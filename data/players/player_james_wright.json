@@ -1,0 +1,19 @@
+{
+  "id": "player_james_wright",
+  "name": "James Wright",
+  "position": "Goalkeeper",
+  "nationality": "England",
+  "birth_date": "2004-12-02",
+  "height": 1,
+  "weight": null,
+  "club_id": "team_aston_villa",
+  "photo": "https://www.thesportsdb.com/images/media/player/thumb/dx5gsz1788290290.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34284206"
+  }
+}
