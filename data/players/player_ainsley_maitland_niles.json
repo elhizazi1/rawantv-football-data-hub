@@ -1,0 +1,19 @@
+{
+  "id": "player_ainsley_maitland_niles",
+  "name": "Ainsley Maitland-Niles",
+  "position": "Midfielder",
+  "nationality": "England",
+  "birth_date": "1997-08-29",
+  "height": 5,
+  "weight": 157,
+  "club_id": "team_everton",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/3775d71510853007.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34145444"
+  }
+}

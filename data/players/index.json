@@ -322,6 +322,13 @@
     "position": "Manager"
   },
   {
+    "id": "player_femi_azeez",
+    "name": "Femi Azeez",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1scvy21628336778.jpg",
+    "position": "Midfielder"
+  },
+  {
     "id": "player_ferdi_kadioglu",
     "name": "Ferdi Kadıoğlu",
     "club_id": "team_brighton_and_hove_albion",
@@ -336,18 +343,11 @@
     "position": "Centre-Forward"
   },
   {
-    "id": "player_jack_hinshelwood",
-    "name": "Jack Hinshelwood",
+    "id": "player_ibrahim_osman",
+    "name": "Ibrahim Osman",
     "club_id": "team_brighton_and_hove_albion",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/wjoqd01701950514.jpg",
-    "position": "Midfielder"
-  },
-  {
-    "id": "player_jaouen_hadjam",
-    "name": "Jaouen Hadjam",
-    "club_id": "team_brighton_and_hove_albion",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/us0ui21678357609.jpg",
-    "position": "Left-Back"
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1z0gw81702207994.jpg",
+    "position": "Winger"
   },
   {
     "id": "player_aaron_anselmino",
@@ -511,10 +511,10 @@
     "position": "Centre-Back"
   },
   {
-    "id": "player_borna_sosa",
-    "name": "Borna Sosa",
+    "id": "player_ben_chilwell",
+    "name": "Ben Chilwell",
     "club_id": "team_crystal_palace",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/amcg101605734191.jpg",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xd4am81679060112.jpg",
     "position": "Left-Back"
   },
   {
@@ -553,11 +553,11 @@
     "position": "Attacking Midfield"
   },
   {
-    "id": "player_david_ozoh",
-    "name": "David Ozoh",
+    "id": "player_dario_osorio",
+    "name": "Darío Osorio",
     "club_id": "team_crystal_palace",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/sjf7rl1699733248.jpg",
-    "position": "Midfielder"
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/l5wk5n1718344427.jpg",
+    "position": "Right Winger"
   },
   {
     "id": "player_adam_aznou",
@@ -565,6 +565,13 @@
     "club_id": "team_everton",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ri34fc1756976649.jpg",
     "position": "Defender"
+  },
+  {
+    "id": "player_ainsley_maitland_niles",
+    "name": "Ainsley Maitland-Niles",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/3775d71510853007.jpg",
+    "position": "Midfielder"
   },
   {
     "id": "player_brennan_johnson",
@@ -623,13 +630,6 @@
     "position": "Left Wing"
   },
   {
-    "id": "player_jake_obrien",
-    "name": "Jake O'Brien",
-    "club_id": "team_everton",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/w16wc91771945248.jpg",
-    "position": "Defender"
-  },
-  {
     "id": "player_alex_iwobi",
     "name": "Alex Iwobi",
     "club_id": "team_fulham",
@@ -679,6 +679,13 @@
     "position": "Attacking Midfield"
   },
   {
+    "id": "player_david_affengruber",
+    "name": "David Affengruber",
+    "club_id": "team_fulham",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/npsrj41724145158.jpg",
+    "position": "Centre-Back"
+  },
+  {
     "id": "player_emil_smith_rowe",
     "name": "Emile Smith-Rowe",
     "club_id": "team_fulham",
@@ -691,12 +698,5 @@
     "club_id": "team_fulham",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8926eb1771264748.jpg",
     "position": "Centre-Forward"
-  },
-  {
-    "id": "player_harrison_reed",
-    "name": "Harrison Reed",
-    "club_id": "team_fulham",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/iyk4af1772026336.jpg",
-    "position": "Central Midfield"
   }
 ]

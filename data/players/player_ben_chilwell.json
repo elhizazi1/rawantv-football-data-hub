@@ -1,0 +1,19 @@
+{
+  "id": "player_ben_chilwell",
+  "name": "Ben Chilwell",
+  "position": "Left-Back",
+  "nationality": "England",
+  "birth_date": "1996-12-21",
+  "height": 5,
+  "weight": 170,
+  "club_id": "team_crystal_palace",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xd4am81679060112.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34160998"
+  }
+}

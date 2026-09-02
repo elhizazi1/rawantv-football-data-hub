@@ -1,0 +1,19 @@
+{
+  "id": "player_david_affengruber",
+  "name": "David Affengruber",
+  "position": "Centre-Back",
+  "nationality": "Austria",
+  "birth_date": "2001-03-19",
+  "height": 185,
+  "weight": 172,
+  "club_id": "team_fulham",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/npsrj41724145158.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34192203"
+  }
+}

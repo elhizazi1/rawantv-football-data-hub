@@ -6318,66 +6318,12 @@
     }
   },
   {
-    "id": "match_2026_0541",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_stade_brestois_29",
-    "away_team": "team_angers_sco",
-    "stadium_id": null,
-    "date": "2026-10-10T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559666"
-    }
-  },
-  {
-    "id": "match_2026_0542",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_stade_rennais_fc_1901",
-    "away_team": "team_aj_auxerre",
-    "stadium_id": null,
-    "date": "2026-10-10T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559667"
-    }
-  },
-  {
-    "id": "match_2026_0543",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_fc_lorient",
-    "away_team": "team_paris_fc",
-    "stadium_id": null,
-    "date": "2026-10-10T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559668"
-    }
-  },
-  {
     "id": "match_2026_0544",
     "competition_id": "competition_ligue_1_2026",
     "home_team": "team_racing_club_de_lens",
     "away_team": "team_olympique_lyonnais",
     "stadium_id": null,
-    "date": "2026-10-10T00:00:00Z",
+    "date": "2026-10-09T18:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6390,12 +6336,12 @@
     }
   },
   {
-    "id": "match_2026_0545",
+    "id": "match_2026_0549",
     "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_ogc_nice",
-    "away_team": "team_rc_strasbourg_alsace",
+    "home_team": "team_lille_osc",
+    "away_team": "team_le_havre_ac",
     "stadium_id": null,
-    "date": "2026-10-10T00:00:00Z",
+    "date": "2026-10-10T15:15:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6404,16 +6350,16 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "559670"
+      "football_data": "559674"
     }
   },
   {
-    "id": "match_2026_0546",
+    "id": "match_2026_0541",
     "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_es_troyes_ac",
-    "away_team": "team_olympique_de_marseille",
+    "home_team": "team_stade_brestois_29",
+    "away_team": "team_angers_sco",
     "stadium_id": null,
-    "date": "2026-10-10T00:00:00Z",
+    "date": "2026-10-10T18:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6422,7 +6368,25 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "559671"
+      "football_data": "559666"
+    }
+  },
+  {
+    "id": "match_2026_0543",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_fc_lorient",
+    "away_team": "team_paris_fc",
+    "stadium_id": null,
+    "date": "2026-10-10T18:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559668"
     }
   },
   {
@@ -6431,7 +6395,7 @@
     "home_team": "team_paris_saint_germain_fc",
     "away_team": "team_le_mans_fc",
     "stadium_id": null,
-    "date": "2026-10-10T00:00:00Z",
+    "date": "2026-10-10T18:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6449,7 +6413,7 @@
     "home_team": "team_as_monaco_fc",
     "away_team": "team_toulouse_fc",
     "stadium_id": null,
-    "date": "2026-10-10T00:00:00Z",
+    "date": "2026-10-10T18:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6462,12 +6426,12 @@
     }
   },
   {
-    "id": "match_2026_0549",
+    "id": "match_2026_0545",
     "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_lille_osc",
-    "away_team": "team_le_havre_ac",
+    "home_team": "team_ogc_nice",
+    "away_team": "team_rc_strasbourg_alsace",
     "stadium_id": null,
-    "date": "2026-10-10T00:00:00Z",
+    "date": "2026-10-11T13:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6476,16 +6440,16 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "559674"
+      "football_data": "559670"
     }
   },
   {
-    "id": "match_2026_0550",
+    "id": "match_2026_0542",
     "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_fc_lorient",
-    "away_team": "team_as_monaco_fc",
+    "home_team": "team_stade_rennais_fc_1901",
+    "away_team": "team_aj_auxerre",
     "stadium_id": null,
-    "date": "2026-10-17T00:00:00Z",
+    "date": "2026-10-11T15:15:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6494,34 +6458,16 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "559657"
+      "football_data": "559667"
     }
   },
   {
-    "id": "match_2026_0551",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_paris_fc",
-    "away_team": "team_stade_rennais_fc_1901",
-    "stadium_id": null,
-    "date": "2026-10-17T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559658"
-    }
-  },
-  {
-    "id": "match_2026_0552",
+    "id": "match_2026_0546",
     "competition_id": "competition_ligue_1_2026",
     "home_team": "team_es_troyes_ac",
-    "away_team": "team_racing_club_de_lens",
+    "away_team": "team_olympique_de_marseille",
     "stadium_id": null,
-    "date": "2026-10-17T00:00:00Z",
+    "date": "2026-10-11T18:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6530,25 +6476,7 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "559659"
-    }
-  },
-  {
-    "id": "match_2026_0553",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_lille_osc",
-    "away_team": "team_stade_brestois_29",
-    "stadium_id": null,
-    "date": "2026-10-17T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559660"
+      "football_data": "559671"
     }
   },
   {
@@ -6557,7 +6485,7 @@
     "home_team": "team_le_mans_fc",
     "away_team": "team_toulouse_fc",
     "stadium_id": null,
-    "date": "2026-10-17T00:00:00Z",
+    "date": "2026-10-16T18:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6575,7 +6503,7 @@
     "home_team": "team_rc_strasbourg_alsace",
     "away_team": "team_paris_saint_germain_fc",
     "stadium_id": null,
-    "date": "2026-10-17T00:00:00Z",
+    "date": "2026-10-17T15:15:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6588,12 +6516,12 @@
     }
   },
   {
-    "id": "match_2026_0556",
+    "id": "match_2026_0552",
     "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_le_havre_ac",
-    "away_team": "team_aj_auxerre",
+    "home_team": "team_es_troyes_ac",
+    "away_team": "team_racing_club_de_lens",
     "stadium_id": null,
-    "date": "2026-10-17T00:00:00Z",
+    "date": "2026-10-17T18:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6602,7 +6530,25 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "559663"
+      "football_data": "559659"
+    }
+  },
+  {
+    "id": "match_2026_0553",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_lille_osc",
+    "away_team": "team_stade_brestois_29",
+    "stadium_id": null,
+    "date": "2026-10-17T18:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559660"
     }
   },
   {
@@ -6611,7 +6557,7 @@
     "home_team": "team_angers_sco",
     "away_team": "team_olympique_de_marseille",
     "stadium_id": null,
-    "date": "2026-10-17T00:00:00Z",
+    "date": "2026-10-18T13:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6624,12 +6570,66 @@
     }
   },
   {
+    "id": "match_2026_0550",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_fc_lorient",
+    "away_team": "team_as_monaco_fc",
+    "stadium_id": null,
+    "date": "2026-10-18T15:15:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559657"
+    }
+  },
+  {
+    "id": "match_2026_0551",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_paris_fc",
+    "away_team": "team_stade_rennais_fc_1901",
+    "stadium_id": null,
+    "date": "2026-10-18T15:15:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559658"
+    }
+  },
+  {
+    "id": "match_2026_0556",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_le_havre_ac",
+    "away_team": "team_aj_auxerre",
+    "stadium_id": null,
+    "date": "2026-10-18T15:15:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559663"
+    }
+  },
+  {
     "id": "match_2026_0558",
     "competition_id": "competition_ligue_1_2026",
     "home_team": "team_olympique_lyonnais",
     "away_team": "team_ogc_nice",
     "stadium_id": null,
-    "date": "2026-10-17T00:00:00Z",
+    "date": "2026-10-18T18:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6642,102 +6642,12 @@
     }
   },
   {
-    "id": "match_2026_0559",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_olympique_de_marseille",
-    "away_team": "team_le_havre_ac",
-    "stadium_id": null,
-    "date": "2026-10-24T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559649"
-    }
-  },
-  {
-    "id": "match_2026_0560",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_as_monaco_fc",
-    "away_team": "team_lille_osc",
-    "stadium_id": null,
-    "date": "2026-10-24T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559650"
-    }
-  },
-  {
-    "id": "match_2026_0561",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_stade_rennais_fc_1901",
-    "away_team": "team_rc_strasbourg_alsace",
-    "stadium_id": null,
-    "date": "2026-10-24T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559651"
-    }
-  },
-  {
-    "id": "match_2026_0562",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_racing_club_de_lens",
-    "away_team": "team_paris_fc",
-    "stadium_id": null,
-    "date": "2026-10-24T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559652"
-    }
-  },
-  {
-    "id": "match_2026_0563",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_angers_sco",
-    "away_team": "team_fc_lorient",
-    "stadium_id": null,
-    "date": "2026-10-24T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559653"
-    }
-  },
-  {
     "id": "match_2026_0564",
     "competition_id": "competition_ligue_1_2026",
     "home_team": "team_stade_brestois_29",
     "away_team": "team_ogc_nice",
     "stadium_id": null,
-    "date": "2026-10-24T00:00:00Z",
+    "date": "2026-10-23T18:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6755,7 +6665,7 @@
     "home_team": "team_toulouse_fc",
     "away_team": "team_es_troyes_ac",
     "stadium_id": null,
-    "date": "2026-10-24T00:00:00Z",
+    "date": "2026-10-24T15:15:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -6768,12 +6678,102 @@
     }
   },
   {
+    "id": "match_2026_0562",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_racing_club_de_lens",
+    "away_team": "team_paris_fc",
+    "stadium_id": null,
+    "date": "2026-10-24T18:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559652"
+    }
+  },
+  {
+    "id": "match_2026_0560",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_as_monaco_fc",
+    "away_team": "team_lille_osc",
+    "stadium_id": null,
+    "date": "2026-10-25T14:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559650"
+    }
+  },
+  {
+    "id": "match_2026_0559",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_olympique_de_marseille",
+    "away_team": "team_le_havre_ac",
+    "stadium_id": null,
+    "date": "2026-10-25T16:15:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559649"
+    }
+  },
+  {
+    "id": "match_2026_0561",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_stade_rennais_fc_1901",
+    "away_team": "team_rc_strasbourg_alsace",
+    "stadium_id": null,
+    "date": "2026-10-25T16:15:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559651"
+    }
+  },
+  {
+    "id": "match_2026_0563",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_angers_sco",
+    "away_team": "team_fc_lorient",
+    "stadium_id": null,
+    "date": "2026-10-25T16:15:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559653"
+    }
+  },
+  {
     "id": "match_2026_0566",
     "competition_id": "competition_ligue_1_2026",
     "home_team": "team_aj_auxerre",
     "away_team": "team_le_mans_fc",
     "stadium_id": null,
-    "date": "2026-10-24T00:00:00Z",
+    "date": "2026-10-25T16:15:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -7925,7 +7925,7 @@
     "home_team": "team_racing_club_de_lens",
     "away_team": "team_paris_saint_germain_fc",
     "stadium_id": null,
-    "date": "2027-01-03T00:00:00Z",
+    "date": "2027-01-03T19:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -8573,7 +8573,7 @@
     "home_team": "team_paris_saint_germain_fc",
     "away_team": "team_olympique_de_marseille",
     "stadium_id": null,
-    "date": "2027-02-07T00:00:00Z",
+    "date": "2027-02-07T19:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -9059,7 +9059,7 @@
     "home_team": "team_paris_saint_germain_fc",
     "away_team": "team_racing_club_de_lens",
     "stadium_id": null,
-    "date": "2027-02-28T00:00:00Z",
+    "date": "2027-02-28T19:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -9545,7 +9545,7 @@
     "home_team": "team_olympique_de_marseille",
     "away_team": "team_olympique_lyonnais",
     "stadium_id": null,
-    "date": "2027-03-21T00:00:00Z",
+    "date": "2027-03-21T19:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -10517,7 +10517,7 @@
     "home_team": "team_olympique_lyonnais",
     "away_team": "team_paris_saint_germain_fc",
     "stadium_id": null,
-    "date": "2027-05-09T00:00:00Z",
+    "date": "2027-05-09T18:45:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -19152,24 +19152,6 @@
     }
   },
   {
-    "id": "match_2026_1252",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_liverpool_fc",
-    "away_team": "team_brighton_and_hove_albion_fc",
-    "stadium_id": null,
-    "date": "2026-10-24T14:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560612"
-    }
-  },
-  {
     "id": "match_2026_1256",
     "competition_id": "competition_premier_league_2026",
     "home_team": "team_arsenal_fc",
@@ -19221,6 +19203,24 @@
     "referee_id": null,
     "sources": {
       "football_data": "560617"
+    }
+  },
+  {
+    "id": "match_2026_1252",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_liverpool_fc",
+    "away_team": "team_brighton_and_hove_albion_fc",
+    "stadium_id": null,
+    "date": "2026-10-25T14:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560612"
     }
   },
   {
@@ -19427,7 +19427,7 @@
     "home_team": "team_aston_villa_fc",
     "away_team": "team_fulham_fc",
     "stadium_id": null,
-    "date": "2026-11-01T14:00:00Z",
+    "date": "2026-10-31T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25781,7 +25781,7 @@
     "home_team": "team_ac_milan",
     "away_team": "team_atalanta_bc",
     "stadium_id": null,
-    "date": "2026-10-18T00:00:00Z",
+    "date": "2026-10-17T00:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25799,7 +25799,7 @@
     "home_team": "team_juventus_fc",
     "away_team": "team_ss_lazio",
     "stadium_id": null,
-    "date": "2026-10-18T00:00:00Z",
+    "date": "2026-10-17T00:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25817,7 +25817,7 @@
     "home_team": "team_bologna_fc_1909",
     "away_team": "team_fc_internazionale_milano",
     "stadium_id": null,
-    "date": "2026-10-18T00:00:00Z",
+    "date": "2026-10-17T00:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25835,7 +25835,7 @@
     "home_team": "team_as_roma",
     "away_team": "team_genoa_cfc",
     "stadium_id": null,
-    "date": "2026-10-18T00:00:00Z",
+    "date": "2026-10-17T00:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25853,7 +25853,7 @@
     "home_team": "team_frosinone_calcio",
     "away_team": "team_us_sassuolo_calcio",
     "stadium_id": null,
-    "date": "2026-10-18T00:00:00Z",
+    "date": "2026-10-17T00:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25871,7 +25871,7 @@
     "home_team": "team_udinese_calcio",
     "away_team": "team_us_lecce",
     "stadium_id": null,
-    "date": "2026-10-18T00:00:00Z",
+    "date": "2026-10-17T00:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25889,7 +25889,7 @@
     "home_team": "team_venezia_fc",
     "away_team": "team_ssc_napoli",
     "stadium_id": null,
-    "date": "2026-10-18T00:00:00Z",
+    "date": "2026-10-17T00:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25907,7 +25907,7 @@
     "home_team": "team_ac_monza",
     "away_team": "team_cagliari_calcio",
     "stadium_id": null,
-    "date": "2026-10-18T00:00:00Z",
+    "date": "2026-10-17T00:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25925,7 +25925,7 @@
     "home_team": "team_acf_fiorentina",
     "away_team": "team_como_1907",
     "stadium_id": null,
-    "date": "2026-10-18T00:00:00Z",
+    "date": "2026-10-17T00:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -25943,7 +25943,7 @@
     "home_team": "team_parma_calcio_1913",
     "away_team": "team_torino_fc",
     "stadium_id": null,
-    "date": "2026-10-18T00:00:00Z",
+    "date": "2026-10-17T00:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,

@@ -1,0 +1,19 @@
+{
+  "id": "player_dario_osorio",
+  "name": "Darío Osorio",
+  "position": "Right Winger",
+  "nationality": "Chile",
+  "birth_date": "2004-01-24",
+  "height": 1,
+  "weight": 159,
+  "club_id": "team_crystal_palace",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/l5wk5n1718344427.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34220284"
+  }
+}
