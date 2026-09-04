@@ -5838,13 +5838,13 @@
     "away_team": "team_lille_osc",
     "stadium_id": null,
     "date": "2026-09-03T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_mathieu_vernice",
     "sources": {
       "football_data": "559696"
     }
@@ -11562,13 +11562,13 @@
     "away_team": "team_rc_celta_de_vigo",
     "stadium_id": null,
     "date": "2026-09-03T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_victor_garcia_verdura",
     "sources": {
       "football_data": "564682"
     }

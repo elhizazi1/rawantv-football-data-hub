@@ -209,6 +209,17 @@
     "table": [
       {
         "position": 1,
+        "team_id": "team_lille_osc",
+        "played": 3,
+        "won": 2,
+        "drawn": 1,
+        "lost": 0,
+        "goals_for": 5,
+        "goals_against": 2,
+        "points": 7
+      },
+      {
+        "position": 2,
         "team_id": "team_as_monaco_fc",
         "played": 2,
         "won": 2,
@@ -219,7 +230,7 @@
         "points": 6
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_paris_fc",
         "played": 2,
         "won": 1,
@@ -227,17 +238,6 @@
         "lost": 0,
         "goals_for": 3,
         "goals_against": 0,
-        "points": 4
-      },
-      {
-        "position": 3,
-        "team_id": "team_lille_osc",
-        "played": 2,
-        "won": 1,
-        "drawn": 1,
-        "lost": 0,
-        "goals_for": 4,
-        "goals_against": 2,
         "points": 4
       },
       {
@@ -375,12 +375,12 @@
       {
         "position": 16,
         "team_id": "team_toulouse_fc",
-        "played": 2,
+        "played": 3,
         "won": 0,
         "drawn": 1,
-        "lost": 1,
+        "lost": 2,
         "goals_for": 2,
-        "goals_against": 4,
+        "goals_against": 5,
         "points": 1
       },
       {
@@ -523,6 +523,17 @@
       },
       {
         "position": 11,
+        "team_id": "team_real_sociedad_de_futbol",
+        "played": 4,
+        "won": 1,
+        "drawn": 1,
+        "lost": 2,
+        "goals_for": 3,
+        "goals_against": 6,
+        "points": 4
+      },
+      {
+        "position": 12,
         "team_id": "team_rcd_espanyol_de_barcelona",
         "played": 3,
         "won": 1,
@@ -533,7 +544,7 @@
         "points": 3
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "team_athletic_club",
         "played": 3,
         "won": 1,
@@ -541,17 +552,6 @@
         "lost": 2,
         "goals_for": 3,
         "goals_against": 5,
-        "points": 3
-      },
-      {
-        "position": 13,
-        "team_id": "team_real_sociedad_de_futbol",
-        "played": 3,
-        "won": 1,
-        "drawn": 0,
-        "lost": 2,
-        "goals_for": 3,
-        "goals_against": 6,
         "points": 3
       },
       {
@@ -579,16 +579,16 @@
       {
         "position": 16,
         "team_id": "team_rc_celta_de_vigo",
-        "played": 3,
+        "played": 4,
         "won": 0,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 2,
         "goals_for": 1,
         "goals_against": 4,
-        "points": 1
+        "points": 2
       },
       {
-        "position": 16,
+        "position": 17,
         "team_id": "team_valencia_cf",
         "played": 3,
         "won": 0,
