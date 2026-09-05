@@ -70,6 +70,13 @@
     "position": "Attacking Midfield"
   },
   {
+    "id": "player_aaron_wan_bissaka",
+    "name": "Aaron Wan-Bissaka",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/rqm6nx1772134170.jpg",
+    "position": "Right-Back"
+  },
+  {
     "id": "player_alejandro_garnacho",
     "name": "Alejandro Garnacho",
     "club_id": "team_aston_villa",
@@ -126,18 +133,11 @@
     "position": "Left-Back"
   },
   {
-    "id": "player_jamaldeen_jimoh_aloba",
-    "name": "Jamaldeen Jimoh-Aloba",
+    "id": "player_ibrahim_mbaye",
+    "name": "Ibrahim Mbaye",
     "club_id": "team_aston_villa",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9m5wvn1769763171.jpg",
-    "position": "Midfielder"
-  },
-  {
-    "id": "player_james_wright",
-    "name": "James Wright",
-    "club_id": "team_aston_villa",
-    "photo": "https://www.thesportsdb.com/images/media/player/thumb/dx5gsz1788290290.jpg",
-    "position": "Goalkeeper"
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ex2mk11770217409.jpg",
+    "position": "Right Winger"
   },
   {
     "id": "player_adam_smith",
