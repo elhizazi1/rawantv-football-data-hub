@@ -294,10 +294,17 @@
     "position": "Attacker"
   },
   {
+    "id": "player_chema_andres",
+    "name": "Chema Andrés",
+    "club_id": "team_brighton_and_hove_albion",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/wkfm8u1724307303.jpg",
+    "position": "Central Midfield"
+  },
+  {
     "id": "player_costinha",
     "name": "Costinha",
     "club_id": "team_brighton_and_hove_albion",
-    "photo": null,
+    "photo": "https://www.thesportsdb.com/images/media/player/thumb/5rm3ec1788689921.jpg",
     "position": "Right-Back"
   },
   {
@@ -341,13 +348,6 @@
     "club_id": "team_brighton_and_hove_albion",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/4ea6mr1631544242.jpg",
     "position": "Centre-Forward"
-  },
-  {
-    "id": "player_ibrahim_osman",
-    "name": "Ibrahim Osman",
-    "club_id": "team_brighton_and_hove_albion",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/1z0gw81702207994.jpg",
-    "position": "Winger"
   },
   {
     "id": "player_aaron_anselmino",
