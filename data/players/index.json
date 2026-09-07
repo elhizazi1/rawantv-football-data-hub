@@ -518,13 +518,6 @@
     "position": "Left-Back"
   },
   {
-    "id": "player_caleb_kporha",
-    "name": "Caleb Kporha",
-    "club_id": "team_crystal_palace",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/t1sgyq1752343356.jpg",
-    "position": "Defender"
-  },
-  {
     "id": "player_chadi_riad",
     "name": "Chadi Riad",
     "club_id": "team_crystal_palace",
@@ -558,6 +551,13 @@
     "club_id": "team_crystal_palace",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/l5wk5n1718344427.jpg",
     "position": "Right Winger"
+  },
+  {
+    "id": "player_dean_henderson",
+    "name": "Dean Henderson",
+    "club_id": "team_crystal_palace",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/0bcnqd1772140599.jpg",
+    "position": "Goalkeeper"
   },
   {
     "id": "player_adam_aznou",

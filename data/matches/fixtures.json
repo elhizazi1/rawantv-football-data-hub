@@ -5508,6 +5508,2598 @@
     }
   },
   {
+    "id": "match_2026_0307",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_club_brugge_kv",
+    "away_team": "team_aston_villa_fc",
+    "stadium_id": null,
+    "date": "2026-09-08T16:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575323"
+    }
+  },
+  {
+    "id": "match_2026_0308",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_pae_aek",
+    "away_team": "team_lask_linz",
+    "stadium_id": null,
+    "date": "2026-09-08T16:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575324"
+    }
+  },
+  {
+    "id": "match_2026_0309",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_real_madrid",
+    "away_team": "team_fc_internazionale_milano",
+    "stadium_id": null,
+    "date": "2026-09-08T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575325"
+    }
+  },
+  {
+    "id": "match_2026_0310",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fc_porto",
+    "away_team": "team_manchester_city_fc",
+    "stadium_id": null,
+    "date": "2026-09-08T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575326"
+    }
+  },
+  {
+    "id": "match_2026_0311",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_villarreal_cf",
+    "stadium_id": null,
+    "date": "2026-09-08T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575327"
+    }
+  },
+  {
+    "id": "match_2026_0312",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_lille_osc",
+    "away_team": "team_real_betis_balompie",
+    "stadium_id": null,
+    "date": "2026-09-08T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575328"
+    }
+  },
+  {
+    "id": "match_2026_0313",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_barcelona",
+    "away_team": "team_feyenoord_rotterdam",
+    "stadium_id": null,
+    "date": "2026-09-09T16:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575329"
+    }
+  },
+  {
+    "id": "match_2026_0314",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_viking_fk",
+    "stadium_id": null,
+    "date": "2026-09-09T16:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575330"
+    }
+  },
+  {
+    "id": "match_2026_0315",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_liverpool_fc",
+    "away_team": "team_club_atletico_de_madrid",
+    "stadium_id": null,
+    "date": "2026-09-09T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575331"
+    }
+  },
+  {
+    "id": "match_2026_0316",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_paris_saint_germain_fc",
+    "away_team": "team_sk_slovan_bratislava",
+    "stadium_id": null,
+    "date": "2026-09-09T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575332"
+    }
+  },
+  {
+    "id": "match_2026_0317",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_ssc_napoli",
+    "away_team": "team_arsenal_fc",
+    "stadium_id": null,
+    "date": "2026-09-09T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575333"
+    }
+  },
+  {
+    "id": "match_2026_0318",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sporting_clube_de_portugal",
+    "away_team": "team_galatasaray_sk",
+    "stadium_id": null,
+    "date": "2026-09-09T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575334"
+    }
+  },
+  {
+    "id": "match_2026_0319",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fenerbahce_sk",
+    "away_team": "team_as_roma",
+    "stadium_id": null,
+    "date": "2026-09-10T16:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575335"
+    }
+  },
+  {
+    "id": "match_2026_0320",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_psv",
+    "away_team": "team_fk_shakhtar_donetsk",
+    "stadium_id": null,
+    "date": "2026-09-10T16:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575336"
+    }
+  },
+  {
+    "id": "match_2026_0321",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_fk_bodoglimt",
+    "stadium_id": null,
+    "date": "2026-09-10T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575337"
+    }
+  },
+  {
+    "id": "match_2026_0322",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_manchester_united",
+    "away_team": "team_sabah_fk",
+    "stadium_id": null,
+    "date": "2026-09-10T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575338"
+    }
+  },
+  {
+    "id": "match_2026_0323",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_como_1907",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2026-09-10T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575339"
+    }
+  },
+  {
+    "id": "match_2026_0324",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sk_slavia_praha",
+    "away_team": "team_racing_club_de_lens",
+    "stadium_id": null,
+    "date": "2026-09-10T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575340"
+    }
+  },
+  {
+    "id": "match_2026_0325",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_racing_club_de_lens",
+    "away_team": "team_sporting_clube_de_portugal",
+    "stadium_id": null,
+    "date": "2026-10-13T16:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575341"
+    }
+  },
+  {
+    "id": "match_2026_0326",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sabah_fk",
+    "away_team": "team_sk_slavia_praha",
+    "stadium_id": null,
+    "date": "2026-10-13T16:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575342"
+    }
+  },
+  {
+    "id": "match_2026_0327",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fc_internazionale_milano",
+    "away_team": "team_club_brugge_kv",
+    "stadium_id": null,
+    "date": "2026-10-13T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575343"
+    }
+  },
+  {
+    "id": "match_2026_0328",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_galatasaray_sk",
+    "away_team": "team_barcelona",
+    "stadium_id": null,
+    "date": "2026-10-13T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575344"
+    }
+  },
+  {
+    "id": "match_2026_0329",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_club_atletico_de_madrid",
+    "away_team": "team_manchester_united",
+    "stadium_id": null,
+    "date": "2026-10-13T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575345"
+    }
+  },
+  {
+    "id": "match_2026_0330",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_arsenal_fc",
+    "away_team": "team_lille_osc",
+    "stadium_id": null,
+    "date": "2026-10-13T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575346"
+    }
+  },
+  {
+    "id": "match_2026_0331",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_viking_fk",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-10-13T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575347"
+    }
+  },
+  {
+    "id": "match_2026_0332",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_psv",
+    "stadium_id": null,
+    "date": "2026-10-13T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575348"
+    }
+  },
+  {
+    "id": "match_2026_0333",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_villarreal_cf",
+    "away_team": "team_ssc_napoli",
+    "stadium_id": null,
+    "date": "2026-10-13T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575349"
+    }
+  },
+  {
+    "id": "match_2026_0334",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_lask_linz",
+    "away_team": "team_liverpool_fc",
+    "stadium_id": null,
+    "date": "2026-10-14T16:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575350"
+    }
+  },
+  {
+    "id": "match_2026_0335",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_feyenoord_rotterdam",
+    "away_team": "team_como_1907",
+    "stadium_id": null,
+    "date": "2026-10-14T16:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575351"
+    }
+  },
+  {
+    "id": "match_2026_0336",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_as_roma",
+    "away_team": "team_real_madrid",
+    "stadium_id": null,
+    "date": "2026-10-14T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575352"
+    }
+  },
+  {
+    "id": "match_2026_0337",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_manchester_city_fc",
+    "away_team": "team_paris_saint_germain_fc",
+    "stadium_id": null,
+    "date": "2026-10-14T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575353"
+    }
+  },
+  {
+    "id": "match_2026_0338",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fk_bodoglimt",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2026-10-14T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575354"
+    }
+  },
+  {
+    "id": "match_2026_0339",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_aston_villa_fc",
+    "away_team": "team_fenerbahce_sk",
+    "stadium_id": null,
+    "date": "2026-10-14T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575355"
+    }
+  },
+  {
+    "id": "match_2026_0340",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_real_betis_balompie",
+    "away_team": "team_fc_porto",
+    "stadium_id": null,
+    "date": "2026-10-14T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575356"
+    }
+  },
+  {
+    "id": "match_2026_0341",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fk_shakhtar_donetsk",
+    "away_team": "team_pae_aek",
+    "stadium_id": null,
+    "date": "2026-10-14T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575357"
+    }
+  },
+  {
+    "id": "match_2026_0342",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sk_slovan_bratislava",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2026-10-14T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575358"
+    }
+  },
+  {
+    "id": "match_2026_0343",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sabah_fk",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2026-10-20T16:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575359"
+    }
+  },
+  {
+    "id": "match_2026_0344",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fenerbahce_sk",
+    "away_team": "team_sk_slavia_praha",
+    "stadium_id": null,
+    "date": "2026-10-20T16:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575360"
+    }
+  },
+  {
+    "id": "match_2026_0345",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_manchester_city_fc",
+    "away_team": "team_pae_aek",
+    "stadium_id": null,
+    "date": "2026-10-20T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575361"
+    }
+  },
+  {
+    "id": "match_2026_0346",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_club_atletico_de_madrid",
+    "stadium_id": null,
+    "date": "2026-10-20T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575362"
+    }
+  },
+  {
+    "id": "match_2026_0347",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_liverpool_fc",
+    "away_team": "team_villarreal_cf",
+    "stadium_id": null,
+    "date": "2026-10-20T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575363"
+    }
+  },
+  {
+    "id": "match_2026_0348",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_as_roma",
+    "away_team": "team_sk_slovan_bratislava",
+    "stadium_id": null,
+    "date": "2026-10-20T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575364"
+    }
+  },
+  {
+    "id": "match_2026_0349",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fc_porto",
+    "away_team": "team_psv",
+    "stadium_id": null,
+    "date": "2026-10-20T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575365"
+    }
+  },
+  {
+    "id": "match_2026_0350",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_ssc_napoli",
+    "away_team": "team_fk_bodoglimt",
+    "stadium_id": null,
+    "date": "2026-10-20T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575366"
+    }
+  },
+  {
+    "id": "match_2026_0351",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_paris_saint_germain_fc",
+    "away_team": "team_barcelona",
+    "stadium_id": null,
+    "date": "2026-10-20T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575367"
+    }
+  },
+  {
+    "id": "match_2026_0352",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_como_1907",
+    "away_team": "team_manchester_united",
+    "stadium_id": null,
+    "date": "2026-10-21T16:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575368"
+    }
+  },
+  {
+    "id": "match_2026_0353",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_lille_osc",
+    "away_team": "team_galatasaray_sk",
+    "stadium_id": null,
+    "date": "2026-10-21T16:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575369"
+    }
+  },
+  {
+    "id": "match_2026_0354",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_real_madrid",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2026-10-21T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575370"
+    }
+  },
+  {
+    "id": "match_2026_0355",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fc_internazionale_milano",
+    "away_team": "team_fk_shakhtar_donetsk",
+    "stadium_id": null,
+    "date": "2026-10-21T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575371"
+    }
+  },
+  {
+    "id": "match_2026_0356",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_arsenal_fc",
+    "stadium_id": null,
+    "date": "2026-10-21T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575372"
+    }
+  },
+  {
+    "id": "match_2026_0357",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_club_brugge_kv",
+    "away_team": "team_racing_club_de_lens",
+    "stadium_id": null,
+    "date": "2026-10-21T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575373"
+    }
+  },
+  {
+    "id": "match_2026_0358",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_aston_villa_fc",
+    "away_team": "team_viking_fk",
+    "stadium_id": null,
+    "date": "2026-10-21T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575374"
+    }
+  },
+  {
+    "id": "match_2026_0359",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sporting_clube_de_portugal",
+    "away_team": "team_lask_linz",
+    "stadium_id": null,
+    "date": "2026-10-21T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575375"
+    }
+  },
+  {
+    "id": "match_2026_0360",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_real_betis_balompie",
+    "away_team": "team_feyenoord_rotterdam",
+    "stadium_id": null,
+    "date": "2026-10-21T19:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575376"
+    }
+  },
+  {
+    "id": "match_2026_0361",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fk_shakhtar_donetsk",
+    "away_team": "team_sporting_clube_de_portugal",
+    "stadium_id": null,
+    "date": "2026-11-03T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575377"
+    }
+  },
+  {
+    "id": "match_2026_0362",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_galatasaray_sk",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2026-11-03T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575378"
+    }
+  },
+  {
+    "id": "match_2026_0363",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_feyenoord_rotterdam",
+    "away_team": "team_fc_internazionale_milano",
+    "stadium_id": null,
+    "date": "2026-11-03T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575379"
+    }
+  },
+  {
+    "id": "match_2026_0364",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_barcelona",
+    "away_team": "team_aston_villa_fc",
+    "stadium_id": null,
+    "date": "2026-11-03T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575380"
+    }
+  },
+  {
+    "id": "match_2026_0365",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_club_atletico_de_madrid",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-11-03T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575381"
+    }
+  },
+  {
+    "id": "match_2026_0366",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_villarreal_cf",
+    "away_team": "team_paris_saint_germain_fc",
+    "stadium_id": null,
+    "date": "2026-11-03T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575382"
+    }
+  },
+  {
+    "id": "match_2026_0367",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_manchester_united",
+    "away_team": "team_as_roma",
+    "stadium_id": null,
+    "date": "2026-11-03T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575383"
+    }
+  },
+  {
+    "id": "match_2026_0368",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fk_bodoglimt",
+    "away_team": "team_lille_osc",
+    "stadium_id": null,
+    "date": "2026-11-03T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575384"
+    }
+  },
+  {
+    "id": "match_2026_0369",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_lask_linz",
+    "away_team": "team_sk_slovan_bratislava",
+    "stadium_id": null,
+    "date": "2026-11-03T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575385"
+    }
+  },
+  {
+    "id": "match_2026_0370",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_pae_aek",
+    "away_team": "team_real_madrid",
+    "stadium_id": null,
+    "date": "2026-11-04T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575386"
+    }
+  },
+  {
+    "id": "match_2026_0371",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fenerbahce_sk",
+    "away_team": "team_liverpool_fc",
+    "stadium_id": null,
+    "date": "2026-11-04T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575387"
+    }
+  },
+  {
+    "id": "match_2026_0372",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_manchester_city_fc",
+    "stadium_id": null,
+    "date": "2026-11-04T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575388"
+    }
+  },
+  {
+    "id": "match_2026_0373",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sk_slavia_praha",
+    "away_team": "team_arsenal_fc",
+    "stadium_id": null,
+    "date": "2026-11-04T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575389"
+    }
+  },
+  {
+    "id": "match_2026_0374",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_psv",
+    "away_team": "team_club_brugge_kv",
+    "stadium_id": null,
+    "date": "2026-11-04T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575390"
+    }
+  },
+  {
+    "id": "match_2026_0375",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_real_betis_balompie",
+    "stadium_id": null,
+    "date": "2026-11-04T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575391"
+    }
+  },
+  {
+    "id": "match_2026_0376",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fc_porto",
+    "away_team": "team_ssc_napoli",
+    "stadium_id": null,
+    "date": "2026-11-04T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575392"
+    }
+  },
+  {
+    "id": "match_2026_0377",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_racing_club_de_lens",
+    "away_team": "team_como_1907",
+    "stadium_id": null,
+    "date": "2026-11-04T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575393"
+    }
+  },
+  {
+    "id": "match_2026_0378",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_viking_fk",
+    "away_team": "team_sabah_fk",
+    "stadium_id": null,
+    "date": "2026-11-04T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575394"
+    }
+  },
+  {
+    "id": "match_2026_0379",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_galatasaray_sk",
+    "away_team": "team_aston_villa_fc",
+    "stadium_id": null,
+    "date": "2026-11-24T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575395"
+    }
+  },
+  {
+    "id": "match_2026_0380",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fk_bodoglimt",
+    "away_team": "team_lask_linz",
+    "stadium_id": null,
+    "date": "2026-11-24T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575396"
+    }
+  },
+  {
+    "id": "match_2026_0381",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_real_madrid",
+    "away_team": "team_psv",
+    "stadium_id": null,
+    "date": "2026-11-24T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575397"
+    }
+  },
+  {
+    "id": "match_2026_0382",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_manchester_city_fc",
+    "away_team": "team_ssc_napoli",
+    "stadium_id": null,
+    "date": "2026-11-24T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575398"
+    }
+  },
+  {
+    "id": "match_2026_0383",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_arsenal_fc",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2026-11-24T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575399"
+    }
+  },
+  {
+    "id": "match_2026_0384",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_feyenoord_rotterdam",
+    "away_team": "team_fc_porto",
+    "stadium_id": null,
+    "date": "2026-11-24T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575400"
+    }
+  },
+  {
+    "id": "match_2026_0385",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sk_slovan_bratislava",
+    "away_team": "team_real_betis_balompie",
+    "stadium_id": null,
+    "date": "2026-11-24T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575401"
+    }
+  },
+  {
+    "id": "match_2026_0386",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_racing_club_de_lens",
+    "stadium_id": null,
+    "date": "2026-11-24T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575402"
+    }
+  },
+  {
+    "id": "match_2026_0387",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_como_1907",
+    "away_team": "team_pae_aek",
+    "stadium_id": null,
+    "date": "2026-11-24T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575403"
+    }
+  },
+  {
+    "id": "match_2026_0388",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sabah_fk",
+    "away_team": "team_barcelona",
+    "stadium_id": null,
+    "date": "2026-11-25T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575404"
+    }
+  },
+  {
+    "id": "match_2026_0389",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sk_slavia_praha",
+    "away_team": "team_villarreal_cf",
+    "stadium_id": null,
+    "date": "2026-11-25T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575405"
+    }
+  },
+  {
+    "id": "match_2026_0390",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fc_internazionale_milano",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2026-11-25T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575406"
+    }
+  },
+  {
+    "id": "match_2026_0391",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_club_atletico_de_madrid",
+    "away_team": "team_viking_fk",
+    "stadium_id": null,
+    "date": "2026-11-25T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575407"
+    }
+  },
+  {
+    "id": "match_2026_0392",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_paris_saint_germain_fc",
+    "away_team": "team_as_roma",
+    "stadium_id": null,
+    "date": "2026-11-25T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575408"
+    }
+  },
+  {
+    "id": "match_2026_0393",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_club_brugge_kv",
+    "away_team": "team_liverpool_fc",
+    "stadium_id": null,
+    "date": "2026-11-25T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575409"
+    }
+  },
+  {
+    "id": "match_2026_0394",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_lille_osc",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2026-11-25T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575410"
+    }
+  },
+  {
+    "id": "match_2026_0395",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sporting_clube_de_portugal",
+    "away_team": "team_manchester_united",
+    "stadium_id": null,
+    "date": "2026-11-25T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575411"
+    }
+  },
+  {
+    "id": "match_2026_0396",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fk_shakhtar_donetsk",
+    "away_team": "team_fenerbahce_sk",
+    "stadium_id": null,
+    "date": "2026-11-25T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575412"
+    }
+  },
+  {
+    "id": "match_2026_0397",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_villarreal_cf",
+    "away_team": "team_sabah_fk",
+    "stadium_id": null,
+    "date": "2026-12-08T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575413"
+    }
+  },
+  {
+    "id": "match_2026_0398",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_viking_fk",
+    "away_team": "team_feyenoord_rotterdam",
+    "stadium_id": null,
+    "date": "2026-12-08T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575414"
+    }
+  },
+  {
+    "id": "match_2026_0399",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_barcelona",
+    "away_team": "team_manchester_city_fc",
+    "stadium_id": null,
+    "date": "2026-12-08T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575415"
+    }
+  },
+  {
+    "id": "match_2026_0400",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_aston_villa_fc",
+    "away_team": "team_paris_saint_germain_fc",
+    "stadium_id": null,
+    "date": "2026-12-08T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575416"
+    }
+  },
+  {
+    "id": "match_2026_0401",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_sk_slavia_praha",
+    "stadium_id": null,
+    "date": "2026-12-08T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575417"
+    }
+  },
+  {
+    "id": "match_2026_0402",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_ssc_napoli",
+    "away_team": "team_club_brugge_kv",
+    "stadium_id": null,
+    "date": "2026-12-08T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575418"
+    }
+  },
+  {
+    "id": "match_2026_0403",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_as_roma",
+    "away_team": "team_sporting_clube_de_portugal",
+    "stadium_id": null,
+    "date": "2026-12-08T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575419"
+    }
+  },
+  {
+    "id": "match_2026_0404",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_manchester_united",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2026-12-08T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575420"
+    }
+  },
+  {
+    "id": "match_2026_0405",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_pae_aek",
+    "away_team": "team_galatasaray_sk",
+    "stadium_id": null,
+    "date": "2026-12-08T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575421"
+    }
+  },
+  {
+    "id": "match_2026_0406",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_real_betis_balompie",
+    "away_team": "team_como_1907",
+    "stadium_id": null,
+    "date": "2026-12-09T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575422"
+    }
+  },
+  {
+    "id": "match_2026_0407",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sk_slovan_bratislava",
+    "away_team": "team_fk_shakhtar_donetsk",
+    "stadium_id": null,
+    "date": "2026-12-09T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575423"
+    }
+  },
+  {
+    "id": "match_2026_0408",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_arsenal_fc",
+    "away_team": "team_real_madrid",
+    "stadium_id": null,
+    "date": "2026-12-09T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575280"
+    }
+  },
+  {
+    "id": "match_2026_0409",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_fc_internazionale_milano",
+    "stadium_id": null,
+    "date": "2026-12-09T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575286"
+    }
+  },
+  {
+    "id": "match_2026_0410",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_psv",
+    "away_team": "team_club_atletico_de_madrid",
+    "stadium_id": null,
+    "date": "2026-12-09T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575290"
+    }
+  },
+  {
+    "id": "match_2026_0411",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_liverpool_fc",
+    "away_team": "team_fc_porto",
+    "stadium_id": null,
+    "date": "2026-12-09T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575295"
+    }
+  },
+  {
+    "id": "match_2026_0412",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_racing_club_de_lens",
+    "away_team": "team_fk_bodoglimt",
+    "stadium_id": null,
+    "date": "2026-12-09T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575315"
+    }
+  },
+  {
+    "id": "match_2026_0413",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_lask_linz",
+    "away_team": "team_fenerbahce_sk",
+    "stadium_id": null,
+    "date": "2026-12-09T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575317"
+    }
+  },
+  {
+    "id": "match_2026_0414",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_lille_osc",
+    "stadium_id": null,
+    "date": "2026-12-09T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575322"
+    }
+  },
+  {
+    "id": "match_2026_0415",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fk_bodoglimt",
+    "away_team": "team_club_atletico_de_madrid",
+    "stadium_id": null,
+    "date": "2027-01-19T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575292"
+    }
+  },
+  {
+    "id": "match_2026_0416",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_galatasaray_sk",
+    "away_team": "team_feyenoord_rotterdam",
+    "stadium_id": null,
+    "date": "2027-01-19T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575318"
+    }
+  },
+  {
+    "id": "match_2026_0417",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_real_madrid",
+    "away_team": "team_lask_linz",
+    "stadium_id": null,
+    "date": "2027-01-19T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575282"
+    }
+  },
+  {
+    "id": "match_2026_0418",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fc_internazionale_milano",
+    "away_team": "team_liverpool_fc",
+    "stadium_id": null,
+    "date": "2027-01-19T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575285"
+    }
+  },
+  {
+    "id": "match_2026_0419",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_vfb_stuttgart",
+    "away_team": "team_club_brugge_kv",
+    "stadium_id": null,
+    "date": "2027-01-19T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575302"
+    }
+  },
+  {
+    "id": "match_2026_0420",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_aston_villa_fc",
+    "away_team": "team_borussia_dortmund",
+    "stadium_id": null,
+    "date": "2027-01-19T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575303"
+    }
+  },
+  {
+    "id": "match_2026_0421",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_pae_aek",
+    "away_team": "team_as_roma",
+    "stadium_id": null,
+    "date": "2027-01-19T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575307"
+    }
+  },
+  {
+    "id": "match_2026_0422",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fc_porto",
+    "away_team": "team_sk_slavia_praha",
+    "stadium_id": null,
+    "date": "2027-01-19T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575308"
+    }
+  },
+  {
+    "id": "match_2026_0423",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_lille_osc",
+    "away_team": "team_sk_slovan_bratislava",
+    "stadium_id": null,
+    "date": "2027-01-19T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575321"
+    }
+  },
+  {
+    "id": "match_2026_0424",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fenerbahce_sk",
+    "away_team": "team_villarreal_cf",
+    "stadium_id": null,
+    "date": "2027-01-20T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575314"
+    }
+  },
+  {
+    "id": "match_2026_0425",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sabah_fk",
+    "away_team": "team_ssc_napoli",
+    "stadium_id": null,
+    "date": "2027-01-20T17:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575320"
+    }
+  },
+  {
+    "id": "match_2026_0426",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_racing_club_de_lens",
+    "away_team": "team_manchester_city_fc",
+    "stadium_id": null,
+    "date": "2027-01-20T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575284"
+    }
+  },
+  {
+    "id": "match_2026_0427",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sporting_clube_de_portugal",
+    "away_team": "team_barcelona",
+    "stadium_id": null,
+    "date": "2027-01-20T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575288"
+    }
+  },
+  {
+    "id": "match_2026_0428",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_como_1907",
+    "away_team": "team_paris_saint_germain_fc",
+    "stadium_id": null,
+    "date": "2027-01-20T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575294"
+    }
+  },
+  {
+    "id": "match_2026_0429",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_real_betis_balompie",
+    "away_team": "team_arsenal_fc",
+    "stadium_id": null,
+    "date": "2027-01-20T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575297"
+    }
+  },
+  {
+    "id": "match_2026_0430",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_manchester_united",
+    "away_team": "team_fc_bayern_munchen",
+    "stadium_id": null,
+    "date": "2027-01-20T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575300"
+    }
+  },
+  {
+    "id": "match_2026_0431",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_viking_fk",
+    "away_team": "team_psv",
+    "stadium_id": null,
+    "date": "2027-01-20T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575312"
+    }
+  },
+  {
+    "id": "match_2026_0432",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_rb_leipzig",
+    "away_team": "team_fk_shakhtar_donetsk",
+    "stadium_id": null,
+    "date": "2027-01-20T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575313"
+    }
+  },
+  {
+    "id": "match_2026_0433",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fk_shakhtar_donetsk",
+    "away_team": "team_real_madrid",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575281"
+    }
+  },
+  {
+    "id": "match_2026_0434",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_manchester_city_fc",
+    "away_team": "team_sporting_clube_de_portugal",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575283"
+    }
+  },
+  {
+    "id": "match_2026_0435",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sk_slovan_bratislava",
+    "away_team": "team_fc_internazionale_milano",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575287"
+    }
+  },
+  {
+    "id": "match_2026_0436",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_barcelona",
+    "away_team": "team_como_1907",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575289"
+    }
+  },
+  {
+    "id": "match_2026_0437",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_club_atletico_de_madrid",
+    "away_team": "team_fenerbahce_sk",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575291"
+    }
+  },
+  {
+    "id": "match_2026_0438",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_paris_saint_germain_fc",
+    "away_team": "team_galatasaray_sk",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575293"
+    }
+  },
+  {
+    "id": "match_2026_0439",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_liverpool_fc",
+    "away_team": "team_racing_club_de_lens",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575296"
+    }
+  },
+  {
+    "id": "match_2026_0440",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_arsenal_fc",
+    "away_team": "team_sabah_fk",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575298"
+    }
+  },
+  {
+    "id": "match_2026_0441",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_fc_bayern_munchen",
+    "away_team": "team_real_betis_balompie",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575299"
+    }
+  },
+  {
+    "id": "match_2026_0442",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_club_brugge_kv",
+    "away_team": "team_fk_bodoglimt",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575301"
+    }
+  },
+  {
+    "id": "match_2026_0443",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_borussia_dortmund",
+    "away_team": "team_pae_aek",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575304"
+    }
+  },
+  {
+    "id": "match_2026_0444",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_sk_slavia_praha",
+    "away_team": "team_aston_villa_fc",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575305"
+    }
+  },
+  {
+    "id": "match_2026_0445",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_as_roma",
+    "away_team": "team_lille_osc",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575306"
+    }
+  },
+  {
+    "id": "match_2026_0446",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_lask_linz",
+    "away_team": "team_fc_porto",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575309"
+    }
+  },
+  {
+    "id": "match_2026_0447",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_villarreal_cf",
+    "away_team": "team_manchester_united",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575310"
+    }
+  },
+  {
+    "id": "match_2026_0448",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_psv",
+    "away_team": "team_vfb_stuttgart",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575311"
+    }
+  },
+  {
+    "id": "match_2026_0449",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_feyenoord_rotterdam",
+    "away_team": "team_rb_leipzig",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575316"
+    }
+  },
+  {
+    "id": "match_2026_0450",
+    "competition_id": "competition_uefa_champions_league_2026",
+    "home_team": "team_ssc_napoli",
+    "away_team": "team_viking_fk",
+    "stadium_id": null,
+    "date": "2027-01-27T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "575319"
+    }
+  },
+  {
     "id": "match_2026_0500",
     "competition_id": "competition_ligue_1_2026",
     "home_team": "team_olympique_de_marseille",
@@ -11730,7 +14322,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_cesar_soto_grado",
     "sources": {
       "football_data": "564665"
     }
@@ -25206,13 +27798,13 @@
     "away_team": "team_us_lecce",
     "stadium_id": null,
     "date": "2026-09-07T16:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_juan_luca_sacchi",
     "sources": {
       "football_data": "558610"
     }
@@ -25230,7 +27822,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_paride_tremolada",
     "sources": {
       "football_data": "558617"
     }
