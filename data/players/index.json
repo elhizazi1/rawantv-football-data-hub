@@ -105,6 +105,13 @@
     "position": "Defensive Midfield"
   },
   {
+    "id": "player_bradley_paul_burrowes",
+    "name": "Bradley-Paul Burrowes",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/uxp2yx1770199284.jpg",
+    "position": "Midfielder"
+  },
+  {
     "id": "player_brian_madjo",
     "name": "Brian Madjo",
     "club_id": "team_aston_villa",
@@ -131,13 +138,6 @@
     "club_id": "team_aston_villa",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kwj0ts1770201186.jpg",
     "position": "Left-Back"
-  },
-  {
-    "id": "player_ibrahim_mbaye",
-    "name": "Ibrahim Mbaye",
-    "club_id": "team_aston_villa",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ex2mk11770217409.jpg",
-    "position": "Right Winger"
   },
   {
     "id": "player_adam_smith",
@@ -378,13 +378,6 @@
     "position": "Goalkeeper"
   },
   {
-    "id": "player_enzo_fernandez",
-    "name": "Enzo Fernández",
-    "club_id": "team_chelsea",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/59cm7k1771427301.jpg",
-    "position": "Central Midfield"
-  },
-  {
     "id": "player_estevao",
     "name": "Estêvão",
     "club_id": "team_chelsea",
@@ -418,6 +411,13 @@
     "club_id": "team_chelsea",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/os3osa1703682835.jpg",
     "position": "Centre-Forward"
+  },
+  {
+    "id": "player_jordan_henderson",
+    "name": "Jordan Henderson",
+    "club_id": "team_chelsea",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/4betej1705696564.jpg",
+    "position": "Defensive Midfield"
   },
   {
     "id": "player_aurele_amenda",
@@ -560,11 +560,11 @@
     "position": "Goalkeeper"
   },
   {
-    "id": "player_adam_aznou",
-    "name": "Adam Aznou",
+    "id": "player_ainsley_maitland_niles",
+    "name": "Ainsley Maitland-Niles",
     "club_id": "team_everton",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ri34fc1756976649.jpg",
-    "position": "Defender"
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/3775d71510853007.jpg",
+    "position": "Midfielder"
   },
   {
     "id": "player_brennan_johnson",
