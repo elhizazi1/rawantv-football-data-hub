@@ -5628,7 +5628,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_sven_jablonski",
     "sources": {
       "football_data": "575329"
     }
@@ -5646,7 +5646,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_nenad_minakovic",
     "sources": {
       "football_data": "575330"
     }
