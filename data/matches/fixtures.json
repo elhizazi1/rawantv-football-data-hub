@@ -348,10 +348,10 @@
     "away_team": "team_vfb_stuttgart",
     "stadium_id": null,
     "date": "2026-09-12T13:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 1,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_sven_jablonski",
@@ -366,9 +366,9 @@
     "away_team": "team_sc_paderborn_07",
     "stadium_id": null,
     "date": "2026-09-12T13:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 1,
+      "home": 3,
       "away": 0
     },
     "events": [],
@@ -384,10 +384,10 @@
     "away_team": "team_bayer_04_leverkusen",
     "stadium_id": null,
     "date": "2026-09-12T13:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 1
+      "home": 2,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_daniel_siebert",
@@ -402,10 +402,10 @@
     "away_team": "team_eintracht_frankfurt",
     "stadium_id": null,
     "date": "2026-09-12T13:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 2
+      "home": 1,
+      "away": 3
     },
     "events": [],
     "referee_id": "ref_felix_zwayer",
@@ -420,9 +420,9 @@
     "away_team": "team_borussia_monchengladbach",
     "stadium_id": null,
     "date": "2026-09-12T13:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 2,
+      "home": 5,
       "away": 0
     },
     "events": [],
@@ -438,10 +438,10 @@
     "away_team": "team_sv_werder_bremen",
     "stadium_id": null,
     "date": "2026-09-12T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_florian_exner",
@@ -8610,10 +8610,10 @@
     "away_team": "team_as_monaco_fc",
     "stadium_id": null,
     "date": "2026-09-12T15:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_eric_wattellier",
@@ -8628,13 +8628,13 @@
     "away_team": "team_toulouse_fc",
     "stadium_id": null,
     "date": "2026-09-12T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_aurelien_petit",
     "sources": {
       "football_data": "559684"
     }
@@ -8646,13 +8646,13 @@
     "away_team": "team_ogc_nice",
     "stadium_id": null,
     "date": "2026-09-12T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_francois_letexier",
     "sources": {
       "football_data": "559688"
     }
@@ -8664,13 +8664,13 @@
     "away_team": "team_angers_sco",
     "stadium_id": null,
     "date": "2026-09-12T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_ruddy_buquet",
     "sources": {
       "football_data": "559690"
     }
@@ -8682,13 +8682,13 @@
     "away_team": "team_olympique_lyonnais",
     "stadium_id": null,
     "date": "2026-09-12T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jerome_brisard",
     "sources": {
       "football_data": "559692"
     }
@@ -14388,7 +14388,7 @@
     "away_team": "team_rcd_espanyol_de_barcelona",
     "stadium_id": null,
     "date": "2026-09-12T14:15:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 2
@@ -14406,10 +14406,10 @@
     "away_team": "team_elche_cf",
     "stadium_id": null,
     "date": "2026-09-12T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_manuel_orellana_cid",
@@ -14424,13 +14424,13 @@
     "away_team": "team_rayo_vallecano_de_madrid",
     "stadium_id": null,
     "date": "2026-09-12T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 4,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_victor_garcia_verdura",
     "sources": {
       "football_data": "564677"
     }
@@ -20994,10 +20994,10 @@
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
     "date": "2026-09-12T14:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 1,
-      "away": 1
+      "home": 2,
+      "away": 3
     },
     "events": [],
     "referee_id": "ref_chris_kavanagh",
@@ -21012,7 +21012,7 @@
     "away_team": "team_fulham_fc",
     "stadium_id": null,
     "date": "2026-09-12T14:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
@@ -21030,10 +21030,10 @@
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
     "date": "2026-09-12T14:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_andy_madley",
@@ -21048,10 +21048,10 @@
     "away_team": "team_brentford_fc",
     "stadium_id": null,
     "date": "2026-09-12T14:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_jarred_gillett",
@@ -21066,10 +21066,10 @@
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
     "date": "2026-09-12T14:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 1,
-      "away": 1
+      "home": 2,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_farai_hallam",
@@ -21084,7 +21084,7 @@
     "away_team": "team_everton_fc",
     "stadium_id": null,
     "date": "2026-09-12T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
@@ -21102,13 +21102,13 @@
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
     "date": "2026-09-12T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_john_brooks",
     "sources": {
       "football_data": "560577"
     }
@@ -27852,7 +27852,7 @@
     "away_team": "team_frosinone_calcio",
     "stadium_id": null,
     "date": "2026-09-12T13:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 1,
       "away": 1
@@ -27870,10 +27870,10 @@
     "away_team": "team_ac_milan",
     "stadium_id": null,
     "date": "2026-09-12T16:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_matteo_marcenaro",
@@ -27888,13 +27888,13 @@
     "away_team": "team_cagliari_calcio",
     "stadium_id": null,
     "date": "2026-09-12T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_alberto_arena",
     "sources": {
       "football_data": "558607"
     }
