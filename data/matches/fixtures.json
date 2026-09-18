@@ -1050,9 +1050,9 @@
     "away_team": "team_getafe_cf",
     "stadium_id": null,
     "date": "2026-09-17T17:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
@@ -1068,13 +1068,13 @@
     "away_team": "team_villarreal_cf",
     "stadium_id": null,
     "date": "2026-09-17T19:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 3
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_miguel_chua",
     "sources": {
       "football_data": "564683"
     }

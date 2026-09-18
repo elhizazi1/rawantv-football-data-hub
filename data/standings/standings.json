@@ -27,6 +27,17 @@
       },
       {
         "position": 3,
+        "team_id": "team_real_betis_balompie",
+        "played": 6,
+        "won": 5,
+        "drawn": 0,
+        "lost": 1,
+        "goals_for": 8,
+        "goals_against": 6,
+        "points": 15
+      },
+      {
+        "position": 4,
         "team_id": "team_club_atletico_de_madrid",
         "played": 6,
         "won": 4,
@@ -37,7 +48,7 @@
         "points": 13
       },
       {
-        "position": 4,
+        "position": 5,
         "team_id": "team_sevilla_fc",
         "played": 6,
         "won": 4,
@@ -46,17 +57,6 @@
         "goals_for": 9,
         "goals_against": 6,
         "points": 13
-      },
-      {
-        "position": 5,
-        "team_id": "team_real_betis_balompie",
-        "played": 5,
-        "won": 4,
-        "drawn": 0,
-        "lost": 1,
-        "goals_for": 7,
-        "goals_against": 6,
-        "points": 12
       },
       {
         "position": 6,
@@ -148,6 +148,17 @@
       },
       {
         "position": 14,
+        "team_id": "team_villarreal_cf",
+        "played": 6,
+        "won": 1,
+        "drawn": 2,
+        "lost": 3,
+        "goals_for": 10,
+        "goals_against": 11,
+        "points": 5
+      },
+      {
+        "position": 15,
         "team_id": "team_levante_ud",
         "played": 5,
         "won": 1,
@@ -158,18 +169,18 @@
         "points": 5
       },
       {
-        "position": 15,
+        "position": 16,
         "team_id": "team_getafe_cf",
-        "played": 5,
+        "played": 6,
         "won": 1,
         "drawn": 2,
-        "lost": 2,
+        "lost": 3,
         "goals_for": 3,
-        "goals_against": 6,
+        "goals_against": 7,
         "points": 5
       },
       {
-        "position": 16,
+        "position": 17,
         "team_id": "team_rc_celta_de_vigo",
         "played": 6,
         "won": 0,
@@ -180,7 +191,7 @@
         "points": 4
       },
       {
-        "position": 17,
+        "position": 18,
         "team_id": "team_valencia_cf",
         "played": 6,
         "won": 1,
@@ -191,26 +202,15 @@
         "points": 4
       },
       {
-        "position": 18,
+        "position": 19,
         "team_id": "team_malaga_cf",
-        "played": 5,
+        "played": 6,
         "won": 0,
         "drawn": 3,
-        "lost": 2,
-        "goals_for": 2,
-        "goals_against": 8,
-        "points": 3
-      },
-      {
-        "position": 19,
-        "team_id": "team_villarreal_cf",
-        "played": 5,
-        "won": 0,
-        "drawn": 2,
         "lost": 3,
-        "goals_for": 7,
-        "goals_against": 10,
-        "points": 2
+        "goals_for": 3,
+        "goals_against": 11,
+        "points": 3
       },
       {
         "position": 20,

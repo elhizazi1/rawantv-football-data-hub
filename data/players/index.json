@@ -105,13 +105,6 @@
     "position": "Defensive Midfield"
   },
   {
-    "id": "player_bradley_paul_burrowes",
-    "name": "Bradley-Paul Burrowes",
-    "club_id": "team_aston_villa",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/uxp2yx1770199284.jpg",
-    "position": "Midfielder"
-  },
-  {
     "id": "player_brian_madjo",
     "name": "Brian Madjo",
     "club_id": "team_aston_villa",
@@ -138,6 +131,13 @@
     "club_id": "team_aston_villa",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/kwj0ts1770201186.jpg",
     "position": "Left-Back"
+  },
+  {
+    "id": "player_james_wright",
+    "name": "James Wright",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dx5gsz1788290290.jpg",
+    "position": "Goalkeeper"
   },
   {
     "id": "player_adam_smith",
