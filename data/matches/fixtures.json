@@ -1086,13 +1086,13 @@
     "away_team": "team_rayo_vallecano_de_madrid",
     "stadium_id": null,
     "date": "2026-09-19T12:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_manuel_orellana_cid",
     "sources": {
       "football_data": "564693"
     }
@@ -1104,13 +1104,13 @@
     "away_team": "team_deportivo_alaves",
     "stadium_id": null,
     "date": "2026-09-19T14:15:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_victor_garcia_verdura",
     "sources": {
       "football_data": "564691"
     }
@@ -1128,7 +1128,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_ricardo_de_burgos",
     "sources": {
       "football_data": "564694"
     }
@@ -7584,13 +7584,13 @@
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
     "date": "2026-09-19T11:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 3
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_sam_barrott",
     "sources": {
       "football_data": "560587"
     }
@@ -7602,13 +7602,13 @@
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
     "date": "2026-09-19T14:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_stuart_attwell",
     "sources": {
       "football_data": "560584"
     }
@@ -7620,13 +7620,13 @@
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
     "date": "2026-09-19T14:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_darren_england",
     "sources": {
       "football_data": "560586"
     }
@@ -7638,13 +7638,13 @@
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
     "date": "2026-09-19T14:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_tony_harrington",
     "sources": {
       "football_data": "560588"
     }
@@ -7662,7 +7662,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jarred_gillett",
     "sources": {
       "football_data": "560589"
     }
@@ -14424,13 +14424,13 @@
     "away_team": "team_torino_fc",
     "stadium_id": null,
     "date": "2026-09-19T13:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_marco_guida",
     "sources": {
       "football_data": "558598"
     }
@@ -14442,13 +14442,13 @@
     "away_team": "team_cagliari_calcio",
     "stadium_id": null,
     "date": "2026-09-19T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_gianluca_manganiello",
     "sources": {
       "football_data": "558589"
     }
@@ -14466,7 +14466,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_davide_massa",
     "sources": {
       "football_data": "558593"
     }
