@@ -679,6 +679,13 @@
     "position": "Attacking Midfield"
   },
   {
+    "id": "player_david_affengruber",
+    "name": "David Affengruber",
+    "club_id": "team_fulham",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/npsrj41724145158.jpg",
+    "position": "Centre-Back"
+  },
+  {
     "id": "player_emil_smith_rowe",
     "name": "Emile Smith-Rowe",
     "club_id": "team_fulham",
@@ -691,12 +698,5 @@
     "club_id": "team_fulham",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/8926eb1771264748.jpg",
     "position": "Centre-Forward"
-  },
-  {
-    "id": "player_harrison_reed",
-    "name": "Harrison Reed",
-    "club_id": "team_fulham",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/iyk4af1772026336.jpg",
-    "position": "Central Midfield"
   }
 ]
