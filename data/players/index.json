@@ -175,13 +175,6 @@
     "position": "Midfielder"
   },
   {
-    "id": "player_antonio_silva",
-    "name": "António Silva",
-    "club_id": "team_bournemouth",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/9o82xc1668118534.jpg",
-    "position": "Centre-Back"
-  },
-  {
     "id": "player_bafode_diakite",
     "name": "Bafodé Diakité",
     "club_id": "team_bournemouth",
@@ -208,6 +201,13 @@
     "club_id": "team_bournemouth",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/tehtnz1771750805.jpg",
     "position": "Right Winger"
+  },
+  {
+    "id": "player_djordje_petrovic",
+    "name": "Đorđe Petrović",
+    "club_id": "team_bournemouth",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/rz7f471771751668.jpg",
+    "position": "Goalkeeper"
   },
   {
     "id": "player_aaron_hickey",
