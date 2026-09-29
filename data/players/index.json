@@ -91,13 +91,6 @@
     "position": "Attacker"
   },
   {
-    "id": "player_amadou_onana",
-    "name": "Amadou Onana",
-    "club_id": "team_aston_villa",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/bijuo91634817657.jpg",
-    "position": "Defensive Midfield"
-  },
-  {
     "id": "player_boubacar_kamara",
     "name": "Boubacar Kamara",
     "club_id": "team_aston_villa",
@@ -138,6 +131,13 @@
     "club_id": "team_aston_villa",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/dx5gsz1788290290.jpg",
     "position": "Goalkeeper"
+  },
+  {
+    "id": "player_joao_gomes",
+    "name": "João Gomes",
+    "club_id": "team_aston_villa",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/o170sh1772032411.jpg",
+    "position": "Defensive Midfield"
   },
   {
     "id": "player_adam_smith",

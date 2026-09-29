@@ -1,0 +1,19 @@
+{
+  "id": "player_joao_gomes",
+  "name": "João Gomes",
+  "position": "Defensive Midfield",
+  "nationality": "Brazil",
+  "birth_date": "2001-02-12",
+  "height": 1,
+  "weight": 161,
+  "club_id": "team_aston_villa",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/o170sh1772032411.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34215764"
+  }
+}
