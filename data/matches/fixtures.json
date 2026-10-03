@@ -15408,30 +15408,12 @@
     }
   },
   {
-    "id": "match_2026_0902",
-    "competition_id": "competition_primera_division_2026",
-    "home_team": "team_real_betis_balompie",
-    "away_team": "team_malaga_cf",
-    "stadium_id": null,
-    "date": "2026-11-01T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "564736"
-    }
-  },
-  {
     "id": "match_2026_0903",
     "competition_id": "competition_primera_division_2026",
     "home_team": "team_villarreal_cf",
     "away_team": "team_rcd_espanyol_de_barcelona",
     "stadium_id": null,
-    "date": "2026-11-01T00:00:00Z",
+    "date": "2026-10-30T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15444,48 +15426,12 @@
     }
   },
   {
-    "id": "match_2026_0904",
-    "competition_id": "competition_primera_division_2026",
-    "home_team": "team_elche_cf",
-    "away_team": "team_valencia_cf",
-    "stadium_id": null,
-    "date": "2026-11-01T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "564728"
-    }
-  },
-  {
-    "id": "match_2026_0905",
-    "competition_id": "competition_primera_division_2026",
-    "home_team": "team_athletic_club",
-    "away_team": "team_real_sociedad_de_futbol",
-    "stadium_id": null,
-    "date": "2026-11-01T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "564729"
-    }
-  },
-  {
     "id": "match_2026_0906",
     "competition_id": "competition_primera_division_2026",
     "home_team": "team_levante_ud",
     "away_team": "team_club_atletico_de_madrid",
     "stadium_id": null,
-    "date": "2026-11-01T00:00:00Z",
+    "date": "2026-10-31T13:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15498,12 +15444,12 @@
     }
   },
   {
-    "id": "match_2026_0907",
+    "id": "match_2026_0911",
     "competition_id": "competition_primera_division_2026",
-    "home_team": "team_rc_deportivo_la_coruna",
-    "away_team": "team_ca_osasuna",
+    "home_team": "team_rayo_vallecano_de_madrid",
+    "away_team": "team_rc_celta_de_vigo",
     "stadium_id": null,
-    "date": "2026-11-01T00:00:00Z",
+    "date": "2026-10-31T15:15:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15512,7 +15458,25 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "564731"
+      "football_data": "564735"
+    }
+  },
+  {
+    "id": "match_2026_0902",
+    "competition_id": "competition_primera_division_2026",
+    "home_team": "team_real_betis_balompie",
+    "away_team": "team_malaga_cf",
+    "stadium_id": null,
+    "date": "2026-10-31T17:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "564736"
     }
   },
   {
@@ -15521,7 +15485,7 @@
     "home_team": "team_barcelona",
     "away_team": "team_deportivo_alaves",
     "stadium_id": null,
-    "date": "2026-11-01T00:00:00Z",
+    "date": "2026-10-31T20:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15539,7 +15503,7 @@
     "home_team": "team_getafe_cf",
     "away_team": "team_sevilla_fc",
     "stadium_id": null,
-    "date": "2026-11-01T00:00:00Z",
+    "date": "2026-11-01T13:00:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15557,7 +15521,7 @@
     "home_team": "team_real_racing_club_de_santander",
     "away_team": "team_real_madrid",
     "stadium_id": null,
-    "date": "2026-11-01T00:00:00Z",
+    "date": "2026-11-01T15:15:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15570,12 +15534,12 @@
     }
   },
   {
-    "id": "match_2026_0911",
+    "id": "match_2026_0904",
     "competition_id": "competition_primera_division_2026",
-    "home_team": "team_rayo_vallecano_de_madrid",
-    "away_team": "team_rc_celta_de_vigo",
+    "home_team": "team_elche_cf",
+    "away_team": "team_valencia_cf",
     "stadium_id": null,
-    "date": "2026-11-01T00:00:00Z",
+    "date": "2026-11-01T17:30:00Z",
     "status": "scheduled",
     "score": {
       "home": 0,
@@ -15584,7 +15548,43 @@
     "events": [],
     "referee_id": null,
     "sources": {
-      "football_data": "564735"
+      "football_data": "564728"
+    }
+  },
+  {
+    "id": "match_2026_0905",
+    "competition_id": "competition_primera_division_2026",
+    "home_team": "team_athletic_club",
+    "away_team": "team_real_sociedad_de_futbol",
+    "stadium_id": null,
+    "date": "2026-11-01T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "564729"
+    }
+  },
+  {
+    "id": "match_2026_0907",
+    "competition_id": "competition_primera_division_2026",
+    "home_team": "team_rc_deportivo_la_coruna",
+    "away_team": "team_ca_osasuna",
+    "stadium_id": null,
+    "date": "2026-11-02T20:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "564731"
     }
   },
   {
