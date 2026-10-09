@@ -660,7 +660,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_christian_dingert",
     "sources": {
       "football_data": "565820"
     }
@@ -8922,7 +8922,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jeremy_stinat",
     "sources": {
       "football_data": "559669"
     }
@@ -14862,7 +14862,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_francisco_hernandez_maeso",
     "sources": {
       "football_data": "564706"
     }
