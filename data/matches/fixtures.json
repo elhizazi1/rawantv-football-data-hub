@@ -654,10 +654,10 @@
     "away_team": "team_sv_werder_bremen",
     "stadium_id": null,
     "date": "2026-10-09T18:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_christian_dingert",
@@ -8916,10 +8916,10 @@
     "away_team": "team_olympique_lyonnais",
     "stadium_id": null,
     "date": "2026-10-09T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_jeremy_stinat",
@@ -14856,10 +14856,10 @@
     "away_team": "team_rcd_espanyol_de_barcelona",
     "stadium_id": null,
     "date": "2026-10-09T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_francisco_hernandez_maeso",
