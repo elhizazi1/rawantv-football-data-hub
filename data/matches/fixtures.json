@@ -672,13 +672,13 @@
     "away_team": "team_bayer_04_leverkusen",
     "stadium_id": null,
     "date": "2026-10-10T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 4
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_max_burda",
     "sources": {
       "football_data": "565812"
     }
@@ -690,13 +690,13 @@
     "away_team": "team_vfb_stuttgart",
     "stadium_id": null,
     "date": "2026-10-10T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_felix_zwayer",
     "sources": {
       "football_data": "565813"
     }
@@ -708,13 +708,13 @@
     "away_team": "team_sv_07_elversberg",
     "stadium_id": null,
     "date": "2026-10-10T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_tobias_reichel",
     "sources": {
       "football_data": "565817"
     }
@@ -726,13 +726,13 @@
     "away_team": "team_hamburger_sv",
     "stadium_id": null,
     "date": "2026-10-10T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 3
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_harm_osmers",
     "sources": {
       "football_data": "565818"
     }
@@ -744,13 +744,13 @@
     "away_team": "team_fc_bayern_munchen",
     "stadium_id": null,
     "date": "2026-10-10T13:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_sven_jablonski",
     "sources": {
       "football_data": "565819"
     }
@@ -762,13 +762,13 @@
     "away_team": "team_eintracht_frankfurt",
     "stadium_id": null,
     "date": "2026-10-10T16:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_daniel_siebert",
     "sources": {
       "football_data": "565815"
     }
@@ -8934,13 +8934,13 @@
     "away_team": "team_le_havre_ac",
     "stadium_id": null,
     "date": "2026-10-10T15:15:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_bastien_dechepy",
     "sources": {
       "football_data": "559674"
     }
@@ -14874,13 +14874,13 @@
     "away_team": "team_athletic_club",
     "stadium_id": null,
     "date": "2026-10-10T12:00:00Z",
-    "status": "scheduled",
+    "status": "cancelled",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jose_sanchez_martinez",
     "sources": {
       "football_data": "564698"
     }
@@ -14892,13 +14892,13 @@
     "away_team": "team_club_atletico_de_madrid",
     "stadium_id": null,
     "date": "2026-10-10T14:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_alejandro_quintero_gonzalez",
     "sources": {
       "football_data": "564699"
     }
@@ -14910,13 +14910,13 @@
     "away_team": "team_getafe_cf",
     "stadium_id": null,
     "date": "2026-10-10T16:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jesus_gil_manzano",
     "sources": {
       "football_data": "564700"
     }
@@ -21354,13 +21354,13 @@
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
     "date": "2026-10-10T11:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_paul_tierney",
     "sources": {
       "football_data": "560593"
     }
@@ -21372,13 +21372,13 @@
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
     "date": "2026-10-10T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_thomas_bramall",
     "sources": {
       "football_data": "560592"
     }
@@ -21390,13 +21390,13 @@
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
     "date": "2026-10-10T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 5,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_sam_barrott",
     "sources": {
       "football_data": "560595"
     }
@@ -21408,13 +21408,13 @@
     "away_team": "team_fulham_fc",
     "stadium_id": null,
     "date": "2026-10-10T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_lewis_smith",
     "sources": {
       "football_data": "560599"
     }
@@ -21426,13 +21426,13 @@
     "away_team": "team_brentford_fc",
     "stadium_id": null,
     "date": "2026-10-10T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_craig_pawson",
     "sources": {
       "football_data": "560601"
     }
@@ -21450,7 +21450,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_stuart_attwell",
     "sources": {
       "football_data": "560600"
     }
@@ -28194,13 +28194,13 @@
     "away_team": "team_acf_fiorentina",
     "stadium_id": null,
     "date": "2026-10-10T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_fabio_maresca",
     "sources": {
       "football_data": "558588"
     }
@@ -28212,13 +28212,13 @@
     "away_team": "team_parma_calcio_1913",
     "stadium_id": null,
     "date": "2026-10-10T16:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_kevin_bonacina",
     "sources": {
       "football_data": "558582"
     }
