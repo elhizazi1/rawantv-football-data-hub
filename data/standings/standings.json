@@ -5,6 +5,17 @@
     "table": [
       {
         "position": 1,
+        "team_id": "team_sc_freiburg",
+        "played": 5,
+        "won": 4,
+        "drawn": 1,
+        "lost": 0,
+        "goals_for": 14,
+        "goals_against": 4,
+        "points": 13
+      },
+      {
+        "position": 2,
         "team_id": "team_borussia_dortmund",
         "played": 5,
         "won": 4,
@@ -15,24 +26,13 @@
         "points": 13
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_fc_bayern_munchen",
         "played": 5,
         "won": 3,
         "drawn": 2,
         "lost": 0,
         "goals_for": 16,
-        "goals_against": 4,
-        "points": 11
-      },
-      {
-        "position": 3,
-        "team_id": "team_sc_freiburg",
-        "played": 5,
-        "won": 3,
-        "drawn": 2,
-        "lost": 0,
-        "goals_for": 13,
         "goals_against": 4,
         "points": 11
       },
@@ -126,17 +126,6 @@
       },
       {
         "position": 12,
-        "team_id": "team_fc_schalke_04",
-        "played": 5,
-        "won": 1,
-        "drawn": 3,
-        "lost": 1,
-        "goals_for": 4,
-        "goals_against": 5,
-        "points": 6
-      },
-      {
-        "position": 13,
         "team_id": "team_hamburger_sv",
         "played": 5,
         "won": 2,
@@ -145,6 +134,17 @@
         "goals_for": 5,
         "goals_against": 15,
         "points": 6
+      },
+      {
+        "position": 13,
+        "team_id": "team_fc_schalke_04",
+        "played": 5,
+        "won": 1,
+        "drawn": 2,
+        "lost": 2,
+        "goals_for": 4,
+        "goals_against": 6,
+        "points": 5
       },
       {
         "position": 14,
@@ -638,7 +638,7 @@
         "won": 4,
         "drawn": 1,
         "lost": 1,
-        "goals_for": 10,
+        "goals_for": 12,
         "goals_against": 10,
         "points": 13
       },
@@ -743,6 +743,17 @@
       },
       {
         "position": 13,
+        "team_id": "team_olympique_de_marseille",
+        "played": 6,
+        "won": 2,
+        "drawn": 0,
+        "lost": 4,
+        "goals_for": 9,
+        "goals_against": 8,
+        "points": 6
+      },
+      {
+        "position": 14,
         "team_id": "team_le_mans_fc",
         "played": 6,
         "won": 1,
@@ -753,7 +764,7 @@
         "points": 6
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "team_toulouse_fc",
         "played": 6,
         "won": 1,
@@ -764,37 +775,26 @@
         "points": 6
       },
       {
-        "position": 15,
+        "position": 16,
         "team_id": "team_aj_auxerre",
         "played": 6,
         "won": 2,
         "drawn": 0,
         "lost": 4,
         "goals_for": 8,
-        "goals_against": 14,
+        "goals_against": 16,
         "points": 6
       },
       {
-        "position": 16,
+        "position": 17,
         "team_id": "team_es_troyes_ac",
-        "played": 5,
+        "played": 6,
         "won": 1,
         "drawn": 1,
-        "lost": 3,
-        "goals_for": 4,
-        "goals_against": 11,
-        "points": 4
-      },
-      {
-        "position": 17,
-        "team_id": "team_olympique_de_marseille",
-        "played": 5,
-        "won": 1,
-        "drawn": 0,
         "lost": 4,
-        "goals_for": 7,
-        "goals_against": 8,
-        "points": 3
+        "goals_for": 4,
+        "goals_against": 13,
+        "points": 4
       },
       {
         "position": 18,
@@ -842,8 +842,8 @@
         "won": 6,
         "drawn": 1,
         "lost": 1,
-        "goals_for": 10,
-        "goals_against": 7,
+        "goals_for": 14,
+        "goals_against": 9,
         "points": 19
       },
       {
@@ -969,25 +969,25 @@
       },
       {
         "position": 15,
+        "team_id": "team_real_racing_club_de_santander",
+        "played": 8,
+        "won": 2,
+        "drawn": 2,
+        "lost": 4,
+        "goals_for": 13,
+        "goals_against": 23,
+        "points": 8
+      },
+      {
+        "position": 16,
         "team_id": "team_ca_osasuna",
         "played": 8,
         "won": 2,
         "drawn": 2,
         "lost": 4,
-        "goals_for": 6,
-        "goals_against": 14,
+        "goals_for": 8,
+        "goals_against": 18,
         "points": 8
-      },
-      {
-        "position": 16,
-        "team_id": "team_real_racing_club_de_santander",
-        "played": 7,
-        "won": 2,
-        "drawn": 1,
-        "lost": 4,
-        "goals_for": 11,
-        "goals_against": 21,
-        "points": 7
       },
       {
         "position": 17,
@@ -1013,22 +1013,22 @@
       },
       {
         "position": 19,
+        "team_id": "team_valencia_cf",
+        "played": 8,
+        "won": 1,
+        "drawn": 2,
+        "lost": 5,
+        "goals_for": 6,
+        "goals_against": 15,
+        "points": 5
+      },
+      {
+        "position": 20,
         "team_id": "team_malaga_cf",
         "played": 8,
         "won": 0,
         "drawn": 4,
         "lost": 4,
-        "goals_for": 4,
-        "goals_against": 13,
-        "points": 4
-      },
-      {
-        "position": 19,
-        "team_id": "team_valencia_cf",
-        "played": 7,
-        "won": 1,
-        "drawn": 1,
-        "lost": 5,
         "goals_for": 4,
         "goals_against": 13,
         "points": 4
@@ -1046,7 +1046,7 @@
         "won": 6,
         "drawn": 0,
         "lost": 0,
-        "goals_for": 15,
+        "goals_for": 16,
         "goals_against": 5,
         "points": 18
       },
@@ -1135,7 +1135,7 @@
         "drawn": 3,
         "lost": 1,
         "goals_for": 7,
-        "goals_against": 6,
+        "goals_against": 7,
         "points": 9
       },
       {
@@ -1300,28 +1300,39 @@
       },
       {
         "position": 4,
+        "team_id": "team_cagliari_calcio",
+        "played": 6,
+        "won": 4,
+        "drawn": 1,
+        "lost": 1,
+        "goals_for": 6,
+        "goals_against": 3,
+        "points": 13
+      },
+      {
+        "position": 5,
         "team_id": "team_ac_milan",
         "played": 6,
         "won": 3,
         "drawn": 3,
         "lost": 0,
-        "goals_for": 10,
-        "goals_against": 4,
-        "points": 12
-      },
-      {
-        "position": 5,
-        "team_id": "team_cagliari_calcio",
-        "played": 5,
-        "won": 4,
-        "drawn": 0,
-        "lost": 1,
-        "goals_for": 5,
-        "goals_against": 2,
+        "goals_for": 11,
+        "goals_against": 5,
         "points": 12
       },
       {
         "position": 6,
+        "team_id": "team_juventus_fc",
+        "played": 6,
+        "won": 3,
+        "drawn": 2,
+        "lost": 1,
+        "goals_for": 9,
+        "goals_against": 5,
+        "points": 11
+      },
+      {
+        "position": 7,
         "team_id": "team_como_1907",
         "played": 6,
         "won": 3,
@@ -1332,7 +1343,7 @@
         "points": 11
       },
       {
-        "position": 7,
+        "position": 8,
         "team_id": "team_ssc_napoli",
         "played": 6,
         "won": 3,
@@ -1340,17 +1351,6 @@
         "lost": 2,
         "goals_for": 10,
         "goals_against": 6,
-        "points": 10
-      },
-      {
-        "position": 8,
-        "team_id": "team_juventus_fc",
-        "played": 5,
-        "won": 3,
-        "drawn": 1,
-        "lost": 1,
-        "goals_for": 8,
-        "goals_against": 4,
         "points": 10
       },
       {
@@ -1371,8 +1371,8 @@
         "won": 2,
         "drawn": 2,
         "lost": 2,
-        "goals_for": 9,
-        "goals_against": 9,
+        "goals_for": 10,
+        "goals_against": 10,
         "points": 8
       },
       {
