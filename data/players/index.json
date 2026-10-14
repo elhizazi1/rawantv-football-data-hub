@@ -609,13 +609,6 @@
     "position": "Defensive Midfield"
   },
   {
-    "id": "player_jack_grealish",
-    "name": "Jack Grealish",
-    "club_id": "team_everton",
-    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/ah2exe1771944888.jpg",
-    "position": "Left Wing"
-  },
-  {
     "id": "player_jake_obrien",
     "name": "Jake O'Brien",
     "club_id": "team_everton",
@@ -628,6 +621,13 @@
     "club_id": "team_everton",
     "photo": "https://r2.thesportsdb.com/images/media/player/thumb/xoaj4d1585668725.jpg",
     "position": "Defensive Midfield"
+  },
+  {
+    "id": "player_james_tarkowski",
+    "name": "James Tarkowski",
+    "club_id": "team_everton",
+    "photo": "https://r2.thesportsdb.com/images/media/player/thumb/086aiy1510754261.jpg",
+    "position": "Centre-Back"
   },
   {
     "id": "player_alex_iwobi",

@@ -1,0 +1,19 @@
+{
+  "id": "player_james_tarkowski",
+  "name": "James Tarkowski",
+  "position": "Centre-Back",
+  "nationality": "England",
+  "birth_date": "1992-11-19",
+  "height": 6,
+  "weight": 179,
+  "club_id": "team_everton",
+  "photo": "https://r2.thesportsdb.com/images/media/player/thumb/086aiy1510754261.jpg",
+  "statistics": {
+    "goals": 0,
+    "assists": 0,
+    "matches": 0
+  },
+  "sources": {
+    "thesportsdb": "34147789"
+  }
+}

@@ -6006,7 +6006,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_tobias_stieler",
     "sources": {
       "football_data": "575350"
     }
@@ -6024,7 +6024,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_donatas_rumsas",
     "sources": {
       "football_data": "575351"
     }
