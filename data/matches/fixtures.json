@@ -5838,7 +5838,7 @@
     "away_team": "team_sporting_clube_de_portugal",
     "stadium_id": null,
     "date": "2026-10-13T16:45:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 2
@@ -5856,7 +5856,7 @@
     "away_team": "team_sk_slavia_praha",
     "stadium_id": null,
     "date": "2026-10-13T16:45:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 2,
       "away": 0
@@ -5874,10 +5874,10 @@
     "away_team": "team_club_brugge_kv",
     "stadium_id": null,
     "date": "2026-10-13T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 4
     },
     "events": [],
     "referee_id": "ref_rohit_saggi",
@@ -5892,10 +5892,10 @@
     "away_team": "team_barcelona",
     "stadium_id": null,
     "date": "2026-10-13T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 4
     },
     "events": [],
     "referee_id": "ref_marco_guida",
@@ -5910,9 +5910,9 @@
     "away_team": "team_manchester_united",
     "stadium_id": null,
     "date": "2026-10-13T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
@@ -5928,9 +5928,9 @@
     "away_team": "team_lille_osc",
     "stadium_id": null,
     "date": "2026-10-13T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 3,
       "away": 0
     },
     "events": [],
@@ -5946,10 +5946,10 @@
     "away_team": "team_fc_bayern_munchen",
     "stadium_id": null,
     "date": "2026-10-13T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 3
     },
     "events": [],
     "referee_id": "ref_georgi_kabakov",
@@ -5964,9 +5964,9 @@
     "away_team": "team_psv",
     "stadium_id": null,
     "date": "2026-10-13T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
@@ -5982,10 +5982,10 @@
     "away_team": "team_ssc_napoli",
     "stadium_id": null,
     "date": "2026-10-13T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_daniel_siebert",
@@ -28248,7 +28248,7 @@
     "away_team": "team_as_roma",
     "stadium_id": null,
     "date": "2026-10-11T10:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
@@ -28266,10 +28266,10 @@
     "away_team": "team_bologna_fc_1909",
     "stadium_id": null,
     "date": "2026-10-11T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_luca_pairetto",
@@ -28284,10 +28284,10 @@
     "away_team": "team_ac_monza",
     "stadium_id": null,
     "date": "2026-10-11T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_giuseppe_collu",
@@ -28302,10 +28302,10 @@
     "away_team": "team_ac_milan",
     "stadium_id": null,
     "date": "2026-10-11T16:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_francesco_fourneau",
@@ -28320,10 +28320,10 @@
     "away_team": "team_juventus_fc",
     "stadium_id": null,
     "date": "2026-10-11T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_matteo_marcenaro",
@@ -28338,10 +28338,10 @@
     "away_team": "team_venezia_fc",
     "stadium_id": null,
     "date": "2026-10-12T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_paride_tremolada",
@@ -28356,10 +28356,10 @@
     "away_team": "team_udinese_calcio",
     "stadium_id": null,
     "date": "2026-10-12T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_valerio_crezzini",
