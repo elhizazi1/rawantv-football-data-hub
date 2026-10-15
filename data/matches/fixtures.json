@@ -6000,10 +6000,10 @@
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
     "date": "2026-10-14T16:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 6
     },
     "events": [],
     "referee_id": "ref_tobias_stieler",
@@ -6018,10 +6018,10 @@
     "away_team": "team_como_1907",
     "stadium_id": null,
     "date": "2026-10-14T16:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_donatas_rumsas",
@@ -6036,13 +6036,13 @@
     "away_team": "team_real_madrid",
     "stadium_id": null,
     "date": "2026-10-14T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 4
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_francois_letexier",
     "sources": {
       "football_data": "575352"
     }
@@ -6054,13 +6054,13 @@
     "away_team": "team_paris_saint_germain_fc",
     "stadium_id": null,
     "date": "2026-10-14T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 4
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_sven_jablonski",
     "sources": {
       "football_data": "575353"
     }
@@ -6072,13 +6072,13 @@
     "away_team": "team_borussia_dortmund",
     "stadium_id": null,
     "date": "2026-10-14T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_urs_schnyder",
     "sources": {
       "football_data": "575354"
     }
@@ -6090,13 +6090,13 @@
     "away_team": "team_fenerbahce_sk",
     "stadium_id": null,
     "date": "2026-10-14T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 6,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_ivan_kruzliak",
     "sources": {
       "football_data": "575355"
     }
@@ -6108,13 +6108,13 @@
     "away_team": "team_fc_porto",
     "stadium_id": null,
     "date": "2026-10-14T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_clement_turpin",
     "sources": {
       "football_data": "575356"
     }
@@ -6126,13 +6126,13 @@
     "away_team": "team_pae_aek",
     "stadium_id": null,
     "date": "2026-10-14T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_chris_kavanagh",
     "sources": {
       "football_data": "575357"
     }
@@ -6144,13 +6144,13 @@
     "away_team": "team_vfb_stuttgart",
     "stadium_id": null,
     "date": "2026-10-14T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 3
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_irfan_peljto",
     "sources": {
       "football_data": "575358"
     }
