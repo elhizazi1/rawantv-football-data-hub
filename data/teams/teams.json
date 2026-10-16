@@ -1,611 +1,5 @@
 [
   {
-    "id": "team_arsenal",
-    "sources": {
-      "thesportsdb": "133604"
-    },
-    "name": "Arsenal",
-    "short_name": "ARS",
-    "country": "England",
-    "founded": 1892,
-    "stadium_id": "stadium_emirates_stadium",
-    "logo": null
-  },
-  {
-    "id": "team_aston_villa",
-    "sources": {
-      "thesportsdb": "133601"
-    },
-    "name": "Aston Villa",
-    "short_name": "AVL",
-    "country": "England",
-    "founded": 1874,
-    "stadium_id": "stadium_villa_park",
-    "logo": null
-  },
-  {
-    "id": "team_paris_saint_germain",
-    "sources": {
-      "thesportsdb": "134301"
-    },
-    "name": "Bournemouth",
-    "short_name": "BOU",
-    "country": "England",
-    "founded": 1890,
-    "stadium_id": "stadium_vitality_stadium",
-    "logo": null
-  },
-  {
-    "id": "team_brentford",
-    "sources": {
-      "thesportsdb": "134355"
-    },
-    "name": "Brentford",
-    "short_name": "BRE",
-    "country": "England",
-    "founded": 1889,
-    "stadium_id": "stadium_brentford_community_stadium",
-    "logo": null
-  },
-  {
-    "id": "team_brighton_and_hove_albion",
-    "sources": {
-      "thesportsdb": "133619"
-    },
-    "name": "Brighton and Hove Albion",
-    "short_name": "BRI",
-    "country": "England",
-    "founded": 1901,
-    "stadium_id": "stadium_american_express_stadium",
-    "logo": null
-  },
-  {
-    "id": "team_chelsea",
-    "sources": {
-      "thesportsdb": "133610"
-    },
-    "name": "Chelsea",
-    "short_name": "CHE",
-    "country": "England",
-    "founded": 1905,
-    "stadium_id": "stadium_stamford_bridge",
-    "logo": null
-  },
-  {
-    "id": "team_coventry_city",
-    "sources": {
-      "thesportsdb": "133625"
-    },
-    "name": "Coventry City",
-    "short_name": "CVC",
-    "country": "England",
-    "founded": 1883,
-    "stadium_id": "stadium_the_coventry_building_society_arena",
-    "logo": null
-  },
-  {
-    "id": "team_crystal_palace",
-    "sources": {
-      "thesportsdb": "133632"
-    },
-    "name": "Crystal Palace",
-    "short_name": "CRY",
-    "country": "England",
-    "founded": 1905,
-    "stadium_id": "stadium_selhurst_park",
-    "logo": null
-  },
-  {
-    "id": "team_everton",
-    "sources": {
-      "thesportsdb": "133615"
-    },
-    "name": "Everton",
-    "short_name": "EVE",
-    "country": "England",
-    "founded": 1878,
-    "stadium_id": "stadium_hill_dickinson_stadium",
-    "logo": null
-  },
-  {
-    "id": "team_fulham",
-    "sources": {
-      "thesportsdb": "133600"
-    },
-    "name": "Fulham",
-    "short_name": "FUL",
-    "country": "England",
-    "founded": 1879,
-    "stadium_id": "stadium_craven_cottage",
-    "logo": null
-  },
-  {
-    "id": "team_athletic_bilbao",
-    "sources": {
-      "thesportsdb": "133727"
-    },
-    "name": "Athletic Bilbao",
-    "short_name": "ATH",
-    "country": "Spain",
-    "founded": 1898,
-    "stadium_id": "stadium_san_mames_barria",
-    "logo": null
-  },
-  {
-    "id": "team_atletico_madrid",
-    "sources": {
-      "thesportsdb": "133729"
-    },
-    "name": "Atlético Madrid",
-    "short_name": "ATM",
-    "country": "Spain",
-    "founded": 1903,
-    "stadium_id": "stadium_riyadh_air_metropolitano",
-    "logo": null
-  },
-  {
-    "id": "team_real_madrid",
-    "sources": {
-      "thesportsdb": "133739",
-      "football_data": "86"
-    },
-    "name": "Real Madrid CF",
-    "short_name": "RMA",
-    "country": "Spain",
-    "founded": 1902,
-    "stadium_id": "stadium_spotify_camp_nou",
-    "logo": "https://crests.football-data.org/86.png"
-  },
-  {
-    "id": "team_celta_vigo",
-    "sources": {
-      "thesportsdb": "133937"
-    },
-    "name": "Celta Vigo",
-    "short_name": "VIG",
-    "country": "Spain",
-    "founded": 1923,
-    "stadium_id": "stadium_estadio_abanca_balaidos",
-    "logo": null
-  },
-  {
-    "id": "team_deportivo_alaves",
-    "sources": {
-      "thesportsdb": "134221",
-      "football_data": "263"
-    },
-    "name": "Deportivo Alavés",
-    "short_name": "ALA",
-    "country": "Spain",
-    "founded": 1921,
-    "stadium_id": "stadium_estadio_de_mendizorroza",
-    "logo": "https://crests.football-data.org/263.png"
-  },
-  {
-    "id": "team_deportivo_de_la_coruna",
-    "sources": {
-      "thesportsdb": "133816"
-    },
-    "name": "Deportivo de A Coruña",
-    "short_name": null,
-    "country": "Spain",
-    "founded": 1906,
-    "stadium_id": "stadium_estadio_abanca_riazor",
-    "logo": null
-  },
-  {
-    "id": "team_elche",
-    "sources": {
-      "thesportsdb": "134384"
-    },
-    "name": "Elche",
-    "short_name": null,
-    "country": "Spain",
-    "founded": 1923,
-    "stadium_id": "stadium_estadio_martinez_valero",
-    "logo": null
-  },
-  {
-    "id": "team_espanyol",
-    "sources": {
-      "thesportsdb": "133734"
-    },
-    "name": "Espanyol",
-    "short_name": null,
-    "country": "Spain",
-    "founded": 1900,
-    "stadium_id": "stadium_rcde_stadium",
-    "logo": null
-  },
-  {
-    "id": "team_getafe",
-    "sources": {
-      "thesportsdb": "133731"
-    },
-    "name": "Getafe",
-    "short_name": "GET",
-    "country": "Spain",
-    "founded": 1946,
-    "stadium_id": "stadium_estadio_coliseum",
-    "logo": null
-  },
-  {
-    "id": "team_levante",
-    "sources": {
-      "thesportsdb": "133732"
-    },
-    "name": "Levante",
-    "short_name": null,
-    "country": "Spain",
-    "founded": 1909,
-    "stadium_id": "stadium_estadio_ciudad_de_valencia",
-    "logo": null
-  },
-  {
-    "id": "team_ac_milan",
-    "sources": {
-      "thesportsdb": "133667",
-      "football_data": "98"
-    },
-    "name": "AC Milan",
-    "short_name": "MIL",
-    "country": "Italy",
-    "founded": 1899,
-    "stadium_id": "stadium_stadio_giuseppe_meazza",
-    "logo": "https://crests.football-data.org/98.png"
-  },
-  {
-    "id": "team_atalanta",
-    "sources": {
-      "thesportsdb": "134782"
-    },
-    "name": "Atalanta",
-    "short_name": null,
-    "country": "Italy",
-    "founded": 1907,
-    "stadium_id": "stadium_new_balance_arena",
-    "logo": null
-  },
-  {
-    "id": "team_bologna",
-    "sources": {
-      "thesportsdb": "134781"
-    },
-    "name": "Bologna",
-    "short_name": null,
-    "country": "Italy",
-    "founded": 1909,
-    "stadium_id": "stadium_stadio_renato_dallara",
-    "logo": null
-  },
-  {
-    "id": "team_cagliari",
-    "sources": {
-      "thesportsdb": "134783"
-    },
-    "name": "Cagliari",
-    "short_name": null,
-    "country": "Italy",
-    "founded": 1920,
-    "stadium_id": "stadium_unipol_domus",
-    "logo": null
-  },
-  {
-    "id": "team_como",
-    "sources": {
-      "thesportsdb": "134243"
-    },
-    "name": "Como",
-    "short_name": "COM",
-    "country": "Italy",
-    "founded": 1907,
-    "stadium_id": "stadium_stadio_giuseppe_sinigaglia",
-    "logo": null
-  },
-  {
-    "id": "team_fiorentina",
-    "sources": {
-      "thesportsdb": "133674"
-    },
-    "name": "Fiorentina",
-    "short_name": null,
-    "country": "Italy",
-    "founded": 1926,
-    "stadium_id": "stadium_stadio_artemio_franchi",
-    "logo": null
-  },
-  {
-    "id": "team_frosinone",
-    "sources": {
-      "thesportsdb": "133818"
-    },
-    "name": "Frosinone",
-    "short_name": null,
-    "country": "Italy",
-    "founded": 1912,
-    "stadium_id": "stadium_stadio_benito_stirpe",
-    "logo": null
-  },
-  {
-    "id": "team_genoa",
-    "sources": {
-      "thesportsdb": "133675"
-    },
-    "name": "Genoa",
-    "short_name": null,
-    "country": "Italy",
-    "founded": 1823,
-    "stadium_id": "stadium_stadio_luigi_ferraris",
-    "logo": null
-  },
-  {
-    "id": "team_internazionale",
-    "sources": {
-      "thesportsdb": "133681"
-    },
-    "name": "Inter Milan",
-    "short_name": "INT",
-    "country": "Italy",
-    "founded": 1908,
-    "stadium_id": "stadium_stadio_giuseppe_meazza",
-    "logo": null
-  },
-  {
-    "id": "team_juventus",
-    "sources": {
-      "thesportsdb": "133676"
-    },
-    "name": "Juventus",
-    "short_name": "JUV",
-    "country": "Italy",
-    "founded": 1897,
-    "stadium_id": "stadium_allianz_stadium_turin",
-    "logo": null
-  },
-  {
-    "id": "team_augsburg",
-    "sources": {
-      "thesportsdb": "133652"
-    },
-    "name": "Augsburg",
-    "short_name": null,
-    "country": "Germany",
-    "founded": 1907,
-    "stadium_id": "stadium_wwk_arena",
-    "logo": null
-  },
-  {
-    "id": "team_bayer_leverkusen",
-    "sources": {
-      "thesportsdb": "133666"
-    },
-    "name": "Bayer Leverkusen",
-    "short_name": "B04",
-    "country": "Germany",
-    "founded": 1904,
-    "stadium_id": "stadium_bayarena",
-    "logo": null
-  },
-  {
-    "id": "team_bayern_munich",
-    "sources": {
-      "thesportsdb": "133664"
-    },
-    "name": "Bayern Munich",
-    "short_name": "BAY",
-    "country": "Germany",
-    "founded": 1900,
-    "stadium_id": "stadium_allianz_arena",
-    "logo": null
-  },
-  {
-    "id": "team_borussia_dortmund",
-    "sources": {
-      "thesportsdb": "133650",
-      "football_data": "4"
-    },
-    "name": "Borussia Dortmund",
-    "short_name": "BVB",
-    "country": "Germany",
-    "founded": 1909,
-    "stadium_id": "stadium_signal_iduna_park",
-    "logo": "https://crests.football-data.org/4.png"
-  },
-  {
-    "id": "team_borussia_monchengladbach",
-    "sources": {
-      "thesportsdb": "134779",
-      "football_data": "18"
-    },
-    "name": "Borussia Mönchengladbach",
-    "short_name": "BMG",
-    "country": "Germany",
-    "founded": 1900,
-    "stadium_id": "stadium_stadion_im_borussia_park",
-    "logo": "https://crests.football-data.org/18.png"
-  },
-  {
-    "id": "team_eintracht_frankfurt",
-    "sources": {
-      "thesportsdb": "133814",
-      "football_data": "19"
-    },
-    "name": "Eintracht Frankfurt",
-    "short_name": "SGE",
-    "country": "Germany",
-    "founded": 1899,
-    "stadium_id": "stadium_deutsche_bank_park",
-    "logo": "https://crests.football-data.org/19.png"
-  },
-  {
-    "id": "team_elversberg",
-    "sources": {
-      "thesportsdb": "138411"
-    },
-    "name": "Elversberg",
-    "short_name": null,
-    "country": "Germany",
-    "founded": 1907,
-    "stadium_id": "stadium_waldstadion_kaiserlinde",
-    "logo": null
-  },
-  {
-    "id": "team_freiburg",
-    "sources": {
-      "thesportsdb": "133653"
-    },
-    "name": "Freiburg",
-    "short_name": null,
-    "country": "Germany",
-    "founded": 1904,
-    "stadium_id": "stadium_europa_park_stadion",
-    "logo": null
-  },
-  {
-    "id": "team_hamburg",
-    "sources": {
-      "thesportsdb": "133651"
-    },
-    "name": "Hamburg",
-    "short_name": null,
-    "country": "Germany",
-    "founded": 1887,
-    "stadium_id": "stadium_volksparkstadion",
-    "logo": null
-  },
-  {
-    "id": "team_hoffenheim",
-    "sources": {
-      "thesportsdb": "133657"
-    },
-    "name": "Hoffenheim",
-    "short_name": null,
-    "country": "Germany",
-    "founded": 1899,
-    "stadium_id": "stadium_prezero_arena",
-    "logo": null
-  },
-  {
-    "id": "team_angers",
-    "sources": {
-      "thesportsdb": "134709"
-    },
-    "name": "Angers",
-    "short_name": null,
-    "country": "France",
-    "founded": 1919,
-    "stadium_id": "stadium_stade_raymond_kopa",
-    "logo": null
-  },
-  {
-    "id": "team_auxerre",
-    "sources": {
-      "thesportsdb": "134788"
-    },
-    "name": "Auxerre",
-    "short_name": null,
-    "country": "France",
-    "founded": 1905,
-    "stadium_id": "stadium_stade_de_labbe_deschamps",
-    "logo": null
-  },
-  {
-    "id": "team_brest",
-    "sources": {
-      "thesportsdb": "133704"
-    },
-    "name": "Brest",
-    "short_name": "BRS",
-    "country": "France",
-    "founded": 1903,
-    "stadium_id": "stadium_stade_francis_le_ble",
-    "logo": null
-  },
-  {
-    "id": "team_le_havre",
-    "sources": {
-      "thesportsdb": "133862"
-    },
-    "name": "Le Havre",
-    "short_name": "HAC",
-    "country": "France",
-    "founded": 1872,
-    "stadium_id": "stadium_stade_oceane",
-    "logo": null
-  },
-  {
-    "id": "team_le_mans",
-    "sources": {
-      "thesportsdb": "133848"
-    },
-    "name": "Le Mans",
-    "short_name": null,
-    "country": "France",
-    "founded": 1985,
-    "stadium_id": "stadium_stade_marie_marvingt",
-    "logo": null
-  },
-  {
-    "id": "team_lens",
-    "sources": {
-      "thesportsdb": "133822"
-    },
-    "name": "Lens",
-    "short_name": "LNS",
-    "country": "France",
-    "founded": 1906,
-    "stadium_id": "stadium_stade_bollaert_delelis",
-    "logo": null
-  },
-  {
-    "id": "team_lille",
-    "sources": {
-      "thesportsdb": "133711"
-    },
-    "name": "Lille",
-    "short_name": "LIL",
-    "country": "France",
-    "founded": 1944,
-    "stadium_id": "stadium_decathlon_arena_stade_pierre_mauroy",
-    "logo": null
-  },
-  {
-    "id": "team_lorient",
-    "sources": {
-      "thesportsdb": "133715"
-    },
-    "name": "Lorient",
-    "short_name": "LOR",
-    "country": "France",
-    "founded": 1926,
-    "stadium_id": "stadium_stade_du_moustoir",
-    "logo": null
-  },
-  {
-    "id": "team_lyon",
-    "sources": {
-      "thesportsdb": "133713"
-    },
-    "name": "Lyon",
-    "short_name": "LYO",
-    "country": "France",
-    "founded": 1950,
-    "stadium_id": "stadium_groupama_stadium",
-    "logo": null
-  },
-  {
-    "id": "team_marseille",
-    "sources": {
-      "thesportsdb": "133707"
-    },
-    "name": "Marseille",
-    "short_name": "OLM",
-    "country": "France",
-    "founded": 1899,
-    "stadium_id": "stadium_orange_velodrome",
-    "logo": null
-  },
-  {
     "id": "team_1_fc_koln",
     "sources": {
       "football_data": "1"
@@ -637,6 +31,17 @@
     "country": "Germany",
     "founded": 1904,
     "logo": "https://crests.football-data.org/3.png"
+  },
+  {
+    "id": "team_borussia_dortmund",
+    "sources": {
+      "football_data": "4"
+    },
+    "name": "Borussia Dortmund",
+    "short_name": "BVB",
+    "country": "Germany",
+    "founded": 1909,
+    "logo": "https://crests.football-data.org/4.png"
   },
   {
     "id": "team_fc_bayern_munchen",
@@ -725,6 +130,28 @@
     "country": "Germany",
     "founded": 1912,
     "logo": "https://crests.football-data.org/17.png"
+  },
+  {
+    "id": "team_borussia_monchengladbach",
+    "sources": {
+      "football_data": "18"
+    },
+    "name": "Borussia Mönchengladbach",
+    "short_name": "BMG",
+    "country": "Germany",
+    "founded": 1900,
+    "logo": "https://crests.football-data.org/18.png"
+  },
+  {
+    "id": "team_eintracht_frankfurt",
+    "sources": {
+      "football_data": "19"
+    },
+    "name": "Eintracht Frankfurt",
+    "short_name": "SGE",
+    "country": "Germany",
+    "founded": 1899,
+    "logo": "https://crests.football-data.org/19.png"
   },
   {
     "id": "team_1_fc_union_berlin",
@@ -846,6 +273,17 @@
     "country": "Spain",
     "founded": 1899,
     "logo": "https://crests.football-data.org/81.png"
+  },
+  {
+    "id": "team_real_madrid",
+    "sources": {
+      "football_data": "86"
+    },
+    "name": "Real Madrid CF",
+    "short_name": "RMA",
+    "country": "Spain",
+    "founded": 1902,
+    "logo": "https://crests.football-data.org/86.png"
   },
   {
     "id": "team_real_betis_balompie",
@@ -1375,6 +813,17 @@
     "logo": "https://crests.football-data.org/95.png"
   },
   {
+    "id": "team_deportivo_alaves",
+    "sources": {
+      "football_data": "263"
+    },
+    "name": "Deportivo Alavés",
+    "short_name": "ALA",
+    "country": "Spain",
+    "founded": 1921,
+    "logo": "https://crests.football-data.org/263.png"
+  },
+  {
     "id": "team_elche_cf",
     "sources": {
       "football_data": "285"
@@ -1593,6 +1042,17 @@
     "country": "England",
     "founded": 1883,
     "logo": "https://crests.football-data.org/1076.png"
+  },
+  {
+    "id": "team_ac_milan",
+    "sources": {
+      "football_data": "98"
+    },
+    "name": "AC Milan",
+    "short_name": "MIL",
+    "country": "Italy",
+    "founded": 1899,
+    "logo": "https://crests.football-data.org/98.png"
   },
   {
     "id": "team_acf_fiorentina",
