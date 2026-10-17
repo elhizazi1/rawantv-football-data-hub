@@ -816,13 +816,13 @@
     "away_team": "team_1_fc_koln",
     "stadium_id": null,
     "date": "2026-10-16T18:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_benjamin_brand",
     "sources": {
       "football_data": "565828"
     }
@@ -9078,13 +9078,13 @@
     "away_team": "team_toulouse_fc",
     "stadium_id": null,
     "date": "2026-10-16T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 3
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_aurelien_petit",
     "sources": {
       "football_data": "559661"
     }
@@ -15036,13 +15036,13 @@
     "away_team": "team_levante_ud",
     "stadium_id": null,
     "date": "2026-10-16T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_manuel_orellana_cid",
     "sources": {
       "football_data": "564716"
     }
@@ -28374,13 +28374,13 @@
     "away_team": "team_us_sassuolo_calcio",
     "stadium_id": null,
     "date": "2026-10-16T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 4,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_matteo_marchetti",
     "sources": {
       "football_data": "558573"
     }
