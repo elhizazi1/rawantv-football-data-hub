@@ -834,7 +834,7 @@
     "away_team": "team_borussia_dortmund",
     "stadium_id": null,
     "date": "2026-10-17T13:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
@@ -852,9 +852,9 @@
     "away_team": "team_vfb_stuttgart",
     "stadium_id": null,
     "date": "2026-10-17T13:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
@@ -870,9 +870,9 @@
     "away_team": "team_sc_paderborn_07",
     "stadium_id": null,
     "date": "2026-10-17T13:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 2
     },
     "events": [],
@@ -888,10 +888,10 @@
     "away_team": "team_fc_augsburg",
     "stadium_id": null,
     "date": "2026-10-17T13:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 3,
-      "away": 1
+      "home": 4,
+      "away": 3
     },
     "events": [],
     "referee_id": "ref_florian_exner",
@@ -906,7 +906,7 @@
     "away_team": "team_1_fsv_mainz_05",
     "stadium_id": null,
     "date": "2026-10-17T13:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 1
@@ -924,10 +924,10 @@
     "away_team": "team_rb_leipzig",
     "stadium_id": null,
     "date": "2026-10-17T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 6,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_tobias_stieler",
@@ -9096,10 +9096,10 @@
     "away_team": "team_paris_saint_germain_fc",
     "stadium_id": null,
     "date": "2026-10-17T15:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 3
     },
     "events": [],
     "referee_id": "ref_willy_delajod",
@@ -9114,13 +9114,13 @@
     "away_team": "team_racing_club_de_lens",
     "stadium_id": null,
     "date": "2026-10-17T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 3
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_hakim_ben_el_hadj_salem",
     "sources": {
       "football_data": "559659"
     }
@@ -9132,13 +9132,13 @@
     "away_team": "team_stade_brestois_29",
     "stadium_id": null,
     "date": "2026-10-17T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_clement_turpin",
     "sources": {
       "football_data": "559660"
     }
@@ -15072,7 +15072,7 @@
     "away_team": "team_elche_cf",
     "stadium_id": null,
     "date": "2026-10-17T14:15:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
@@ -15090,10 +15090,10 @@
     "away_team": "team_barcelona",
     "stadium_id": null,
     "date": "2026-10-17T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 5
     },
     "events": [],
     "referee_id": "ref_ricardo_de_burgos",
@@ -15108,13 +15108,13 @@
     "away_team": "team_athletic_club",
     "stadium_id": null,
     "date": "2026-10-17T19:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_adrian_cordero_vega",
     "sources": {
       "football_data": "564711"
     }
@@ -21552,9 +21552,9 @@
     "away_team": "team_hull_city_afc",
     "stadium_id": null,
     "date": "2026-10-17T14:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
@@ -21570,10 +21570,10 @@
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
     "date": "2026-10-17T14:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 1,
-      "away": 1
+      "home": 3,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_farai_hallam",
@@ -21588,10 +21588,10 @@
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
     "date": "2026-10-17T14:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_john_brooks",
@@ -21606,10 +21606,10 @@
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
     "date": "2026-10-17T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_jarred_gillett",
@@ -28392,7 +28392,7 @@
     "away_team": "team_ssc_napoli",
     "stadium_id": null,
     "date": "2026-10-17T13:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 1,
       "away": 0
@@ -28410,10 +28410,10 @@
     "away_team": "team_fc_internazionale_milano",
     "stadium_id": null,
     "date": "2026-10-17T16:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 3
     },
     "events": [],
     "referee_id": "ref_daniele_doveri",
@@ -28428,13 +28428,13 @@
     "away_team": "team_genoa_cfc",
     "stadium_id": null,
     "date": "2026-10-17T18:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_rosario_abisso",
     "sources": {
       "football_data": "558572"
     }
