@@ -15204,7 +15204,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jon_gonzalez_esteban",
     "sources": {
       "football_data": "564717"
     }
@@ -21702,7 +21702,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_andy_madley",
     "sources": {
       "football_data": "560606"
     }
@@ -28518,13 +28518,13 @@
     "away_team": "team_cagliari_calcio",
     "stadium_id": null,
     "date": "2026-10-19T16:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_andrea_calzavara",
     "sources": {
       "football_data": "558576"
     }
@@ -28542,7 +28542,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_giovanni_ayroldi",
     "sources": {
       "football_data": "558578"
     }
