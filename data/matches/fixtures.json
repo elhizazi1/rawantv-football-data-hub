@@ -996,13 +996,13 @@
     "away_team": "team_sv_werder_bremen",
     "stadium_id": null,
     "date": "2026-10-24T13:30:00Z",
-    "status": "live",
+    "status": "scheduled",
     "score": {
-      "home": 2,
-      "away": 3
+      "home": 0,
+      "away": 0
     },
     "events": [],
-    "referee_id": "ref_florian_badstubner",
+    "referee_id": null,
     "sources": {
       "football_data": "565830"
     }
@@ -1014,13 +1014,13 @@
     "away_team": "team_fc_schalke_04",
     "stadium_id": null,
     "date": "2026-10-24T13:30:00Z",
-    "status": "live",
+    "status": "scheduled",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": "ref_harm_osmers",
+    "referee_id": null,
     "sources": {
       "football_data": "565831"
     }
@@ -1034,11 +1034,11 @@
     "date": "2026-10-24T13:30:00Z",
     "status": "live",
     "score": {
-      "home": 2,
+      "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": "ref_bastian_dankert",
+    "referee_id": null,
     "sources": {
       "football_data": "565832"
     }
@@ -1050,13 +1050,13 @@
     "away_team": "team_hamburger_sv",
     "stadium_id": null,
     "date": "2026-10-24T13:30:00Z",
-    "status": "live",
+    "status": "scheduled",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": "ref_martin_petersen",
+    "referee_id": null,
     "sources": {
       "football_data": "565834"
     }
@@ -1068,13 +1068,13 @@
     "away_team": "team_1_fc_union_berlin",
     "stadium_id": null,
     "date": "2026-10-24T13:30:00Z",
-    "status": "live",
+    "status": "scheduled",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": "ref_robin_braun",
+    "referee_id": null,
     "sources": {
       "football_data": "565838"
     }
@@ -1086,13 +1086,13 @@
     "away_team": "team_eintracht_frankfurt",
     "stadium_id": null,
     "date": "2026-10-24T16:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": "ref_sven_jablonski",
+    "referee_id": null,
     "sources": {
       "football_data": "565837"
     }
@@ -9258,7 +9258,7 @@
     "away_team": "team_paris_fc",
     "stadium_id": null,
     "date": "2026-10-24T18:45:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
       "away": 0
@@ -15252,7 +15252,7 @@
     "away_team": "team_elche_cf",
     "stadium_id": null,
     "date": "2026-10-24T12:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
       "away": 0
@@ -21732,7 +21732,7 @@
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
     "date": "2026-10-24T11:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
       "away": 0
