@@ -1104,9 +1104,9 @@
     "away_team": "team_bayer_04_leverkusen",
     "stadium_id": null,
     "date": "2026-10-25T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 3,
       "away": 0
     },
     "events": [],
@@ -1122,10 +1122,10 @@
     "away_team": "team_fc_bayern_munchen",
     "stadium_id": null,
     "date": "2026-10-25T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 3
     },
     "events": [],
     "referee_id": "ref_felix_zwayer",
@@ -9276,10 +9276,10 @@
     "away_team": "team_lille_osc",
     "stadium_id": null,
     "date": "2026-10-25T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_francois_letexier",
@@ -9294,10 +9294,10 @@
     "away_team": "team_le_havre_ac",
     "stadium_id": null,
     "date": "2026-10-25T16:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 4,
+      "away": 3
     },
     "events": [],
     "referee_id": "ref_clement_turpin",
@@ -9312,9 +9312,9 @@
     "away_team": "team_rc_strasbourg_alsace",
     "stadium_id": null,
     "date": "2026-10-25T16:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 3,
       "away": 0
     },
     "events": [],
@@ -9330,7 +9330,7 @@
     "away_team": "team_fc_lorient",
     "stadium_id": null,
     "date": "2026-10-25T16:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
@@ -9348,7 +9348,7 @@
     "away_team": "team_es_troyes_ac",
     "stadium_id": null,
     "date": "2026-10-25T16:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
@@ -9366,10 +9366,10 @@
     "away_team": "team_le_mans_fc",
     "stadium_id": null,
     "date": "2026-10-25T16:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_willy_delajod",
@@ -9390,7 +9390,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jerome_brisard",
     "sources": {
       "football_data": "559648"
     }
@@ -15324,9 +15324,9 @@
     "away_team": "team_getafe_cf",
     "stadium_id": null,
     "date": "2026-10-25T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 4,
       "away": 0
     },
     "events": [],
@@ -15342,7 +15342,7 @@
     "away_team": "team_real_betis_balompie",
     "stadium_id": null,
     "date": "2026-10-25T15:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
@@ -15360,10 +15360,10 @@
     "away_team": "team_levante_ud",
     "stadium_id": null,
     "date": "2026-10-25T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_javier_alberola_rojas",
@@ -15378,10 +15378,10 @@
     "away_team": "team_real_madrid",
     "stadium_id": null,
     "date": "2026-10-25T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_juan_martinez_munuera",
@@ -21804,9 +21804,9 @@
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
     "date": "2026-10-25T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
@@ -21822,10 +21822,10 @@
     "away_team": "team_newcastle_united_fc",
     "stadium_id": null,
     "date": "2026-10-25T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_paul_tierney",
@@ -21840,10 +21840,10 @@
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
     "date": "2026-10-25T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 3
     },
     "events": [],
     "referee_id": "ref_jarred_gillett",
@@ -21858,10 +21858,10 @@
     "away_team": "team_brentford_fc",
     "stadium_id": null,
     "date": "2026-10-25T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_robert_jones",
@@ -21876,7 +21876,7 @@
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
     "date": "2026-10-25T16:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
