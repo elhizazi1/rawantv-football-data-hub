@@ -9384,9 +9384,9 @@
     "away_team": "team_olympique_lyonnais",
     "stadium_id": null,
     "date": "2026-10-26T19:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
@@ -15396,13 +15396,13 @@
     "away_team": "team_ca_osasuna",
     "stadium_id": null,
     "date": "2026-10-26T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_miguel_ortiz_arias",
     "sources": {
       "football_data": "564721"
     }
@@ -28644,10 +28644,10 @@
     "away_team": "team_acf_fiorentina",
     "stadium_id": null,
     "date": "2026-10-25T11:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_maurizio_mariani",
@@ -28662,10 +28662,10 @@
     "away_team": "team_frosinone_calcio",
     "stadium_id": null,
     "date": "2026-10-25T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 4,
+      "away": 4
     },
     "events": [],
     "referee_id": "ref_livio_marinelli",
@@ -28680,9 +28680,9 @@
     "away_team": "team_venezia_fc",
     "stadium_id": null,
     "date": "2026-10-25T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
@@ -28698,10 +28698,10 @@
     "away_team": "team_juventus_fc",
     "stadium_id": null,
     "date": "2026-10-25T17:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_fabio_maresca",
@@ -28716,10 +28716,10 @@
     "away_team": "team_ac_milan",
     "stadium_id": null,
     "date": "2026-10-25T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_matteo_marcenaro",

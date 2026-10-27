@@ -611,6 +611,17 @@
     "table": [
       {
         "position": 1,
+        "team_id": "team_paris_saint_germain_fc",
+        "played": 8,
+        "won": 5,
+        "drawn": 2,
+        "lost": 1,
+        "goals_for": 16,
+        "goals_against": 9,
+        "points": 17
+      },
+      {
+        "position": 2,
         "team_id": "team_stade_rennais_fc_1901",
         "played": 8,
         "won": 5,
@@ -621,7 +632,7 @@
         "points": 16
       },
       {
-        "position": 2,
+        "position": 3,
         "team_id": "team_lille_osc",
         "played": 8,
         "won": 4,
@@ -632,7 +643,7 @@
         "points": 15
       },
       {
-        "position": 3,
+        "position": 4,
         "team_id": "team_as_monaco_fc",
         "played": 8,
         "won": 4,
@@ -643,25 +654,14 @@
         "points": 15
       },
       {
-        "position": 4,
-        "team_id": "team_olympique_lyonnais",
-        "played": 7,
-        "won": 4,
-        "drawn": 2,
-        "lost": 1,
-        "goals_for": 13,
-        "goals_against": 5,
-        "points": 14
-      },
-      {
         "position": 5,
-        "team_id": "team_paris_saint_germain_fc",
-        "played": 7,
+        "team_id": "team_olympique_lyonnais",
+        "played": 8,
         "won": 4,
         "drawn": 2,
-        "lost": 1,
-        "goals_for": 14,
-        "goals_against": 9,
+        "lost": 2,
+        "goals_for": 13,
+        "goals_against": 7,
         "points": 14
       },
       {
@@ -871,13 +871,13 @@
       {
         "position": 6,
         "team_id": "team_sevilla_fc",
-        "played": 9,
-        "won": 4,
+        "played": 10,
+        "won": 5,
         "drawn": 2,
         "lost": 3,
-        "goals_for": 14,
+        "goals_for": 16,
         "goals_against": 16,
-        "points": 14
+        "points": 17
       },
       {
         "position": 7,
@@ -937,12 +937,12 @@
       {
         "position": 12,
         "team_id": "team_ca_osasuna",
-        "played": 9,
+        "played": 10,
         "won": 3,
         "drawn": 2,
-        "lost": 4,
+        "lost": 5,
         "goals_for": 10,
-        "goals_against": 18,
+        "goals_against": 20,
         "points": 11
       },
       {
