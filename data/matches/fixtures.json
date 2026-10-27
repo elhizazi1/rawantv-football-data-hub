@@ -9414,6 +9414,24 @@
     }
   },
   {
+    "id": "match_2026_0575",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_ogc_nice",
+    "away_team": "team_stade_rennais_fc_1901",
+    "stadium_id": null,
+    "date": "2026-10-30T18:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559646"
+    }
+  },
+  {
     "id": "match_2026_0568",
     "competition_id": "competition_ligue_1_2026",
     "home_team": "team_lille_osc",
@@ -9429,60 +9447,6 @@
     "referee_id": null,
     "sources": {
       "football_data": "559639"
-    }
-  },
-  {
-    "id": "match_2026_0575",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_ogc_nice",
-    "away_team": "team_stade_rennais_fc_1901",
-    "stadium_id": null,
-    "date": "2026-10-31T16:15:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559646"
-    }
-  },
-  {
-    "id": "match_2026_0569",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_olympique_lyonnais",
-    "away_team": "team_angers_sco",
-    "stadium_id": null,
-    "date": "2026-10-31T19:45:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559640"
-    }
-  },
-  {
-    "id": "match_2026_0570",
-    "competition_id": "competition_ligue_1_2026",
-    "home_team": "team_fc_lorient",
-    "away_team": "team_stade_brestois_29",
-    "stadium_id": null,
-    "date": "2026-10-31T19:45:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "559641"
     }
   },
   {
@@ -9522,6 +9486,24 @@
     }
   },
   {
+    "id": "match_2026_0569",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_olympique_lyonnais",
+    "away_team": "team_angers_sco",
+    "stadium_id": null,
+    "date": "2026-11-01T16:15:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559640"
+    }
+  },
+  {
     "id": "match_2026_0571",
     "competition_id": "competition_ligue_1_2026",
     "home_team": "team_paris_fc",
@@ -9555,6 +9537,24 @@
     "referee_id": null,
     "sources": {
       "football_data": "559645"
+    }
+  },
+  {
+    "id": "match_2026_0570",
+    "competition_id": "competition_ligue_1_2026",
+    "home_team": "team_fc_lorient",
+    "away_team": "team_stade_brestois_29",
+    "stadium_id": null,
+    "date": "2026-11-02T19:45:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "559641"
     }
   },
   {
@@ -28740,7 +28740,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_luca_zufferli",
     "sources": {
       "football_data": "558556"
     }
