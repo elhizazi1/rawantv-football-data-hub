@@ -28734,10 +28734,10 @@
     "away_team": "team_ss_lazio",
     "stadium_id": null,
     "date": "2026-10-27T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 6
     },
     "events": [],
     "referee_id": "ref_luca_zufferli",
@@ -28752,13 +28752,13 @@
     "away_team": "team_cagliari_calcio",
     "stadium_id": null,
     "date": "2026-10-27T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 4,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_ermanno_feliciani",
     "sources": {
       "football_data": "558555"
     }
@@ -28770,13 +28770,13 @@
     "away_team": "team_como_1907",
     "stadium_id": null,
     "date": "2026-10-27T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 3
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_giuseppe_collu",
     "sources": {
       "football_data": "558557"
     }
