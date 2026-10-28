@@ -1279,13 +1279,13 @@
       {
         "position": 2,
         "team_id": "team_fc_internazionale_milano",
-        "played": 8,
+        "played": 9,
         "won": 7,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 0,
         "goals_for": 23,
         "goals_against": 10,
-        "points": 22
+        "points": 23
       },
       {
         "position": 3,
@@ -1312,13 +1312,13 @@
       {
         "position": 5,
         "team_id": "team_ac_milan",
-        "played": 8,
+        "played": 9,
         "won": 5,
-        "drawn": 3,
+        "drawn": 4,
         "lost": 0,
         "goals_for": 16,
         "goals_against": 7,
-        "points": 18
+        "points": 19
       },
       {
         "position": 6,
@@ -1388,6 +1388,17 @@
       },
       {
         "position": 12,
+        "team_id": "team_bologna_fc_1909",
+        "played": 9,
+        "won": 2,
+        "drawn": 3,
+        "lost": 4,
+        "goals_for": 8,
+        "goals_against": 10,
+        "points": 9
+      },
+      {
+        "position": 13,
         "team_id": "team_us_lecce",
         "played": 8,
         "won": 3,
@@ -1396,17 +1407,6 @@
         "goals_for": 9,
         "goals_against": 14,
         "points": 9
-      },
-      {
-        "position": 13,
-        "team_id": "team_bologna_fc_1909",
-        "played": 8,
-        "won": 2,
-        "drawn": 2,
-        "lost": 4,
-        "goals_for": 8,
-        "goals_against": 10,
-        "points": 8
       },
       {
         "position": 14,
@@ -1444,16 +1444,27 @@
       {
         "position": 17,
         "team_id": "team_udinese_calcio",
-        "played": 8,
+        "played": 9,
         "won": 1,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 6,
         "goals_for": 9,
         "goals_against": 18,
-        "points": 4
+        "points": 5
       },
       {
         "position": 18,
+        "team_id": "team_parma_calcio_1913",
+        "played": 9,
+        "won": 1,
+        "drawn": 2,
+        "lost": 6,
+        "goals_for": 5,
+        "goals_against": 15,
+        "points": 5
+      },
+      {
+        "position": 19,
         "team_id": "team_acf_fiorentina",
         "played": 8,
         "won": 1,
@@ -1464,26 +1475,15 @@
         "points": 4
       },
       {
-        "position": 19,
-        "team_id": "team_parma_calcio_1913",
-        "played": 8,
-        "won": 1,
-        "drawn": 1,
-        "lost": 6,
-        "goals_for": 5,
-        "goals_against": 15,
-        "points": 4
-      },
-      {
         "position": 20,
         "team_id": "team_venezia_fc",
-        "played": 8,
+        "played": 9,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 7,
         "goals_for": 6,
         "goals_against": 17,
-        "points": 3
+        "points": 4
       }
     ]
   }

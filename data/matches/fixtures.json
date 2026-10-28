@@ -28788,13 +28788,13 @@
     "away_team": "team_bologna_fc_1909",
     "stadium_id": null,
     "date": "2026-10-28T17:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_juan_luca_sacchi",
     "sources": {
       "football_data": "558549"
     }
@@ -28806,13 +28806,13 @@
     "away_team": "team_fc_internazionale_milano",
     "stadium_id": null,
     "date": "2026-10-28T17:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_luca_pairetto",
     "sources": {
       "football_data": "558550"
     }
@@ -28824,13 +28824,13 @@
     "away_team": "team_udinese_calcio",
     "stadium_id": null,
     "date": "2026-10-28T17:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_davide_massa",
     "sources": {
       "football_data": "558553"
     }
