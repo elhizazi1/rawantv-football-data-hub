@@ -28788,10 +28788,10 @@
     "away_team": "team_bologna_fc_1909",
     "stadium_id": null,
     "date": "2026-10-28T17:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 4
     },
     "events": [],
     "referee_id": "ref_juan_luca_sacchi",
@@ -28806,10 +28806,10 @@
     "away_team": "team_fc_internazionale_milano",
     "stadium_id": null,
     "date": "2026-10-28T17:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_luca_pairetto",
@@ -28824,7 +28824,7 @@
     "away_team": "team_udinese_calcio",
     "stadium_id": null,
     "date": "2026-10-28T17:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
@@ -28842,13 +28842,13 @@
     "away_team": "team_juventus_fc",
     "stadium_id": null,
     "date": "2026-10-28T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_daniele_doveri",
     "sources": {
       "football_data": "558552"
     }
@@ -28860,13 +28860,13 @@
     "away_team": "team_ssc_napoli",
     "stadium_id": null,
     "date": "2026-10-28T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 4
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_giovanni_ayroldi",
     "sources": {
       "football_data": "558554"
     }
