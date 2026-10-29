@@ -28878,13 +28878,13 @@
     "away_team": "team_us_lecce",
     "stadium_id": null,
     "date": "2026-10-29T17:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_rosario_abisso",
     "sources": {
       "football_data": "558558"
     }
@@ -28902,7 +28902,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_federico_la_penna",
     "sources": {
       "football_data": "558551"
     }

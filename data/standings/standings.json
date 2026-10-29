@@ -1322,6 +1322,17 @@
       },
       {
         "position": 6,
+        "team_id": "team_frosinone_calcio",
+        "played": 9,
+        "won": 4,
+        "drawn": 3,
+        "lost": 2,
+        "goals_for": 17,
+        "goals_against": 13,
+        "points": 15
+      },
+      {
+        "position": 7,
         "team_id": "team_ssc_napoli",
         "played": 9,
         "won": 4,
@@ -1329,17 +1340,6 @@
         "lost": 3,
         "goals_for": 17,
         "goals_against": 11,
-        "points": 14
-      },
-      {
-        "position": 7,
-        "team_id": "team_frosinone_calcio",
-        "played": 8,
-        "won": 4,
-        "drawn": 2,
-        "lost": 2,
-        "goals_for": 17,
-        "goals_against": 13,
         "points": 14
       },
       {
@@ -1399,6 +1399,17 @@
       },
       {
         "position": 13,
+        "team_id": "team_us_lecce",
+        "played": 9,
+        "won": 3,
+        "drawn": 1,
+        "lost": 5,
+        "goals_for": 9,
+        "goals_against": 14,
+        "points": 10
+      },
+      {
+        "position": 14,
         "team_id": "team_genoa_cfc",
         "played": 9,
         "won": 3,
@@ -1407,17 +1418,6 @@
         "goals_for": 8,
         "goals_against": 13,
         "points": 10
-      },
-      {
-        "position": 14,
-        "team_id": "team_us_lecce",
-        "played": 8,
-        "won": 3,
-        "drawn": 0,
-        "lost": 5,
-        "goals_for": 9,
-        "goals_against": 14,
-        "points": 9
       },
       {
         "position": 15,
