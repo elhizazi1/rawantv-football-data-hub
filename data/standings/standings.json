@@ -1324,12 +1324,12 @@
         "position": 6,
         "team_id": "team_frosinone_calcio",
         "played": 9,
-        "won": 4,
-        "drawn": 3,
+        "won": 5,
+        "drawn": 2,
         "lost": 2,
-        "goals_for": 17,
-        "goals_against": 13,
-        "points": 15
+        "goals_for": 22,
+        "goals_against": 14,
+        "points": 17
       },
       {
         "position": 7,
@@ -1389,27 +1389,16 @@
       {
         "position": 12,
         "team_id": "team_atalanta_bc",
-        "played": 8,
+        "played": 9,
         "won": 3,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 4,
-        "goals_for": 14,
-        "goals_against": 15,
-        "points": 10
+        "goals_for": 16,
+        "goals_against": 17,
+        "points": 11
       },
       {
         "position": 13,
-        "team_id": "team_us_lecce",
-        "played": 9,
-        "won": 3,
-        "drawn": 1,
-        "lost": 5,
-        "goals_for": 9,
-        "goals_against": 14,
-        "points": 10
-      },
-      {
-        "position": 14,
         "team_id": "team_genoa_cfc",
         "played": 9,
         "won": 3,
@@ -1418,6 +1407,17 @@
         "goals_for": 8,
         "goals_against": 13,
         "points": 10
+      },
+      {
+        "position": 14,
+        "team_id": "team_us_lecce",
+        "played": 9,
+        "won": 3,
+        "drawn": 0,
+        "lost": 6,
+        "goals_for": 10,
+        "goals_against": 19,
+        "points": 9
       },
       {
         "position": 15,
@@ -1454,6 +1454,17 @@
       },
       {
         "position": 18,
+        "team_id": "team_acf_fiorentina",
+        "played": 9,
+        "won": 1,
+        "drawn": 2,
+        "lost": 6,
+        "goals_for": 11,
+        "goals_against": 21,
+        "points": 5
+      },
+      {
+        "position": 19,
         "team_id": "team_parma_calcio_1913",
         "played": 9,
         "won": 1,
@@ -1462,17 +1473,6 @@
         "goals_for": 5,
         "goals_against": 15,
         "points": 5
-      },
-      {
-        "position": 19,
-        "team_id": "team_acf_fiorentina",
-        "played": 8,
-        "won": 1,
-        "drawn": 1,
-        "lost": 6,
-        "goals_for": 9,
-        "goals_against": 19,
-        "points": 4
       },
       {
         "position": 20,
