@@ -9408,7 +9408,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_francois_letexier",
     "sources": {
       "football_data": "559644"
     }
@@ -9426,7 +9426,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_eric_wattellier",
     "sources": {
       "football_data": "559646"
     }
@@ -14868,24 +14868,6 @@
     }
   },
   {
-    "id": "match_2026_0872",
-    "competition_id": "competition_primera_division_2026",
-    "home_team": "team_rayo_vallecano_de_madrid",
-    "away_team": "team_athletic_club",
-    "stadium_id": null,
-    "date": "2026-10-10T12:00:00Z",
-    "status": "cancelled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": "ref_jose_sanchez_martinez",
-    "sources": {
-      "football_data": "564698"
-    }
-  },
-  {
     "id": "match_2026_0873",
     "competition_id": "competition_primera_division_2026",
     "home_team": "team_deportivo_alaves",
@@ -16305,6 +16287,24 @@
     "referee_id": null,
     "sources": {
       "football_data": "564777"
+    }
+  },
+  {
+    "id": "match_2026_0872",
+    "competition_id": "competition_primera_division_2026",
+    "home_team": "team_rayo_vallecano_de_madrid",
+    "away_team": "team_athletic_club",
+    "stadium_id": null,
+    "date": "2026-12-09T19:00:00Z",
+    "status": "cancelled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": "ref_jose_sanchez_martinez",
+    "sources": {
+      "football_data": "564698"
     }
   },
   {
