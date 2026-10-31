@@ -1140,13 +1140,13 @@
     "away_team": "team_1_fsv_mainz_05",
     "stadium_id": null,
     "date": "2026-10-30T19:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 4,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_sascha_stegemann",
     "sources": {
       "football_data": "565846"
     }
@@ -9402,10 +9402,10 @@
     "away_team": "team_paris_saint_germain_fc",
     "stadium_id": null,
     "date": "2026-10-30T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 5
     },
     "events": [],
     "referee_id": "ref_francois_letexier",
@@ -9420,10 +9420,10 @@
     "away_team": "team_stade_rennais_fc_1901",
     "stadium_id": null,
     "date": "2026-10-30T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 5,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_eric_wattellier",
@@ -9438,13 +9438,13 @@
     "away_team": "team_racing_club_de_lens",
     "stadium_id": null,
     "date": "2026-10-30T20:05:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jerome_brisard",
     "sources": {
       "football_data": "559639"
     }
@@ -15396,13 +15396,13 @@
     "away_team": "team_rcd_espanyol_de_barcelona",
     "stadium_id": null,
     "date": "2026-10-30T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jose_sanchez_martinez",
     "sources": {
       "football_data": "564737"
     }

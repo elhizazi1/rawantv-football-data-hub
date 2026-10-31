@@ -49,6 +49,17 @@
       },
       {
         "position": 5,
+        "team_id": "team_sv_07_elversberg",
+        "played": 8,
+        "won": 4,
+        "drawn": 1,
+        "lost": 3,
+        "goals_for": 16,
+        "goals_against": 16,
+        "points": 13
+      },
+      {
+        "position": 6,
         "team_id": "team_rb_leipzig",
         "played": 7,
         "won": 4,
@@ -59,7 +70,7 @@
         "points": 12
       },
       {
-        "position": 6,
+        "position": 7,
         "team_id": "team_sv_werder_bremen",
         "played": 7,
         "won": 3,
@@ -70,25 +81,14 @@
         "points": 12
       },
       {
-        "position": 7,
-        "team_id": "team_1_fsv_mainz_05",
-        "played": 7,
-        "won": 3,
-        "drawn": 1,
-        "lost": 3,
-        "goals_for": 16,
-        "goals_against": 13,
-        "points": 10
-      },
-      {
         "position": 8,
-        "team_id": "team_sv_07_elversberg",
-        "played": 7,
+        "team_id": "team_1_fsv_mainz_05",
+        "played": 8,
         "won": 3,
         "drawn": 1,
-        "lost": 3,
-        "goals_for": 12,
-        "goals_against": 15,
+        "lost": 4,
+        "goals_for": 17,
+        "goals_against": 17,
         "points": 10
       },
       {
@@ -612,35 +612,35 @@
       {
         "position": 1,
         "team_id": "team_paris_saint_germain_fc",
-        "played": 8,
-        "won": 5,
+        "played": 9,
+        "won": 6,
         "drawn": 2,
         "lost": 1,
-        "goals_for": 16,
-        "goals_against": 9,
-        "points": 17
+        "goals_for": 21,
+        "goals_against": 10,
+        "points": 20
       },
       {
         "position": 2,
-        "team_id": "team_stade_rennais_fc_1901",
-        "played": 8,
+        "team_id": "team_lille_osc",
+        "played": 9,
         "won": 5,
-        "drawn": 1,
-        "lost": 2,
-        "goals_for": 18,
-        "goals_against": 14,
-        "points": 16
+        "drawn": 3,
+        "lost": 1,
+        "goals_for": 12,
+        "goals_against": 6,
+        "points": 18
       },
       {
         "position": 3,
-        "team_id": "team_lille_osc",
-        "played": 8,
-        "won": 4,
-        "drawn": 3,
-        "lost": 1,
-        "goals_for": 11,
-        "goals_against": 6,
-        "points": 15
+        "team_id": "team_stade_rennais_fc_1901",
+        "played": 9,
+        "won": 5,
+        "drawn": 1,
+        "lost": 3,
+        "goals_for": 20,
+        "goals_against": 19,
+        "points": 16
       },
       {
         "position": 4,
@@ -677,17 +677,28 @@
       },
       {
         "position": 7,
-        "team_id": "team_racing_club_de_lens",
-        "played": 8,
+        "team_id": "team_ogc_nice",
+        "played": 9,
         "won": 4,
-        "drawn": 1,
+        "drawn": 2,
         "lost": 3,
-        "goals_for": 16,
+        "goals_for": 13,
         "goals_against": 12,
-        "points": 13
+        "points": 14
       },
       {
         "position": 8,
+        "team_id": "team_racing_club_de_lens",
+        "played": 9,
+        "won": 4,
+        "drawn": 1,
+        "lost": 4,
+        "goals_for": 16,
+        "goals_against": 13,
+        "points": 13
+      },
+      {
+        "position": 9,
         "team_id": "team_olympique_de_marseille",
         "played": 8,
         "won": 4,
@@ -698,7 +709,7 @@
         "points": 12
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "team_fc_lorient",
         "played": 8,
         "won": 3,
@@ -707,17 +718,6 @@
         "goals_for": 7,
         "goals_against": 6,
         "points": 12
-      },
-      {
-        "position": 10,
-        "team_id": "team_ogc_nice",
-        "played": 8,
-        "won": 3,
-        "drawn": 2,
-        "lost": 3,
-        "goals_for": 8,
-        "goals_against": 10,
-        "points": 11
       },
       {
         "position": 11,
@@ -799,12 +799,12 @@
       {
         "position": 18,
         "team_id": "team_le_havre_ac",
-        "played": 8,
+        "played": 9,
         "won": 0,
         "drawn": 2,
-        "lost": 6,
-        "goals_for": 8,
-        "goals_against": 15,
+        "lost": 7,
+        "goals_for": 9,
+        "goals_against": 20,
         "points": 2
       }
     ]
@@ -915,12 +915,12 @@
       {
         "position": 10,
         "team_id": "team_villarreal_cf",
-        "played": 10,
+        "played": 11,
         "won": 3,
         "drawn": 3,
-        "lost": 4,
+        "lost": 5,
         "goals_for": 15,
-        "goals_against": 14,
+        "goals_against": 15,
         "points": 12
       },
       {
@@ -936,6 +936,17 @@
       },
       {
         "position": 12,
+        "team_id": "team_rcd_espanyol_de_barcelona",
+        "played": 11,
+        "won": 3,
+        "drawn": 2,
+        "lost": 6,
+        "goals_for": 13,
+        "goals_against": 14,
+        "points": 11
+      },
+      {
+        "position": 13,
         "team_id": "team_ca_osasuna",
         "played": 10,
         "won": 3,
@@ -946,7 +957,7 @@
         "points": 11
       },
       {
-        "position": 13,
+        "position": 14,
         "team_id": "team_real_racing_club_de_santander",
         "played": 10,
         "won": 3,
@@ -957,7 +968,7 @@
         "points": 11
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "team_levante_ud",
         "played": 10,
         "won": 2,
@@ -968,7 +979,7 @@
         "points": 10
       },
       {
-        "position": 15,
+        "position": 16,
         "team_id": "team_elche_cf",
         "played": 10,
         "won": 2,
@@ -979,7 +990,7 @@
         "points": 10
       },
       {
-        "position": 16,
+        "position": 17,
         "team_id": "team_rayo_vallecano_de_madrid",
         "played": 9,
         "won": 2,
@@ -990,7 +1001,7 @@
         "points": 9
       },
       {
-        "position": 17,
+        "position": 18,
         "team_id": "team_getafe_cf",
         "played": 10,
         "won": 2,
@@ -999,17 +1010,6 @@
         "goals_for": 5,
         "goals_against": 15,
         "points": 9
-      },
-      {
-        "position": 18,
-        "team_id": "team_rcd_espanyol_de_barcelona",
-        "played": 10,
-        "won": 2,
-        "drawn": 2,
-        "lost": 6,
-        "goals_for": 12,
-        "goals_against": 14,
-        "points": 8
       },
       {
         "position": 19,
