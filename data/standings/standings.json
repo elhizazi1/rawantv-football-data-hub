@@ -28,27 +28,49 @@
       {
         "position": 3,
         "team_id": "team_sc_freiburg",
-        "played": 7,
-        "won": 4,
+        "played": 8,
+        "won": 5,
         "drawn": 1,
         "lost": 2,
-        "goals_for": 16,
-        "goals_against": 9,
-        "points": 13
+        "goals_for": 18,
+        "goals_against": 10,
+        "points": 16
       },
       {
         "position": 4,
-        "team_id": "team_bayer_04_leverkusen",
-        "played": 7,
-        "won": 4,
-        "drawn": 1,
-        "lost": 2,
-        "goals_for": 16,
-        "goals_against": 12,
-        "points": 13
+        "team_id": "team_rb_leipzig",
+        "played": 8,
+        "won": 5,
+        "drawn": 0,
+        "lost": 3,
+        "goals_for": 22,
+        "goals_against": 11,
+        "points": 15
       },
       {
         "position": 5,
+        "team_id": "team_sv_werder_bremen",
+        "played": 8,
+        "won": 4,
+        "drawn": 3,
+        "lost": 1,
+        "goals_for": 17,
+        "goals_against": 14,
+        "points": 15
+      },
+      {
+        "position": 6,
+        "team_id": "team_bayer_04_leverkusen",
+        "played": 8,
+        "won": 4,
+        "drawn": 1,
+        "lost": 3,
+        "goals_for": 18,
+        "goals_against": 16,
+        "points": 13
+      },
+      {
+        "position": 7,
         "team_id": "team_sv_07_elversberg",
         "played": 8,
         "won": 4,
@@ -57,28 +79,6 @@
         "goals_for": 16,
         "goals_against": 16,
         "points": 13
-      },
-      {
-        "position": 6,
-        "team_id": "team_rb_leipzig",
-        "played": 7,
-        "won": 4,
-        "drawn": 0,
-        "lost": 3,
-        "goals_for": 20,
-        "goals_against": 11,
-        "points": 12
-      },
-      {
-        "position": 7,
-        "team_id": "team_sv_werder_bremen",
-        "played": 7,
-        "won": 3,
-        "drawn": 3,
-        "lost": 1,
-        "goals_for": 15,
-        "goals_against": 14,
-        "points": 12
       },
       {
         "position": 8,
@@ -94,27 +94,49 @@
       {
         "position": 9,
         "team_id": "team_fc_augsburg",
-        "played": 7,
+        "played": 8,
         "won": 2,
         "drawn": 3,
-        "lost": 2,
-        "goals_for": 17,
-        "goals_against": 13,
+        "lost": 3,
+        "goals_for": 18,
+        "goals_against": 15,
         "points": 9
       },
       {
         "position": 10,
-        "team_id": "team_tsg_1899_hoffenheim",
-        "played": 7,
+        "team_id": "team_vfb_stuttgart",
+        "played": 8,
         "won": 3,
         "drawn": 0,
-        "lost": 4,
+        "lost": 5,
         "goals_for": 14,
-        "goals_against": 14,
+        "goals_against": 15,
         "points": 9
       },
       {
         "position": 11,
+        "team_id": "team_tsg_1899_hoffenheim",
+        "played": 8,
+        "won": 3,
+        "drawn": 0,
+        "lost": 5,
+        "goals_for": 14,
+        "goals_against": 16,
+        "points": 9
+      },
+      {
+        "position": 12,
+        "team_id": "team_sc_paderborn_07",
+        "played": 8,
+        "won": 2,
+        "drawn": 3,
+        "lost": 3,
+        "goals_for": 6,
+        "goals_against": 9,
+        "points": 9
+      },
+      {
+        "position": 13,
         "team_id": "team_hamburger_sv",
         "played": 7,
         "won": 3,
@@ -125,7 +147,7 @@
         "points": 9
       },
       {
-        "position": 12,
+        "position": 14,
         "team_id": "team_1_fc_koln",
         "played": 7,
         "won": 2,
@@ -136,18 +158,7 @@
         "points": 8
       },
       {
-        "position": 13,
-        "team_id": "team_sc_paderborn_07",
-        "played": 7,
-        "won": 2,
-        "drawn": 2,
-        "lost": 3,
-        "goals_for": 6,
-        "goals_against": 9,
-        "points": 8
-      },
-      {
-        "position": 14,
+        "position": 15,
         "team_id": "team_eintracht_frankfurt",
         "played": 7,
         "won": 2,
@@ -158,25 +169,14 @@
         "points": 8
       },
       {
-        "position": 15,
-        "team_id": "team_vfb_stuttgart",
-        "played": 7,
-        "won": 2,
-        "drawn": 0,
-        "lost": 5,
-        "goals_for": 10,
-        "goals_against": 13,
-        "points": 6
-      },
-      {
         "position": 16,
         "team_id": "team_fc_schalke_04",
-        "played": 7,
+        "played": 8,
         "won": 1,
         "drawn": 3,
-        "lost": 3,
+        "lost": 4,
         "goals_for": 4,
-        "goals_against": 7,
+        "goals_against": 9,
         "points": 6
       },
       {
@@ -193,13 +193,13 @@
       {
         "position": 18,
         "team_id": "team_borussia_monchengladbach",
-        "played": 7,
+        "played": 8,
         "won": 1,
-        "drawn": 0,
+        "drawn": 1,
         "lost": 6,
         "goals_for": 11,
         "goals_against": 22,
-        "points": 3
+        "points": 4
       }
     ]
   },
@@ -815,6 +815,17 @@
     "table": [
       {
         "position": 1,
+        "team_id": "team_club_atletico_de_madrid",
+        "played": 11,
+        "won": 9,
+        "drawn": 1,
+        "lost": 1,
+        "goals_for": 22,
+        "goals_against": 8,
+        "points": 28
+      },
+      {
+        "position": 2,
         "team_id": "team_barcelona",
         "played": 10,
         "won": 9,
@@ -823,17 +834,6 @@
         "goals_for": 40,
         "goals_against": 11,
         "points": 27
-      },
-      {
-        "position": 2,
-        "team_id": "team_club_atletico_de_madrid",
-        "played": 10,
-        "won": 8,
-        "drawn": 1,
-        "lost": 1,
-        "goals_for": 20,
-        "goals_against": 8,
-        "points": 25
       },
       {
         "position": 3,
@@ -904,12 +904,12 @@
       {
         "position": 9,
         "team_id": "team_rc_celta_de_vigo",
-        "played": 10,
+        "played": 11,
         "won": 2,
         "drawn": 6,
-        "lost": 2,
+        "lost": 3,
         "goals_for": 10,
-        "goals_against": 7,
+        "goals_against": 8,
         "points": 12
       },
       {
@@ -925,6 +925,17 @@
       },
       {
         "position": 11,
+        "team_id": "team_rayo_vallecano_de_madrid",
+        "played": 10,
+        "won": 3,
+        "drawn": 3,
+        "lost": 4,
+        "goals_for": 13,
+        "goals_against": 20,
+        "points": 12
+      },
+      {
+        "position": 12,
         "team_id": "team_rc_deportivo_la_coruna",
         "played": 10,
         "won": 2,
@@ -935,7 +946,7 @@
         "points": 11
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "team_rcd_espanyol_de_barcelona",
         "played": 11,
         "won": 3,
@@ -946,7 +957,7 @@
         "points": 11
       },
       {
-        "position": 13,
+        "position": 14,
         "team_id": "team_ca_osasuna",
         "played": 10,
         "won": 3,
@@ -957,7 +968,7 @@
         "points": 11
       },
       {
-        "position": 14,
+        "position": 15,
         "team_id": "team_real_racing_club_de_santander",
         "played": 10,
         "won": 3,
@@ -966,17 +977,6 @@
         "goals_for": 15,
         "goals_against": 26,
         "points": 11
-      },
-      {
-        "position": 15,
-        "team_id": "team_levante_ud",
-        "played": 10,
-        "won": 2,
-        "drawn": 4,
-        "lost": 4,
-        "goals_for": 16,
-        "goals_against": 19,
-        "points": 10
       },
       {
         "position": 16,
@@ -991,14 +991,14 @@
       },
       {
         "position": 17,
-        "team_id": "team_rayo_vallecano_de_madrid",
-        "played": 9,
+        "team_id": "team_levante_ud",
+        "played": 11,
         "won": 2,
-        "drawn": 3,
-        "lost": 4,
-        "goals_for": 12,
-        "goals_against": 20,
-        "points": 9
+        "drawn": 4,
+        "lost": 5,
+        "goals_for": 16,
+        "goals_against": 21,
+        "points": 10
       },
       {
         "position": 18,
@@ -1042,12 +1042,12 @@
       {
         "position": 1,
         "team_id": "team_manchester_city_fc",
-        "played": 8,
+        "played": 9,
         "won": 7,
         "drawn": 0,
-        "lost": 1,
+        "lost": 2,
         "goals_for": 20,
-        "goals_against": 9,
+        "goals_against": 10,
         "points": 21
       },
       {
@@ -1064,16 +1064,27 @@
       {
         "position": 3,
         "team_id": "team_brighton_and_hove_albion_fc",
-        "played": 8,
-        "won": 5,
+        "played": 9,
+        "won": 6,
         "drawn": 1,
         "lost": 2,
-        "goals_for": 23,
+        "goals_for": 24,
         "goals_against": 7,
-        "points": 16
+        "points": 19
       },
       {
         "position": 4,
+        "team_id": "team_chelsea_fc",
+        "played": 9,
+        "won": 5,
+        "drawn": 1,
+        "lost": 3,
+        "goals_for": 19,
+        "goals_against": 15,
+        "points": 16
+      },
+      {
+        "position": 5,
         "team_id": "team_liverpool_fc",
         "played": 8,
         "won": 4,
@@ -1084,40 +1095,51 @@
         "points": 15
       },
       {
-        "position": 5,
-        "team_id": "team_chelsea_fc",
-        "played": 8,
-        "won": 4,
-        "drawn": 1,
-        "lost": 3,
-        "goals_for": 17,
-        "goals_against": 15,
-        "points": 13
-      },
-      {
         "position": 6,
         "team_id": "team_brentford_fc",
-        "played": 8,
-        "won": 2,
+        "played": 9,
+        "won": 3,
         "drawn": 5,
         "lost": 1,
-        "goals_for": 14,
+        "goals_for": 15,
         "goals_against": 9,
-        "points": 11
+        "points": 14
       },
       {
         "position": 7,
-        "team_id": "team_leeds_united_fc",
-        "played": 8,
-        "won": 2,
-        "drawn": 5,
-        "lost": 1,
-        "goals_for": 9,
-        "goals_against": 6,
-        "points": 11
+        "team_id": "team_hull_city_afc",
+        "played": 9,
+        "won": 3,
+        "drawn": 4,
+        "lost": 2,
+        "goals_for": 11,
+        "goals_against": 9,
+        "points": 13
       },
       {
         "position": 8,
+        "team_id": "team_afc_bournemouth",
+        "played": 9,
+        "won": 3,
+        "drawn": 3,
+        "lost": 3,
+        "goals_for": 13,
+        "goals_against": 13,
+        "points": 12
+      },
+      {
+        "position": 9,
+        "team_id": "team_leeds_united_fc",
+        "played": 9,
+        "won": 2,
+        "drawn": 5,
+        "lost": 2,
+        "goals_for": 9,
+        "goals_against": 7,
+        "points": 11
+      },
+      {
+        "position": 10,
         "team_id": "team_newcastle_united_fc",
         "played": 8,
         "won": 3,
@@ -1128,7 +1150,7 @@
         "points": 11
       },
       {
-        "position": 9,
+        "position": 11,
         "team_id": "team_aston_villa_fc",
         "played": 8,
         "won": 3,
@@ -1139,18 +1161,7 @@
         "points": 11
       },
       {
-        "position": 10,
-        "team_id": "team_hull_city_afc",
-        "played": 8,
-        "won": 2,
-        "drawn": 4,
-        "lost": 2,
-        "goals_for": 9,
-        "goals_against": 8,
-        "points": 10
-      },
-      {
-        "position": 11,
+        "position": 12,
         "team_id": "team_everton_fc",
         "played": 8,
         "won": 2,
@@ -1161,26 +1172,15 @@
         "points": 10
       },
       {
-        "position": 12,
+        "position": 13,
         "team_id": "team_ipswich_town_fc",
-        "played": 8,
+        "played": 9,
         "won": 3,
         "drawn": 1,
-        "lost": 4,
-        "goals_for": 12,
-        "goals_against": 16,
+        "lost": 5,
+        "goals_for": 13,
+        "goals_against": 18,
         "points": 10
-      },
-      {
-        "position": 13,
-        "team_id": "team_afc_bournemouth",
-        "played": 8,
-        "won": 2,
-        "drawn": 3,
-        "lost": 3,
-        "goals_for": 12,
-        "goals_against": 13,
-        "points": 9
       },
       {
         "position": 14,
@@ -1195,6 +1195,17 @@
       },
       {
         "position": 15,
+        "team_id": "team_coventry_city_fc",
+        "played": 9,
+        "won": 3,
+        "drawn": 0,
+        "lost": 6,
+        "goals_for": 9,
+        "goals_against": 16,
+        "points": 9
+      },
+      {
+        "position": 16,
         "team_id": "team_fulham_fc",
         "played": 8,
         "won": 2,
@@ -1205,18 +1216,18 @@
         "points": 8
       },
       {
-        "position": 16,
+        "position": 17,
         "team_id": "team_manchester_united",
-        "played": 8,
+        "played": 9,
         "won": 1,
         "drawn": 4,
-        "lost": 3,
+        "lost": 4,
         "goals_for": 10,
-        "goals_against": 13,
+        "goals_against": 15,
         "points": 7
       },
       {
-        "position": 17,
+        "position": 18,
         "team_id": "team_crystal_palace_fc",
         "played": 8,
         "won": 2,
@@ -1227,36 +1238,25 @@
         "points": 7
       },
       {
-        "position": 18,
+        "position": 19,
         "team_id": "team_nottingham_forest_fc",
-        "played": 8,
+        "played": 9,
         "won": 1,
         "drawn": 3,
-        "lost": 4,
+        "lost": 5,
         "goals_for": 6,
-        "goals_against": 10,
-        "points": 6
-      },
-      {
-        "position": 19,
-        "team_id": "team_coventry_city_fc",
-        "played": 8,
-        "won": 2,
-        "drawn": 0,
-        "lost": 6,
-        "goals_for": 6,
-        "goals_against": 15,
+        "goals_against": 11,
         "points": 6
       },
       {
         "position": 20,
         "team_id": "team_sunderland_afc",
-        "played": 8,
+        "played": 9,
         "won": 1,
         "drawn": 2,
-        "lost": 5,
-        "goals_for": 6,
-        "goals_against": 14,
+        "lost": 6,
+        "goals_for": 7,
+        "goals_against": 17,
         "points": 5
       }
     ]
@@ -1344,6 +1344,17 @@
       },
       {
         "position": 8,
+        "team_id": "team_bologna_fc_1909",
+        "played": 10,
+        "won": 4,
+        "drawn": 2,
+        "lost": 4,
+        "goals_for": 14,
+        "goals_against": 13,
+        "points": 14
+      },
+      {
+        "position": 9,
         "team_id": "team_juventus_fc",
         "played": 9,
         "won": 4,
@@ -1354,7 +1365,7 @@
         "points": 14
       },
       {
-        "position": 9,
+        "position": 10,
         "team_id": "team_torino_fc",
         "played": 9,
         "won": 4,
@@ -1365,7 +1376,7 @@
         "points": 13
       },
       {
-        "position": 10,
+        "position": 11,
         "team_id": "team_cagliari_calcio",
         "played": 9,
         "won": 4,
@@ -1374,17 +1385,6 @@
         "goals_for": 8,
         "goals_against": 13,
         "points": 13
-      },
-      {
-        "position": 11,
-        "team_id": "team_bologna_fc_1909",
-        "played": 9,
-        "won": 3,
-        "drawn": 2,
-        "lost": 4,
-        "goals_for": 12,
-        "goals_against": 12,
-        "points": 11
       },
       {
         "position": 12,
@@ -1433,12 +1433,12 @@
       {
         "position": 16,
         "team_id": "team_ac_monza",
-        "played": 9,
+        "played": 10,
         "won": 2,
         "drawn": 1,
-        "lost": 6,
-        "goals_for": 16,
-        "goals_against": 22,
+        "lost": 7,
+        "goals_for": 17,
+        "goals_against": 24,
         "points": 7
       },
       {

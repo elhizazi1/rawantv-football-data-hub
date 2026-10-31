@@ -1164,7 +1164,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_timo_gerach",
     "sources": {
       "football_data": "565839"
     }
@@ -1182,7 +1182,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_max_burda",
     "sources": {
       "football_data": "565840"
     }
@@ -1200,7 +1200,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_christian_dingert",
     "sources": {
       "football_data": "565842"
     }
@@ -1218,7 +1218,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_tobias_reichel",
     "sources": {
       "football_data": "565843"
     }
@@ -1236,7 +1236,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_benjamin_brand",
     "sources": {
       "football_data": "565847"
     }
@@ -1254,7 +1254,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_tobias_stieler",
     "sources": {
       "football_data": "565845"
     }
@@ -15402,7 +15402,7 @@
       "away": 1
     },
     "events": [],
-    "referee_id": "ref_jose_sanchez_martinez",
+    "referee_id": "ref_nelson_sanchez",
     "sources": {
       "football_data": "564737"
     }
@@ -15414,13 +15414,13 @@
     "away_team": "team_club_atletico_de_madrid",
     "stadium_id": null,
     "date": "2026-10-31T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_ricardo_de_burgos",
     "sources": {
       "football_data": "564730"
     }
@@ -15432,13 +15432,13 @@
     "away_team": "team_rc_celta_de_vigo",
     "stadium_id": null,
     "date": "2026-10-31T15:15:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_manuel_orellana_cid",
     "sources": {
       "football_data": "564735"
     }
@@ -15456,7 +15456,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_mateo_busquets_ferrer",
     "sources": {
       "football_data": "564736"
     }
@@ -21894,13 +21894,13 @@
     "away_team": "team_manchester_united",
     "stadium_id": null,
     "date": "2026-10-31T12:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_peter_bankes",
     "sources": {
       "football_data": "560626"
     }
@@ -21912,13 +21912,13 @@
     "away_team": "team_brighton_and_hove_albion_fc",
     "stadium_id": null,
     "date": "2026-10-31T15:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_craig_pawson",
     "sources": {
       "football_data": "560623"
     }
@@ -21930,13 +21930,13 @@
     "away_team": "team_leeds_united_fc",
     "stadium_id": null,
     "date": "2026-10-31T15:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_michael_salisbury",
     "sources": {
       "football_data": "560624"
     }
@@ -21948,13 +21948,13 @@
     "away_team": "team_sunderland_afc",
     "stadium_id": null,
     "date": "2026-10-31T15:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_simon_hooper",
     "sources": {
       "football_data": "560625"
     }
@@ -21966,13 +21966,13 @@
     "away_team": "team_ipswich_town_fc",
     "stadium_id": null,
     "date": "2026-10-31T15:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_thomas_kirk",
     "sources": {
       "football_data": "560629"
     }
@@ -21984,13 +21984,13 @@
     "away_team": "team_nottingham_forest_fc",
     "stadium_id": null,
     "date": "2026-10-31T15:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_darren_england",
     "sources": {
       "football_data": "560630"
     }
@@ -22008,7 +22008,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_michael_oliver",
     "sources": {
       "football_data": "560627"
     }
@@ -28914,13 +28914,13 @@
     "away_team": "team_ac_monza",
     "stadium_id": null,
     "date": "2026-10-31T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_andrea_zanotti",
     "sources": {
       "football_data": "558539"
     }
@@ -28938,7 +28938,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_fabio_maresca",
     "sources": {
       "football_data": "558542"
     }
