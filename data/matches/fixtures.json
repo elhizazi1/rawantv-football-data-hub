@@ -1284,9 +1284,9 @@
     "away_team": "team_hamburger_sv",
     "stadium_id": null,
     "date": "2026-11-01T16:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 1,
+      "home": 3,
       "away": 1
     },
     "events": [],
@@ -9492,9 +9492,9 @@
     "away_team": "team_angers_sco",
     "stadium_id": null,
     "date": "2026-11-01T16:15:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 1,
+      "home": 2,
       "away": 0
     },
     "events": [],
@@ -9510,10 +9510,10 @@
     "away_team": "team_as_monaco_fc",
     "stadium_id": null,
     "date": "2026-11-01T16:15:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 2,
-      "away": 0
+      "home": 3,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_jeremy_stinat",
@@ -9528,13 +9528,13 @@
     "away_team": "team_toulouse_fc",
     "stadium_id": null,
     "date": "2026-11-01T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_hakim_ben_el_hadj_salem",
     "sources": {
       "football_data": "559645"
     }
@@ -15522,10 +15522,10 @@
     "away_team": "team_valencia_cf",
     "stadium_id": null,
     "date": "2026-11-01T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_luis_bestard_servera",
@@ -15540,13 +15540,13 @@
     "away_team": "team_real_sociedad_de_futbol",
     "stadium_id": null,
     "date": "2026-11-01T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_alejandro_hernandez_hernandez",
     "sources": {
       "football_data": "564729"
     }
@@ -22038,7 +22038,7 @@
     "away_team": "team_arsenal_fc",
     "stadium_id": null,
     "date": "2026-11-01T16:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 1
@@ -29022,10 +29022,10 @@
     "away_team": "team_genoa_cfc",
     "stadium_id": null,
     "date": "2026-11-01T17:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 1
+      "home": 1,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_matteo_marchetti",
@@ -29040,13 +29040,13 @@
     "away_team": "team_ssc_napoli",
     "stadium_id": null,
     "date": "2026-11-01T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_simone_sozza",
     "sources": {
       "football_data": "558547"
     }
