@@ -6486,13 +6486,13 @@
     "away_team": "team_sporting_clube_de_portugal",
     "stadium_id": null,
     "date": "2026-11-03T17:45:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_ivan_kruzliak",
     "sources": {
       "football_data": "575377"
     }
@@ -6504,13 +6504,13 @@
     "away_team": "team_vfb_stuttgart",
     "stadium_id": null,
     "date": "2026-11-03T17:45:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_chris_kavanagh",
     "sources": {
       "football_data": "575378"
     }
@@ -6528,7 +6528,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_glenn_nyberg",
     "sources": {
       "football_data": "575379"
     }
@@ -6546,7 +6546,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_davide_massa",
     "sources": {
       "football_data": "575380"
     }
@@ -6564,7 +6564,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_francois_letexier",
     "sources": {
       "football_data": "575381"
     }
@@ -6582,7 +6582,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_felix_zwayer",
     "sources": {
       "football_data": "575382"
     }
@@ -6600,7 +6600,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jesus_gil_manzano",
     "sources": {
       "football_data": "575383"
     }
@@ -6618,7 +6618,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_joao_pinheiro",
     "sources": {
       "football_data": "575384"
     }
@@ -6636,7 +6636,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_donatas_rumsas",
     "sources": {
       "football_data": "575385"
     }
