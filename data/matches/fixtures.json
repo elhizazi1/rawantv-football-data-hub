@@ -9546,10 +9546,10 @@
     "away_team": "team_stade_brestois_29",
     "stadium_id": null,
     "date": "2026-11-02T19:45:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_jeremie_pignard",
@@ -15558,9 +15558,9 @@
     "away_team": "team_ca_osasuna",
     "stadium_id": null,
     "date": "2026-11-02T20:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 1
     },
     "events": [],
@@ -22056,10 +22056,10 @@
     "away_team": "team_everton_fc",
     "stadium_id": null,
     "date": "2026-11-02T20:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_john_brooks",
@@ -29076,10 +29076,10 @@
     "away_team": "team_parma_calcio_1913",
     "stadium_id": null,
     "date": "2026-11-02T19:45:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 2
+      "away": 3
     },
     "events": [],
     "referee_id": "ref_valerio_crezzini",
