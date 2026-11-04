@@ -220,6 +220,28 @@
       },
       {
         "position": 2,
+        "team_id": "team_liverpool_fc",
+        "played": 4,
+        "won": 3,
+        "drawn": 1,
+        "lost": 0,
+        "goals_for": 13,
+        "goals_against": 8,
+        "points": 10
+      },
+      {
+        "position": 3,
+        "team_id": "team_real_madrid",
+        "played": 4,
+        "won": 3,
+        "drawn": 1,
+        "lost": 0,
+        "goals_for": 11,
+        "goals_against": 6,
+        "points": 10
+      },
+      {
+        "position": 4,
         "team_id": "team_barcelona",
         "played": 4,
         "won": 3,
@@ -230,7 +252,7 @@
         "points": 9
       },
       {
-        "position": 3,
+        "position": 5,
         "team_id": "team_aston_villa_fc",
         "played": 4,
         "won": 3,
@@ -238,28 +260,6 @@
         "lost": 1,
         "goals_for": 12,
         "goals_against": 6,
-        "points": 9
-      },
-      {
-        "position": 4,
-        "team_id": "team_liverpool_fc",
-        "played": 3,
-        "won": 3,
-        "drawn": 0,
-        "lost": 0,
-        "goals_for": 12,
-        "goals_against": 7,
-        "points": 9
-      },
-      {
-        "position": 5,
-        "team_id": "team_real_madrid",
-        "played": 3,
-        "won": 3,
-        "drawn": 0,
-        "lost": 0,
-        "goals_for": 10,
-        "goals_against": 5,
         "points": 9
       },
       {
@@ -462,6 +462,17 @@
       },
       {
         "position": 24,
+        "team_id": "team_pae_aek",
+        "played": 4,
+        "won": 1,
+        "drawn": 1,
+        "lost": 2,
+        "goals_for": 4,
+        "goals_against": 9,
+        "points": 4
+      },
+      {
+        "position": 25,
         "team_id": "team_ssc_napoli",
         "played": 3,
         "won": 1,
@@ -472,7 +483,7 @@
         "points": 3
       },
       {
-        "position": 25,
+        "position": 26,
         "team_id": "team_sabah_fk",
         "played": 3,
         "won": 1,
@@ -483,7 +494,7 @@
         "points": 3
       },
       {
-        "position": 26,
+        "position": 27,
         "team_id": "team_racing_club_de_lens",
         "played": 3,
         "won": 1,
@@ -494,18 +505,7 @@
         "points": 3
       },
       {
-        "position": 27,
-        "team_id": "team_pae_aek",
-        "played": 3,
-        "won": 1,
-        "drawn": 0,
-        "lost": 2,
-        "goals_for": 3,
-        "goals_against": 8,
-        "points": 3
-      },
-      {
-        "position": 27,
+        "position": 28,
         "team_id": "team_rb_leipzig",
         "played": 3,
         "won": 1,
@@ -528,6 +528,17 @@
       },
       {
         "position": 30,
+        "team_id": "team_fenerbahce_sk",
+        "played": 4,
+        "won": 0,
+        "drawn": 3,
+        "lost": 1,
+        "goals_for": 4,
+        "goals_against": 10,
+        "points": 3
+      },
+      {
+        "position": 31,
         "team_id": "team_feyenoord_rotterdam",
         "played": 4,
         "won": 1,
@@ -536,17 +547,6 @@
         "goals_for": 4,
         "goals_against": 11,
         "points": 3
-      },
-      {
-        "position": 31,
-        "team_id": "team_fenerbahce_sk",
-        "played": 3,
-        "won": 0,
-        "drawn": 2,
-        "lost": 1,
-        "goals_for": 3,
-        "goals_against": 9,
-        "points": 2
       },
       {
         "position": 32,

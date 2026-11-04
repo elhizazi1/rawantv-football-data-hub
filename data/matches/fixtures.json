@@ -6648,13 +6648,13 @@
     "away_team": "team_real_madrid",
     "stadium_id": null,
     "date": "2026-11-04T17:45:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_maurizio_mariani",
     "sources": {
       "football_data": "575386"
     }
@@ -6666,13 +6666,13 @@
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
     "date": "2026-11-04T17:45:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_clement_turpin",
     "sources": {
       "football_data": "575387"
     }
@@ -6690,7 +6690,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_marco_guida",
     "sources": {
       "football_data": "575388"
     }
@@ -6708,7 +6708,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_tobias_stieler",
     "sources": {
       "football_data": "575389"
     }
@@ -6726,7 +6726,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_irfan_peljto",
     "sources": {
       "football_data": "575390"
     }
@@ -6744,7 +6744,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_serdar_gozubuyuk",
     "sources": {
       "football_data": "575391"
     }
@@ -6762,7 +6762,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_michael_oliver",
     "sources": {
       "football_data": "575392"
     }
@@ -6780,7 +6780,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_rohit_saggi",
     "sources": {
       "football_data": "575393"
     }
@@ -6798,7 +6798,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_sander_van_der_eijk",
     "sources": {
       "football_data": "575394"
     }
@@ -23184,24 +23184,6 @@
     }
   },
   {
-    "id": "match_2026_1334",
-    "competition_id": "competition_premier_league_2026",
-    "home_team": "team_nottingham_forest_fc",
-    "away_team": "team_everton_fc",
-    "stadium_id": null,
-    "date": "2026-12-19T15:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "560694"
-    }
-  },
-  {
     "id": "match_2026_1336",
     "competition_id": "competition_premier_league_2026",
     "home_team": "team_manchester_city_fc",
@@ -23271,6 +23253,24 @@
     "referee_id": null,
     "sources": {
       "football_data": "560693"
+    }
+  },
+  {
+    "id": "match_2026_1334",
+    "competition_id": "competition_premier_league_2026",
+    "home_team": "team_nottingham_forest_fc",
+    "away_team": "team_everton_fc",
+    "stadium_id": null,
+    "date": "2026-12-20T14:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "560694"
     }
   },
   {
