@@ -16296,7 +16296,7 @@
     "away_team": "team_athletic_club",
     "stadium_id": null,
     "date": "2026-12-09T19:00:00Z",
-    "status": "scheduled",
+    "status": "cancelled",
     "score": {
       "home": 0,
       "away": 0
