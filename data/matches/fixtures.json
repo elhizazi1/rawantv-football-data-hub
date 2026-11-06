@@ -1308,7 +1308,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_sven_jablonski",
     "sources": {
       "football_data": "565852"
     }
@@ -9570,7 +9570,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_mathieu_vernice",
     "sources": {
       "football_data": "559638"
     }
@@ -15582,7 +15582,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_luis_bestard_servera",
     "sources": {
       "football_data": "564740"
     }
@@ -22080,7 +22080,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_stuart_attwell",
     "sources": {
       "football_data": "560634"
     }
@@ -29100,7 +29100,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_juan_luca_sacchi",
     "sources": {
       "football_data": "558537"
     }
