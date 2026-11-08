@@ -1392,9 +1392,9 @@
     "away_team": "team_sv_werder_bremen",
     "stadium_id": null,
     "date": "2026-11-07T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
@@ -9582,10 +9582,10 @@
     "away_team": "team_paris_fc",
     "stadium_id": null,
     "date": "2026-11-07T18:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_marc_bollengier",
@@ -9600,13 +9600,13 @@
     "away_team": "team_es_troyes_ac",
     "stadium_id": null,
     "date": "2026-11-07T20:05:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_ruddy_buquet",
     "sources": {
       "football_data": "559635"
     }
@@ -15612,7 +15612,7 @@
     "away_team": "team_rc_deportivo_la_coruna",
     "stadium_id": null,
     "date": "2026-11-07T15:15:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
@@ -15630,10 +15630,10 @@
     "away_team": "team_athletic_club",
     "stadium_id": null,
     "date": "2026-11-07T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_miguel_sesma_espinosa",
@@ -15648,13 +15648,13 @@
     "away_team": "team_real_madrid",
     "stadium_id": null,
     "date": "2026-11-07T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 3
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_francisco_hernandez_maeso",
     "sources": {
       "football_data": "564741"
     }
@@ -16107,6 +16107,42 @@
     "referee_id": null,
     "sources": {
       "football_data": "564763"
+    }
+  },
+  {
+    "id": "match_2026_1029",
+    "competition_id": "competition_primera_division_2026",
+    "home_team": "team_real_sociedad_de_futbol",
+    "away_team": "team_real_madrid",
+    "stadium_id": null,
+    "date": "2026-12-02T18:00:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "564855"
+    }
+  },
+  {
+    "id": "match_2026_1031",
+    "competition_id": "competition_primera_division_2026",
+    "home_team": "team_barcelona",
+    "away_team": "team_club_atletico_de_madrid",
+    "stadium_id": null,
+    "date": "2026-12-02T20:30:00Z",
+    "status": "scheduled",
+    "score": {
+      "home": 0,
+      "away": 0
+    },
+    "events": [],
+    "referee_id": null,
+    "sources": {
+      "football_data": "564857"
     }
   },
   {
@@ -17694,24 +17730,6 @@
     }
   },
   {
-    "id": "match_2026_1029",
-    "competition_id": "competition_primera_division_2026",
-    "home_team": "team_real_sociedad_de_futbol",
-    "away_team": "team_real_madrid",
-    "stadium_id": null,
-    "date": "2027-02-07T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "564855"
-    }
-  },
-  {
     "id": "match_2026_1030",
     "competition_id": "competition_primera_division_2026",
     "home_team": "team_valencia_cf",
@@ -17727,24 +17745,6 @@
     "referee_id": null,
     "sources": {
       "football_data": "564856"
-    }
-  },
-  {
-    "id": "match_2026_1031",
-    "competition_id": "competition_primera_division_2026",
-    "home_team": "team_barcelona",
-    "away_team": "team_club_atletico_de_madrid",
-    "stadium_id": null,
-    "date": "2027-02-07T00:00:00Z",
-    "status": "scheduled",
-    "score": {
-      "home": 0,
-      "away": 0
-    },
-    "events": [],
-    "referee_id": null,
-    "sources": {
-      "football_data": "564857"
     }
   },
   {
@@ -22146,10 +22146,10 @@
     "away_team": "team_manchester_city_fc",
     "stadium_id": null,
     "date": "2026-11-07T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 3,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_sam_barrott",
@@ -29148,10 +29148,10 @@
     "away_team": "team_bologna_fc_1909",
     "stadium_id": null,
     "date": "2026-11-07T17:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_luca_zufferli",
@@ -29166,13 +29166,13 @@
     "away_team": "team_us_sassuolo_calcio",
     "stadium_id": null,
     "date": "2026-11-07T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 3,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_marco_di_bello",
     "sources": {
       "football_data": "558531"
     }
