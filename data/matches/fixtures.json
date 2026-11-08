@@ -1410,13 +1410,13 @@
     "away_team": "team_bayer_04_leverkusen",
     "stadium_id": null,
     "date": "2026-11-08T14:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_felix_zwayer",
     "sources": {
       "football_data": "565855"
     }
@@ -1428,13 +1428,13 @@
     "away_team": "team_1_fc_union_berlin",
     "stadium_id": null,
     "date": "2026-11-08T16:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_sascha_stegemann",
     "sources": {
       "football_data": "565854"
     }
@@ -1452,7 +1452,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_martin_petersen",
     "sources": {
       "football_data": "565856"
     }
@@ -9618,13 +9618,13 @@
     "away_team": "team_lille_osc",
     "stadium_id": null,
     "date": "2026-11-08T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_clement_turpin",
     "sources": {
       "football_data": "559636"
     }
@@ -9636,13 +9636,13 @@
     "away_team": "team_as_monaco_fc",
     "stadium_id": null,
     "date": "2026-11-08T16:15:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_bastien_dechepy",
     "sources": {
       "football_data": "559631"
     }
@@ -9654,13 +9654,13 @@
     "away_team": "team_olympique_lyonnais",
     "stadium_id": null,
     "date": "2026-11-08T16:15:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jeremy_stinat",
     "sources": {
       "football_data": "559632"
     }
@@ -9672,13 +9672,13 @@
     "away_team": "team_fc_lorient",
     "stadium_id": null,
     "date": "2026-11-08T16:15:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_aurelien_petit",
     "sources": {
       "football_data": "559633"
     }
@@ -9690,13 +9690,13 @@
     "away_team": "team_ogc_nice",
     "stadium_id": null,
     "date": "2026-11-08T16:15:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_geoffrey_kubler",
     "sources": {
       "football_data": "559634"
     }
@@ -15666,13 +15666,13 @@
     "away_team": "team_real_betis_balompie",
     "stadium_id": null,
     "date": "2026-11-08T13:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_cesar_soto_grado",
     "sources": {
       "football_data": "564738"
     }
@@ -15684,13 +15684,13 @@
     "away_team": "team_rayo_vallecano_de_madrid",
     "stadium_id": null,
     "date": "2026-11-08T15:15:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_juan_martinez_munuera",
     "sources": {
       "football_data": "564743"
     }
@@ -15708,7 +15708,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_miguel_ortiz_arias",
     "sources": {
       "football_data": "564742"
     }
@@ -15726,7 +15726,7 @@
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_carlos_muniz_munoz",
     "sources": {
       "football_data": "564747"
     }
@@ -22164,13 +22164,13 @@
     "away_team": "team_liverpool_fc",
     "stadium_id": null,
     "date": "2026-11-08T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 3
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_tony_harrington",
     "sources": {
       "football_data": "560635"
     }
@@ -22182,13 +22182,13 @@
     "away_team": "team_chelsea_fc",
     "stadium_id": null,
     "date": "2026-11-08T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_jarred_gillett",
     "sources": {
       "football_data": "560636"
     }
@@ -22200,13 +22200,13 @@
     "away_team": "team_afc_bournemouth",
     "stadium_id": null,
     "date": "2026-11-08T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_simon_hooper",
     "sources": {
       "football_data": "560637"
     }
@@ -22218,13 +22218,13 @@
     "away_team": "team_brentford_fc",
     "stadium_id": null,
     "date": "2026-11-08T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_michael_oliver",
     "sources": {
       "football_data": "560638"
     }
@@ -22236,13 +22236,13 @@
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
     "date": "2026-11-08T16:30:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_chris_kavanagh",
     "sources": {
       "football_data": "560639"
     }
@@ -29184,13 +29184,13 @@
     "away_team": "team_ss_lazio",
     "stadium_id": null,
     "date": "2026-11-08T11:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_luca_pairetto",
     "sources": {
       "football_data": "558533"
     }
@@ -29202,13 +29202,13 @@
     "away_team": "team_ac_milan",
     "stadium_id": null,
     "date": "2026-11-08T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_davide_massa",
     "sources": {
       "football_data": "558536"
     }
@@ -29220,13 +29220,13 @@
     "away_team": "team_atalanta_bc",
     "stadium_id": null,
     "date": "2026-11-08T14:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 0
+      "away": 1
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_claudio_allegretta",
     "sources": {
       "football_data": "558538"
     }
@@ -29238,13 +29238,13 @@
     "away_team": "team_como_1907",
     "stadium_id": null,
     "date": "2026-11-08T17:00:00Z",
-    "status": "scheduled",
+    "status": "live",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 0
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_daniele_chiffi",
     "sources": {
       "football_data": "558530"
     }
