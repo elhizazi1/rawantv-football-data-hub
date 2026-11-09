@@ -1428,9 +1428,9 @@
     "away_team": "team_1_fc_union_berlin",
     "stadium_id": null,
     "date": "2026-11-08T16:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
@@ -1446,10 +1446,10 @@
     "away_team": "team_fc_schalke_04",
     "stadium_id": null,
     "date": "2026-11-08T18:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 1
     },
     "events": [],
     "referee_id": "ref_martin_petersen",
@@ -9636,9 +9636,9 @@
     "away_team": "team_as_monaco_fc",
     "stadium_id": null,
     "date": "2026-11-08T16:15:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 1,
       "away": 1
     },
     "events": [],
@@ -9654,9 +9654,9 @@
     "away_team": "team_olympique_lyonnais",
     "stadium_id": null,
     "date": "2026-11-08T16:15:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 1,
+      "home": 2,
       "away": 0
     },
     "events": [],
@@ -9672,10 +9672,10 @@
     "away_team": "team_fc_lorient",
     "stadium_id": null,
     "date": "2026-11-08T16:15:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 1
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_aurelien_petit",
@@ -9690,10 +9690,10 @@
     "away_team": "team_ogc_nice",
     "stadium_id": null,
     "date": "2026-11-08T16:15:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
       "home": 0,
-      "away": 1
+      "away": 2
     },
     "events": [],
     "referee_id": "ref_geoffrey_kubler",
@@ -9708,13 +9708,13 @@
     "away_team": "team_olympique_de_marseille",
     "stadium_id": null,
     "date": "2026-11-08T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_willy_delajod",
     "sources": {
       "football_data": "559630"
     }
@@ -15702,7 +15702,7 @@
     "away_team": "team_levante_ud",
     "stadium_id": null,
     "date": "2026-11-08T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
       "home": 0,
       "away": 0
@@ -15720,9 +15720,9 @@
     "away_team": "team_getafe_cf",
     "stadium_id": null,
     "date": "2026-11-08T17:30:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
+      "home": 2,
       "away": 0
     },
     "events": [],
@@ -15738,13 +15738,13 @@
     "away_team": "team_barcelona",
     "stadium_id": null,
     "date": "2026-11-08T20:00:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 1,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_javier_alberola_rojas",
     "sources": {
       "football_data": "564746"
     }
@@ -22236,10 +22236,10 @@
     "away_team": "team_aston_villa_fc",
     "stadium_id": null,
     "date": "2026-11-08T16:30:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 2,
-      "away": 2
+      "home": 4,
+      "away": 4
     },
     "events": [],
     "referee_id": "ref_chris_kavanagh",
@@ -29238,9 +29238,9 @@
     "away_team": "team_como_1907",
     "stadium_id": null,
     "date": "2026-11-08T17:00:00Z",
-    "status": "live",
+    "status": "finished",
     "score": {
-      "home": 1,
+      "home": 2,
       "away": 0
     },
     "events": [],
@@ -29256,13 +29256,13 @@
     "away_team": "team_juventus_fc",
     "stadium_id": null,
     "date": "2026-11-08T19:45:00Z",
-    "status": "scheduled",
+    "status": "finished",
     "score": {
-      "home": 0,
-      "away": 0
+      "home": 2,
+      "away": 2
     },
     "events": [],
-    "referee_id": null,
+    "referee_id": "ref_andrea_colombo",
     "sources": {
       "football_data": "558529"
     }
